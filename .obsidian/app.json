@@ -1,0 +1,8 @@
+{
+  "spellcheck": true,
+  "readableLineLength": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

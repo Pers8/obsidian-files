@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "919767ca879d0e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1832b5e61cf563",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notions/Marché.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1c609f4672d20cbf",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb01d25eb6a3a2d9",
+            "type": "leaf",
+            "dimension": 63.82978723404256,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notions/Marché.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bdcc664b8cb1700",
+            "type": "leaf",
+            "dimension": 36.17021276595745,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e1ade3f044bb4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3fd3114f78f21d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8228688c203ebc6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d28d6890035e72c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55617e9411175d9c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12478f85602936c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f469b229d214ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2c92536227f2e25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a88f53d3c9162c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4aa638bf3ab4e47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b846b4f06fe90e31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab6a77a21adb2bc7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5bdcc664b8cb1700",
+  "lastOpenFiles": [
+    "Notions/Marché.md",
+    "IB/Economy.md",
+    "IB/Maths.md",
+    "Notions/Demande.md",
+    "IB/Physics.md",
+    "test.md",
+    "IB/French.md",
+    "IB/English.md",
+    "IB/📝Dashboard.md",
+    "IB/Comp Sci.md"
+  ]
+}
