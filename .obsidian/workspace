@@ -9,40 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test.md",
+            "file": "Notions economie/Exemples.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "1c609f4672d20cbf",
-        "type": "split",
-        "children": [
-          {
-            "id": "fb01d25eb6a3a2d9",
-            "type": "leaf",
-            "dimension": 63.82978723404255,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notions/Marché.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bdcc664b8cb1700",
-            "type": "leaf",
-            "dimension": 36.17021276595745,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+        "id": "fb01d25eb6a3a2d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IB/Economy.md",
+            "mode": "preview",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Notions economie/Exemples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Notions economie/Exemples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Notions economie/Exemples.md"
               }
             }
           },
@@ -167,15 +150,15 @@
   },
   "active": "1d1832b5e61cf563",
   "lastOpenFiles": [
-    "Notions/Marché.md",
+    "Notions economie/La Demande.md",
+    "Notions economie/Concepts clés.md",
     "IB/Economy.md",
-    "IB/Maths.md",
-    "Notions/Demande.md",
-    "IB/Physics.md",
-    "test.md",
+    "Notions economie/Exemples.md",
+    "Notions economie/Le Marché.md",
     "IB/French.md",
+    "IB/Maths.md",
     "IB/English.md",
-    "IB/📝Dashboard.md",
+    "IB/Physics.md",
     "IB/Comp Sci.md"
   ]
 }

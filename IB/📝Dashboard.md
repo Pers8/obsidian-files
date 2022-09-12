@@ -2,6 +2,7 @@
 banner: "![[banner dashbord.png]]"
 banner_y: 0.484
 banner_icon: 📝
+tags: [MOC]
 ---
 $$
 \textbf{\Huge{Dashboard}}

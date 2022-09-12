@@ -1,3 +1,6 @@
+---
+tags: [MOC]
+---
 [[📝Dashboard]] > [[Maths]]
 <br/>
 $$\huge{MATHS}$$
