@@ -2,6 +2,8 @@
 tags: [economy]
 ---
 
+ [[Economy]] > [[Concepts clés]]
+
 $$\underline{\Large{Concepts \hspace{1mm} clés}}$$
 
 $$\boxed{Choix}$$

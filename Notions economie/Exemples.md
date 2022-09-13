@@ -2,10 +2,11 @@
 tags: [economy]
 ---
 
+ [[Economy]] > [[Exemples]]
 $$\huge{Exemples}$$
 
 <br/>
-## [[Exemples]]
+## [[Economy#Chapitre 1]]
 
 ```chart
 type: line

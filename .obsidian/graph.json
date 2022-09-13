@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#TOK",
+      "color": {
+        "a": 1,
+        "rgb": 18155
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5290361452909936,
+  "scale": 0.6226030584558151,
   "close": false
 }
