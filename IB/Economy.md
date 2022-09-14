@@ -17,6 +17,7 @@ ___
 ## Chapitre 1 :
 
 1. [[La Demande]]
+2. 
 
 valider ce résonnement si cela ne change pas
 loi de la demande: quand le prix diminue, la quantité demandée diminue et vise versa

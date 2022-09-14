@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Economy.md",
+            "file": "IB/Comp Sci.md",
             "mode": "source",
             "source": false
           }
@@ -19,12 +19,8 @@
         "id": "f3358939536c4191",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notions economie/Exemples.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -150,15 +146,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
+    "IB/Comp Sci.md",
     "Notions economie/Exemples.md",
-    "syntax/Obsidian Basic  and Extended Syntax.md",
-    "IB/Economy.md",
-    "IB/English.md",
-    "IB/TOK.md",
-    "IB/Maths.md",
     "IB/📝Dashboard.md",
+    "IB/Maths.md",
     "Notions economie/La Demande.md",
-    "Notions economie/Le Marché.md",
-    "2022-09-13.md"
+    "Notions economie/La loi de la demande.md",
+    "IB/Economy.md",
+    "IB/French.md",
+    "Notions economie/Concepts clés.md",
+    "Notions economie/Le Marché.md"
   ]
 }
