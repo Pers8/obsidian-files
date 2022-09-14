@@ -56,4 +56,7 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >- support technique indisponible
 >- vulnérabilité aux menaces de sécurité 
 
-> Les sytèmes anciens ou hérités  désignent des systèmes informatiques obsolètes qui ont
+
+>[!Les fusions d'entreprise]
+>Les fusions d'entreprises font référence à la combinaison de deux ou plusieurs entités commerciales, généralement pour réduire lees coûts ou se développer
+
