@@ -32,6 +32,15 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 
                                                                             $\huge{\downarrow}$
 
+> [!(Suite)]
 > Dans ce dernier cas, ces nouveaux systèmes exigeront une transition fluide d'un système à un autre, ce qui nécessitera une gestion.
 > <br>
 > Les changements peuvent amener certains problèmes
+
+                                                                            $\huge{\downarrow}$
+> [!Les problèmes liés au changement]
+> Toute une série d'**erreurs** ou d'**incompatibilités** peuvent découler de la trasition des logiciels, et les connaissances perspicases d'une partie externe ou d'un expert interne peuvent réduire les frictions entre la mise en oeuvre des nouveaux systèmes.
+
+
+> [!Systèmes anciens (Legacy Systems)]
+> Les systèmes anciens ou hérités désignent des systèmes informatiques obsolètes qui ont été remplacés par des technologies plus récentes
