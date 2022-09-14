@@ -30,5 +30,8 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >  <br>
 >  Ces nouveaux systèmes seront développés en réponse à un problème ou pour remplacer un ancien système
 
-                                                            $\huge{\downarrow}$
-> Dans ce dernier cas, ces nouveaux sysyèmes ex
+                                                                            $\huge{\downarrow}$
+
+> Dans ce dernier cas, ces nouveaux systèmes exigeront une transition fluide d'un système à un autre, ce qui nécessitera une gestion.
+> <br>
+> Les changements peuvent amener certains problèmes
