@@ -44,3 +44,16 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 
 > [!Systèmes anciens (Legacy Systems)]
 > Les systèmes anciens ou hérités désignent des systèmes informatiques obsolètes qui ont été remplacés par des technologies plus récentes
+
+
+
+                                                                            $\huge{\Downarrow}$ 
+                                                                            
+> [!Des limites sont aussi là !]
+> Ces systèmes présentent de nombreux inconvénients.
+> <br>
+>- coûts de maintenance 
+>- support technique indisponible
+>- vulnérabilité aux menaces de sécurité 
+
+> Les sytèmes anciens ou hérités  désign
