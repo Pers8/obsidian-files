@@ -7,7 +7,14 @@ $$\huge{Exemples}$$
 
 <br/>
 ## [[Economy#Chapitre 1]]
-
+<br>
+| Prix (FCFA) | Qté Samba | Qté Moussa | Qté Marché |
+| ----------- | ----------- |  ----------- | -----------|
+| 1000 | 1 |  2 | 3 |
+| 900 | 2 | 4 | 6 |
+| 800 | 3 | 6 | 9 |
+| 700 | 4 | 8 | 12 |
+| 600 | 5 | 10 |15 |
 ```chart
 type: line
 labels: [1,2,3,4,5]
@@ -20,7 +27,7 @@ labelColors: false
 fill: false
 beginAtZero: false
 ```
-<br/>
+<br>
 
 ```chart
 type: line

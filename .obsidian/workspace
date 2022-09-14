@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1832b5e61cf563",
+        "id": "93072f91766a851f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Comp Sci.md",
+            "file": "IB/Economy.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "fb01d25eb6a3a2d9",
+        "id": "f3358939536c4191",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Comp Sci.md",
-            "mode": "preview",
+            "file": "Notions economie/Exemples.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -148,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb01d25eb6a3a2d9",
+  "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "IB/Economy.md",
-    "Notions economie/La Demande.md",
-    "IB/Comp Sci.md",
-    "IB/📝Dashboard.md",
-    "syntax/Obsidian Basic  and Extended Syntax.md",
-    "Untitled.md",
-    "Notions economie/Le Marché.md",
-    "IB/TOK.md",
     "Notions economie/Exemples.md",
-    "Notions economie/Concepts clés.md"
+    "syntax/Obsidian Basic  and Extended Syntax.md",
+    "IB/Economy.md",
+    "IB/English.md",
+    "IB/TOK.md",
+    "IB/Maths.md",
+    "IB/📝Dashboard.md",
+    "Notions economie/La Demande.md",
+    "Notions economie/Le Marché.md",
+    "2022-09-13.md"
   ]
 }

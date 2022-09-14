@@ -1,5 +1,5 @@
 ---
-tags: [MOC]
+tags: [MOC,economy]
 ---
 [[📝Dashboard]] > [[Economy]]
 <br/>

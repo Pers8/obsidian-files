@@ -1,3 +1,6 @@
+---
+tags: [MOC]
+---
 [[📝Dashboard]]
 # H1  
 
@@ -66,3 +69,10 @@ I need to highlight these ==very important words==.
 H~2~O
 
 X^2^
+
+-
+
+Center force : 0.52
+Repel force : 10.00
+Link force : 1.00
+Link distance : 250
