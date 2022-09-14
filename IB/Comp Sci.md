@@ -30,14 +30,14 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >  <br>
 >  Ces nouveaux systèmes seront développés en réponse à un problème ou pour remplacer un ancien système
 
-                                                                            $\huge{\downarrow}$
+  $\huge{\downarrow}$
 
 > [!(Suite)]
 > Dans ce dernier cas, ces nouveaux systèmes exigeront une transition fluide d'un système à un autre, ce qui nécessitera une gestion.
 > <br>
 > Les changements peuvent amener certains problèmes
 
-                                                                            $\huge{\downarrow}$
+  $\huge{\downarrow}$
 > [!Les problèmes liés au changement]
 > Toute une série d'**erreurs** ou d'**incompatibilités** peuvent découler de la trasition des logiciels, et les connaissances perspicases d'une partie externe ou d'un expert interne peuvent réduire les frictions entre la mise en oeuvre des nouveaux systèmes.
 
@@ -47,8 +47,8 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 
 
 
-                                                                            $\huge{\Downarrow}$ 
-                                                                            
+   $\huge{\Downarrow}$ 
+
 > [!Des limites sont aussi là !]
 > Ces systèmes présentent de nombreux inconvénients.
 > <br>
@@ -59,4 +59,6 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 
 >[!Les fusions d'entreprise]
 >Les fusions d'entreprises font référence à la combinaison de deux ou plusieurs entités commerciales, généralement pour réduire lees coûts ou se développer
+><br>
+>
 
