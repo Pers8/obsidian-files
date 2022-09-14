@@ -56,4 +56,4 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >- support technique indisponible
 >- vulnérabilité aux menaces de sécurité 
 
-> Les sytèmes anciens ou hérités  désign
+> Les sytèmes anciens ou hérités  désignent des systèmes informatiques obsolètes qui ont
