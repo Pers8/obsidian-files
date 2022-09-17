@@ -2,7 +2,7 @@
 tags: [economy]
 ---
  
- [[Economy]] > [[Le Marché]]
+ [[Economy]] > [[marché]]
 
 $$\huge{Marché}$$
 <br>

@@ -12,12 +12,17 @@ $$
 
 <br/>
 
-$\huge{Micro} \hspace{2mm} économie$
+# Thème 1 : [[La micro économie]]
 ___
 
 > [!Chapitre 1 :]
->1. [[la Demande]]
->2. Ceteris Paribus
+>1. [[la demande]]
+>2. [[la loi de la demande]]
+>3. [[Ceteris Paribus]]
+>4. [[marché]]
+>5. [[Écriture matématique de la demande]]
+>6. [[Concepts clés]]
+>7. [[Exemples]]
 
 valider ce résonnement si cela ne change pas
 loi de la demande: quand le prix diminue, la quantité demandée diminue et vise versa
