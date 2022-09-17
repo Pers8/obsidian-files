@@ -5,7 +5,7 @@ tags: [economy]
  [[Economy]] > [[Exemples]]
 $$\huge{Exemples}$$
 
-<br/>
+<br>
 ## [[Economy#Chapitre 1]]
 <br>
 | Prix (FCFA) | Qté Samba | Qté Moussa | Qté Marché |

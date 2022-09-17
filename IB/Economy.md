@@ -14,10 +14,10 @@ $$
 
 $\huge{Micro} \hspace{2mm} économie$
 ___
-## Chapitre 1 :
 
-1. [[La Demande]]
-2. 
+> [!Chapitre 1 :]
+>1. [[la Demande]]
+>2. Ceteris Paribus
 
 valider ce résonnement si cela ne change pas
 loi de la demande: quand le prix diminue, la quantité demandée diminue et vise versa

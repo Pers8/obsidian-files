@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Comp Sci.md",
+            "file": "Écriture matématique de la demande.md",
             "mode": "source",
             "source": false
           }
@@ -19,8 +19,12 @@
         "id": "f3358939536c4191",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "IB/Economy.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Écriture matématique de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Écriture matématique de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Écriture matématique de la demande.md"
               }
             }
           },
@@ -146,15 +150,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "IB/Comp Sci.md",
-    "Notions economie/Exemples.md",
-    "IB/📝Dashboard.md",
-    "IB/Maths.md",
-    "Notions economie/La Demande.md",
+    "Notions economie/Le Marché.md",
     "Notions economie/La loi de la demande.md",
+    "Notions economie/la Demande.md",
+    "Notions economie/Exemples.md",
+    "Notions economie/Concepts clés.md",
+    "Notions economie/Ceteris paribus.md",
+    "Écriture matématique de la demande.md",
     "IB/Economy.md",
     "IB/French.md",
-    "Notions economie/Concepts clés.md",
-    "Notions economie/Le Marché.md"
+    "IB/Physics.md"
   ]
 }

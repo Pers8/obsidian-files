@@ -59,6 +59,6 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 
 >[!Les fusions d'entreprise]
 >Les fusions d'entreprises font référence à la combinaison de deux ou plusieurs entités commerciales, généralement pour réduire lees coûts ou se développer
-><br>
->
+
+
 
