@@ -6,26 +6,68 @@
       {
         "id": "93072f91766a851f",
         "type": "leaf",
+        "dimension": 66.06799230275819,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notions economie/Ceteris paribus.md",
+            "file": "IB/Economy.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "f3358939536c4191",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "IB/Economy.md",
-            "mode": "preview",
-            "source": false
+        "id": "422f05c97d32b2f9",
+        "type": "split",
+        "dimension": 33.93200769724182,
+        "children": [
+          {
+            "id": "4e63181968624e7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IB/Economy.md"
+              }
+            }
+          },
+          {
+            "id": "8b17bb301bf1dc39",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "IB/Economy.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224441,
+                  "close": false
+                }
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -89,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notions economie/Ceteris paribus.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notions economie/Ceteris paribus.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notions economie/Ceteris paribus.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -150,15 +192,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "Notions economie/la demande.md",
-    "IB/Economy.md",
-    "IB/Comp Sci.md",
     "IB/English.md",
-    "Notions economie/Ceteris paribus.md",
-    "Notions economie/Concepts clés.md",
-    "Notions economie/Écriture matématique de la demande.md",
-    "Notions economie/Exemples.md",
+    "IB/Economy.md",
+    "IB/Maths.md",
+    "IB/TOK.md",
+    "IB/Comp Sci.md",
     "Notions economie/la loi de la demande.md",
-    "Notions economie/marché.md"
+    "Notions economie/Ceteris paribus.md",
+    "Notions economie/la demande.md",
+    "Notions economie/Concepts clés.md",
+    "Notions economie/Écriture matématique de la demande.md"
   ]
 }
