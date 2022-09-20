@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Economy.md",
+            "file": "IB/Comp Sci.md",
             "mode": "source",
             "source": false
           }
@@ -27,7 +27,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "IB/Comp Sci.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -192,11 +192,11 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "IB/English.md",
+    "IB/Comp Sci.md",
     "IB/Economy.md",
+    "IB/English.md",
     "IB/Maths.md",
     "IB/TOK.md",
-    "IB/Comp Sci.md",
     "Notions economie/la loi de la demande.md",
     "Notions economie/Ceteris paribus.md",
     "Notions economie/la demande.md",
