@@ -107,3 +107,96 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >- Associé à la séurité
 >- Économies de coûts
 
+**Partie 3:**
+<br>
+
+> [!Fonctionnement en parallèle]
+> Le nouveau système qui est mis en oeuvre parallèlement au système existant. Cela ne peut se produire que lors d'un changement et non lors de la mise en oeuvre initiale.
+>  <br>
+>  Toutes les nouvelles données seront introduites dans le nouveau et l'ancien système, et les résultats et les sorties du nouveau système seront comparéss à ceux de l'ancien afin de de s'assurer que le nouveau système fonctionne correctement.
+
+>[!Big Bang/Changement direct]
+>Dans cette méthode de mise en oeuvre, tous les systèmes existants sont retirés ou mis hors service et sont remplacés par un nouveau système.
+
+>[!Pilotage]
+>Cette méthode permet d'essayer le nouveau système à petite échelle avant de le mettre en oeuvre complètement. En général, un département de l'organisation est choisi pour être le projet pilote.
+
+>[!Conversion progressive]
+>La conservation progression ou la mise en oeuvre progressive signifie que le système est mis en oeuvre en plusieurs phaes/étapes sur unée certaine période de temps.
+
+>[!Les Tests d'applications/logiciels]
+>Le test consiste à examiner un système informatique pour trouver des failles, des divergences ou des erreurs. Il existe différents types de tests qui peuvent être aplliqués à diverses parties du processsus de développement.
+
+>[!Alpha Testing]
+>Le test alpha consiste à offrir  une première version du programme à d'autres développeurs en interne et à recevoir leurs commentaires pour améliorer le produit.
+
+>[!Beta Testing]
+>Après le test alpha, l'entreprise peut choisir de fournir une version du produit à un groupe externe sélectionné (bêta fermée) ou au public (bêta ouverte), en espérznt que les utilisateurs fourniront des commentairess et signaleront les bugs aux développeurs.
+
+>[!Dry-Run Testing]
+>C'est une vérification pour s'assurer qu'il n'y a pas d'erreurs dans l'algorithme ou la logique du système. Elle est effectuée par un ingénieur à l'aide d'un stylo et de papier.
+
+>[!Unit Testing]
+>Les tests unitaires impliquent des petits tests individuels pour les sous-modules du programme qui peuvent souvent être automatisés. Il peut s'agir des tests de régression ou de tests qui garantissent que les corrections de bugs ne cassent pas accidentellement d'autres parties du programme.
+
+>[!Integration Testing]
+>Tous les composants sont testés ensemble pour s'assurer que le système fonctionne comme un tout.
+
+>[!User Acceptance Testing]
+>Dans ce type de test, le produit est présenté à un groupe de clients pour une dernière vérification avant sa mise sur le marché. Cette méthode permet aux développeurs de recueillir facilement des commentaires réalistes.
+
+>[!Debugging]
+>Le débogage est un processus systématique de recherche et de correction des bugs (erreurs mineures) dans un programme informatique.
+
+
+$\LARGE{a)-2^2+8x=0}$
+
+
+$\LARGE{x(-2x+8)=0}$
+
+
+$\LARGE{x=0}$   et  $\LARGE{-2x+8=0}$
+
+
+$\LARGE{\boxed{x=0}}$     ou    $\LARGE{\boxed{x=4}}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$\LARGE{k=\frac{-\Delta}{4a}}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

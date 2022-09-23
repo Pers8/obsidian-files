@@ -30,9 +30,6 @@ loi de la demande: quand le prix diminue, la quantité demandée diminue et vise
 
 demande individuelle (pour samba ou pour moussa) et demande de marché(l'ensemble des individus)
 
-- En économie : 
->- x $\rightarrow$ Quantité 
->-  y $\rightarrow$ Prix
 
 
 

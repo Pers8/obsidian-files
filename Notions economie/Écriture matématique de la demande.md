@@ -11,3 +11,8 @@ $$\Large{Q_d=aP+b}$$
 - $P \rightarrow$ **prix**
 - $a \rightarrow$ **pente (pente toujours négative et correspond à [[la loi de la demande]])**
 - $b \rightarrow$ **la constante**
+
+> [!Important]
+>- En économie : 
+>x $\rightarrow$ Quantité 
+>y $\rightarrow$ Prix
