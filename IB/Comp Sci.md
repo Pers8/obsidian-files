@@ -173,13 +173,15 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >- **Markketing :** Comment commercialiser le produit et analyse de la demande du marché
 
 
->[!Fichiers d''aide]
+>[!Fichiers d'aide]
 >Les fichiers d'aide sont faciles d'acès pour l'utilisateur et peu coûteux à créer. En outre, les utilisateurs ne perdront pas un fichier d'aide, alors qu'un **manuel imprimé** peut être égaré. Par rapport à la **documentation en ligne**, elle ne nécessite pas de connexion Internet pour fonctionner correctement.
 
+>[!Documentation en ligne]
+>La documentation en ligne nécessite une connexion Internet, ce qui peut restreindre l'accès de l'utlisateur. Cepedant, elle est généralement plus facile à utliser et à consulter. Il est également possible de mettre à jour la documentation par la suite.
 
 
-
-
+>[!Manuels imprimés]
+>Les manuels imprimés étaient autrefois la principale méthode de documentation des utilisateurs, mais ils sont aujourd'hui remplacés par des manuels numériques afin de rédurie les coûts de production et de respecter davantage l'environnement. L'avantage des manuels imprimés est qu'ils sont accessibles à tout moment, même si le système n'a pas encre été installé, et qu'ilss peuvent donc être utilies en cas de problème lors de l'installation.
 
 
 
