@@ -173,6 +173,10 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >- **Markketing :** Comment commercialiser le produit et analyse de la demande du marché
 
 
+>[!Fichiers d''aide]
+>Les fichiers d'aide sont faciles d'acès pour l'utilisateur et peu coûteux à créer. En outre, les utilisateurs ne perdront pas un fichier d'aide, alors qu'un **manuel imprimé** peut être égaré. Par rapport à la **documentation en ligne**, elle ne nécessite pas de connexion Internet pour fonctionner correctement.
+
+
 
 
 
