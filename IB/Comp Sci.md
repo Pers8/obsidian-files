@@ -191,4 +191,3 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 > L'auto-formation signiffie que les utilisateurs apprennent à utiliser le système par eux-mêmes.
 
 
-
