@@ -60,7 +60,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224447,
+                  "scale": 0.5733733343554533,
                   "close": false
                 }
               }
@@ -192,10 +192,10 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "IB/Comp Sci.md",
-    "Notions economie/Concepts clés.md",
     "IB/Economy.md",
+    "IB/Comp Sci.md",
+    "Untitled.md",
+    "Notions economie/Concepts clés.md",
     "Notions economie/Écriture matématique de la demande.md",
     "Notions economie/Ceteris paribus.md",
     "Notions economie/la loi de la demande.md",

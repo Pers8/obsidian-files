@@ -149,35 +149,28 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >Le débogage est un processus systématique de recherche et de correction des bugs (erreurs mineures) dans un programme informatique.
 
 
-$\LARGE{a)-2^2+8x=0}$
-
-
-$\LARGE{x(-2x+8)=0}$
-
-
-$\LARGE{x=0}$   et  $\LARGE{-2x+8=0}$
-
-
-$\LARGE{\boxed{x=0}}$     ou    $\LARGE{\boxed{x=4}}$
 
 
 
+### **Chapitre 2 :** Conception et installation des systèmes
 
 
-
-
-
-
-
-
-
-
-
-$\LARGE{k=\frac{-\Delta}{4a}}$
-
-
-
-
+>[!Les méthodes de documentation]
+>La documentation utilisateur aide les utilisateurs de système informatiques, qu'ils soient matériels ou logiciels.
+>- S'adapter rapidement à un nouveau système
+>- Une partie importante du génie logiciel 
+>- Plusieurs types de documentation
+><br>
+>Less types de documentation comprennent : 
+>- **Exigences/Prérequis :** Déclaration qui identifient les attributs, les capacités, les caractéridques ou les qualités d'un système. C'est le fondement de tout ce qui est mis en oeuvre.
+>
+>- **Architecture/Conception :** Vue d'ensemble du logiciel. Comprend les relations avec un environnement et les principes de consruction à utiliser dans la conception des composants logiciels.
+>
+>- **Documentation technique :** Documentation du code, des algorithmes, des interfaces et des API.
+>
+>- **Documentation de l'Utilisateur final :** Manuels destinés à l'utilisateur final, aux administrateurs système et au personnel d'assitance. Guides, tutoriels, How to, FAQ...
+>
+>- **Markketing :** Comment commercialiser le produit et analyse de la demande du marché
 
 
 
