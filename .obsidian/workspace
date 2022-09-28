@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Comp Sci.md",
-            "mode": "source",
+            "file": "IB/TOK.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -27,7 +27,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/TOK.md"
               }
             }
           },
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/TOK.md"
               }
             }
           },
@@ -192,15 +192,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "Notions economie/marché.md",
-    "Notions economie/la demande.md",
+    "IB/📝Dashboard.md",
+    "IB/EE.md",
     "IB/Economy.md",
-    "IB/TOK.md",
+    "IB/English.md",
+    "Notions economie/la demande.md",
     "IB/Comp Sci.md",
-    "Untitled.md",
+    "Notions economie/marché.md",
+    "IB/TOK.md",
     "Notions economie/Concepts clés.md",
-    "Notions economie/Écriture matématique de la demande.md",
-    "Notions economie/Ceteris paribus.md",
-    "Notions economie/la loi de la demande.md"
+    "Notions economie/Écriture matématique de la demande.md"
   ]
 }
