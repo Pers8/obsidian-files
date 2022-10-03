@@ -6,40 +6,51 @@
       {
         "id": "93072f91766a851f",
         "type": "leaf",
-        "dimension": 66.06799230275819,
+        "dimension": 71.26363053239257,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/TOK.md",
+            "file": "IB/Physics.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "ed9108dfbc24e23b"
       },
       {
-        "id": "422f05c97d32b2f9",
+        "id": "bbada02f21d63dd9",
         "type": "split",
-        "dimension": 33.93200769724182,
+        "dimension": 28.73636946760744,
         "children": [
           {
-            "id": "4e63181968624e7c",
+            "id": "7a48aa172002f4f8",
             "type": "leaf",
+            "dimension": 53.596757852077005,
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "IB/Physics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
-            }
+            },
+            "group": "ed9108dfbc24e23b"
           },
           {
-            "id": "8b17bb301bf1dc39",
+            "id": "f800983e6577399f",
             "type": "leaf",
+            "dimension": 46.403242147923,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "IB/Physics.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -55,13 +66,13 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5733733343554533,
-                  "close": false
+                  "linkDistance": 388,
+                  "scale": 0.7761451769739326,
+                  "close": true
                 }
               }
             }
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -192,15 +203,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "IB/TOK.md",
-    "IB/Economy.md",
-    "IB/📝Dashboard.md",
     "IB/EE.md",
     "IB/English.md",
-    "Notions economie/la demande.md",
     "IB/Comp Sci.md",
-    "Notions economie/marché.md",
-    "Notions economie/Concepts clés.md"
+    "IB/Physics.md",
+    "IB/📝Dashboard.md",
+    "syntax/Obsidian Basic  and Extended Syntax.md",
+    "2022-09-28.md",
+    "IB/Maths.md",
+    "TOK notions/1.md"
   ]
 }

@@ -29,3 +29,10 @@ $$\huge{Theory \hspace{2mm} Of \hspace{2mm} Knowleadge}$$
 3. Tools and Methods
 4. Ethics
 ### **Part 6 :** The [[12 TOK concepts]]
+
+### Important points :
+1. [[PEEL]]
+
+
+### Exercises : 
+- [[1]]

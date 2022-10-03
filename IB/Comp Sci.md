@@ -190,4 +190,9 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 > [!Autoformation]
 > L'auto-formation signiffie que les utilisateurs apprennent à utiliser le système par eux-mêmes.
 
+>[!Formation sur site]
+>Pour la formation sur site, vosu devez vous rendre dans les locaux où le système est utilisé et le montrer personnellement aux utilisateurs.
+>Il s'agit probablement du moyen de formation le **plus efficace**, car les utilisateurs peuvent directement poser des questions et vous pouvez assurer que le système est adapté aux conditions locales.
+>Toutefois, il s'agit du type de formation **le plus coûteux** en raison es frais de déplacement. De plus, dispencer une formation à chaque employé d'une grande entreprise
+
 
