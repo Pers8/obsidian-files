@@ -36,3 +36,4 @@ $$\huge{Theory \hspace{2mm} Of \hspace{2mm} Knowleadge}$$
 
 ### Exercises : 
 - [[1]]
+- [[2]]

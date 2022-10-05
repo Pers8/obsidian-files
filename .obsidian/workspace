@@ -6,11 +6,11 @@
       {
         "id": "93072f91766a851f",
         "type": "leaf",
-        "dimension": 71.26363053239257,
+        "dimension": 69.72418216805644,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/Physics.md",
+            "file": "TOK notions/2.md",
             "mode": "source",
             "source": false
           }
@@ -20,7 +20,7 @@
       {
         "id": "bbada02f21d63dd9",
         "type": "split",
-        "dimension": 28.73636946760744,
+        "dimension": 30.275817831943552,
         "children": [
           {
             "id": "7a48aa172002f4f8",
@@ -29,7 +29,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "TOK notions/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "TOK notions/2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "TOK notions/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "TOK notions/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "TOK notions/2.md"
               }
             }
           },
@@ -204,14 +204,14 @@
   "active": "93072f91766a851f",
   "lastOpenFiles": [
     "IB/TOK.md",
-    "IB/EE.md",
-    "IB/English.md",
-    "IB/Comp Sci.md",
+    "TOK notions/2.md",
+    "TOK notions/1.md",
     "IB/Physics.md",
-    "IB/📝Dashboard.md",
-    "syntax/Obsidian Basic  and Extended Syntax.md",
-    "2022-09-28.md",
+    "IB/EE.md",
     "IB/Maths.md",
-    "TOK notions/1.md"
+    "TOK notions/12 TOK concepts.md",
+    "TOK notions/PEEL.md",
+    "IB/Economy.md",
+    "IB/Comp Sci.md"
   ]
 }
