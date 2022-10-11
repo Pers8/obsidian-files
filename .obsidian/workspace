@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "introduction.md",
+            "file": "IB/EE.md",
             "mode": "source",
             "source": false
           }
@@ -20,7 +20,7 @@
       {
         "id": "bbada02f21d63dd9",
         "type": "split",
-        "dimension": 30.275817831943552,
+        "dimension": 30.27581783194355,
         "children": [
           {
             "id": "7a48aa172002f4f8",
@@ -29,7 +29,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "introduction.md",
+                "file": "IB/EE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "introduction.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "introduction.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "TOK notions/1.md",
-    "introduction.md",
+    "IB/English.md",
+    "IB/Comp Sci.md",
+    "TOK notions/introduction.md",
     "IB/TOK.md",
+    "Untitled.md",
+    "TOK notions/1.md",
     "TOK notions/2.md",
     "IB/Physics.md",
     "IB/EE.md",
-    "IB/Maths.md",
-    "TOK notions/12 TOK concepts.md",
-    "TOK notions/PEEL.md",
-    "IB/Economy.md"
+    "IB/Maths.md"
   ]
 }

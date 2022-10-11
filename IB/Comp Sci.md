@@ -131,7 +131,7 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >Le test alpha consiste à offrir  une première version du programme à d'autres développeurs en interne et à recevoir leurs commentaires pour améliorer le produit.
 
 >[!Beta Testing]
->Après le test alpha, l'entreprise peut choisir de fournir une version du produit à un groupe externe sélectionné (bêta fermée) ou au public (bêta ouverte), en espérznt que les utilisateurs fourniront des commentairess et signaleront les bugs aux développeurs.
+>Après le test alpha, l'entreprise peut choisir de fournir une version du produit à un groupe externe sélectionné (bêta fermée) ou au public (bêta ouverte), en espérant que les utilisateurs fourniront des commentairess et signaleront les bugs aux développeurs.
 
 >[!Dry-Run Testing]
 >C'est une vérification pour s'assurer qu'il n'y a pas d'erreurs dans l'algorithme ou la logique du système. Elle est effectuée par un ingénieur à l'aide d'un stylo et de papier.
@@ -196,3 +196,25 @@ $\underline{\LARGE{Thème \hspace{2mm} 1 }}$
 >Toutefois, il s'agit du type de formation **le plus coûteux** en raison es frais de déplacement. De plus, dispencer une formation à chaque employé d'une grande entreprise
 
 
+
+1)  déplacement des données dans un disque dur externe comme la clé USB et le brancher dans un autre environnement
+2) Alpha : seuls les employés peuvent tester et donner des commentaires sur le produit.
+     Beta : le public ou les utlisateurs peuvent tester le produit et donner des commentaires.
+3)  pour les test à blanc, on n'aa pas besoin d'ordinateurs car on vérifie et prend note sur les erreurs potentiels sur l'algorithme d u système.
+4) La différence entre les deux est que La documentation
+interne consiste à rédiger et à tenir à jour des processus
+et procédures clairement détaillés, auxquels les membres
+de votre équipe interne peuvent se référer et la
+documentation externe est un catalogue de documents
+qui ont été soumis par les clients.
+5) Un avantage est que l'individu n'aura pas besoin de se
+déplacer pour faire la formation.
+6) sauvegardes régulières, Placer toutes donnée dans le cloud et installation d'antivirus au cas d'un virus qui rend nos fichiers illisibles
+
+
+
+Deux zéros Deux quatre
+
+$Réponses:$
+$a)2024$
+$b)0044$

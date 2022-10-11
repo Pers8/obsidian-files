@@ -2,10 +2,10 @@
 tags : [TOK]
 ---
 
-[[TOK]] > [[1]]
+[[TOK]] > [[introduction]]]
 
 
-INTRODUCTION : Real life situation
+## **INTRODUCTION :** Real life situation
 
 1) To what extent can you know yourself
 2) In what contexts is it possible for others to know you better than you know yourself
