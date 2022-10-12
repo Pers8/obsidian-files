@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IB/EE.md",
+            "file": "TOK notions/introduction.md",
             "mode": "source",
             "source": false
           }
@@ -29,7 +29,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK notions/introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK notions/introduction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK notions/introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK notions/introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "TOK notions/introduction.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "93072f91766a851f",
   "lastOpenFiles": [
-    "IB/English.md",
-    "IB/Comp Sci.md",
-    "TOK notions/introduction.md",
     "IB/TOK.md",
-    "Untitled.md",
-    "TOK notions/1.md",
+    "IB/Comp Sci.md",
     "TOK notions/2.md",
-    "IB/Physics.md",
+    "IB/📝Dashboard.md",
+    "IB/Maths.md",
+    "IB/Economy.md",
     "IB/EE.md",
-    "IB/Maths.md"
+    "IB/English.md",
+    "TOK notions/introduction.md",
+    "Untitled.md"
   ]
 }

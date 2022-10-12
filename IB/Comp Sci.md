@@ -212,9 +212,10 @@ déplacer pour faire la formation.
 6) sauvegardes régulières, Placer toutes donnée dans le cloud et installation d'antivirus au cas d'un virus qui rend nos fichiers illisibles
 
 
+**Correction :**
 
-Deux zéros Deux quatre
+1) Plannification, Validation, Analyse
+5) réponse quasi immédiate si on a besoin d'un conseil 
 
-$Réponses:$
-$a)2024$
-$b)0044$
+
+
