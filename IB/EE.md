@@ -12,3 +12,17 @@
 **Comment ça marche** : les cnn compare les images fragment par fragment et ces fragments sont appelés **caractérisques**. En trouvant des caractéristiques approximatives qui se ressemblent à peu près dans 2 images différentes, le CNN est bien meilleur à détecter des similitudes que par une comparaison entière image à image
 
 **VGG16** : type ou architecture de CNN qui est utilisé pour la reconnaissance et classification et est capable de 1000 images de 1000 catégories différents avec une précision de 92.7%. Il est très souvent utilsé due à sa viabilité
+
+
+### INFORMATIONS SUR LE MEMOIRE :
+
+Tous les mémoires font d'une évaluation externe effectué par des examinateurs nommés par l'IB
+
+### **Présentation du mémoire** :
+- **Page de garde** : L'identifiant de l'éleve, Le sujet et la catégorie du mémoire (la matière choisie), le sujet de mémoire, la question de recherche, le décompte de mots, l'année de la session.
+- Le sommaire
+- Introductionn
+- Corps du mémoire
+- Conclusion
+- Bibliographie
+- Annexes
