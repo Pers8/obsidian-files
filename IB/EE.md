@@ -20,9 +20,25 @@ Tous les mémoires font d'une évaluation externe effectué par des examinateurs
 
 ### **Présentation du mémoire** :
 - **Page de garde** : L'identifiant de l'éleve, Le sujet et la catégorie du mémoire (la matière choisie), le sujet de mémoire, la question de recherche, le décompte de mots, l'année de la session.
-- Le sommaire
-- Introductionn
-- Corps du mémoire
-- Conclusion
-- Bibliographie
-- Annexes
+- **Le sommaire** : placé au début du mémoire
+- **Introduction** : l'accroche, présentation du sujet et définition des termes, contexte actuel (facultatif), vos motivations personnelles liées au ssujet du mémoire (facultatif), présentation de votre cadre théorique, problématique du mémoire, présentation du mémoire, présentation de votre démarche ou méthode de recherche, objectif du mémoire, annonce du plan
+- **Corps du mémoire** : Une réponse à la problématique
+- **Conclusion** : 
+- **Bibliographie** : 
+- **Annexes** : 
+
+### LA MISE EN PAGE DU MEMOIRE : 
+
+- police Arial
+- taille de police 12
+- double interligne
+- paragraphe en retrait
+- numéro de page en bas à droite
+- la page 1 doit commencer l'introduction
+- en fichier PDF
+- la taille du fichier inférieur ou égale à 10 mo
+- utilisation d'un programme de véritification orthographique
+
+###  DECOMPTE DE MOTS
+
+page de garde, table de matières cartes graphiques, diagrammes, illustrations annotées, tableaux, équations, formules, calculs, références, citatinos, bibliographies, titres, notes de bas de  page

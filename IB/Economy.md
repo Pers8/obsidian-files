@@ -13,7 +13,6 @@ $$
 <br/>
 
 # Thème 1 : [[La micro économie]]
-___
 
 > [!Chapitre 1 :]
 >1. [[la demande]]
@@ -25,10 +24,8 @@ ___
 >7. [[Concepts clés]]
 >8. [[Exemples]]
 
-valider ce résonnement si cela ne change pas
-loi de la demande: quand le prix diminue, la quantité demandée diminue et vise versa
 
-demande individuelle (pour samba ou pour moussa) et demande de marché(l'ensemble des individus)
+
 
 
 
