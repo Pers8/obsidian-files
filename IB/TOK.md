@@ -12,7 +12,6 @@ $$\huge{Theory \hspace{2mm} Of \hspace{2mm} Knowleadge}$$
 - Knowledge and religion
 - Knowledge and indigenous societies
 - Knowledge and politics
-
 ### **Part 3 :** Areas of knowledge
 - History
 - Mathematics
@@ -33,7 +32,9 @@ $$\huge{Theory \hspace{2mm} Of \hspace{2mm} Knowleadge}$$
 ### Important points :
 1. [[PEEL]]
 
-
 ### Exercises : 
 - [[1]]
 - [[2]]
+- [[3]]
+### Test Corrections :
+- [[Test 1 Correction]]

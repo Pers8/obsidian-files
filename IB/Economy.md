@@ -18,7 +18,7 @@ $$
 >1. [[la demande]]
 >2. [[la loi de la demande]]
 >3. Pourquoi [[la loi de la demande]]
->4. [[Ceteris Paribus]]
+>4. [[Ceteris paribus]]
 >5. [[marché]]
 >6. [[Écriture matématique de la demande]]
 >7. [[Concepts clés]]

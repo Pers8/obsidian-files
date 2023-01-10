@@ -1,8 +1,8 @@
 [
   "obsidian-banners",
+  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-charts",
-  "obsidian-spaced-repetition",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-spaced-repetition"
 ]

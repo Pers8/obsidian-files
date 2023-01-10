@@ -4,26 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc91934448485ea",
+        "id": "550ad7ec04f8559d",
         "type": "tabs",
-        "dimension": 72.06349206349206,
+        "dimension": 69.72418216805644,
         "children": [
           {
-            "id": "96510ee7223b5889",
+            "id": "93072f91766a851f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/📝Dashboard.md",
-                "mode": "preview",
+                "file": "IB/Physics.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
+              }
+            },
+            "group": "ed9108dfbc24e23b"
           },
           {
-            "id": "b03a9b0f3a3f7e81",
+            "id": "85acbe27fff6bb5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,17 +32,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6e324e5f6f5ebe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB/English.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f745d45dcef396fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EE/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bbada02f21d63dd9",
         "type": "split",
-        "dimension": 27.936507936507937,
+        "dimension": 30.27581783194355,
         "children": [
           {
-            "id": "7c1b548192abc846",
+            "id": "10c72df322042c62",
             "type": "tabs",
             "dimension": 53.596757852077005,
             "children": [
@@ -53,7 +76,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "IB/English.md",
+                    "file": "IB/Physics.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -62,12 +85,13 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
-                }
+                },
+                "group": "ed9108dfbc24e23b"
               }
             ]
           },
           {
-            "id": "0f19339013dba2ff",
+            "id": "e38e3096b4288d1a",
             "type": "tabs",
             "dimension": 46.403242147923,
             "children": [
@@ -100,7 +124,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 388,
-                      "scale": 0.7761451769739326,
+                      "scale": 0.6754134118672761,
                       "close": true
                     }
                   }
@@ -234,20 +258,29 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
-  "active": "b03a9b0f3a3f7e81",
+  "active": "f6e324e5f6f5ebe8",
   "lastOpenFiles": [
-    "IB/📝Dashboard.md",
-    "IB/TOK.md",
-    "IB/Physics.md",
-    "IB/Maths.md",
-    "IB/French.md",
+    "EE/AlexNet.md",
     "IB/English.md",
+    "Time & Space.md",
+    "EE/Analyse.md",
     "IB/EE.md",
-    "IB/Comp Sci.md",
-    "Notions economie/Ceteris paribus.md",
-    "Notions economie/la loi de la demande.md"
+    "EE/Introduction.md",
+    "EE/Conclusion.md",
+    "EE/VGG16.md",
+    "EE/Test.md",
+    "EE/Différents Modèles d'Architecture.md"
   ]
 }

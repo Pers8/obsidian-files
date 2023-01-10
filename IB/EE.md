@@ -1,20 +1,22 @@
 >[!Question]
 >**English :** To what extent is VGG16 convolutional neural networks architecture viable for image classification and recognition
->**French :** Dans quelle mesure l'architecture des réseaux de neurones convolutifs VGG16 est-elle viable pour la classification et la reconnaissance des images en terme de performance et précision ?
+>**French :** Dans quelle mesure l'architecture des réseaux de neurones convolutifs VGG16 est-elle viable pour la classification et la reconnaissance des images en terme de performance et de précision ?
 
 
 >[!Thème]
->**English :** Investigating the use of VGG16 convolutional neural networks architecture in image classification and recognition
->**French :** Étude de l'utilisation de l'architecture des réseaux neuronaux convolutifs VGG16 pour la classification et la reconnaissance d'images
+>**English :** Investigating the use of VGG16 convolutional neural networks architecture in image classification and recognition.
+>**French :** Étude de l'utilisation de l'architecture des réseaux neuronaux convolutifs VGG16 pour la classification et la reconnaissance d'images.
 
 **CNN** : type de neurone artifielle spécialisé utilisé dans la reconaissance et traitement d'images spécialement conçu pour l'analyse de pixels et matrix
 
 **Comment ça marche** : les cnn compare les images fragment par fragment et ces fragments sont appelés **caractérisques**. En trouvant des caractéristiques approximatives qui se ressemblent à peu près dans 2 images différentes, le CNN est bien meilleur à détecter des similitudes que par une comparaison entière image à image
 
-**VGG16** : type ou architecture de CNN qui est utilisé pour la reconnaissance et classification et est capable de 1000 images de 1000 catégories différents avec une précision de 92.7%. Il est très souvent utilsé due à sa viabilité
+**VGG16** : type ou architecture de CNN qui est utilisé pour la reconnaissance et classification et est capable de reconnaître 1000 images de 1000 catégories différents avec une précision de 92.7%. Il est très souvent utilsé due à sa viabilité
+
+**Kernel** : The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. It is the portion of the operating system code that is always resident in memory and facilitates interactions between hardware and software components.
 
 
-### INFORMATIONS SUR LE MEMOIRE :
+## INFORMATIONS SUR LE MEMOIRE :
 
 Tous les mémoires font d'une évaluation externe effectué par des examinateurs nommés par l'IB
 
@@ -42,3 +44,74 @@ Tous les mémoires font d'une évaluation externe effectué par des examinateurs
 ###  DECOMPTE DE MOTS
 
 page de garde, table de matières cartes graphiques, diagrammes, illustrations annotées, tableaux, équations, formules, calculs, références, citatinos, bibliographies, titres, notes de bas de  page
+
+
+**glossaire :** dictionnairre
+
+
+
+
+
+
+# PLAN /
+## I- [[EE/Introduction]]
+## II- [[Contexte Théorique]]
+### A- [[Réseaux de Neurone]]
+#### 1. [[Neurones]]
+#### 2. [[Couches]]
+#### 3. [[Matrice]]
+### B- [[Réseaux de Neurones Convolusifs et les images]]
+#### 1. [[Réseaux de Neurones Convolusifs]]
+#### 2. [[Images]]
+## III- [[Méthodologie et Expérience]]
+### A- [[Procédure de l'expérience]]
+### B- [[Données entrantes et traitement de données ]]
+### C- [[Différents Modèles d'Architecture ]]
+## D- [[Test]]
+### 1. [[VGG16]]
+### 2. [[AlexNet]]
+## IV- [[Analyse]]
+## V- [[Conclusion]]
+
+## Sites importants :
+
+https://stackabuse.com/image-recognition-in-python-with-tensorflow-and-keras/
+https://theaisummer.com/cnn-architectures/
+https://www.youtube.com/watch?v=RNnKtNrsrmg&ab_channel=DenisDmitriev
+https://www.projectpro.io/article/deep-learning-for-image-classification-in-python-with-cnn/418
+https://towardsdatascience.com/image-classification-with-convolutional-neural-networks-12a7b4fb4c91
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
