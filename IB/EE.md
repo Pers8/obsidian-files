@@ -1,11 +1,11 @@
 >[!Question]
 >**English :** To what extent is VGG16 convolutional neural networks architecture viable for image classification and recognition
->**French :** Dans quelle mesure l'architecture des réseaux de neurones convolutifs VGG16 est-elle viable pour la classification et la reconnaissance des images en terme de performance et de précision ?
+>**French :** Dans quelle mesure l'architecture des réseaux de neurones convolutifs ResNet est t-elle meilleure que l'architecture VGG16 en terme de performance et de précision dans la classification et reconnaissance des images ?
 
 
 >[!Thème]
 >**English :** Investigating the use of VGG16 convolutional neural networks architecture in image classification and recognition.
->**French :** Étude de l'utilisation de l'architecture des réseaux neuronaux convolutifs VGG16 pour la classification et la reconnaissance d'images.
+>**French :** Comparaison des deux architectures ResNet et VGG16 dans la classification et reconnaissance des images.
 
 **CNN** : type de neurone artifielle spécialisé utilisé dans la reconaissance et traitement d'images spécialement conçu pour l'analyse de pixels et matrix
 
@@ -69,7 +69,7 @@ page de garde, table de matières cartes graphiques, diagrammes, illustrations a
 ### C- [[Différents Modèles d'Architecture ]]
 ## D- [[Test]]
 ### 1. [[VGG16]]
-### 2. [[AlexNet]]
+### 2. [[ResNet]]
 ## IV- [[Analyse]]
 ## V- [[Conclusion]]
 
@@ -80,16 +80,12 @@ https://theaisummer.com/cnn-architectures/
 https://www.youtube.com/watch?v=RNnKtNrsrmg&ab_channel=DenisDmitriev
 https://www.projectpro.io/article/deep-learning-for-image-classification-in-python-with-cnn/418
 https://towardsdatascience.com/image-classification-with-convolutional-neural-networks-12a7b4fb4c91
-
-
-
-
-
-
-
-
-
-
+https://pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+https://datascientest.com/quest-ce-que-le-modele-vgg
+https://datascience.eu/fr/apprentissage-automatique/un-apercu-de-resnet-et-de-ses-variantes/
+https://www.intel.fr/content/www/fr/fr/internet-of-things/computer-vision/convolutional-neural-networks.html (phrase 1)
+https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5082166-quest-ce-quun-reseau-de-neurones-convolutif-ou-cnn
 
 
 

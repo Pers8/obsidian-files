@@ -2,7 +2,7 @@
 tags : [TOK]
 ---
 
-[[TOK]] > [[TOK notions/introduction]]
+[[TOK]] > [[TOK/introduction]]
 
 
 ## **INTRODUCTION :** Real life situation

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Economy/Nombre de consommateurs.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,25 +22,13 @@
             "group": "ed9108dfbc24e23b"
           },
           {
-            "id": "85acbe27fff6bb5f",
+            "id": "d326177c04cefa68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e324e5f6f5ebe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IB/English.md",
-                "mode": "source",
+                "file": "Economy/Demande.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -57,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "bbada02f21d63dd9",
@@ -76,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "IB/Physics.md",
+                    "file": "Economy/Nombre de consommateurs.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -101,7 +88,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "IB/English.md",
+                    "file": "Economy/Nombre de consommateurs.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -124,7 +111,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 388,
-                      "scale": 0.6754134118672761,
+                      "scale": 0.6186719649464603,
                       "close": true
                     }
                   }
@@ -199,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Economy/Nombre de consommateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Economy/Nombre de consommateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Economy/Nombre de consommateurs.md"
               }
             }
           },
@@ -270,17 +257,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6e324e5f6f5ebe8",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
-    "EE/AlexNet.md",
-    "IB/English.md",
-    "Time & Space.md",
-    "EE/Analyse.md",
-    "IB/EE.md",
-    "EE/Introduction.md",
-    "EE/Conclusion.md",
-    "EE/VGG16.md",
-    "EE/Test.md",
-    "EE/Différents Modèles d'Architecture.md"
+    "Economy/Pente.md",
+    "Economy/Nature et comportement humain.md",
+    "Economy/Loi de la demande.md",
+    "Economy/Loi de l'offre.md",
+    "aujourd'hui.md",
+    "Economy/Loi d'utilité marginale décroissante.md",
+    "Economy/Effet de substitution.md",
+    "Economy/Evolution du prix des biens connexes.md",
+    "Economy/Effet de revenu.md",
+    "fr.md"
   ]
 }

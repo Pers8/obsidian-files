@@ -29,7 +29,7 @@ What is the difference between objective knowledge and subjective knowledge ?
 
 **Subjectivity :** Looking at the world from a personal point of view, under the influence of feelings or emotions
 
-**Evidence :** Signs that you can see , hear, experienced or read to support the truth of a statement
+**Evidence :** Signs that you can see , hear, experience or read to support the truth of a statement
 
 
 
