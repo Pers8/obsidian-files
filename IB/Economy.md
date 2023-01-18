@@ -29,5 +29,26 @@ $$
 3. L'[[Ecriture mathématique de l'offre]]
 4. Mouvement le long de la courbe de l'offre et déplacements d'offre ([[Déterminants prix de l'offre]] et [[Déterminants hors-prix de l'offre]])
 
+## Chapitre 3: L'Equilibre du marché
+1. [[Equilibre du marché|Définition]]
+2. [[Déséquilibre du marché]] Choc de demande, Choc d'offre
+3. [[Fonctions du mécanisme des prix]]
+4. [[Surplus social ou communautaire]]
 
+## Chapitre 4: Critique du comportement maximisateur (HL)
 
+## Chapitre 5: Elasticités de la demande
+1. [[Elasticité prix de la demande|Définition]] (EPD), [[Formule de l'élasticité prix demande]]
+2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]
+3. [[Déterminants de l'élasticité-prix de la demande]]
+4. Élasticité-prix de la demande (EPD) et [[Revenu total des entreprises]]
+5. [[Elasticité revenue de la demande]] (YED), [[Elasticité prix croisée]] (EPC)
+
+## Chapitre 6: Elasticités de l'offre
+1. [[Elasticités de l'offre]] (EPS)
+2. [[Déterminants de l'élasticité-prix de l'offre]]
+
+## Chapitre 6: Role du gouvernement en micro-économie
+1. [[Role du gouvernement en micro-économie]]
+2. [[Contrôles des prix plafonds]] ou maximum, [[Conséquences possibles de l'imposition d'un prix maximum]], [[Solutions aux conséquences du contrôle des prix maximums]]
+3. [[Contrôles des prix planchers]] ou minimum

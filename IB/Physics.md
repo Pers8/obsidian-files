@@ -1,5 +1,5 @@
 ---
-tags: [MOC]
+tags: [MOC,physics]
 ---
 [[📝Dashboard]] > [[Physics]]
 <br/>
@@ -17,3 +17,17 @@ $$
 ## 2. Propriété thermique de la matière
 1. [[Chaleur massique]], [[Capacité calorifique]]
 2. [[Changements d'états]], [[Chaleur latente]]
+## 3. Modélisation d'un gaz parfait
+1. [[Mole]]
+2. [[Loi des gaz parfait]], isotherme, isobare, iso-volumique
+
+# Theme 5: Electricité et Magnétisme
+## 1. Champ électrique
+0. [[Rappel d'électrostatique]]
+1. [[Loi de Coulomb]]
+2. [[Champ électrique]]
+## 2. Les effets thermiques du courant  
+1. [[Intensité du courant électrique]] 
+2. [[Tension ou différence de potentiel électrique]]
+3. [[Résistance électrique]]
+4. [[Piles électriques]]

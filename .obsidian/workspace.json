@@ -4,123 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "550ad7ec04f8559d",
+        "id": "e38e3096b4288d1a",
         "type": "tabs",
-        "dimension": 69.72418216805644,
         "children": [
           {
-            "id": "93072f91766a851f",
+            "id": "f800983e6577399f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Economy/Nombre de consommateurs.md",
-                "mode": "source",
-                "source": false
+                "file": "TOK/Definition.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 388,
+                  "scale": 0.6186719649464603,
+                  "close": true
+                }
               }
-            },
-            "group": "ed9108dfbc24e23b"
+            }
           },
           {
-            "id": "d326177c04cefa68",
+            "id": "b85e9b11eca0fad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "IB/Economy.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "f745d45dcef396fc",
+            "id": "3724a68cf5cc53c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Introduction.md",
+                "file": "TOK/Natural Sciences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b5226b2eec0c1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK/Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "bbada02f21d63dd9",
-        "type": "split",
-        "dimension": 30.27581783194355,
-        "children": [
-          {
-            "id": "10c72df322042c62",
-            "type": "tabs",
-            "dimension": 53.596757852077005,
-            "children": [
-              {
-                "id": "7a48aa172002f4f8",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Economy/Nombre de consommateurs.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "group": "ed9108dfbc24e23b"
-              }
-            ]
-          },
-          {
-            "id": "e38e3096b4288d1a",
-            "type": "tabs",
-            "dimension": 46.403242147923,
-            "children": [
-              {
-                "id": "f800983e6577399f",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Economy/Nombre de consommateurs.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 1,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 388,
-                      "scale": 0.6186719649464603,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Nombre de consommateurs.md",
+                "file": "TOK/Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Nombre de consommateurs.md",
+                "file": "TOK/Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Nombre de consommateurs.md"
+                "file": "TOK/Definition.md"
               }
             }
           },
@@ -238,12 +197,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,17 +216,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "3b5226b2eec0c1ae",
   "lastOpenFiles": [
-    "Economy/Pente.md",
-    "Economy/Nature et comportement humain.md",
-    "Economy/Loi de la demande.md",
-    "Economy/Loi de l'offre.md",
-    "aujourd'hui.md",
-    "Economy/Loi d'utilité marginale décroissante.md",
-    "Economy/Effet de substitution.md",
-    "Economy/Evolution du prix des biens connexes.md",
-    "Economy/Effet de revenu.md",
-    "fr.md"
+    "TOK/Natural Sciences.md",
+    "TOK/Definition.md",
+    "TOK/introduction.md",
+    "IB/Physics.md",
+    "IB/TOK.md",
+    "IB/Maths.md",
+    "IB/Economy.md",
+    "IB/EE.md",
+    "IB/French.md",
+    "IB/English.md"
   ]
 }

@@ -4,9 +4,10 @@ tags: physics
 
 # Capacité calorifique
 
-La capacité calorifique est la quantité de [[Chaleur]] nécessaire pour élever de $1\degree C$ un objet. 
+La capacité calorifique est:: la quantité de [[Chaleur]] nécessaire pour élever de $1\degree C$ un objet. 
 
 Formule de $Q$=
+?
 
 $$Q = \mu \Delta \theta$$
 $Q$ = Quantité de chaleur en $J$
