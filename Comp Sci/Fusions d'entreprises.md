@@ -2,7 +2,7 @@
 tags: [info]
 ---
 
-Les fusions d'entreprises font reference a la combinaison de deux ou plusieurs entités commercials généralement pour réduire les coûts ou se développer.
+Les fusions d'entreprises font reference :: a la combinaison de deux ou plusieurs entités commercials généralement pour réduire les coûts ou se développer.
 
 4 méthodes d'intégration de nouveaux [[Système informatique|systèmes]]
 ?

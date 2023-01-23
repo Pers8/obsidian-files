@@ -2,6 +2,7 @@
 tags: [info]
 ---
 
+?
 - [[Fiabilité]]
 - [[Intégrité]]
 - [[Incohérence]]
@@ -18,4 +19,5 @@ tags: [info]
 - [[Citoyenneté numérique]]
 
 Un système informatique a des avantages et des inconvénients. Les tableaux suivants illustrent quelques exemples très simples.
+?
 ![[Pasted image 20230116045701.png]]

@@ -43,3 +43,38 @@ a) **guerrilla advertising :** is the creating use of novel or unconventional m
 - Strength to Love M. L. K.
 
 
+## "Develop the writing skills required for Paper 2" - Comparative essay 
+Here are 7 basic plot as outlined by Christopher Booker. If you already read literary work in your language or literary class, you can describe how it fits or breaks one of the plots shown below :
+- **Overcoming the monster** : It's when the plot structure involves a threatening predator which mean when the main character is a person or thing that is abnormal or dangerous.
+- **Rag the riches** : It's a plot that focuses on the improvement of a character from a lower or depraved state of being to or more enlightened a wealthy position in society.
+- **The Quest** : It involves a call to a journey with a purpose with some thrilling ordeals and a triumph end.
+- **Voyage and return** : This plot i different from the quest because the main characters and that in a strange place and must find a way to get home.
+- **The Comedy** : The Comedy is a plot structure when a classical term for works whose purpose is to make us laugh about the nature of life.
+- **The Tragedy** : It's another plot structure with a classical term to describe words that show how life can be sad and apparently unjust.
+- **The Rebirth** : The Rebirth is the kind of story where the main character goes through a change and discovers a truth by which to leave fruitful life.
+
+While writing a comparative essay in the style of paper 2, you should aim to answer the following question :
+- In what ways and for what reasons is (your key word) 
+You will need to start organizing your ideas using a mind map
+Write aa mind map for your essay
+
+- Write a good thesis statement which make a claim about the author's purpose in writing : 
+Find evidence from both text to support the claims that you make in your thesis statement. Write paragraph that follows the PEACE act structure which stand's for [[Peace act]]
+
+A Comparative essay is typically required students to compare and contrast 2 and more texts, ideas or concepts. The essay should analyze the similarities and the differences between the chosen text or concepts and evaluate their significant. A structure of a comparative essay may vary depending on the specific requirements of the assignment but it should include an introduction, a body paragraph and a conclusion
+
+### Introduction :
+The introduction should provide the background information on the texts or concepts, being compared and state the main thesis
+or argument of the essay.
+
+### Body paragraph
+In the body paragraph, we should organize the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparaison or contract and provide evidence or analysis to support a thesis
+
+### Conclusion
+The Conclusion should summarize th e main point of the essay and reiterate the thesis. It should also provide a final evaluation of the significance of the comparaison and contrast and offer a final insight or opinion of the texts or concepts being compared
+
+**Example : Pablo Picasso once said : "==Art== is the ==lie== that ==enables us== to realise ==the truth=="** 
+1) What do think he meant by this ? Do you agree ?
+2) To what degree is reading fiction about finding the "truth" ?
+
+**The Key Words** : Art, enables us, the truth 

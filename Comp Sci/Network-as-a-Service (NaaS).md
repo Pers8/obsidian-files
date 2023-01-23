@@ -2,7 +2,7 @@
 tags: [info]
 ---
 
-Le Network as a Service (NaaS) consiste a proposer une solution globale d'infrastructure de réseau sous forme d'abonnement.
+Le Network as a Service (NaaS) consiste à :: proposer une solution globale d'infrastructure de réseau sous forme d'abonnement.
 - Pas d'equipements réseaux a acheter
 - Pas de maintenance a gérer
 - Pas d'expertise locale necessaire
@@ -13,7 +13,7 @@ Le réseau devient un service public payé (comme l'életricté ou l'eau) avec q
 - Verrouillage du fournisseur
 
 *Les avantages du NaaS*
-
+?
 - Flexibilité
 - Evolutivité
 - Accès depuis n'importe ou

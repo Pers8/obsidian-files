@@ -4,6 +4,7 @@ tags: [info]
 
 Les causes sont:
 
+?
 - Suppression accidentelle: 
 	- Cause très courante de perte de données, 
 	- **solution**: Utilisation d'un logiciel de récupération de fichier.

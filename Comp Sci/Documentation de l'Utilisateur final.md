@@ -2,6 +2,7 @@
 tags: [info]
 ---
 
+?
 Manuels destinés a l'utilisateur final, aux administrateurs système et au personnel d'assistance.
 Guide, tutoriels, How To, FAQ...
 

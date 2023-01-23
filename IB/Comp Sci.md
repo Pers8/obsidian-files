@@ -13,6 +13,7 @@ $$
 [[questions infos 1]]
 [[exercices info 2]]
 [[exercices info 3]]
+[[INFO EXO]]
 
 # Theme 1: Notion fondamental sur les systèmes
 ## Chapitre 1: Les systèmes dans les organisations
@@ -47,3 +48,4 @@ $$
 2. Le [[CPU]]
 3. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
 4. Le [[Cycle Fetch-Execute]]
+5. Les [[Systèmes d'exploitation]], [[Application logicielle]]
