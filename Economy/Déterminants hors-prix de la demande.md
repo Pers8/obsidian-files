@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 Plusieurs déterminants hors prix peuvent influencer la demande. On peut retenir 6 déterminants communs:
 
 - Le [[Revenue|revenue]] (dépend du type de bien: *biens normaux* et *biens inférieures*)

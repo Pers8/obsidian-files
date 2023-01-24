@@ -1,4 +1,9 @@
+---
+tags: [economy] 
+---
+
 # Demande
+
 Created: 2022-09-09
 
 La demande est :: la quantité d'un bien ou d'un service que les consommateurs sont disposés et capable d'acheter a divers prix au cours d'une période.

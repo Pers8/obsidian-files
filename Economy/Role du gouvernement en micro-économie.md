@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 Les gouvernements souhaitent intervenir sur les marchés pour de nombreuses raisons et, en fonction de leur orientation politique, certains peuvent souhaiter une intervention radicalement plus importante que d'autres. Ces raisons sont les suivantes:
 
 - [[Obtenir des recettes publiques]]

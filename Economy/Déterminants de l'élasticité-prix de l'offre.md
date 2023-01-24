@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 Ils sont:
 
 1. [[Période considérée (offre)]]

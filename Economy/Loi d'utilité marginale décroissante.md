@@ -1,4 +1,6 @@
-
+---
+tags: [economy] 
+---
 
 
 On appel utilité la satisfaction qu'on tire de la consommation d'un bien.

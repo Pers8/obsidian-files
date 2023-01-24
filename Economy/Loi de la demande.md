@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 ## Pourquoi la loi de la demande ?
 On peut retenir **4** hypotheses qui sont derriere la loi de la demande:
 ?

@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 Surplus social/communautaire est:: la somme du surplus du consommateur et du surplus du producteur. C'est le bénéfice total obtenu par la société lorsque le marché est à l'équilibre.
 
 Lorsqu'un marché est en équilibre, sans perturbations extérieures, on dit qu'il est dans un état:: d'[[Efficacité allocative]]. Comme indiqué précédemment, cela signifie que les ressources sont allouées de la manière la plus efficace du point de vue de la société.

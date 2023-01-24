@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 Le gouvernement peut le faire de trois façons. Il peut:
 
 - accorder des subventions aux producteurs pour les encourager à augmenter l'offre en produisant davantage de ce bien.  

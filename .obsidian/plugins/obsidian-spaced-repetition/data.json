@@ -7,7 +7,8 @@
       "#flashcards",
       "#physics",
       "#info",
-      "#TOK"
+      "#TOK",
+      "#economy"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -39,6 +40,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-01-18",
+  "buryDate": "2023-01-24",
   "buryList": []
 }

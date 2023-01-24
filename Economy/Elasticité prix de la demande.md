@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 # Elasticité de la demande
 
 L'élasticité de la demande est une mesure de la réactivité de la quantité d'un bien ou d'un service au changement de l'un des facteurs qui le détermine.

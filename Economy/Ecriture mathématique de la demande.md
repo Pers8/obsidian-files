@@ -1,4 +1,6 @@
-
+---
+tags: [economy] 
+---
 
 Formule $Q_d$
 

@@ -1,3 +1,7 @@
+---
+tags: [economy] 
+---
+
 Formule $Q_o$
 
 $$Q_o=aP+b$$

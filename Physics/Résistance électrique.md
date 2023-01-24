@@ -66,4 +66,3 @@ $$U_{AC}=\frac{R_{AC}}{R_{AC}+R_{CB}}U_{AB}=\frac{R_{AC}}{R_{AB}} \hspace2mm U_{
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{ac}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-- 

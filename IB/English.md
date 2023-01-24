@@ -73,8 +73,11 @@ In the body paragraph, we should organize the similarities and differences betwe
 ### Conclusion
 The Conclusion should summarize th e main point of the essay and reiterate the thesis. It should also provide a final evaluation of the significance of the comparaison and contrast and offer a final insight or opinion of the texts or concepts being compared
 
-**Example : Pablo Picasso once said : "==Art== is the ==lie== that ==enables us== to realise ==the truth=="** 
+**Example : Pablo Picasso once said : "==Art== is the ==lie== that ==enables us== to realize ==the truth=="** 
 1) What do think he meant by this ? Do you agree ?
 2) To what degree is reading fiction about finding the "truth" ?
 
-**The Key Words** : Art, enables us, the truth 
+**The Key Words** : Art, enables us, the truth, lie
+
+Define art => Link art with Picasso => Explain the statement => give some 
+
