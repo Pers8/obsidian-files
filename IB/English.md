@@ -77,11 +77,13 @@ $\star$  **Plan**
 ### Body paragraph
 In the body paragraph, we should organize the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparison or contract and provide evidence or analysis to support a thesis
 
+- Use the plan to develop the ideas
+
 ### Conclusion
 The Conclusion should summarize the main point of the essay and reiterate the thesis. It should also provide a final evaluation of the significance of the comparison and contrast and offer a final insight or opinion of the texts or concepts being compared
 
 - Rephrase your thesis or putting it back
-- Answer the question with an objective point of view
+- Answer the question with an objective/general point of view
 - Open up a perspective
 
 **Example : Pablo Picasso once said : "==Art== is the ==lie== that ==enables us== to realize ==the truth=="** 
