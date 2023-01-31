@@ -61,17 +61,24 @@ Write aa mind map for your essay
 - Write a good thesis statement which make a claim about the author's purpose in writing : 
 Find evidence from both text to support the claims that you make in your thesis statement. Write paragraph that follows the PEACE act structure which stand's for [[Peace act]]
 
-A Comparative essay is typically required students to compare and contrast 2 and more texts, ideas or concepts. The essay should analyze the similarities and the differences between the chosen text or concepts and evaluate their significant. A structure of a comparative essay may vary depending on the specific requirements of the assignment but it should include an introduction, a body paragraph and a conclusion
+A Comparative essay is typically required students to compare and contrast 2 and more texts, ideas or concepts. The essay should analyse the similarities and the differences between the chosen text or concepts and evaluate their significant. A structure of a comparative essay may vary depending on the specific requirements of the assignment but it should include an introduction, a body paragraph and a conclusion
 
 ### Introduction :
 The introduction should provide the background information on the texts or concepts, being compared and state the main thesis
 or argument of the essay.
+- (highlight the key words and define them and try to explain the theme)
+- Thesis = Problematic
+
+**Plan**
+- Demonstrate/Explain/Showcase/Define...
+- Analyse...
+- Evaluate...
 
 ### Body paragraph
-In the body paragraph, we should organize the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparaison or contract and provide evidence or analysis to support a thesis
+In the body paragraph, we should organize the similarities and differences between the texts or concepts in a logical and clear manner. Each paragraph should focus on one specific comparison or contract and provide evidence or analysis to support a thesis
 
 ### Conclusion
-The Conclusion should summarize th e main point of the essay and reiterate the thesis. It should also provide a final evaluation of the significance of the comparaison and contrast and offer a final insight or opinion of the texts or concepts being compared
+The Conclusion should summarize the main point of the essay and reiterate the thesis. It should also provide a final evaluation of the significance of the comparison and contrast and offer a final insight or opinion of the texts or concepts being compared
 
 **Example : Pablo Picasso once said : "==Art== is the ==lie== that ==enables us== to realize ==the truth=="** 
 1) What do think he meant by this ? Do you agree ?
@@ -80,4 +87,5 @@ The Conclusion should summarize th e main point of the essay and reiterate the t
 **The Key Words** : Art, enables us, the truth, lie
 
 Define art => Link art with Picasso => Explain the statement => give some 
+
 

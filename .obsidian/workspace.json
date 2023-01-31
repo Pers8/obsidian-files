@@ -6,7 +6,6 @@
       {
         "id": "e38e3096b4288d1a",
         "type": "tabs",
-        "dimension": 78.60317460317461,
         "children": [
           {
             "id": "b85e9b11eca0fad6",
@@ -14,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
-                "mode": "preview",
+                "file": "IB/English.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -24,11 +23,19 @@
             "id": "00cf01dc162d04c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Impôts indirects.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/paper 1 graph.md"
+              }
+            }
+          },
+          {
+            "id": "562aa0cdedf4a032",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-01-27 04.55.09.excalidraw.md"
               }
             }
           },
@@ -44,99 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a2eaee2d1a24b1f4",
-        "type": "split",
-        "dimension": 21.3968253968254,
-        "children": [
-          {
-            "id": "397c03e4a12a41f2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c6ea76ac95ff49aa",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Impôts indirects.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 1,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 388,
-                      "scale": 0.6186719649464603,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "218a4e0a5a2b2e10",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "516e9bfc16967933",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Impôts indirects.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 1,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 388,
-                      "scale": 0.6186719649464603,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impôts indirects.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impôts indirects.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -254,8 +169,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00cf01dc162d04c0",
+  "active": "b85e9b11eca0fad6",
   "lastOpenFiles": [
-    "IB/Economy.md",
-    "Economy/Contrôles des prix planchers.md",
-    "Impôts indirects.md",
-    "Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
-    "Economy/Contrôles des prix plafonds.md",
-    "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
-    "Economy/Role du gouvernement en micro-économie.md",
-    "Economy/Promouvoir l'équité.md",
-    "Economy/Corriger les défaillances du marché.md"
+    "Physics/Piles électriques.md",
+    "IB/Physics.md",
+    "Physics/Résistance électrique.md",
+    "Physics/Tension ou différence de potentiel électrique.md",
+    "Physics/Intensité du courant électrique.md",
+    "IB/French.md",
+    "IB/English.md",
+    "Excalidraw/Drawing 2023-01-27 04.55.09.excalidraw.md",
+    "Electricite test.md",
+    "Excalidraw/paper 1 graph.md"
   ]
 }
