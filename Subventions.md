@@ -30,3 +30,8 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Les dépenses totales des consommateurs=>::Dépend du (PED)
 - Recettes du gouvernement=>::Diminue 
 - Bien-être social=>::Diminue
+
+
+$\Delta=b^2-4ac$
+
+$x=\frac{-b \pm \sqrt{\Delta}}{2a}$

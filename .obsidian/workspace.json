@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Physics/Energie discrète et Radioactivité.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -158,15 +158,15 @@
   },
   "active": "b85e9b11eca0fad6",
   "lastOpenFiles": [
-    "Excalidraw/particules atomique.md",
+    "IB/Physics.md",
+    "Subventions.md",
+    "IB/Maths.md",
     "Physics/Energie discrète et Radioactivité.md",
+    "Excalidraw/particules atomique.md",
     "Excalidraw/Drawing 2023-01-27 04.55.09.excalidraw.md",
     "Excalidraw/paper 1 graph.md",
     "Electricite test.md",
     "Excalidraw/Drawing 2023-02-01 05.53.56.excalidraw.md",
-    "Excalidraw/gravitation d'une planète avec l'altitude.md",
-    "Excalidraw/Drawing 2023-02-01 05.53.37.excalidraw.md",
-    "IB/Physics.md",
-    "IB/Comp Sci.md"
+    "Excalidraw/gravitation d'une planète avec l'altitude.md"
   ]
 }

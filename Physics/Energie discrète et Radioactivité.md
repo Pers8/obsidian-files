@@ -43,3 +43,5 @@ Des isotopes:: sont des atomes ou noyau ayant le même nombre de protons mais un
 - Intéraction forte
 
 Du fait de l'intéraction électrique, les protons dans un noyau devraient se repouser. Afin d'expliquer la stabilité des noyaux, on va supposer l'existance d'une force attractive entre les nucléons appelé intéraction forte. C'est la plus forte des intéractions fondamentales. Elle ne dépend pas de la nature des nucléons et elle est de courte portée de l'ordre des tailles des noyaux ($10^{-15} \hspace{2mm} m$) 
+
+### c) Niveau d'énergie atomique et transformation d'énergie au sein des atomes
