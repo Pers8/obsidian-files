@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Role du gouvernement en micro-économie.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Role du gouvernement en micro-économie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Role du gouvernement en micro-économie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Role du gouvernement en micro-économie.md"
               }
             }
           },
@@ -160,11 +160,11 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "IB/Economy.md",
     "Excalidraw/Drawing 2023-02-09 03.37.16.excalidraw.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
     "Subventions.md",
-    "IB/Economy.md",
     "Economy/Impôts indirects.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Contrôles des prix planchers.md",
