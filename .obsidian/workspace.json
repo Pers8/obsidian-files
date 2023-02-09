@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Contrôles des prix plafonds.md",
+                "file": "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Contrôles des prix plafonds.md",
+                "file": "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Contrôles des prix plafonds.md",
+                "file": "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Contrôles des prix plafonds.md"
+                "file": "Economy/Solutions aux conséquences du contrôle des prix maximums.md"
               }
             }
           },
@@ -161,14 +161,14 @@
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
     "IB/Economy.md",
+    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
+    "Economy/Contrôles des prix plafonds.md",
     "Economy/Role du gouvernement en micro-économie.md",
     "Excalidraw/Drawing 2023-02-09 03.37.16.excalidraw.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
     "Subventions.md",
     "Economy/Impôts indirects.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Economy/Contrôles des prix planchers.md",
-    "Economy/Solutions aux conséquences du contrôle des prix maximums.md"
+    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
   ]
 }
