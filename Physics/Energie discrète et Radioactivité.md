@@ -1,5 +1,6 @@
 ---
 tags: [physics]
+banner_lock: true
 ---
 
 
@@ -12,7 +13,7 @@ tags: [physics]
 ![[Pasted image 20230201055440.png]]
 
 - Interprétation
-- ?
+?
 
 ![[Pasted image 20230201055901.png]]
 
@@ -42,22 +43,36 @@ Des isotopes:: sont des atomes ou noyau ayant le même nombre de protons mais un
 
 - Intéraction forte
 
-Du fait de l'intéraction électrique, les protons dans un noyau devraient se repouser. Afin d'expliquer la stabilité des noyaux, on va supposer l'existance d'une force attractive entre les nucléons appelé intéraction forte. C'est la plus forte des intéractions fondamentales. Elle ne dépend pas de la nature des nucléons et elle est de courte portée de l'ordre des tailles des noyaux ($10^{-15} \hspace{2mm} m$) 
+Du fait de l'intéraction électrique, les protons dans un noyau devraient se repouser. Afin d'expliquer la stabilité des noyaux, on va supposer l'existance d'une force attractive entre les nucléons appelé intéraction forte. C'est la plus forte des intéractions fondamentales. Elle ne dépend pas de la nature des nucléons et elle est de courte portée de l'ordre des tailles des noyaux ($10^{-15} \hspace{2mm} m$) .
 
 ### c) Niveau d'énergie atomique et transformation d'énergie au sein des atomes
 
 (Voir feuille) ![[Spectres atomiquescours2021.docx]]
 
+###  Interprétation des spectres atomiques
 
+Les spectres d'émission et d'absorption de raies est une preuve expérimentale des niveaux d'énergie atomique. On doit l'interprétation des spectres à Niels Bohr qui a énoncé les postulats suivant :
+- Les variations d'énergie des atomes sont quantifiés (ont des valeurs discrètes).
+- Les atomes en peuvent exister que dans certains états d'énergie bien défini caractérisé par un niveau d'énergie.
+- L'atome ne peut absorber ou emmètre que des radiations lumineuses e fréquence donnée.
+En Effet, la lumière absorbé ou émise est proportionnelle à la variation d'énergie entre 2 niveaux et l'atome ne peut absorber ou emmètre de l'énergie qu'entre deux niveaux
 
+### Désintégration radioactivité 
 
+La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium. Il existe 4 type de radioactivité  :
+- Alpha +($\alpha^+$)
+- Beta + ($\beta^+$)
+- Beta - ($\beta^-$)
+- Gamma ($\gamma$)
 
+Les particules $\alpha$ sont très ionisantes (elle transforme la matière en ion ), c'est pourquoi les particules $\alpha$ sont vide arrêtés. Un rayonnement $\alpha$ de 100 $ReV$ est arrêté par une feuille de papier
 
+Le rayonnement $\beta^-$ est constitués constitué d'électrons $^0_{-1}e$
+$$^A_ZX \rightarrow ^0_{-1}e + ^A_{Z+1}Y+^0_0\overline{V} \hspace{2mm} (anti \hspace{2mm} neutrino)$$
 
-
-
-
-
+La désintégration $\beta^-$ est la transformation dans le noyau d'un neutron en un proton.
+$$^1_0n \rightarrow ^0_{-1}e + ^1_1H+^0_0\overline{V}$$
+Les rayonnement $\beta^+$ et $\beta^-$ sont ionisant que $\gamma$ ($\pm$ et $+Z$) : $B$ plus dangereux que $\gamma$. un rayonnement $\beta$ de 100$ReV$ est arrêté par une feuille de papier aluminium.
 
 ---
 ### Chose à Retenir :
@@ -66,3 +81,15 @@ Du fait de l'intéraction électrique, les protons dans un noyau devraient se re
 - Spectre discontinu ou raies
 - Spectre de l'atome d'hydrogène
 - Spectre d'émission et d'absorption 
+
+
+![[Niveau d'énergie]]
+
+$E_2-E_1=hf_{21}$
+
+$f_{21} = \frac{E_2-E_1}{h}$
+
+$f=\frac{\Delta E}{h}$   $\rightarrow$   $\Delta E = \frac{hC}{\lambda}$  $\rightarrow$ $\boxed {\lambda = \frac{hc}{\Delta E}}$
+
+
+$\Delta E = hf_{21}=\frac{hc}{\lambda_{21}}$
