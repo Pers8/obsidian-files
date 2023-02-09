@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
-    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "IB/Economy.md",
+    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Contrôles des prix planchers.md",
     "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
     "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
