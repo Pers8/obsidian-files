@@ -12,4 +12,5 @@ Les gouvernements souhaitent intervenir sur les marchés pour de nombreuses rais
 - [[Corriger les défaillances du marché]]
 - [[Promouvoir l'équité]]
 
-bien nuisible:: bien demerit/bien d'inaptitude
+bien nuisible:: bien démérite/bien d'inaptitude
+
