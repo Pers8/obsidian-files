@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventions.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventions.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventions.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventions.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "Subventions.md",
     "IB/Economy.md",
     "Economy/Impôts indirects.md",
-    "Subventions.md",
     "Economy/Surplus social ou communautaire.md",
     "Economy/Surplus du producteur.md",
     "Economy/Surplus du consommateur.md",
