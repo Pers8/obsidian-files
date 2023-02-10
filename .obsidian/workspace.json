@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Contrôles des prix planchers.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Contrôles des prix planchers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Contrôles des prix planchers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Contrôles des prix planchers.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
-    "Subventions.md",
     "IB/Economy.md",
+    "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
+    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
+    "Economy/Contrôles des prix plafonds.md",
+    "Subventions.md",
     "Economy/Impôts indirects.md",
     "Economy/Surplus social ou communautaire.md",
     "Economy/Surplus du producteur.md",
     "Economy/Surplus du consommateur.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
-    "Economy/Contrôles des prix planchers.md",
-    "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md"
+    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
   ]
 }
