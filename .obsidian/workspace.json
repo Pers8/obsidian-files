@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "IB/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "EE/Introduction.md",
+    "IB/EE.md",
+    "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
     "IB/Economy.md",
     "Economy/Role du gouvernement en micro-économie.md",
     "Economy/Impôts indirects.md",
     "Subventions.md",
     "Economy/Contrôles des prix planchers.md",
-    "Economy/Solutions aux conséquences du contrôle des prix maximums.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
-    "Economy/Contrôles des prix plafonds.md",
-    "Economy/Surplus social ou communautaire.md"
+    "Economy/Solutions aux conséquences du contrôle des prix maximums.md"
   ]
 }
