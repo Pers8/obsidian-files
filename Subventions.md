@@ -3,6 +3,7 @@ tags: [economy]
 ---
 
 # Definition 
+Les subventions sont :
 ?
 Les subventions sont des paiements unitaires qui sont utilisés pour réduire les coûts de production et augmenter la production du marché.
 
@@ -18,7 +19,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 ## L'effet des subventions sur le marché
 (graphe) 
 ?
-
+![[Pasted image 20230211085022.png]]
 ## Effet sur la société dans son ensemble 
 ?
 Cependant, en supposant que l'équilibre du marché libre, sans intervention du gouvernement, est la quantité socialement optimale du bien, en l'absence d'externalités, alors la société dans son ensemble est **moins bien lotie** avec la subvention parce qu'il y a une surallocation de ressources à la production du bien subventionné. De plus, le prix plus élevé reçu par les producteurs permet à des producteurs relativement inefficaces de continuer à produire car ils sont protégés par la subvention. En ce sens, la société est également moins bien lotie.
