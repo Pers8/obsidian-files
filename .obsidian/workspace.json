@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Economy/Contrôles des prix plafonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Economy/Contrôles des prix plafonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Economy/Contrôles des prix plafonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "Economy/Contrôles des prix plafonds.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
-    "EE/Introduction.md",
-    "IB/EE.md",
-    "Physics/Energie discrète et Radioactivité.md",
-    "IB/Physics.md",
     "IB/Economy.md",
+    "IB/Physics.md",
+    "Physics/Loi de gravitation de Newton.md",
+    "Physics/Energie discrète et Radioactivité.md",
+    "IB/EE.md",
+    "EE/Introduction.md",
     "Economy/Role du gouvernement en micro-économie.md",
     "Economy/Impôts indirects.md",
     "Subventions.md",
-    "Economy/Contrôles des prix planchers.md",
-    "Economy/Solutions aux conséquences du contrôle des prix maximums.md"
+    "Economy/Contrôles des prix planchers.md"
   ]
 }
