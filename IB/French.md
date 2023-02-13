@@ -2,6 +2,9 @@
 tags: [MOC]
 ---
 
+
+
+
 ## **Thème 4 :** Organisation sociale
 
 **Principe-directeur :** Explorer les façons dont les groupes de personnes s'organisent ou sont organisés autour de système ou de centres d'intérêt communs.
