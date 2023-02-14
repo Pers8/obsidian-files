@@ -127,7 +127,7 @@ $Courbe\hspace{2mm}de\hspace{2mm}décroissance\hspace{2mm}radioactive$
 $$ N= N_0e^{-\lambda t}$$
 $$\frac{N}{N_0}=e^{-\lambda t}$$
 $$-\lambda t=ln\frac{N}{N_0}$$
-$$t=\frac{ln\frac{N}{N_0}}{-\lambda }$$
+$$\boxed{t=\frac{ln\frac{N}{N_0}}{-\lambda }}$$
 
 
 
