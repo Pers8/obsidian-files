@@ -125,6 +125,7 @@ $$\boxed{T_{\frac{1}{2}}=\frac{ln\hspace{2mm}2}{\lambda}}$$
 
 
 
+
 ---
 ### Chose à Retenir :
 
