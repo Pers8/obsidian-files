@@ -11,9 +11,11 @@
             "id": "91100c285703cfa8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 09.07.25.excalidraw.md"
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 09.07.25.excalidraw.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 09.07.25.excalidraw.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 09.07.25.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -158,6 +160,7 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "Excalidraw/N en fonction de t.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
     "IB/Economy.md",
@@ -166,7 +169,6 @@
     "Economy/Loi de la demande.md",
     "Economy/Loi de l'offre.md",
     "IB/English.md",
-    "IB/French.md",
-    "Subventions.md"
+    "IB/French.md"
   ]
 }
