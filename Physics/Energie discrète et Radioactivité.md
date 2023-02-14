@@ -82,7 +82,7 @@ $$X^* \rightarrow X+\gamma$$
 
 
 ## Stabilité des noyaux
-Les noyaux ont plus de neutrons que de protons car les neutrons du fait de l'intéraction forte participe à la stabilité du noyau contrairement aux protons qui se repoussent. Aux valeurs improtantes de $Z$, la majeure partie des noyaux sont instable car la taille du noyau augmente avec le nombre de masse et comme l'intéraction forte est une force de courte portée (environ $10^{-15}m$), ses noyaux seront instable
+Les noyaux ont plus de neutrons que de protons car les neutrons du fait de l'intéraction forte participe à la stabilité du noyau contrairement aux protons qui se repoussent. Aux valeurs improtantes de $Z$, la majeure partie des noyaux sont instable car la taille du noyau augmente avec le nombre de masse et comme l'intéraction forte est une force de courte portée (environ $10^{-15}m$), ses noyaux seront instable.
 
 
 
