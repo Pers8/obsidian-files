@@ -103,9 +103,9 @@ $$\boxed{N=n_0e^{-\lambda t}}$$
 ![[N en fonction de t]]
 
 
-#### Désintégation $T_{1/2}$ ou période radioactive
+#### Désintégration $T_{1/2}$ ou période radioactive
 
-C'esst le temps au bout duquel la moitié des noyaux radioactifs d'un échantillon s'est désintégré.
+C'est le temps au bout duquel la moitié des noyaux radioactifs d'un échantillon s'est désintégré.
 
 à $t=T_{1/2}$             $N=\frac{N_0}{2}$
 
