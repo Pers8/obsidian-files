@@ -149,3 +149,4 @@ $f=\frac{\Delta E}{h}$   $\rightarrow$   $\Delta E = \frac{hC}{\lambda}$  $\righ
 $\Delta E = hf_{21}=\frac{hc}{\lambda_{21}}$
 
 - Activité radioactive :: nombre de désintégration par unité de temps se mesure avec 1 compteur Geiger-Muller unité Bq Becquerel (1 désintégration par seconde)
+- A =:: $\lambda$
