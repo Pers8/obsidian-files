@@ -96,7 +96,8 @@ $\lambda=$  Constante de désintégration d'un noyau. probabilité de désintég
 
 Le noyau de noyaux déintégrés $dN$ ($\Delta N=N_f-N_i$)
 $$dN=-\gamma Ndt$$
-$$\frac{dN}{dt}=$$
+$$\frac{dN}{dt}=-\gamma N$$
+La solution de l'équation différentielle ci-dessous est
 
 
 
