@@ -120,7 +120,9 @@ $$\boxed{T_{\frac{1}{2}}=\frac{ln\hspace{2mm}2}{\lambda}}$$
 
 
 ![[5898601.png]]
-$Courbe\hspace{2mm}de\hspace{2mm}décroissance\hspace{2mm}$
+$Courbe\hspace{2mm}de\hspace{2mm}décroissance\hspace{2mm}radioactive$ 
+
+
 
 
 
@@ -145,3 +147,5 @@ $f=\frac{\Delta E}{h}$   $\rightarrow$   $\Delta E = \frac{hC}{\lambda}$  $\righ
 
 
 $\Delta E = hf_{21}=\frac{hc}{\lambda_{21}}$
+
+- Activité radioactive :: 
