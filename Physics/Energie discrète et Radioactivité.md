@@ -92,7 +92,9 @@ La décroissante radioactive est un phénomène aléatoire , on ne peut pas pré
 un noayau va se désintégrer. 
 La probabilité de désintégration d'un noyau est de :
 $$dp=\lambda dt$$$$\lambda=\frac{dp}{dt}\hspace{2mm} en \hspace{2mm} s^{-1}$$
-$\lambda=$  Constante de désintégration d'un noyau.
+$\lambda=$  Constante de désintégration d'un noyau. probabilité de désintégration par unité de temps
+
+Le noyau de noyaux déintégrés
 
 
 
