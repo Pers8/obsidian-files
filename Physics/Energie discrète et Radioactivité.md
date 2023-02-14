@@ -95,10 +95,10 @@ $$dp=\lambda dt$$$$\lambda=\frac{dp}{dt}\hspace{2mm} en \hspace{2mm} s^{-1}$$
 $\lambda=$  Constante de désintégration d'un noyau. probabilité de désintégration par unité de temps
 
 Le noyau de noyaux déintégrés $dN$ ($\Delta N=N_f-N_i$) est proportionnel à $N$ et à la probabilité de désintégration
-$$dN=-\gamma Ndt$$
-$$\frac{dN}{dt}=-\gamma N$$
+$$dN=-\lambda Ndt$$
+$$\frac{dN}{dt}=-\lambda N$$
 La solution de l'équation différentielle ci-dessous est :
-$$\boxed{N=n_0e^{-\gamma t}}$$
+$$\boxed{N=n_0e^{-\lambda t}}$$
 
 ![[N en fonction de t]]
 
