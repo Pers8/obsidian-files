@@ -105,7 +105,7 @@ $$\boxed{N=n_0e^{-\gamma t}}$$
 
 #### Désintégation $T_{1/2}$ ou période radioactive
 
-C'esst le temps au bout duquel la moitié des noya
+C'esst le temps au bout duquel la moitié des noyaux radioactifs d'un échantillon s'est dési
 
 
 
