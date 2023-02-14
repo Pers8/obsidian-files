@@ -100,6 +100,7 @@ $$\frac{dN}{dt}=-\gamma N$$
 La solution de l'équation différentielle ci-dessous est :
 $$\boxed{N=n_0e^{-\gamma t}}$$
 
+![[N en fonction de t]]
 
 
 
