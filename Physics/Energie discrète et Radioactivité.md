@@ -91,7 +91,7 @@ Les noyaux $\beta^+$ sont au dessus du niveau dee stabilité car ils ont trop de
 La décroissante radioactive est un phénomène aléatoire , on ne peut pas prédire quand 
 un noayau va se désintégrer. 
 La probabilité de désintégration d'un noyau est de :
-$$d_p=\lambda $$
+$$dp=\lambda dt$$$$\lambda=\frac{dp}{dt}$$
 
 
 
