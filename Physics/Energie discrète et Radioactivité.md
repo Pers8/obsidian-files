@@ -103,7 +103,9 @@ $$\boxed{N=n_0e^{-\gamma t}}$$
 ![[N en fonction de t]]
 
 
-#### -
+#### Désintégation $T_{1/2}$ ou période radioactive
+
+C'esst le temps au bout duquel la moitié des noya
 
 
 
