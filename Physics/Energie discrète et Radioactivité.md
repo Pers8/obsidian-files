@@ -88,8 +88,9 @@ Les noyaux $\beta^+$ sont au dessus du niveau dee stabilité car ils ont trop de
 
 ### e) Loi de décroissante radioactive
 
-La décroissante radioactive est un phénomène alé
-
+La décroissante radioactive est un phénomène aléatoire , on ne peut pas prédire quand 
+un noayau va se désintégrer. 
+La probabilité de dé
 
 ---
 ### Chose à Retenir :
