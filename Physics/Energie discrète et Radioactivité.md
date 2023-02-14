@@ -94,7 +94,8 @@ La probabilité de désintégration d'un noyau est de :
 $$dp=\lambda dt$$$$\lambda=\frac{dp}{dt}\hspace{2mm} en \hspace{2mm} s^{-1}$$
 $\lambda=$  Constante de désintégration d'un noyau. probabilité de désintégration par unité de temps
 
-Le noyau de noyaux déintégrés $dN$ ($\delta N=N_$)
+Le noyau de noyaux déintégrés $dN$ ($\Delta N=N_f-N_i$)
+$$dN=\gamma$$
 
 
 
