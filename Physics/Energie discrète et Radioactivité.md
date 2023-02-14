@@ -111,7 +111,7 @@ C'esst le temps au bout duquel la moitié des noyaux radioactifs d'un échantill
 
 $\frac{N_0}{2}=N_0e^{-\lambda T_{1/2}}$ 
 
-$\frac{N_0}{2}=N_0e^{-\lambda T_{1/2}}$ 
+$\frac{\cancel{N_0}}{\cancel{2}=N_0e^{-\lambda T_{1/2}}$ 
 
 
 
