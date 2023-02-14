@@ -120,7 +120,7 @@ $$\boxed{T_{\frac{1}{2}}=\frac{ln\hspace{2mm}2}{\lambda}}$$
 
 
 ![[5898601.png]]
-
+$Courbe\hspace{2mm}de\hspace{2mm}décroissance\hspace{2mm}$
 
 
 
