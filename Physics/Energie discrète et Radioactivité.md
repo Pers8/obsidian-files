@@ -57,7 +57,7 @@ Les spectres d'émission et d'absorption de raies est une preuve expérimentale 
 - L'atome ne peut absorber ou emmètre que des radiations lumineuses e fréquence donnée.
 En Effet, la lumière absorbé ou émise est proportionnelle à la variation d'énergie entre 2 niveaux et l'atome ne peut absorber ou emmètre de l'énergie qu'entre deux niveaux
 
-### Désintégration radioactivité 
+### d) Désintégration radioactivité 
 
 La radioactivité est l'émission spontanée d'un rayonnement par les noyaux de certains éléments radioactifs. Elle a été découverte accidentellement sur des travaux sur des sels d'uranium. Il existe 4 type de radioactivité  :
 - Alpha +($\alpha^+$)
@@ -81,10 +81,12 @@ La radiactivité Gamma $\gamma$ est l'émission d'un rayonnement électromagnét
 $$X^* \rightarrow X+\gamma$$
 
 
-## Stabilité des noyaux
+#### Stabilité des noyaux
 
 Les noyaux ont plus de neutrons que de protons car les neutrons du fait de l'intéraction forte participe à la stabilité du noyau contrairement aux protons qui se repoussent. Aux valeurs improtantes de $Z$, la majeure partie des noyaux sont instable car la taille du noyau augmente avec le nombre de masse et comme l'intéraction forte est une force de courte portée (environ $10^{-15}m$), ses noyaux seront instable. La majeure partie des noyaux rouges sont radioactif $\alpha$. La courbe en bleu représente le domaine de stabilité. Les éléments $\beta^-$ sont au dessus car ils ont trop de neutrons, ces derniers vont se transformer en électron ou proton jusqu'a ce que le noyau soit instable.
 Les noyaux $\beta^+$ sont au dessus du niveau dee stabilité car ils ont trop de neutrons.
+
+### Loi de décroissante radioactive
 
 
 
