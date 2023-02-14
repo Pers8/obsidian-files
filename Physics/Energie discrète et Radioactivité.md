@@ -109,7 +109,7 @@ C'esst le temps au bout duquel la moitié des noyaux radioactifs d'un échantill
 
 à $t=T_{1/2}$             $N=\frac{N_0}{2}$
 
-$\frac{N_0}{2}=N_0$
+$\frac{N_0}{2}=N_0e^{}$
 
 
 
