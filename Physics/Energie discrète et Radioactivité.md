@@ -113,7 +113,8 @@ $$\frac{N_0}{2}=N_0e^{-\lambda T_{1/2}}$$
 
 $$\frac{\cancel{N_0}}{\cancel{2N_0}}=e^{-\lambda T_{1/2}}$$
 
-$$ln\frac{1}{2}=N_0e^{-\lambda T_{1/2}}$$
+$$ln\frac{1}{2}=ln\hspace{2mm}e^{-\lambda T_{1/2}}$$
+$$ln\hspace{1mm}1-ln=ln\hspace{2mm}e^{-\lambda T_{1/2}}$$
 
 
 
