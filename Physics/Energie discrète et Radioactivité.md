@@ -74,6 +74,8 @@ La désintégration $\beta^-$ est la transformation dans le noyau d'un neutron e
 $$^1_0n \rightarrow ^0_{-1}e + ^1_1H+^0_0\overline{V}$$
 Les rayonnement $\beta^+$ et $\beta^-$ sont ionisant que $\gamma$ ($\pm$ et $+Z$) : $B$ plus dangereux que $\gamma$. un rayonnement $\beta$ de 100$ReV$ est arrêté par une feuille de papier aluminium.
 
+La radioactivité $\beta^+$ est émission d'un positron ou positon $^$
+
 ---
 ### Chose à Retenir :
 
