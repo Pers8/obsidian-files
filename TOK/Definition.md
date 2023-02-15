@@ -18,5 +18,5 @@ KEY WORDS :
 **Empirical:** based on and verified by observation and experience
 **Hypothesis:** a provisional explanation based on limited evidence that provides a starting point for further investigations
 **Scientific methods:** a method of procedure for the way scientific investigations are conducted 
-
+è
 We often refer to the scientific method as if were a single way of correctly doing science or acquiring reliable knowledge, there is no set of fixed steps that scientists always follow. Instead, there are many different ways of doing science. What they share is an empirical approach that involves a lot of practices including : asking questions or defining problems, planning and cutting out investigations, design and creating models, analysing and interpreting data, looking for patterns, building possible explanations, making , assessing results and theories, communicating results
