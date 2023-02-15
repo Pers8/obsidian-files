@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "TOK WORK (1).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "TOK WORK (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "TOK WORK (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Demande.md"
+                "file": "TOK WORK (1).md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "TOK WORK (2).md",
+    "IB/TOK.md",
+    "Economy/Demande.md",
     "IB/Economy.md",
     "Comp Sci/RAM.md",
-    "Economy/Demande.md",
     "Subventions.md",
     "Economy/Impôts indirects.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Contrôles des prix planchers.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
-    "Economy/Contrôles des prix plafonds.md",
-    "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md"
+    "Economy/Conséquences possibles de l'imposition d'un prix maximum.md"
   ]
 }
