@@ -11,6 +11,9 @@ So first i layout the data(s), analyse it and then maybe compare if there are mo
 **3) Provide a real-life example of a lab you have actually done for each of the following criteria :**
 - **Lab worked well and you more or less knew the result in advance and got the data you expected.**
 
+
 - **You really could not predict what would happen in advance and obtained some interesting results.**
 
-- 
+
+- **The lab did not work or you got meaningless results.**
+
