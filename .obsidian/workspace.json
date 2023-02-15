@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subventions.md",
+                "file": "Economy/Demande.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subventions.md",
+                "file": "Economy/Demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subventions.md",
+                "file": "Economy/Demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subventions.md"
+                "file": "Economy/Demande.md"
               }
             }
           },
@@ -161,14 +161,14 @@
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
     "IB/Economy.md",
+    "Comp Sci/RAM.md",
+    "Economy/Demande.md",
+    "Subventions.md",
     "Economy/Impôts indirects.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Contrôles des prix planchers.md",
     "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
     "Economy/Contrôles des prix plafonds.md",
-    "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-14 12.49.15.excalidraw.md",
-    "Physics/Energie discrète et Radioactivité.md",
-    "Excalidraw/N en fonction de t.md"
+    "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md"
   ]
 }
