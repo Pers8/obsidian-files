@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
+                "file": "Economy/Impôts indirects.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
+                "file": "Economy/Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
+                "file": "Economy/Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
+                "file": "Economy/Impôts indirects.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
     "IB/Economy.md",
+    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Contrôles des prix planchers.md",
     "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
     "Economy/Contrôles des prix plafonds.md",
@@ -168,7 +169,6 @@
     "Excalidraw/Drawing 2023-02-14 12.49.15.excalidraw.md",
     "Physics/Energie discrète et Radioactivité.md",
     "Excalidraw/N en fonction de t.md",
-    "IB/Physics.md",
-    "Economy/Ecriture mathématique de la demande.md"
+    "IB/Physics.md"
   ]
 }
