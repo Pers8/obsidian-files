@@ -11,9 +11,11 @@
             "id": "91100c285703cfa8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md"
+                "file": "Economy/Contrôles des prix plafonds.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md",
+                "file": "Economy/Contrôles des prix plafonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md",
+                "file": "Economy/Contrôles des prix plafonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md"
+                "file": "Economy/Contrôles des prix plafonds.md"
               }
             }
           },
@@ -158,15 +160,15 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md",
     "Excalidraw/Drawing 2023-02-14 12.49.15.excalidraw.md",
     "Physics/Energie discrète et Radioactivité.md",
     "Excalidraw/N en fonction de t.md",
     "IB/Physics.md",
-    "IB/Economy.md",
     "Economy/Ecriture mathématique de la demande.md",
     "Economy/Demande.md",
     "Economy/Loi de la demande.md",
-    "Economy/Loi de l'offre.md",
-    "IB/English.md"
+    "Economy/Loi de l'offre.md"
   ]
 }
