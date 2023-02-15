@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Contrôles des prix planchers.md",
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Contrôles des prix planchers.md",
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Contrôles des prix planchers.md",
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Contrôles des prix planchers.md"
+                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
     "IB/Economy.md",
+    "Economy/Contrôles des prix planchers.md",
     "Economy/Conséquences possibles de l'imposition d'un prix maximum.md",
     "Economy/Contrôles des prix plafonds.md",
     "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md",
@@ -168,7 +169,6 @@
     "Physics/Energie discrète et Radioactivité.md",
     "Excalidraw/N en fonction de t.md",
     "IB/Physics.md",
-    "Economy/Ecriture mathématique de la demande.md",
-    "Economy/Demande.md"
+    "Economy/Ecriture mathématique de la demande.md"
   ]
 }
