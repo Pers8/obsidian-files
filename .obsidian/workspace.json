@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK WORK (1).md",
+                "file": "Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK WORK (1).md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK WORK (1).md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK WORK (1).md"
+                "file": "Methods.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "91100c285703cfa8",
   "lastOpenFiles": [
+    "Physics auj.md",
+    "Electricite test.md",
+    "exo binaire.md",
+    "Ava - Getting Started.md",
+    "TOK WORK (1).md",
     "TOK WORK (2).md",
     "Methods.md",
-    "TOK WORK (1).md",
     "IB/TOK.md",
     "Economy/Demande.md",
-    "IB/Economy.md",
-    "Comp Sci/RAM.md",
-    "Subventions.md",
-    "Economy/Impôts indirects.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
+    "IB/Economy.md"
   ]
 }
