@@ -1,0 +1,7 @@
+---
+tags: [TOK]
+---
+
+Most people have a strong belief in the accuracy and completeness of their visual experience. Indeed, it is often said that “seeing is believing”, indicating that visual perception is considered to be one of the most trustworthy means of obtaining information about the world, distorting little and missing less. In spite of our strong impressions, however, research has shown that visual perception does not capture as much of the world as we think. For example, a driver might believe that simply by looking around they would always be able to see an oncoming car, always notice the sudden veering of a nearby child on a bicycle, and always see the sudden appearance of an animal that ran in front of their car. But they would be wrong. Even if viewing conditions were excellent, they could still miss such events, for example, if they talking on a cell phone.
+
+Much of this concern is based on the existence of change blindness, the inability to notice large changes that occur in clear view of an observer. This effect is extremely robust and can be produced under many different conditions, including when the changes are repeatedly made and the observer knows that they will occur. Consequently, change blindness is believed to reflect limitations on the way we see, limitations with important consequences for how much of the world we actually perceive in everyday life.

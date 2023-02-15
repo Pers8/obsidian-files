@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91100c285703cfa8",
+            "id": "17d1f3b313ab891e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK WORK (1).md",
+                "file": "Change blindness.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK WORK (1).md",
+                "file": "Change blindness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK WORK (1).md",
+                "file": "Change blindness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK WORK (1).md"
+                "file": "Change blindness.md"
               }
             }
           },
@@ -158,17 +158,17 @@
       "ava:Ava": false
     }
   },
-  "active": "91100c285703cfa8",
+  "active": "17d1f3b313ab891e",
   "lastOpenFiles": [
+    "TOK WORK (1).md",
+    "Change blindness.md",
     "IB/TOK.md",
     "Methods.md",
     "Physics auj.md",
     "Electricite test.md",
     "exo binaire.md",
     "Ava - Getting Started.md",
-    "TOK WORK (1).md",
     "TOK WORK (2).md",
-    "Economy/Demande.md",
-    "IB/Economy.md"
+    "Economy/Demande.md"
   ]
 }
