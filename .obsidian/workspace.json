@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Physics auj.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Physics auj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Physics auj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Physics auj.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
+    "IB/Economy.md",
     "Physics auj.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
@@ -168,7 +169,6 @@
     "TOK WORK (3).md",
     "TOK WORK (1).md",
     "Change blindness.md",
-    "IB/TOK.md",
-    "Methods.md"
+    "IB/TOK.md"
   ]
 }
