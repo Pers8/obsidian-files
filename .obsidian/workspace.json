@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Choc de demande.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Choc de demande.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Choc de demande.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Choc de demande.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -161,11 +161,11 @@
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
     "Economy/Déséquilibre du marché.md",
+    "Economy/Choc d'offre.md",
+    "Economy/Choc de demande.md",
     "IB/Economy.md",
     "Economy/Equilibre du marché.md",
     "Economy/Fonctions du mécanisme des prix.md",
-    "Economy/Choc d'offre.md",
-    "Economy/Choc de demande.md",
     "Economy/Ecriture mathématique de la demande.md",
     "Economy/Déterminants hors-prix de l'offre.md",
     "Economy/Déterminants hors-prix de la demande.md",
