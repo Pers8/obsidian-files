@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Déterminants hors-prix de l'offre.md",
+                "file": "Economy/Equilibre du marché.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Déterminants hors-prix de l'offre.md",
+                "file": "Economy/Equilibre du marché.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Déterminants hors-prix de l'offre.md",
+                "file": "Economy/Equilibre du marché.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Déterminants hors-prix de l'offre.md"
+                "file": "Economy/Equilibre du marché.md"
               }
             }
           },
@@ -161,14 +161,14 @@
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
     "IB/Economy.md",
+    "Economy/Ecriture mathématique de la demande.md",
+    "Economy/Déterminants hors-prix de l'offre.md",
     "Economy/Déterminants hors-prix de la demande.md",
     "Economy/Déterminants prix de la demande.md",
-    "Economy/Ecriture mathématique de la demande.md",
     "Economy/Loi de la demande.md",
     "Economy/Effet de substitution.md",
     "Economy/Loi d'utilité marginale décroissante.md",
     "Economy/marché.md",
-    "Economy/Demande.md",
-    "Economy/Ceteris paribus.md"
+    "Economy/Demande.md"
   ]
 }
