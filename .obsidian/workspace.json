@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Fonctions du mécanisme des prix.md",
+                "file": "Economy/Surplus social ou communautaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Fonctions du mécanisme des prix.md",
+                "file": "Economy/Surplus social ou communautaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Fonctions du mécanisme des prix.md",
+                "file": "Economy/Surplus social ou communautaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Fonctions du mécanisme des prix.md"
+                "file": "Economy/Surplus social ou communautaire.md"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
-    "Economy/Changements de prix et boucles de rétroaction.md",
-    "Economy/Fonctions du mécanisme des prix.md",
     "IB/Economy.md",
+    "Economy/Fonctions du mécanisme des prix.md",
+    "Economy/Changements de prix et boucles de rétroaction.md",
     "Economy/Déséquilibre du marché.md",
     "Economy/Choc d'offre.md",
     "Economy/Choc de demande.md",
