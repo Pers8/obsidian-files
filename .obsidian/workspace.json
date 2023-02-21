@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Loi de la demande.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Loi de la demande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Loi de la demande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Loi de la demande.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Economy/marché.md",
     "Economy/Demande.md",
     "Economy/Ceteris paribus.md",
-    "IB/Economy.md",
     "Economy/Déterminants hors-prix de la demande.md",
     "Physics auj.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
     "TOK/Definition.md",
-    "TOK/Natural Sciences.md",
-    "TOK WORK (3).md"
+    "TOK/Natural Sciences.md"
   ]
 }
