@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Déterminants hors-prix de l'offre.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Déterminants hors-prix de l'offre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Déterminants hors-prix de l'offre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Déterminants hors-prix de l'offre.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
-    "Economy/Déterminants hors-prix de la demande.md",
     "IB/Economy.md",
+    "Economy/Déterminants hors-prix de la demande.md",
     "Economy/Déterminants prix de la demande.md",
     "Economy/Ecriture mathématique de la demande.md",
     "Economy/Loi de la demande.md",
