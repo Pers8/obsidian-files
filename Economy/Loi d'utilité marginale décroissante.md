@@ -4,7 +4,7 @@ tags: [economy]
 
 
 On appel utilité la satisfaction qu'on tire de la consommation d'un bien.
-L'utilité marginale est la satisfaction supplémentaire qu'on tire de la consommation d'une unité supplémentaire d'un bien.
+L'utilité marginale est:: la satisfaction supplémentaire qu'on tire de la consommation d'une unité supplémentaire d'un bien.
 
 ## Formule de l'utilité marginale
 Si on a $\Delta{U_{total}}$ et $\Delta{Q_d}$ alors l'utilité marginale $U_m$ =
