@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "Economy/Ceteris paribus.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "Economy/Ceteris paribus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Demande.md",
+                "file": "Economy/Ceteris paribus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Demande.md"
+                "file": "Economy/Ceteris paribus.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "f649f3b8dac130b4",
   "lastOpenFiles": [
+    "Economy/Demande.md",
     "IB/Economy.md",
     "Economy/Déterminants hors-prix de la demande.md",
     "Physics auj.md",
@@ -168,7 +169,6 @@
     "TOK/Definition.md",
     "TOK/Natural Sciences.md",
     "TOK WORK (3).md",
-    "TOK WORK (1).md",
-    "Change blindness.md"
+    "TOK WORK (1).md"
   ]
 }
