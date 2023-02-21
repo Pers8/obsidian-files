@@ -6,3 +6,4 @@ L'offre est la quantité d'un bien ou d'un service que les producteurs sont disp
 
 
 Offre du [[marché]] =:: La somme des offres individuelles. Voir la [[Loi de l'offre]]
+<!--SR:!2023-02-24,3,250-->
