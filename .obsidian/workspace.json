@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Surplus social ou communautaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Surplus social ou communautaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Surplus social ou communautaire.md"
               }
             }
           },
@@ -194,11 +194,11 @@
       "ava:Ava": false
     }
   },
-  "active": "76a9de5bd1371e4c",
+  "active": "df0cd577cf3cfead",
   "lastOpenFiles": [
+    "IB/Economy.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Surplus social ou communautaire.md",
-    "IB/Economy.md",
     "Economy/Fonctions du mécanisme des prix.md",
     "Economy/Changements de prix et boucles de rétroaction.md",
     "Economy/Déséquilibre du marché.md",
