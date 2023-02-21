@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Conséquences possibles de l'imposition d'un prix plancher.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Surplus social ou communautaire.md",
     "IB/Economy.md",
     "Economy/Fonctions du mécanisme des prix.md",
@@ -204,7 +205,6 @@
     "Economy/Choc d'offre.md",
     "Economy/Choc de demande.md",
     "Economy/Equilibre du marché.md",
-    "Economy/Ecriture mathématique de la demande.md",
-    "Economy/Déterminants hors-prix de l'offre.md"
+    "Economy/Ecriture mathématique de la demande.md"
   ]
 }
