@@ -4,44 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "23ce29396a058a84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f649f3b8dac130b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economy/Surplus social ou communautaire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
         "id": "4e68c55485b85c6c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df0cd577cf3cfead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economy/Surplus social ou communautaire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "17b6a7033850ef26",
         "type": "tabs",
         "children": [
           {
@@ -50,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Surplus social ou communautaire.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Surplus social ou communautaire.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Surplus social ou communautaire.md"
+                "file": "Physics/Energie discrète et Radioactivité.md"
               }
             }
           },
@@ -194,17 +157,17 @@
       "ava:Ava": false
     }
   },
-  "active": "df0cd577cf3cfead",
+  "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "IB/Economy.md",
-    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Surplus social ou communautaire.md",
+    "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Fonctions du mécanisme des prix.md",
     "Economy/Changements de prix et boucles de rétroaction.md",
     "Economy/Déséquilibre du marché.md",
     "Economy/Choc d'offre.md",
     "Economy/Choc de demande.md",
-    "Economy/Equilibre du marché.md",
-    "Economy/Ecriture mathématique de la demande.md"
+    "Economy/Equilibre du marché.md"
   ]
 }
