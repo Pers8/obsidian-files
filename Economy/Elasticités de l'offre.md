@@ -7,6 +7,6 @@ L'élasticité prix offre (PES) est une mesure de la variation de la quantité f
 Formule de l'élasticité prix de l'offre:
 ?
 $$\text{PES}=\frac{\Delta Q_{s}}{\Delta P}$$
-<!--SR:!2023-02-22,1,230-->
+<!--SR:!2023-03-02,7,250-->
 
 - Le signe du **PES** est:: toujours **positif**
