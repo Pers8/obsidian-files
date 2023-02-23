@@ -15,6 +15,7 @@ La demande est :: la quantité d'un bien ou d'un service que les consommateurs s
 <!--SR:!2023-02-25,4,270-->
 
 - Quand le prix diminue:: la quantité demandée augmente, [[Ceteris Paribus]]
+<!--SR:!2023-02-27,4,274-->
 
 
 > [!important]
