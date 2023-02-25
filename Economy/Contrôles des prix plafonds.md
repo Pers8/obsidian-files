@@ -11,7 +11,7 @@ Les objectifs de cette politique d'intervenir sur ces prix sont généralement d
 - augmenter la consommation du bien ou du service. 
 - réduire le prix de certains biens ou services pour les consommateurs à faible revenu. 
 - empêcher l'exploitation par des monopoles
-<!--SR:!2023-02-25,4,270-->
+<!--SR:!2023-03-13,16,290-->
 
 Deux situations courantes où **contrôles des prix maximaux** sont utilisés pour assurer la disponibilité de: 
 ?
