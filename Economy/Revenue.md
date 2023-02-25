@@ -6,3 +6,4 @@ tags: [economy]
 <!--SR:!2023-02-26,3,230-->
 
 - Un bien est dit inférieur :: lorsque la quantité demandée varie dans le sens contraire du changement de revenue.
+<!--SR:!2023-02-26,1,228-->
