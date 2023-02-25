@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Physics/Energie discrète et Radioactivité.md"
               }
             }
           },
@@ -159,10 +159,11 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "IB/Economy.md",
+    "IB/Comp Sci.md",
     "IB/Maths.md",
     "IB/French.md",
-    "IB/Physics.md",
     "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
     "Economy/Surplus social ou communautaire.md",
