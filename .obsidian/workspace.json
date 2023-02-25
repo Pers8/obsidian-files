@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -159,10 +159,12 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "IB/Maths.md",
+    "IB/French.md",
+    "IB/Physics.md",
     "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
-    "IB/Physics.md",
-    "IB/Economy.md",
     "Economy/Surplus social ou communautaire.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
     "Economy/Fonctions du mécanisme des prix.md",
