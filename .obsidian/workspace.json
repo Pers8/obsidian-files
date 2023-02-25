@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
     "IB/Physics.md",
     "IB/Economy.md",
