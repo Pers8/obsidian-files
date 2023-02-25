@@ -34,6 +34,8 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Le revenu total des producteurs=>::Augmente 
 - Les dépenses totales des consommateurs=>::Dépend du (PED)
 - Recettes du gouvernement=>::Diminue 
+<!--SR:!2023-03-01,4,272-->
 - Bien-être social=>::Diminue
+<!--SR:!2023-02-26,1,232-->
 
 
