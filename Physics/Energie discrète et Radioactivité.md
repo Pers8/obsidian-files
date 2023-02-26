@@ -31,7 +31,7 @@ Incovénient de ce modèle:: Toute particule électrisée animé d'un mouvement 
 
 ### b) Composition du noyau
 
-Le noyau est constitué de particules appelées "nucléons" qui sont des protons et des neutrons. Le nombre total de nucléons d'un noyau est noté $A$ et appelé "nombre de masse". Le nombre total de protons d'un noyau est noté $Z$, on l'appelle numéro atomique ou nnombre de charges.
+Le noyau est constitué de particules appelées "nucléons" qui sont des protons et des neutrons. Le nombre total de nucléons d'un noyau est noté $A$ et appelé "nombre de masse". Le nombre total de protons d'un noyau est noté $Z$, on l'appelle numéro atomique ou nombre de charges.
 
 ![[particules atomique]]
 
