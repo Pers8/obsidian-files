@@ -37,7 +37,7 @@ Le noyau est constitué de particules appelées "nucléons" qui sont des protons
 
 ![[Pasted image 20230201063120.png]]
 
-Ces atomes ont le même symbole et le même nombre de protons : Ce sont des isotopes.
+Ces atomes ont le même symbole et le même nombre de protons :: Ce sont des isotopes.
 
 Des isotopes:: sont des atomes ou noyau ayant le même nombre de protons mais un nombre différent de neutrons (ou de nucléons). Ils ont les mêmes propriété chimiques mais des propriétés physiques différentes (ex: masse, la radioactivité).
 
