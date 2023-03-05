@@ -114,3 +114,6 @@ $\hspace{10.5 cm} -1 \hspace{.5 cm} r \hspace{.5 cm} 1$
 # Topic 3 : Geometry & Trigonometry
 # Topic 4 : Statistics & Probability 
 # Topic 5 : Calculus 
+
+
+$\Sigma$
