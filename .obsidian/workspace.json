@@ -11,11 +11,9 @@
             "id": "76a9de5bd1371e4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IB/Maths.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md"
               }
             }
           },
@@ -159,13 +157,14 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md",
     "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
     "Excalidraw/particules atomique.md",
     "IB/Physics.md",
     "IB/Economy.md",
     "IB/Comp Sci.md",
-    "IB/Maths.md",
     "IB/French.md",
     "Economy/Surplus social ou communautaire.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
