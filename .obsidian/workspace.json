@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Energie discrète et Radioactivité.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "assets/Pasted Image 20230306113413_966.png",
     "IB/French.md",
@@ -172,7 +173,6 @@
     "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
     "Excalidraw/particules atomique.md",
-    "IB/Physics.md",
     "IB/Comp Sci.md",
     "Economy/Surplus social ou communautaire.md",
     "Economy/Conséquences possibles de l'imposition d'un prix plancher.md",
