@@ -11,9 +11,11 @@
             "id": "76a9de5bd1371e4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md"
+                "file": "IB/French.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
+                "file": "IB/French.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
+                "file": "IB/French.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md"
+                "file": "IB/French.md"
               }
             }
           },
@@ -157,9 +159,10 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
     "assets/Pasted Image 20230306101134_488.png",
     "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
     "assets/Pasted Image 20230305145401_309.png",
     "assets/Pasted Image 20230305144720_046.png",
     "IB/Maths.md",
@@ -167,7 +170,6 @@
     "assets/~$ectres atomiquescours2021.docx",
     "Excalidraw/particules atomique.md",
     "IB/Physics.md",
-    "IB/Economy.md",
     "IB/Comp Sci.md",
     "IB/French.md",
     "Economy/Surplus social ou communautaire.md",
