@@ -20,3 +20,4 @@ $$\large{T_{1/2}=\frac{t}{\log_2\frac{N_{0}}{N}}}$$
 
 Graphe de période radioactive:
 ?
+![[Pasted image 20230306170558.png]]
