@@ -21,3 +21,5 @@ Equations des 4 types de radioactivités:
 NB: Pour Beta- decay-> +anti-neutrino ($^0_0\bar{v}$), pour beta+ decay -> +neutrino($^0_0v$) 
 
 ![[Pasted image 20230306165330.png]]
+
+Pouvoir de penetration de 3 radioactivités:
