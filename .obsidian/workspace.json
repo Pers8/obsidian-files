@@ -11,9 +11,11 @@
             "id": "76a9de5bd1371e4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md"
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -157,9 +159,9 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "assets/Pasted Image 20230306113413_966.png",
     "IB/French.md",
-    "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "IB/Economy.md",
     "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
     "assets/Pasted Image 20230306101134_488.png",
