@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Loi de décroissance radioactive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Loi de décroissance radioactive.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
-    "Physics/Désintégration radioactive.md",
     "IB/Physics.md",
+    "Physics/Désintégration radioactive.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Physics/Composition du noyau.md",
     "Physics/Le modèle atomique de Rutherford.md",
