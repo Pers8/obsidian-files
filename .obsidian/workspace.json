@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Composition du noyau.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Composition du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Composition du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Composition du noyau.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
-    "Le modèle atomique de Rutherford.md",
     "IB/Physics.md",
+    "Composition du noyau.md",
+    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+    "Le modèle atomique de Rutherford.md",
     "Physics/Energie discrète et Radioactivité.md",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "assets/Pasted Image 20230306113413_966.png",

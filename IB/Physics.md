@@ -38,10 +38,10 @@ $$
 # Theme 7: Physique nucléaire, atomique et particules
 1. [[Energie discrète et Radioactivité]]
 1.  [[Le modèle atomique de Rutherford]]
-2.  [Composition du noyau]
-3.  [Niveau d'énergie atomique et transformation d'énergie au sain des atomes]
-4.  [Désintégration radioactive]
-5.  [Loi de décroissance radioactive]
+2.  [[Composition du noyau]]
+3.  [[Niveau d'énergie atomique et transformation d'énergie au sain des atomes]]
+4.  [[Désintégration radioactive]]
+5.  [[Loi de décroissance radioactive]]
 
 --
 [[Electricite test]]
