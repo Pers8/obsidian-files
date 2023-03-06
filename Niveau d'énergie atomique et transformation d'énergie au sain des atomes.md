@@ -38,5 +38,5 @@ $$E=hf=\frac{hc}{\lambda}$$
 
 Types de spectres de lumières et représentations:
 ?
-
+![[Pasted image 20230306165048.png]]
 
