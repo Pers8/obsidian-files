@@ -5,7 +5,7 @@ banner_lock: true
 
 
 ## Energie Discrète
-
+**
 ### a) Le modèle atomique de Rutherford
 
 - Expérience Geiger-Marsden (Rutherford)
