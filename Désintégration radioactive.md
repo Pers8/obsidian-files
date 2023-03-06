@@ -17,3 +17,7 @@ Les 4 types de radioactivité sont:
 Equations des 4 types de radioactivités:  
 ?
 ![[Pasted image 20230306165139.png]]
+
+NB: Pour Beta- decay-> +anti-neutrino ($^0_0\bar{v}$), pour beta+ decay -> +neutrino($^0_0v$) 
+
+![[Pasted image 20230306165330.png]]
