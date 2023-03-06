@@ -1,6 +1,5 @@
 ---
 tags: [physics]
-banner_lock: true
 ---
 
 
