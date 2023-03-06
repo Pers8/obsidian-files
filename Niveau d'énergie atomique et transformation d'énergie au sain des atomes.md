@@ -34,6 +34,9 @@ $$E=hf=\frac{hc}{\lambda}$$
 
 **Representation de niveaux d'énergie d'un spectre (hydrogène):**
 ?
+![[Pasted image 20230306164947.png]]
 
+Types de spectres de lumières et représentations:
+?
 
 
