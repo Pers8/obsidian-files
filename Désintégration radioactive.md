@@ -23,3 +23,6 @@ NB: Pour Beta- decay-> +anti-neutrino ($^0_0\bar{v}$), pour beta+ decay -> +neut
 ![[Pasted image 20230306165330.png]]
 
 Pouvoir de penetration de 3 radioactivités:
+?
+![[Pasted image 20230306165531.png]]
+
