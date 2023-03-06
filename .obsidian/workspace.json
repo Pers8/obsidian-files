@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "Physics/Le modèle atomique de Rutherford.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "Physics/Le modèle atomique de Rutherford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md",
+                "file": "Physics/Le modèle atomique de Rutherford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Energie discrète et Radioactivité.md"
+                "file": "Physics/Le modèle atomique de Rutherford.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Energie discrète et Radioactivité.md",
     "Electricite test.md",
     "Physics/Loi de décroissance radioactive.md",
     "Physics/Le modèle atomique de Rutherford.md",
@@ -182,7 +183,6 @@
     "IB/TOK.md",
     "assets/Pasted image 20230306164717.png",
     "image-20230201143053776.png.md",
-    "Physics/Energie discrète et Radioactivité.md",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "assets/Pasted Image 20230306113413_966.png",
     "IB/French.md",
