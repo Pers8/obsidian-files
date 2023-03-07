@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md",
+                "file": "Physics/Composition du noyau.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md",
+                "file": "Physics/Composition du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md",
+                "file": "Physics/Composition du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md"
+                "file": "Physics/Composition du noyau.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Le modèle atomique de Rutherford.md",
     "IB/Comp Sci.md",
     "Excalidraw/Drawing 2023-03-07 12.01.31.excalidraw.md",
     "Excalidraw/particules atomique.md",
@@ -191,7 +192,6 @@
     "assets/Pasted Image 20230307051157_398.png",
     "Physics/Loi de décroissance radioactive.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "Physics/Le modèle atomique de Rutherford.md",
     "Physics/Composition du noyau.md",
     "assets/Pasted image 20230306165614.png",
     "assets/Pasted image 20230306165531.png",
