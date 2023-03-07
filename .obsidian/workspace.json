@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Physics/Désintégration radioactive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Physics/Désintégration radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+                "file": "Physics/Désintégration radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+                "file": "Physics/Désintégration radioactive.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Physics/Composition du noyau.md",
     "Physics/Le modèle atomique de Rutherford.md",
     "IB/Comp Sci.md",
@@ -192,7 +193,6 @@
     "assets/Pasted Image 20230307045341_245.png",
     "assets/Pasted Image 20230307051157_398.png",
     "Physics/Loi de décroissance radioactive.md",
-    "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "assets/Pasted image 20230306165614.png",
     "assets/Pasted image 20230306165531.png",
     "assets/~$ectres atomiquescours2021.docx"
