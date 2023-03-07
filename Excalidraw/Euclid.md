@@ -18239,6 +18239,38 @@ fd185f06b62d20b96d29838845142c83a74249db: [[Pasted Image 20230307140945_951.png]
 			]
 		},
 		{
+			"type": "image",
+			"version": 235,
+			"versionNonce": 1349800797,
+			"isDeleted": false,
+			"id": "Ky5VRS4WcS0e3Frs7mmrf",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 94.92742176835722,
+			"y": 998.1099458595322,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 623.0000000000001,
+			"height": 308,
+			"seed": 1125425235,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1678198463875,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "fd185f06b62d20b96d29838845142c83a74249db",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"id": "3VJ0-1vomYGqe7-wcE2zv",
 			"type": "freedraw",
 			"x": -463,
