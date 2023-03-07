@@ -11,9 +11,11 @@
             "id": "76a9de5bd1371e4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/practice physics question.md"
+                "file": "Physics/Energie discrète et Radioactivité.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/practice physics question.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/practice physics question.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/practice physics question.md"
+                "file": "Physics/Energie discrète et Radioactivité.md"
               }
             }
           },
@@ -157,11 +159,11 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Excalidraw/practice physics question.md",
     "assets/Pasted Image 20230307051157_398.png",
     "assets/Pasted Image 20230307045341_245.png",
     "Physics/Loi de décroissance radioactive.md",
-    "Excalidraw/practice physics question.md",
-    "IB/Physics.md",
     "Physics/Désintégration radioactive.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Physics/Le modèle atomique de Rutherford.md",
@@ -185,7 +187,6 @@
     "assets/Pasted image 20230306164717.png",
     "image-20230201143053776.png.md",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
-    "assets/Pasted Image 20230306113413_966.png",
     "IB/French.md",
     "IB/Economy.md",
     "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
