@@ -94,8 +94,9 @@ The Conclusion should summarize the main point of the essay and reiterate the th
 
 Define art => Link art with Picasso => Explain the statement => give some 
 
-The Key theori
 
 
-In language acquisition, we have 3 key theories
+### The Key theories of language
+
+In language acquisition, we have 3 key theories : the behaviourist, 
 
