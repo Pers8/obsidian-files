@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Le modèle atomique de Rutherford.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Le modèle atomique de Rutherford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Le modèle atomique de Rutherford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Le modèle atomique de Rutherford.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
-    "Physics/Composition du noyau.md",
     "IB/Physics.md",
+    "Physics/Composition du noyau.md",
     "Physics/Loi de décroissance radioactive.md",
     "Physics/Désintégration radioactive.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
