@@ -98,5 +98,5 @@ Define art => Link art with Picasso => Explain the statement => give some
 
 ### The Key theories of language
 
-In language acquisition, we have 3 key theories : the behaviourist, 
+In language acquisition, we have 3 key theories : the behaviourist theory, 
 
