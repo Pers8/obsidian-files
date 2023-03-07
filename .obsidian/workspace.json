@@ -11,26 +11,15 @@
             "id": "76a9de5bd1371e4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/practice physics question.md"
-              }
-            }
-          },
-          {
-            "id": "17e61a865e34b23e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "The behaviourist theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "The behaviourist theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "The behaviourist theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "The behaviourist theory.md"
               }
             }
           },
@@ -168,8 +157,13 @@
       "ava:Ava": false
     }
   },
-  "active": "17e61a865e34b23e",
+  "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "IB/English.md",
+    "The interactionist theory.md",
+    "The innatism theory.md",
+    "Untitled.md",
+    "The behaviourist theory.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/Physics.md",
     "IB/TOK.md",
@@ -178,7 +172,6 @@
     "Excalidraw/particules atomique.md",
     "Excalidraw/paper 1 graph.md",
     "Excalidraw/Niveau d'énergie.md",
-    "Untitled.md",
     "Excalidraw/N en fonction de t.md",
     "Excalidraw/Drawing 2023-03-07 08.16.09.excalidraw.md",
     "assets/Pasted image 20230306170558.png",
@@ -202,10 +195,6 @@
     "assets/Pasted image 20230306165048.png",
     "assets/Pasted image 20230306164947.png",
     "assets/Pasted image 20230306164717.png",
-    "image-20230201143053776.png.md",
-    "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
-    "IB/French.md",
-    "IB/Economy.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
