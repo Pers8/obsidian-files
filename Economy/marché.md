@@ -8,7 +8,7 @@ $$\huge{Marché}$$
 <br>
 
 Le **Marché** est:: la rencontre entre acheteur et revendeur effectuant des échanges
-<!--SR:!2023-02-28,3,261-->
+<!--SR:!2023-04-13,37,281-->
 
 > [!Les types de marché]
 >Un **marché monopole** est un marché :: ou une entité qui détient la totalité de l'[[Offre]] et domine son secteur d'activité respectif.
