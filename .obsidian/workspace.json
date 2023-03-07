@@ -11,29 +11,9 @@
             "id": "76a9de5bd1371e4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IB/Economy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7296aac2902372e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b899e1678f094be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economy/Impôts indirects.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Euclid.md"
               }
             }
           }
@@ -103,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Impôts indirects.md",
+                "file": "Excalidraw/Euclid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Impôts indirects.md",
+                "file": "Excalidraw/Euclid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Impôts indirects.md"
+                "file": "Excalidraw/Euclid.md"
               }
             }
           },
@@ -175,9 +155,12 @@
       "ava:Ava": false
     }
   },
-  "active": "b899e1678f094be8",
+  "active": "76a9de5bd1371e4c",
   "lastOpenFiles": [
+    "assets/Pasted Image 20230307140945_951.png",
     "IB/Economy.md",
+    "Excalidraw/Euclid.md",
+    "Economy/Impôts indirects.md",
     "Excalidraw/Drawing 2023-03-07 12.01.31.excalidraw.md",
     "assets/Pasted Image 20230307133107_626.png",
     "assets/Pasted Image 20230307124249_618.png",
@@ -207,9 +190,6 @@
     "Physics/Le modèle atomique de Rutherford.md",
     "Physics/Composition du noyau.md",
     "Electricite test.md",
-    "Change blindness.md",
-    "Ava - Getting Started.md",
-    "Economy/Subventions.md",
     "assets/Pasted image 20230306165614.png",
     "assets/Pasted image 20230306165531.png",
     "assets/Pasted image 20230306165330.png",
