@@ -12,4 +12,4 @@ $P$ =:: Prix
 $a$ =:: [[Pente]] (exprime [[Loi de la demande]]) (négatif)
 <!--SR:!2023-03-12,15,290-->
 $b$ =:: Constante (exprime les [[Déterminants hors-prix de la demande]] hors-prix)
-<!--SR:!2023-02-26,3,252-->
+<!--SR:!2023-04-18,42,272-->
