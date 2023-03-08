@@ -54,5 +54,5 @@ $$
 # Theme 3: Réseaux
 ## Chapitre 1 - Types de réseaux
 
-1.  [Réseaux]]
-2.  [Fondamentaux des réseaux](app://obsidian.md/Fondamentaux%20des%20r%C3%A9seaux)
+1.  [[Réseaux(2)]]
+2.  [[Fondamentaux des réseaux]]
