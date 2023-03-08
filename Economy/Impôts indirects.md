@@ -5,7 +5,7 @@ tags: [economy]
 Les impots indirects sont :
 ?
 Les impôts indirects désignent les impôts sur les dépenses. Ils ne sont pas prélevés **directement** sur les revenus ou le patrimoine des personnes. Ils sont payés **indirectement** par les consommateurs lorsqu'ils achètent un bien, car les impôts indirects sont inclus dans le prix du bien.
-<!--SR:!2023-02-27,4,274-->
+<!--SR:!2023-04-28,51,294-->
 
 Les objectifs de impôts indirects sont généralement de:
 - percevoir les recettes publiques.
@@ -32,6 +32,7 @@ Qu'advient-il du surplus du consommateur, du surplus du producteur et du bien-ê
 ## Effet sur la société dans son ensemble
 ?
 En supposant que l'équilibre du marché libre, sans intervention du gouvernement, est la quantité socialement optimale du bien, en l'absence d'externalités, alors la société dans son ensemble est moins bien lotie. En effet, l'imposition de la taxe fausse le marché, produisant une sous-allocation des ressources à la production de ce bien.
+<!--SR:!2023-03-11,3,263-->
 
 ## Synthèse des effets d'un impôt indirect 
 Le prix pour les consommateurs=>::Augmente

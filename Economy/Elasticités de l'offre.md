@@ -10,4 +10,4 @@ $$\text{PES}=\frac{\Delta Q_{s}}{\Delta P}$$
 <!--SR:!2023-04-24,47,270-->
 
 - Le signe du **PES** est:: toujours **positif**
-<!--SR:!2023-03-01,4,270-->
+<!--SR:!2023-04-16,39,290-->
