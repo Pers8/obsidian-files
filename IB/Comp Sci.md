@@ -52,12 +52,7 @@ $$
 6. 1.  Le bit et l'octet, Représentation Binaire, [[Représentation de données]]
 ---
 # Theme 3: Réseaux
+## Chapitre 1 - Types de réseaux
 
-Chapitre 1 - Types de réseaux
-
-# 
-
-Chapitre 1 - Types de réseaux
-
-1.  [Réseaux](app://obsidian.md/R%C3%A9seaux)
+1.  [Réseaux]]
 2.  [Fondamentaux des réseaux](app://obsidian.md/Fondamentaux%20des%20r%C3%A9seaux)
