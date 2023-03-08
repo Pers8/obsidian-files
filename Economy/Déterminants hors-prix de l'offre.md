@@ -10,4 +10,4 @@ Plusieurs déterminants hors prix peuvent influencer la demande. On peut retenir
 - Les [[Attentes futures (demande)]] (projections)
 - Le [[Nombre de consommateurs]]
 - Les [[Changements saisonniers]]
-<!--SR:!2023-03-06,9,250-->
+<!--SR:!2023-03-13,5,230-->
