@@ -43,6 +43,6 @@ Le revenu total des producteurs=>::Diminue
 Les dépenses totales des consommateurs=>::Dépend du DEP
 <!--SR:!2023-02-26,3,254-->
 Recettes du gouvernement=>::Augmente
-<!--SR:!2023-02-27,4,274-->
+<!--SR:!2023-04-26,49,294-->
 Excédent communautaire=>::Diminue
 <!--SR:!2023-03-27,20,279-->
