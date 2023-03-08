@@ -7,7 +7,7 @@ tags: [economy]
 Created: 2022-09-09
 
 La demande est :: la quantité d'un bien ou d'un service que les consommateurs sont disposés et capable d'acheter a divers prix au cours d'une période.
-<!--SR:!2023-03-07,10,270-->
+<!--SR:!2023-04-17,40,290-->
 
 
 *[[Loi de la demande]]*
