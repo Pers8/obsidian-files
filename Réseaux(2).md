@@ -11,10 +11,10 @@ tags: [info]
 -   [[Local Area Network (LAN)]]
 -   [[Wide Area Network (WAN)]]
 -   [Virtual Local Area Network (VLAN)]
--   [Storage Area Network (SAN)]
--   [Wireless Local Area Network (WLAN)]
--   [Internet](app://obsidian.md/Internet)
--   [Intranet](app://obsidian.md/Intranet)
--   [Virtual Private Network (VPN)](app://obsidian.md/Virtual%20Private%20Network%20(VPN))
--   [Personal Area Network (PAN)](app://obsidian.md/Personal%20Area%20Network%20(PAN))
--   [Peer-to-Peer (P2P)](app://obsidian.md/Peer-to-Peer%20(P2P))
+-   [Storage Area Network (SAN)]]
+-   [[Wireless Local Area Network (WLAN)]]
+-   [[Internet]]
+-   [[Intranet]]
+-   [[Virtual Private Network (VPN)]]
+-   [[Personal Area Network (PAN)]]
+-   [[Peer-to-Peer (P2P)]]
