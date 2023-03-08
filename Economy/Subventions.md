@@ -37,6 +37,6 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Recettes du gouvernement=>::Diminue 
 <!--SR:!2023-04-14,38,292-->
 - Bien-être social=>::Diminue
-<!--SR:!2023-02-26,1,232-->
+<!--SR:!2023-04-09,32,252-->
 
 
