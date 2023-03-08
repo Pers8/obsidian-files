@@ -7,6 +7,7 @@ Formule $Q_d$
 $$Q_d=aP+b$$
 $$P=\frac{Q_{d}-b}{a}$$
 $Q_d$ =:: Quantité demandé 
+<!--SR:!2023-03-12,4,280-->
 $P$ =:: Prix
 <!--SR:!2023-04-22,46,292-->
 $a$ =:: [[Pente]] (exprime [[Loi de la demande]]) (négatif)
