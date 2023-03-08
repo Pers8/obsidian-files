@@ -38,9 +38,11 @@ En supposant que l'équilibre du marché libre, sans intervention du gouvernemen
 Le prix pour les consommateurs=>::Augmente
 <!--SR:!2023-03-11,14,290-->
 La quantité d'équilibre=>::Diminue
+<!--SR:!2023-03-12,4,283-->
 Le prix net pour les producteurs=>::Diminue
 <!--SR:!2023-03-11,3,259-->
 Le revenu total des producteurs=>::Diminue
+<!--SR:!2023-03-12,4,283-->
 Les dépenses totales des consommateurs=>::Dépend du DEP
 <!--SR:!2023-03-11,3,234-->
 Recettes du gouvernement=>::Augmente
