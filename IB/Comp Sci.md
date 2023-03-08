@@ -49,3 +49,4 @@ $$
 3. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
 4. Le [[Cycle Fetch-Execute]]
 5. Les [[Systèmes d'exploitation]], [[Application logicielle]]
+6. 1.  Le bit et l'octet, Représentation Binaire, [Représentation de données](app://obsidian.md/Repr%C3%A9sentation%20de%20donn%C3%A9es)
