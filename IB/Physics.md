@@ -42,6 +42,8 @@ $$
 3.  [[Niveau d'énergie atomique et transformation d'énergie au sain des atomes]]
 4.  [[Désintégration radioactive]]
 5.  [[Loi de décroissance radioactive]]
+6. [[Réactions nucléaires]]
 
 --
-[[Electricite test]]
+[[Electricité test]]
+[[Important]]
