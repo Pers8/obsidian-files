@@ -8,6 +8,7 @@ La capacité calorifique est:: la quantité de [[Chaleur]] nécessaire pour éle
 
 Formule de $Q$=
 ?
+<!--SR:!2023-03-11,1,230-->
 
 $$Q = \mu \Delta \theta$$
 $Q$ = Quantité de chaleur en $J$
