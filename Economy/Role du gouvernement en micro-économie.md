@@ -13,5 +13,5 @@ Les gouvernements souhaitent intervenir sur les marchés pour de nombreuses rais
 - [[Promouvoir l'équité]]
 
 bien nuisible:: bien démérite/bien d'inaptitude
-<!--SR:!2023-03-09,12,270-->
+<!--SR:!2023-04-29,50,290-->
 
