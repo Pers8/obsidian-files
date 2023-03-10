@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "25c1fb9e157c9781",
   "lastOpenFiles": [
-    "Physics/Loi de décroissance radioactive.md",
+    "IB/Maths.md",
     "Untitled.md",
+    "Physics/Loi de décroissance radioactive.md",
     "IB/Physics.md",
     "Physics/Réactions nucléaires.md",
     "Physics/Energie discrète et Radioactivité.md",
@@ -200,7 +201,6 @@
     "Comp Sci/Local Area Network (LAN).md",
     "IB/French.md",
     "Methods.md",
-    "Comp Sci/Peer-to-Peer (P2P).md",
     "assets/Pasted Image 20230308092422_082.png",
     "assets/Pasted image 20230308090258.png",
     "assets/Pasted image 20230308090216.png",
