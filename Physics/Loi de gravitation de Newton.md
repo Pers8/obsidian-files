@@ -18,5 +18,6 @@ $$\vec{F}_{A/B}=-G\frac{m_{1}m_{2}}{r^{2}}\times \vec{u}=-\vec{F}_{B/A}$$
 - 
 **Objet a symétrie sphérique**
 La loi de gravitation universelle s'applique aux masses ponctuelles et aux objets sphériques. Dans ce ca son assimile une sphere de masse m et centre $O$ a une masse ponctuelle placée en $O$.
+<!--SR:!2023-03-14,4,270-->
 
 Constante $G$ =:: $6.67\cdot 10^{-11}$ 

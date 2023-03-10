@@ -12,6 +12,7 @@ $$n=\frac{N}{N_{A}}$$
 $n$ = nombre de moles
 $N$ = nombre de molécules
 $N_{A}$ = nombre d'Avogadro
+<!--SR:!2023-03-14,4,270-->
 
 Formule de masse molaire
 ?
