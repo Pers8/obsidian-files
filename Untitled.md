@@ -1,1 +1,1 @@
-$$\large{MSE=\frac{1}{N} \sum_{i=1}}$$
+	$$\large{MSE=\frac{1}{N} \sum_{i=1}^{n}}=(y_i(mx_i+$$
