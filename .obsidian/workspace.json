@@ -23,11 +23,9 @@
             "id": "25c1fb9e157c9781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "English/The behaviourist theory.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/math.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/The behaviourist theory.md",
+                "file": "Excalidraw/math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/The behaviourist theory.md",
+                "file": "Excalidraw/math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/The behaviourist theory.md"
+                "file": "Excalidraw/math.md"
               }
             }
           },
@@ -172,6 +170,9 @@
   },
   "active": "25c1fb9e157c9781",
   "lastOpenFiles": [
+    "Excalidraw/N en fonction de t.md",
+    "Excalidraw/gravitation d'une planète avec l'altitude.md",
+    "English/The behaviourist theory.md",
     "IB/English.md",
     "IB/Comp Sci.md",
     "IB/Maths.md",
@@ -198,9 +199,6 @@
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
-    "Comp Sci/Wide Area Network (WAN).md",
-    "Comp Sci/Local Area Network (LAN).md",
-    "IB/French.md",
     "assets/Pasted Image 20230308092422_082.png",
     "assets/Pasted image 20230308090258.png",
     "assets/Pasted image 20230308090216.png",
