@@ -23,9 +23,11 @@
             "id": "25c1fb9e157c9781",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/math.md"
+                "file": "IB/English.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/math.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/math.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/math.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -170,11 +172,15 @@
   },
   "active": "25c1fb9e157c9781",
   "lastOpenFiles": [
+    "Comp Sci/Normes dans la construction des réseaux.md",
+    "Comp Sci/Fondamentaux des réseaux.md",
+    "IB/Comp Sci.md",
+    "IB/Economy.md",
+    "Excalidraw/math.md",
     "Excalidraw/N en fonction de t.md",
     "Excalidraw/gravitation d'une planète avec l'altitude.md",
     "English/The behaviourist theory.md",
     "IB/English.md",
-    "IB/Comp Sci.md",
     "IB/Maths.md",
     "Untitled.md",
     "Physics/Loi de décroissance radioactive.md",
@@ -182,7 +188,6 @@
     "Physics/Réactions nucléaires.md",
     "Physics/Energie discrète et Radioactivité.md",
     "Physics/Capacité calorifique.md",
-    "Excalidraw/math.md",
     "Excalidraw/Niveau d'énergie.md",
     "Excalidraw/notes physique.md",
     "Excalidraw/paper 1 graph.md",
@@ -191,11 +196,8 @@
     "Physics/Piles électriques.md",
     "Physics/Rappel d'électrostatique.md",
     "Comp Sci/Réseaux(2).md",
-    "IB/Economy.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Electricité test.md",
-    "Important.md",
-    "IB/TOK.md",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
