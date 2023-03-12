@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "25c1fb9e157c9781",
   "lastOpenFiles": [
+    "IB/English.md",
     "Comp Sci/Normes dans la construction des réseaux.md",
     "Comp Sci/Fondamentaux des réseaux.md",
     "IB/Comp Sci.md",
@@ -180,7 +181,6 @@
     "Excalidraw/N en fonction de t.md",
     "Excalidraw/gravitation d'une planète avec l'altitude.md",
     "English/The behaviourist theory.md",
-    "IB/English.md",
     "IB/Maths.md",
     "Untitled.md",
     "Physics/Loi de décroissance radioactive.md",
