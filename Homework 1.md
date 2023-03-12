@@ -6,7 +6,7 @@ tags: [english]
 ### **QUESTIONS:** 
 
 - *Who are the character*
-The characters are : the narrator ayoung woman who has been suffering from a nervous disorder after giving birth to her child
+The characters are : the narrator, a young woman who has been suffering from a nervous disorder after giving birth to her child ; John, the narrator husband ; Jennie, John's sister
 
 - *What is the plot* 
 
