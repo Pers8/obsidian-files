@@ -18,4 +18,4 @@ The principal theme o is the oppressive nature of gender roles and societal expe
 The tone is primarily one of creeping horror and madness. The story is written in the first person, and the reader is drawn into the narrator's increasingly unstable and obsessive mindset. The tone is oppressive and suffocating, reflecting the confinement and isolation that the narrator experiences.
 
 - *What is the authors purpose in writing this text*
-
+Charlotte Perkins Gilman wrote The Yellow Wall-paper with a specific purpose in mind. She intended to use the story to draw attention to the oppressive and limiting gender roles that were imposed on women during the late 19th century.
