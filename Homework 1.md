@@ -15,7 +15,7 @@ The story is written in the first person, from the perspective of an unnamed wom
 The principal theme o is the oppressive nature of gender roles and societal expectations on women during the late 19th century. Through the character of the narrator, the story highlights the lack of agency and autonomy that women were often subjected to during this time period. The story also explores the damaging effects of confinement and isolation on a person's mental health, as well as the power dynamics between men and women in intimate relationships.
 
 - *What is the tone* 
-
+The tone is primarily one of creeping horror and madness. The story is written in the first person, and the reader is drawn into the narrator's increasingly unstable and obsessive mindset. The tone is oppressive and suffocating, reflecting the confinement and isolation that the narrator experiences.
 
 - *What is the authors purpose in writing this text*
 
