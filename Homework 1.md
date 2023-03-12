@@ -6,7 +6,7 @@ tags: [english]
 ### **QUESTIONS:** 
 
 - *Who are the character*
-
+The characters are : the character 
 
 - *What is the plot* 
 
