@@ -14,3 +14,5 @@
 
 **Conjecture:** A conclusion that is formed based on incomplete information; or a conclusion that is not yet accepted as fully certain.
 
+**Evidence:** Information or data that supports or demonstrates a statement, idea, or assertion is referred to as evidence. It is derived via observation, experimentation, or other sorts of investigation and is used to substantiate or support an argument or conclusion.
+
