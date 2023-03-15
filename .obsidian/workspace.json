@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francais devoir.md",
+                "file": "TOK exercice.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Francais devoir.md",
+                "file": "TOK exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Francais devoir.md",
+                "file": "TOK exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Francais devoir.md"
+                "file": "TOK exercice.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
     "Physics/Loi de décroissance radioactive.md",
-    "Francais devoir.md",
+    "TOK exercice.md",
     "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "assets/Pasted Image 20230313200337_253.png",
     "English/Homework 1.md",
