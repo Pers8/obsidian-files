@@ -16,3 +16,4 @@
 
 **Evidence:** Information or data that supports or demonstrates a statement, idea, or assertion is referred to as evidence. It is derived via observation, experimentation, or other sorts of investigation and is used to substantiate or support an argument or conclusion.
 
+**Justification:** Justification refers to the process of providing reasons or evidence to support a claim or belief. It is the act of demonstrating that a particular argument or conclusion is reasonable, accurate, and valid. Justification is often used in philosophical, scientific, or legal contexts to prove the validity of a claim or to establish the truthfulness of a proposition.
