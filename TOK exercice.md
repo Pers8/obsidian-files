@@ -4,4 +4,5 @@
 
 **Conjecture :** It's opinion formed on the basis of incomplete information
 
-Evidence : 
+**Evidence :** something that provide a proof
+
