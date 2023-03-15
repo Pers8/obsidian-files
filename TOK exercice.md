@@ -32,3 +32,7 @@ An axiom is a statement or postulate that is considered to be true. Axioms are u
 #### **Concept**
 
 Evidence and justification are important concepts in mathematics and operate uniquely within this AOK. Mathematics is an axiomatic system that uses its own knowledge for evidence and justification for subsequent knowledge production. Knowledge is justified within mathematics if it ‘works’ in accordance with previously established rules and logic. This is all that is necessary for mathematical knowledge to be justified. This justification may seem thin (after all, the evidence for it exists in our minds!) and yet throughout history, mathematics has proved to be incredibly accurate with regard to predictive power. Therefore although not necessary, real-world evidence has also served to justify mathematical knowledge throughout the years.
+
+### **Making connections**  
+
+Mathematics is often used to validate and substantiate claims and can therefore be deployed for the purpose of influencing thinking. It is important to consider how your knowledge of mathematics can help to prevent you being misled by unclear or disingenuous statistics.
