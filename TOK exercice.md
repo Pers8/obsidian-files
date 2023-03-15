@@ -1,12 +1,5 @@
 
 
-P.147
+**Axiom :** a statement or proposition which is regarded as being established, accepted, or self-evidently true.
 
-1) a) d
-2) b et e
-3) a) ramasser à l'urgence     b) je suis vraiment navré 
-4) b -> v ; f -> ii ; e -> x ; d -> iv ; c -> viii ; a -> ix
-5) fondre en larmes, verser une petite larme, ces yeux brillants de larmes
-6) b
-
-P.159
+Conjecture : It's opinion based
