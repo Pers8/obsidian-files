@@ -9,7 +9,7 @@
 
 **Justification :** the action of showing something to be right or reasonable.
 
-the equation is E = mc², this equation is valid because it has been tested and has been shown to accurately describe the relationship between mass and energy. It has been used in a wide range of fields such as particule physics. The equation is also useful because it allows us to calculate the amount of energy released in nuclear reactions or to estimate the amount of energy required to create a certain amount of matter.
+the equation I chose is E = mc², this equation is valid because it has been tested and has been shown to accurately describe the relationship between mass and energy. It has been used in a wide range of fields such as particule physics. The equation is also useful because it allows us to calculate the amount of energy released in nuclear reactions or to estimate the amount of energy required to create a certain amount of matter.
 
 ---
 
