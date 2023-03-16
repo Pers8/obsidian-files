@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Désintégration radioactive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ab8257bc693d1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
+                "file": "Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Methods.md"
               }
             }
           },
@@ -192,10 +180,11 @@
       "ava:Ava": false
     }
   },
-  "active": "0ab8257bc693d1a7",
+  "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
-    "Physics/Désintégration radioactive.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "Physics/Désintégration radioactive.md",
     "IB/Physics.md",
     "TOK exercice.md",
     "Physics/Loi de décroissance radioactive.md",
@@ -214,7 +203,6 @@
     "Excalidraw/gravitation d'une planète avec l'altitude.md",
     "English/The behaviourist theory.md",
     "IB/Maths.md",
-    "Untitled.md",
     "Physics/Réactions nucléaires.md",
     "Physics/Energie discrète et Radioactivité.md",
     "Physics/Capacité calorifique.md",
