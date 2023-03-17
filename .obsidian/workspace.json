@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Energie discrète et Radioactivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Energie discrète et Radioactivité.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
-    "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "IB/Physics.md",
+    "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Physics/Composition du noyau.md",
     "Physics/Désintégration radioactive.md",
     "Physics/Réactions nucléaires.md",
