@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md",
+                "file": "Physics/Composition du noyau.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md",
+                "file": "Physics/Composition du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md",
+                "file": "Physics/Composition du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Le modèle atomique de Rutherford.md"
+                "file": "Physics/Composition du noyau.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Le modèle atomique de Rutherford.md",
     "Economy/Impôts indirects.md",
     "IB/Economy.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
@@ -208,7 +209,6 @@
     "Excalidraw/N en fonction de t.md",
     "Excalidraw/gravitation d'une planète avec l'altitude.md",
     "English/The behaviourist theory.md",
-    "IB/Maths.md",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
