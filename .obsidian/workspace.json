@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -182,7 +182,9 @@
   },
   "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
+    "Physics/Réactions nucléaires.md",
     "IB/Physics.md",
+    "Physics/Loi de décroissance radioactive.md",
     "Physics/Désintégration radioactive.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Physics/Composition du noyau.md",
@@ -197,7 +199,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "TOK exercice.md",
-    "Physics/Loi de décroissance radioactive.md",
     "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "assets/Pasted Image 20230313200337_253.png",
     "English/Homework 1.md",
@@ -208,7 +209,6 @@
     "Comp Sci/Fondamentaux des réseaux.md",
     "Excalidraw/math.md",
     "Excalidraw/N en fonction de t.md",
-    "Excalidraw/gravitation d'une planète avec l'altitude.md",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
