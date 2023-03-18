@@ -12,7 +12,7 @@ La demande est :: la quantité d'un bien ou d'un service que les consommateurs s
 
 *[[Loi de la demande]]*
 - Quand le prix augmente:: la quantité demandée diminue, [[Ceteris Paribus]]
-<!--SR:!2023-03-14,17,290-->
+<!--SR:!2023-06-11,85,310-->
 
 - Quand le prix diminue:: la quantité demandée augmente, [[Ceteris Paribus]]
 <!--SR:!2023-04-27,50,294-->
