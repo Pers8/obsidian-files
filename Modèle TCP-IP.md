@@ -8,3 +8,4 @@ tags: [info]
 
 [[Modèle OSI]] vs [[Modèle TCP-IP]] représentation des couches:  
 ?
+![[Pasted image 20230318064519.png]]
