@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change blindness.md",
+                "file": "IB/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Change blindness.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Change blindness.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Change blindness.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "28fc169d5268c1ba",
   "lastOpenFiles": [
+    "Change blindness.md",
     "vd.md",
     "Untitled.md",
     "Comp Sci/Fondamentaux des réseaux.md",
@@ -222,7 +223,6 @@
     "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "assets/Pasted Image 20230313200337_253.png",
     "English/Homework 1.md",
-    "Comp Sci/Réseaux(2).md",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
