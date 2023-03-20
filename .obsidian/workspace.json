@@ -42,16 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25c1fb9e157c9781",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md"
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -194,11 +184,12 @@
   },
   "active": "28fc169d5268c1ba",
   "lastOpenFiles": [
-    "IB/English.md",
+    "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "English/HouseBoy.md",
+    "Untitled.md",
+    "IB/English.md",
     "Change blindness.md",
     "vd.md",
-    "Untitled.md",
     "Comp Sci/Fondamentaux des réseaux.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Tunnelisation.md",
@@ -221,7 +212,6 @@
     "Important.md",
     "Methods.md",
     "TOK exercice.md",
-    "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "assets/Pasted Image 20230313200337_253.png",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
