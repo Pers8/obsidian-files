@@ -44,7 +44,7 @@ Le prix net pour les producteurs=>::Diminue
 Le revenu total des producteurs=>::Diminue
 <!--SR:!2023-03-28,16,303-->
 Les dépenses totales des consommateurs=>::Dépend du DEP
-<!--SR:!2023-03-14,2,214-->
+<!--SR:!2023-04-15,25,234-->
 Recettes du gouvernement=>::Augmente
 <!--SR:!2023-04-26,49,294-->
 Excédent communautaire=>::Diminue
