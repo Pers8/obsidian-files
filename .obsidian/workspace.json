@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6f2bfe47dda1642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vd.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vd.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vd.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -182,8 +194,10 @@
       "ava:Ava": false
     }
   },
-  "active": "28fc169d5268c1ba",
+  "active": "e6f2bfe47dda1642",
   "lastOpenFiles": [
+    "vd.md",
+    "Untitled 1.md",
     "Untitled.md",
     "TOK exercice.md",
     "Comp Sci/Fondamentaux des réseaux.md",
@@ -196,7 +210,6 @@
     "IB/Physics.md",
     "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "Change blindness.md",
-    "vd.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Tunnelisation.md",
     "Cryptage.md",
@@ -211,7 +224,6 @@
     "Physics/Loi de décroissance radioactive.md",
     "Physics/Le modèle atomique de Rutherford.md",
     "Economy/Impôts indirects.md",
-    "IB/Economy.md",
     "assets/Pasted Image 20230313200337_253.png",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
