@@ -18,7 +18,7 @@ Deux situations courantes où **contrôles des prix maximaux** sont utilisés po
 ?
 - des aliments bon marché pour les personnes à faible revenu. 
 - logements abordables pour les familles à faible revenu.
-<!--SR:!2023-03-12,4,274-->
+<!--SR:!2023-04-11,21,274-->
 
 Figure de contrôles des prix maximaux:
 ![[Pasted image 20230116040804.png]]
