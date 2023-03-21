@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/HouseBoy.md",
+                "file": "Comp Sci/Fondamentaux des réseaux.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/HouseBoy.md",
+                "file": "Comp Sci/Fondamentaux des réseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/HouseBoy.md",
+                "file": "Comp Sci/Fondamentaux des réseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/HouseBoy.md"
+                "file": "Comp Sci/Fondamentaux des réseaux.md"
               }
             }
           },
@@ -184,20 +184,23 @@
   },
   "active": "28fc169d5268c1ba",
   "lastOpenFiles": [
+    "Comp Sci/Normes dans la construction des réseaux.md",
+    "Comp Sci/Fondamentaux des réseaux.md",
+    "IB/Comp Sci.md",
+    "Comp Sci/Réseaux(2).md",
+    "Comp Sci/Local Area Network (LAN).md",
+    "English/HouseBoy.md",
     "IB/English.md",
     "IB/Physics.md",
-    "English/HouseBoy.md",
     "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
     "Untitled.md",
     "Change blindness.md",
     "vd.md",
-    "Comp Sci/Fondamentaux des réseaux.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Tunnelisation.md",
     "Cryptage.md",
     "Modèle TCP-IP.md",
     "assets/Pasted image 20230318064519.png",
-    "IB/Comp Sci.md",
     "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
@@ -209,9 +212,6 @@
     "Economy/Impôts indirects.md",
     "IB/Economy.md",
     "exo binaire.md",
-    "Important.md",
-    "Methods.md",
-    "TOK exercice.md",
     "assets/Pasted Image 20230313200337_253.png",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
