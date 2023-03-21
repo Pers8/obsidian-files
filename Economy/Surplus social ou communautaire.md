@@ -12,7 +12,7 @@ En l'absence d'influences externes, les coûts de production pour l'industrie ou
 <!--SR:!2023-03-23,2,190-->
 
 Encore une fois, en l'absence de perturbations et d'effets externes, le bénéfice que les consommateurs retirent de la consommation d'un bien ou d'un service spécifique sur un marché libre équivaut au bénéfice ou à la satisfaction que la société tire de la consommation de ces biens. Dans ce cas, la courbe de demande représente la:: **courbe des prestations sociales marginales (MSB).**
-<!--SR:!2023-03-18,11,208-->
+<!--SR:!2023-03-27,6,188-->
 
 1. Notion d'[[Efficacité]]
 2. [[Surplus du consommateur]]
