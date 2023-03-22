@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK exercice.md",
+                "file": "Comp Sci/TOK exercice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK exercice.md",
+                "file": "Comp Sci/TOK exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK exercice.md",
+                "file": "Comp Sci/TOK exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK exercice.md"
+                "file": "Comp Sci/TOK exercice.md"
               }
             }
           },
@@ -157,14 +157,14 @@
       "ava:Ava": false
     }
   },
-  "active": "1ce21fee733ca8fb",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
     "Untitled 1.md",
     "vd.md",
     "Comp Sci/Tunnelisation.md",
     "Physics/Important.md",
     "Comp Sci/Modèle TCP-IP.md",
-    "TOK exercice.md",
+    "Comp Sci/TOK exercice.md",
     "Economy/Subventions.md",
     "Untitled.md",
     "Comp Sci/Fondamentaux des réseaux.md",
