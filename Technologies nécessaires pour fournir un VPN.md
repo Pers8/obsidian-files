@@ -13,7 +13,6 @@ tags: [info]
 
 Pour mettre en place une technologie VPN, il faut disposer de ces éléments (7):  
 ?
-
 -   Accès à l'Internet
 -   Logiciel VPN (_logiciel client, utilitaires et logiciel serveur. Les logiciels VPN permettent   une communication privée sur Internet_)
 -   Routeurs VPN

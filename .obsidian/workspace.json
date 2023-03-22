@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/TOK exercice.md",
+                "file": "Change blindness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/TOK exercice.md",
+                "file": "Change blindness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/TOK exercice.md",
+                "file": "Change blindness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/TOK exercice.md"
+                "file": "Change blindness.md"
               }
             }
           },
@@ -157,14 +157,19 @@
       "ava:Ava": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
+    "Technologies nécessaires pour fournir un VPN.md",
+    "exo binaire.md",
+    "Electricité test.md",
+    "Change blindness.md",
+    "Comp Sci/Cryptage.md",
+    "Comp Sci/TOK exercice.md",
     "Untitled 1.md",
     "vd.md",
     "Comp Sci/Tunnelisation.md",
     "Physics/Important.md",
     "Comp Sci/Modèle TCP-IP.md",
-    "Comp Sci/TOK exercice.md",
     "Economy/Subventions.md",
     "Untitled.md",
     "Comp Sci/Fondamentaux des réseaux.md",
@@ -176,17 +181,12 @@
     "IB/English.md",
     "IB/Physics.md",
     "Excalidraw/Drawing 2023-03-13 20.02.35.excalidraw.md",
-    "Change blindness.md",
-    "Technologies nécessaires pour fournir un VPN.md",
-    "Cryptage.md",
     "assets/Pasted image 20230318064519.png",
     "Physics/Energie discrète et Radioactivité.md",
     "assets/~$ectres atomiquescours2021.docx",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Physics/Composition du noyau.md",
     "Physics/Désintégration radioactive.md",
-    "Physics/Réactions nucléaires.md",
-    "Physics/Loi de décroissance radioactive.md",
     "assets/Pasted Image 20230313200337_253.png",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
