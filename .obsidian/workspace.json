@@ -57,6 +57,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "646a9cfdb6c06240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "966815c07a189e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economy/Subventions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK exercice.md",
+                "file": "Economy/Subventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK exercice.md",
+                "file": "Economy/Subventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK exercice.md"
+                "file": "Economy/Subventions.md"
               }
             }
           },
@@ -194,12 +212,12 @@
       "ava:Ava": false
     }
   },
-  "active": "e6f2bfe47dda1642",
+  "active": "966815c07a189e33",
   "lastOpenFiles": [
+    "TOK exercice.md",
     "Untitled 1.md",
     "vd.md",
     "Untitled.md",
-    "TOK exercice.md",
     "Comp Sci/Fondamentaux des réseaux.md",
     "Comp Sci/Normes dans la construction des réseaux.md",
     "IB/Comp Sci.md",

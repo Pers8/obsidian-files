@@ -27,7 +27,7 @@ Il y a deux types d’impôts indirects à considérer:
 Qu'advient-il du surplus du consommateur, du surplus du producteur et du bien-être social total après l'imposition d'une taxe indirecte sur un bien (courbes)?
 ?
 ![[Pasted image 20230124055738.png]]
-<!--SR:!2023-03-13,2,199-->
+<!--SR:!2023-04-04,13,199-->
 
 ## Effet sur la société dans son ensemble
 ?
