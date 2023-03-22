@@ -57,24 +57,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "646a9cfdb6c06240",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "966815c07a189e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economy/Subventions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Subventions.md",
+                "file": "TOK exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Subventions.md",
+                "file": "TOK exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Subventions.md"
+                "file": "TOK exercice.md"
               }
             }
           },
@@ -212,8 +194,9 @@
       "ava:Ava": false
     }
   },
-  "active": "966815c07a189e33",
+  "active": "e6f2bfe47dda1642",
   "lastOpenFiles": [
+    "Economy/Subventions.md",
     "TOK exercice.md",
     "Untitled 1.md",
     "vd.md",
@@ -241,7 +224,6 @@
     "Physics/Réactions nucléaires.md",
     "Physics/Loi de décroissance radioactive.md",
     "Physics/Le modèle atomique de Rutherford.md",
-    "Economy/Impôts indirects.md",
     "assets/Pasted Image 20230313200337_253.png",
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
