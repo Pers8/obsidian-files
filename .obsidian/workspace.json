@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "TOK/TOK exercice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "TOK/TOK exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "TOK/TOK exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK/12 TOK concepts.md"
+                "file": "TOK/TOK exercice.md"
               }
             }
           },
@@ -157,8 +157,9 @@
       "ava:Ava": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "1ce21fee733ca8fb",
   "lastOpenFiles": [
+    "TOK/12 TOK concepts.md",
     "TOK/AOF History.md",
     "TOK/Core items.md",
     "TOK/Definition.md",
@@ -184,7 +185,6 @@
     "Untitled 1.md",
     "vd.md",
     "Comp Sci/Tunnelisation.md",
-    "Physics/Important.md",
     "assets/Pasted image 20230318064519.png",
     "assets/~$ectres atomiquescours2021.docx",
     "assets/Pasted Image 20230313200337_253.png",
