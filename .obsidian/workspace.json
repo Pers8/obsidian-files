@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK/introduction.md",
+                "file": "TOK/TOK exercice.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/introduction.md",
+                "file": "TOK/TOK exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK/introduction.md",
+                "file": "TOK/TOK exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK/introduction.md"
+                "file": "TOK/TOK exercice.md"
               }
             }
           },
@@ -172,13 +172,13 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "TOK/introduction.md",
     "Python.md",
     "TOK/TOK exercice.md",
     "TOK/12 TOK concepts.md",
     "TOK/AOF History.md",
     "TOK/Core items.md",
     "TOK/Definition.md",
-    "TOK/introduction.md",
     "TOK/Natural Sciences.md",
     "TOK/PEEL.md",
     "TOK/Personal Knowledge.md",
