@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ecaacd1776f6a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOK/introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/TOK exercice.md",
+                "file": "TOK/introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK/TOK exercice.md",
+                "file": "TOK/introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK/TOK exercice.md"
+                "file": "TOK/introduction.md"
               }
             }
           },
@@ -157,8 +170,10 @@
       "ava:Ava": false
     }
   },
-  "active": "1ce21fee733ca8fb",
+  "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "Python.md",
+    "TOK/TOK exercice.md",
     "TOK/12 TOK concepts.md",
     "TOK/AOF History.md",
     "TOK/Core items.md",
@@ -181,8 +196,6 @@
     "exo binaire.md",
     "Electricité test.md",
     "Comp Sci/Cryptage.md",
-    "TOK/TOK exercice.md",
-    "Untitled 1.md",
     "vd.md",
     "Comp Sci/Tunnelisation.md",
     "assets/Pasted image 20230318064519.png",
