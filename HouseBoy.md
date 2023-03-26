@@ -22,3 +22,5 @@ The main conflict in "Houseboy" is the struggle between the African natives and 
 - **How does the novel depict the relationship between colonizers and
 colonized people?**
 The novel depicts the relationship between colonizers and colonized people as one of power imbalance, exploitation, and violence. The colonizers hold all the power and view the Africans as inferior, subjecting them to forced labor, abuse, and even death. The novel also highlights the cultural and linguistic barriers between the two groups, and the destructive effects of colonialism on both the colonized people and their cultures.
+
+- What role does religion play in the novel?
