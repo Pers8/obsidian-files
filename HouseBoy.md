@@ -14,3 +14,6 @@ The title "Houseboy" is significant because it reflects the main character's sta
 
 - **How does the narrator's relationship with his family change
 throughout the novel?**
+At the beginning of the novel, Toundi is close to his family and cherishes his African heritage. However, as he becomes integrated into the colonial society, he questions his beliefs and feels alienated from his family. As he witnesses the brutal treatment of his fellow Africans by the French, he rejects European values and embraces his African heritage once again, longing to reconnect with his family. In the end, his desire for family and cultural heritage highlights the importance of these connections in the face of oppression and exploitation.
+
+- 
