@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62ca16a33ece9ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Sci/Organigrammes.md",
+                "file": "Recherche d'Informatique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Organigrammes.md",
+                "file": "Recherche d'Informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Organigrammes.md",
+                "file": "Recherche d'Informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/Organigrammes.md"
+                "file": "Recherche d'Informatique.md"
               }
             }
           },
@@ -171,15 +157,17 @@
       "ava:Ava": false
     }
   },
-  "active": "62ca16a33ece9ef6",
+  "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "Technologies nécessaires pour fournir un VPN.md",
+    "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+    "Comp Sci/Organigrammes.md",
     "Recherche d'Informatique.md",
     "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
     "assets/Pasted Image 20230325114110_779.png",
     "IB/EE.md",
     "Excalidraw/Drawing 2023-03-24 08.14.12.excalidraw.md",
     "TOK/TOK exercice.md",
-    "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "IB/Physics.md",
     "TOK/introduction.md",
     "Python.md",
@@ -198,8 +186,6 @@
     "TOK/TOK WORK (1).md",
     "TOK/TOK WORK (2).md",
     "TOK/TOK WORK (3).md",
-    "IB/TOK.md",
-    "Change blindness.md",
     "assets/Pasted image 20230318064519.png",
     "assets/~$ectres atomiquescours2021.docx",
     "assets/Pasted Image 20230313200337_253.png",

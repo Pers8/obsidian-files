@@ -4,4 +4,6 @@
 
 - **L'algorithme :** Un algorithme est une suite d'instructions suivant une certaine logique qui permet de réaliser des actions.
 
-- **Les organigrammes :** Un organigramme est 
+- **Les organigrammes :** Les organigrammes sont un moyen de montrer comment les données circulent dans un système et comment les décisions sont prises pour contrôler les événements.
+
+- Pseudo-code
