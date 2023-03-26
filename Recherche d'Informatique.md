@@ -6,4 +6,4 @@
 
 - **Les organigrammes :** Les organigrammes sont un moyen de montrer comment les données circulent dans un système et comment les décisions sont prises pour contrôler les événements.
 
-- **Pseudo-code :** Un pseudo-code 
+- **Pseudo-code :** Un pseudo-code est une manière de décrire un l
