@@ -10,4 +10,7 @@ the course of the novel?**
 At the beginning of the novel, Toundi respects and admires the Europeans. However, as he witnesses the harsh realities of colonialism, he becomes disillusioned with their way of life and sees them as oppressors. His admiration turns into disgust, and he rejects European values in favor of his African heritage. In the end, he chooses death over living under the oppressive colonial system, symbolizing his desire for African freedom and independence.
 
 - **What is the significance of the title "Houseboy"?**
-The title "Houseboy" is significant because it reflects the main character's status and position in the colonial society.
+The title "Houseboy" is significant because it reflects the main character's status and position in the colonial society. He is responsible for cooking, cleaning, and running errands for the officer and his family.
+
+- **How does the narrator's relationship with his family change
+throughout the novel?**
