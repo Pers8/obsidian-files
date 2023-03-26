@@ -19,4 +19,5 @@ At the beginning of the novel, Toundi is close to his family and cherishes his A
 - **What is the main conflict in the novel and how is it resolved?**
 The main conflict in "Houseboy" is the struggle between the African natives and the French colonialists who have taken over their land. The conflict is resolved through Toundi's tragic death, which becomes a symbol of resistance against colonialism and a reminder of the need to resist oppression and exploitation.
 
-- 
+- **How does the novel depict the relationship between colonizers and
+colonized people?**
