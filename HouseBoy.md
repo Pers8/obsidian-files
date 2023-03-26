@@ -4,3 +4,6 @@ The novel "Houseboy" was written by Cameroonian author Ferdinand Oyono and was f
 
 - **Who is the narrator of the novel?**
 The narrator of the novel "Houseboy" is Toundi, the main character.
+
+- **How does the narrator's perception of the Europeans change over
+the course of the novel?**
