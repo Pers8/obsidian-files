@@ -8,4 +8,4 @@
 
 - **Pseudo-code :** Un pseudo-code est une manière de décrire un algorithme en utilisant un langage ordinaire sans utiliser une language de programmation et c'est pour cela qu'un pseudo-code peut aussi être appelé **L**angage de **D**escription d'**A**lgorithmes (LDA)
 
-- **Le concept de la programmation :** 
+- **Le concept de la programmation :** **Ensemble des activités liées à la définition, l'écriture, la mise au point et l'exécution de programmes informatiques** ; séquence des ordres auxquels doit obéir un dispositif.
