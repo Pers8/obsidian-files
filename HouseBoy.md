@@ -24,3 +24,4 @@ colonized people?**
 The novel depicts the relationship between colonizers and colonized people as one of power imbalance, exploitation, and violence. The colonizers hold all the power and view the Africans as inferior, subjecting them to forced labor, abuse, and even death. The novel also highlights the cultural and linguistic barriers between the two groups, and the destructive effects of colonialism on both the colonized people and their cultures.
 
 - **What role does religion play in the novel?**
+Religion plays an important role in "Houseboy". Toundi initially sees Catholicism as a way to integrate into European society, but as he becomes aware of the injustices of colonialism, he rejects Christianity and turns to traditional African religious practices. The novel highlights the complex relationship between religion, culture, and identity, and the importance of cultural and spiritual heritage in resisting oppression.
