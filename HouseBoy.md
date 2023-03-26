@@ -16,4 +16,7 @@ The title "Houseboy" is significant because it reflects the main character's sta
 throughout the novel?**
 At the beginning of the novel, Toundi is close to his family and cherishes his African heritage. However, as he becomes integrated into the colonial society, he questions his beliefs and feels alienated from his family. As he witnesses the brutal treatment of his fellow Africans by the French, he rejects European values and embraces his African heritage once again, longing to reconnect with his family. In the end, his desire for family and cultural heritage highlights the importance of these connections in the face of oppression and exploitation.
 
-- What is the main conflict in the novel and how is it resolved?
+- **What is the main conflict in the novel and how is it resolved?**
+The main conflict in "Houseboy" is the struggle between the African natives and the French colonialists who have taken over their land. The conflict is resolved through Toundi's tragic death, which becomes a symbol of resistance against colonialism and a reminder of the need to resist oppression and exploitation.
+
+- 
