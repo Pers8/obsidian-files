@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ce21fee733ca8fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
@@ -95,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +153,11 @@
       "ava:Ava": false
     }
   },
-  "active": "1ce21fee733ca8fb",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
     "assets/Pasted Image 20230325114110_779.png",
     "IB/EE.md",
-    "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
     "Excalidraw/Drawing 2023-03-24 08.14.12.excalidraw.md",
     "TOK/TOK exercice.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
@@ -204,7 +190,6 @@
     "assets/Pasted Image 20230308092422_082.png",
     "assets/Pasted image 20230308090258.png",
     "assets/Pasted image 20230308090216.png",
-    "assets/Pasted image 20230308090125.png",
-    "assets/Pasted image 20230308090032.png"
+    "assets/Pasted image 20230308090125.png"
   ]
 }
