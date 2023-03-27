@@ -31,4 +31,4 @@ William Shakespeare was a playwright who lived during the Queen Elizabethan era 
 
 ### Figurative Devices
 
-Both King Lear and House Boy use figurative devices to convey their themes and messages. In King Lear, Shakespeare makes use of metaphor, similis and other figure of speech to explore the complexity of human relationship and emotions. For example Lear compares himself to a storm 
+Both King Lear and House Boy use figurative devices to convey their themes and messages. In King Lear, Shakespeare makes use of metaphor, similis and other figure of speech to explore the complexity of human relationship and emotions. For example Lear compares himself to a storm when he says "I'll do such things "
