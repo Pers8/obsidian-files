@@ -18,4 +18,4 @@ The cultural context is set in England, a time when the monarchy had absolute po
 
 ### Characters
 
-Between King Lear and House Boy, we notice the complexity and multi-dimensionality of their characters. Both works feature characters who are fl
+Between King Lear and House Boy, we notice the complexity and multi-dimensionality of their characters. Both works feature characters who are flawed and nuanced with their own motivation and desire
