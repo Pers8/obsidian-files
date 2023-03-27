@@ -25,3 +25,8 @@ The novel depicts the relationship between colonizers and colonized people as on
 
 - **What role does religion play in the novel?**
 Religion plays an important role in "Houseboy". Toundi initially sees Catholicism as a way to integrate into European society, but as he becomes aware of the injustices of colonialism, he rejects Christianity and turns to traditional African religious practices. The novel highlights the complex relationship between religion, culture, and identity, and the importance of cultural and spiritual heritage in resisting oppression.
+
+- **How does the narrator's understanding of power and authority change throughout the novel?**
+In the beginning, the narrator Toundi thinks the French colonizers are powerful and good. He wants to be like them. But as he sees how they treat Africans, he becomes disillusioned and realizes they are oppressive and cruel. When he is falsely accused of a crime, he experiences the full extent of their power and starts to see them as oppressors, not authorities. In summary, Toundi's understanding of power and authority changes from admiration to disillusionment and critical examination.
+
+- How does the novel explore themes of identity and self-discovery?
