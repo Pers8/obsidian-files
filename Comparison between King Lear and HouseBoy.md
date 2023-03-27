@@ -15,3 +15,7 @@ The point of view pf King Lear is a third person omniscient which allow the read
 ### Cultural Context : 
 
 The cultural context is set in England, a time when the monarchy had absolute power and the aristocracy held over the common people. The play explores issues of power, authority and the relationship between the ruler and the ruled. House Boy is set in Cameroon during the time of French colonialism. The novel explores issues of identities belonging and the struggle against colonialism. 
+
+
+
+Between King Lear and House Boy, we notice the complexity and multi-dimensionality of their characters 
