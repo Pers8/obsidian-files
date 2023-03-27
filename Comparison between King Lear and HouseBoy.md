@@ -6,4 +6,4 @@ King Lear is a play that is written and set in England whereas House Boy is a no
 
 ### Similarities : 
 
-Despi
+Despite their differences, the 2 literary works share some similarities for example both works explore themes of power, authority and betrail 
