@@ -2,4 +2,4 @@ King Lear written by William Shakespeare and HouseBoy a novel by Ferdinand Oyono
 
 ### Differences :
 
-King Lear is a play that is written and set in England whereas HouseBoy is a novel written that was written in the 20s century and is set in Cameroon. King Lear is a tragedy about a aging King who divides his kingdom among his 3 daugthers and suffers  the consequences of his decisions. HouseBoy on the other hand is a coming of age story about a young boy named Toundi who works as a House boy for a french colonial administration in Cameroon
+King Lear is a play that is written and set in England whereas HouseBoy is a novel written that was written in the 20s century and is set in Cameroon. King Lear is a tragedy about a aging King who divides his kingdom among his 3 daugthers and suffers  the consequences of his decisions. HouseBoy on the other hand is a coming of age story about a young boy named Toundi who works as a House boy for a French colonial administration in Cameroon. Another diffenrece  between the 2 works is their POV
