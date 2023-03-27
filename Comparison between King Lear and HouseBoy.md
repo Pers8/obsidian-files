@@ -6,4 +6,4 @@ King Lear is a play that is written and set in England whereas House Boy is a no
 
 ### Similarities : 
 
-Despite their differences, the 2 literary works share some similarities for example both works explore themes of power, authority and betrayal. In King Lear, the central conflict revolves around the struggle for power  and the betrayal of trust between family members. In House Boy, Toundi was subjected to the abuse of power by colonial master and eventually betrayals his own people by collaborating with the colonizers 
+Despite their differences, the 2 literary works share some similarities for example both works explore themes of power, authority and betrayal. In King Lear, the central conflict revolves around the struggle for power  and the betrayal of trust between family members. In House Boy, Toundi was subjected to the abuse of power by colonial master and eventually betrayals his own people by collaborating with the colonizers. Both works feature complex and multi-dimensional characters
