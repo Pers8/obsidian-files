@@ -1,3 +1,4 @@
+
 King Lear written by William Shakespeare and House Boy a novel by Ferdinand Oyono are 2 literary works that differ in different ways, but they share some similarities in their themes, characters and settings. 
 
 ### Differences :
