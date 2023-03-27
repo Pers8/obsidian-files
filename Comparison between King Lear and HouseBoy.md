@@ -23,4 +23,4 @@ Between King Lear and House Boy, we notice the complexity and multi-dimensionali
 
 ### Narrative Style : 
 
-The Narrative style of King Lear is that of a play that is composed of dialogues and action.
+The Narrative style of King Lear is that of a play that is composed of dialogues and action. The language is poetic and elevated with a complex structure and multiple layers
