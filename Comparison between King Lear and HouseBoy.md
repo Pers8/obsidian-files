@@ -27,4 +27,4 @@ The Narrative style of King Lear is that of a play that is composed of dialogues
 
 ### Author's background : 
 
-William Shakespeare was a playwright who lived during the Queen Elizabethan era in England. He is considered to be one the greatest writer in the English language and is known for his profound insight into human nature. His mastery of language and his ability to create complex characters and intriquate plots
+William Shakespeare was a playwright who lived during the Queen Elizabethan era in England. He is considered to be one the greatest writer in the English language and is known for his profound insight into human nature. His mastery of language and his ability to create complex characters and intricate plots. Ferdinand Oyono, the author of House Boy 
