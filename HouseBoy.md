@@ -29,4 +29,4 @@ Religion plays an important role in "Houseboy". Toundi initially sees Catholicis
 - **How does the narrator's understanding of power and authority change throughout the novel?**
 In the beginning, the narrator Toundi thinks the French colonizers are powerful and good. He wants to be like them. But as he sees how they treat Africans, he becomes disillusioned and realizes they are oppressive and cruel. When he is falsely accused of a crime, he experiences the full extent of their power and starts to see them as oppressors, not authorities. In summary, Toundi's understanding of power and authority changes from admiration to disillusionment and critical examination.
 
-- How does the novel explore themes of identity and self-discovery?
+- **How does the novel explore themes of identity and self-discovery?**
