@@ -10,4 +10,4 @@ Despite their differences, the 2 literary works share some similarities for exam
 
 ### Point of View
 
-The point of view pf King Lear is a third person omniscient which allow the reader to see into the thoughts and feelings of the characters. This gives the play the sense of objectivity and allows the reader to understand the motivation of all the characters. The point of view of House Boy is the first person where the reader can see things from the perspective of the narrator. This creates a sense of intimacy and allows the reader to empaphize with Toundi struggles and experiences
+The point of view pf King Lear is a third person omniscient which allow the reader to see into the thoughts and feelings of the characters. This gives the play the sense of objectivity and allows the reader to understand the motivation of all the characters. The point of view of House Boy is the first person where the reader can see things from the perspective of the narrator. This creates a sense of intimacy and allows the reader to empathize with Toundi struggles and experiences 
