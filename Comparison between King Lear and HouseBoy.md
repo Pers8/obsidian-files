@@ -27,3 +27,4 @@ The Narrative style of King Lear is that of a play that is composed of dialogues
 
 ### Author's background : 
 
+William Shakespeare 
