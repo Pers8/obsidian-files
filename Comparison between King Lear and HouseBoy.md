@@ -14,3 +14,4 @@ The point of view pf King Lear is a third person omniscient which allow the read
 
 ### Cultural Context : 
 
+The cultural context is set in England, a time when the monarchy had absolute power and the aristocracy 
