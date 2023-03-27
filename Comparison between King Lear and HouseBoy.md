@@ -27,4 +27,4 @@ The Narrative style of King Lear is that of a play that is composed of dialogues
 
 ### Author's background : 
 
-William Shakespeare was a playwright who lived during the Queen Elizabethan era in England. He is considered to be one the greatest writer in the English language and is known for his profound insight into human nature. His mastery of language and his ability to create complex characters and intricate plots. Ferdinand Oyono, the author of House Boy was a Cameroonian writer and politician who lived during the 20s century. He was 
+William Shakespeare was a playwright who lived during the Queen Elizabethan era in England. Is considered one of the greatest writer in the English language and is known for his profound incite into Human. His mastery of English and his ability to create complex character and intricate plot. Ferdinand Oyono the author of Houseboy was Cameroon writer and politician who lived during the 20th century. He was a member of the Francophone African literature movement who aimed to promote the cultural and political identity of African people
