@@ -6,4 +6,4 @@
 
 #### 1. Notion de cinématique
 
-A) Déplacement et Distance p
+A) Déplacement et Distance parcourue
