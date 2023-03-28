@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c650206d4afcade5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mécanique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Cid.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -194,9 +206,10 @@
       "ava:Ava": false
     }
   },
-  "active": "f999d88f31b5722b",
+  "active": "c650206d4afcade5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "IB/Physics.md",
+    "Mécanique.md",
     "Le Cid.md",
     "Comparison between King Lear and HouseBoy.md",
     "HouseBoy.md",
@@ -212,7 +225,6 @@
     "IB/EE.md",
     "Excalidraw/Drawing 2023-03-24 08.14.12.excalidraw.md",
     "TOK/TOK exercice.md",
-    "IB/Physics.md",
     "TOK/introduction.md",
     "TOK/12 TOK concepts.md",
     "TOK/AOF History.md",
