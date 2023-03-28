@@ -5,4 +5,5 @@
 
 
 #### 1. Notion de cinématique
-A) Déplacement 
+
+A) Déplacement et Distance p
