@@ -35,4 +35,4 @@ Both King Lear and House Boy use figurative devices to convey their themes and m
 
 ### Symbols
 
-Both King Lear and House Boy are also make use of symbolism to convey their themes and symbolism. In King Lear, the fool serves as a symbol of the truth that the other characters are enable or unwilling to see. He speaks in riddle and paradox using humour and wit to expose the folly of those around him. In House Boy, the single of the bicycle rep 
+Both King Lear and House Boy are also make use of symbolism to convey their themes and symbolism. In King Lear, the fool serves as a symbol of the truth that the other characters are enable or unwilling to see. He speaks in riddle and paradox using humour and wit to expose the folly of those around him. In House Boy, the single of the bicycle represents Toundi's desire of freedom and independence 
