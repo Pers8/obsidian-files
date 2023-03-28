@@ -35,4 +35,4 @@ Both King Lear and House Boy use figurative devices to convey their themes and m
 
 ### Symbols
 
-Both King Lear and House Boy are also make use of symbolism to convey their themes and symbolism. In King Lear, 
+Both King Lear and House Boy are also make use of symbolism to convey their themes and symbolism. In King Lear, the fool serves as a symbol of the truth that the other characters ae
