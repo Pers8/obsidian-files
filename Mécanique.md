@@ -23,4 +23,4 @@ $$\vec{V}=\frac{\vec{D}}{\Delta{\vec{t}}}$$ $M_1$, $M_2$ positions aux date $t_1
 
 #### L'accéleration ?
 C'est la variation de la vitesse au cour du temps - acceleration moyenne a. $$\vec{a}=\frac{\Delta{\vec{v}}}{\Delta{t}}$$ - Acceleration instantannée $$\vec{a}=\frac{d\vec{v}}{dt}$$
-#### 2. 
+####**Les equations de la cinématique a une dimension equation SUVAT** 
