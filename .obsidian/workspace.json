@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Comparison between King Lear and HouseBoy.md"
               }
             }
           },
@@ -206,13 +206,13 @@
       "ava:Ava": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "c650206d4afcade5",
   "lastOpenFiles": [
+    "Le Cid.md",
     "Comparison between King Lear and HouseBoy.md",
     "Mécanique.md",
     "assets/Pasted image 20230328100536.png",
     "IB/Physics.md",
-    "Le Cid.md",
     "HouseBoy.md",
     "IB/Economy.md",
     "Python.md",
