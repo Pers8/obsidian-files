@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Cid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Cid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Le Cid.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,10 +190,11 @@
       "ava:Ava": false
     }
   },
-  "active": "f999d88f31b5722b",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
-    "Comparison between King Lear and HouseBoy.md",
     "Le Cid.md",
+    "Untitled.md",
+    "Comparison between King Lear and HouseBoy.md",
     "HouseBoy.md",
     "IB/Economy.md",
     "Python.md",
@@ -222,7 +219,6 @@
     "TOK/Personal Knowledge.md",
     "TOK/Test 1 Correction.md",
     "TOK/The Knower's perspective.md",
-    "TOK/TOK Exhibition.md",
     "assets/Pasted image 20230318064519.png",
     "assets/~$ectres atomiquescours2021.docx",
     "assets/Pasted Image 20230313200337_253.png",
