@@ -35,9 +35,11 @@
             "id": "bf2e8d32faf3060a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md"
+                "file": "IB/Maths.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -206,9 +208,9 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
     "assets/Pasted Image 20230330091318_893.png",
     "Comparison between King Lear and HouseBoy.md",
-    "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
     "Electricité test.md",
     "HouseBoy.md",
     "Le Cid.md",
@@ -241,7 +243,6 @@
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
     "assets/Pasted Image 20230308092422_082.png",
-    "assets/Pasted image 20230308090258.png",
-    "assets/Pasted image 20230308090216.png"
+    "assets/Pasted image 20230308090258.png"
   ]
 }
