@@ -35,9 +35,11 @@
             "id": "bf2e8d32faf3060a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-31 09.39.28.excalidraw.md"
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-31 09.39.28.excalidraw.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-31 09.39.28.excalidraw.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-31 09.39.28.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -206,8 +208,8 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
+    "Excalidraw/vab.md",
     "IB/Maths.md",
-    "Excalidraw/Drawing 2023-03-31 09.39.28.excalidraw.md",
     "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
     "assets/Pasted Image 20230330091318_893.png",
     "Comparison between King Lear and HouseBoy.md",
