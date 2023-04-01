@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement rectiligne uniforme.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Mouvement rectiligne uniforme.md",
+    "assets/Pasted image 20230401120227.png",
+    "IB/Physics.md",
     "Physics/Utilisation des aires.md",
     "assets/Pasted image 20230401075439.png",
     "assets/Pasted image 20230401075334.png",
@@ -235,7 +236,6 @@
     "HouseBoy.md",
     "Le Cid.md",
     "Mécanique.md",
-    "assets/Pasted image 20230328100536.png",
     "IB/Economy.md",
     "Python.md",
     "Change blindness.md",
@@ -243,7 +243,6 @@
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Comp Sci/Organigrammes.md",
     "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
-    "IB/EE.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
