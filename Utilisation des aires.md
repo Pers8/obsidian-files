@@ -6,3 +6,4 @@ tags: [physics]
 ?
 ![[Pasted image 20230401072933.png]]
 
+![[Pasted image 20230401072955.png]]
