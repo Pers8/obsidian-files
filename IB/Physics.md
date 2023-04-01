@@ -13,17 +13,14 @@ $$
 # Theme 2-Mécanique
 ## I-Cinématique
 ### 1. Notion de cinématique
-
 1.  [Déplacement et Distance parcouru](app://obsidian.md/D%C3%A9placement%20et%20Distance%20parcouru)
 2.  [Vitesse](app://obsidian.md/Vitesse)
 3.  [Accélération](app://obsidian.md/Acc%C3%A9l%C3%A9ration)
-
-### 
-
-2. Les équations de la cinématique a une dimension (SUVAT)
-
+### 2. Les équations de la cinématique a une dimension (SUVAT)
 1.  [Utilisation des aires](app://obsidian.md/Utilisation%20des%20aires)
 2.  [Mouvement rectiligne uniforme](app://obsidian.md/Mouvement%20rectiligne%20uniforme)
+
+
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
 1. [[Température]] et échelle de température
