@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Transmission de données.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Transmission de données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Transmission de données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Transmission de données.md"
               }
             }
           },
@@ -208,6 +208,8 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
+    "IB/Comp Sci.md",
+    "Transmission de données.md",
     "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "assets/Pasted image 20230401120227.png",
@@ -242,7 +244,6 @@
     "Technologies nécessaires pour fournir un VPN.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Comp Sci/Organigrammes.md",
-    "Excalidraw/Drawing 2023-03-25 11.40.55.excalidraw.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }

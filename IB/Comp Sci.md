@@ -56,5 +56,5 @@ $$
 
 1.  [[Réseaux(2)]]
 2.  [[Fondamentaux des réseaux]]
-3. 1.  [Transmission de données](app://obsidian.md/Transmission%20de%20donn%C3%A9es)
-2.  [Réseaux sans fil](a
+3. [[Transmission de données]]
+2.  [[Réseaux sans fil]]
