@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recherche d'Informatique.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recherche d'Informatique.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recherche d'Informatique.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recherche d'Informatique.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -208,9 +208,10 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Recherche d'Informatique.md",
     "IB/Physics.md",
     "Excalidraw/vab.md",
-    "IB/Maths.md",
     "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
     "assets/Pasted Image 20230330091318_893.png",
     "Comparison between King Lear and HouseBoy.md",
@@ -222,7 +223,6 @@
     "IB/Economy.md",
     "Python.md",
     "Change blindness.md",
-    "Recherche d'Informatique.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Physics/Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
     "Comp Sci/Organigrammes.md",
