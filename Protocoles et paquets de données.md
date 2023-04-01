@@ -21,3 +21,4 @@ Normalement, un paquet comporte un en-tête et une charge utile. La structure d'
 
 Composition d'un paquet de données (représentation):
 ?
+![[Pasted image 20230401120806.png]]
