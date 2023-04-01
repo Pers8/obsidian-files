@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -206,11 +206,11 @@
       "ava:Ava": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "assets/Pasted image 20230401120227.png",
-    "IB/Physics.md",
     "Physics/Utilisation des aires.md",
     "assets/Pasted image 20230401075439.png",
     "assets/Pasted image 20230401075334.png",
