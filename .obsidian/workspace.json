@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie de liaison du noyau.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie de liaison du noyau.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -208,9 +208,10 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
-    "assets/Pasted image 20230401061736.png",
+    "Physics/Fission et fusion nucléaire.md",
     "IB/Physics.md",
-    "Energie de liaison du noyau.md",
+    "Physics/Energie de liaison du noyau.md",
+    "assets/Pasted image 20230401061736.png",
     "Physics/Conservation masse-énergie.md",
     "IB/Maths.md",
     "Recherche d'Informatique.md",
@@ -243,7 +244,6 @@
     "assets/Pasted Image 20230309063921_098.png",
     "assets/Pasted Image 20230309042510_866.png",
     "assets/Pasted Image 20230308200022_831.png",
-    "assets/Pasted Image 20230308092422_082.png",
-    "assets/Pasted image 20230308090258.png"
+    "assets/Pasted Image 20230308092422_082.png"
   ]
 }
