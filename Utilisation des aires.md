@@ -10,4 +10,4 @@ tags: [physics]
 ## Diagramme a en fonction de t
 ?
 ![[Pasted image 20230401075334.png]]
-
+![[Pasted image 20230401075439.png]]
