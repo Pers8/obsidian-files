@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Commutation de paquets.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Commutation de paquets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md",
+                "file": "Commutation de paquets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristiques des différents supports de transmission.md"
+                "file": "Commutation de paquets.md"
               }
             }
           },
@@ -209,7 +209,8 @@
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
     "Transmission de données.md",
-    "Caractéristiques des différents supports de transmission.md",
+    "Commutation de paquets.md",
+    "Physics/Caractéristiques des différents supports de transmission.md",
     "Physics/Compression des données dans un réseau.md",
     "assets/Pasted image 20230401124115.png",
     "Physics/Vitesse de transmission des données sur un réseau.md",
@@ -243,7 +244,6 @@
     "HouseBoy.md",
     "Le Cid.md",
     "Mécanique.md",
-    "IB/Economy.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
