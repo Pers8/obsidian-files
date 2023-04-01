@@ -11,13 +11,8 @@ $$
 
 <br/>
 # Theme 2-Mécanique
-
-
 ## I-Cinématique
-
-### 
-
-1. Notion de cinématique
+### 1. Notion de cinématique
 
 1.  [Déplacement et Distance parcouru](app://obsidian.md/D%C3%A9placement%20et%20Distance%20parcouru)
 2.  [Vitesse](app://obsidian.md/Vitesse)
