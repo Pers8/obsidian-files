@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Compression des données dans un réseau.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Compression des données dans un réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transmission de données.md",
+                "file": "Compression des données dans un réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transmission de données.md"
+                "file": "Compression des données dans un réseau.md"
               }
             }
           },
@@ -208,8 +208,10 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
-    "Physics/Nécessité des protocoles.md",
     "Transmission de données.md",
+    "Compression des données dans un réseau.md",
+    "Physics/Vitesse de transmission des données sur un réseau.md",
+    "Physics/Nécessité des protocoles.md",
     "Physics/Protocoles et paquets de données.md",
     "assets/Pasted image 20230401120853.png",
     "assets/Pasted image 20230401120806.png",
@@ -242,8 +244,6 @@
     "Mécanique.md",
     "IB/Economy.md",
     "Python.md",
-    "Change blindness.md",
-    "Technologies nécessaires pour fournir un VPN.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
