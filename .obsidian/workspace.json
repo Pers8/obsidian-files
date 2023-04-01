@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Vitesse.md",
+                "file": "Accélération.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Vitesse.md",
+                "file": "Accélération.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Vitesse.md",
+                "file": "Accélération.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Vitesse.md"
+                "file": "Accélération.md"
               }
             }
           },
@@ -206,9 +206,10 @@
       "ava:Ava": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Accélération.md",
     "Physics/Vitesse.md",
     "Physics/Déplacement et Distance parcouru.md",
     "assets/Pasted image 20230401070105.png",
@@ -239,7 +240,6 @@
     "IB/EE.md",
     "Excalidraw/Drawing 2023-03-24 08.14.12.excalidraw.md",
     "TOK/TOK exercice.md",
-    "TOK/introduction.md",
     "assets/Pasted image 20230318064519.png",
     "assets/~$ectres atomiquescours2021.docx",
     "assets/Pasted Image 20230313200337_253.png",
