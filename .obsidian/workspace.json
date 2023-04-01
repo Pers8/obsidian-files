@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Conservation masse-énergie.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Conservation masse-énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Conservation masse-énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Conservation masse-énergie.md"
               }
             }
           },
@@ -208,9 +208,10 @@
   },
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Conservation masse-énergie.md",
     "IB/Maths.md",
     "Recherche d'Informatique.md",
-    "IB/Physics.md",
     "Excalidraw/vab.md",
     "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
     "assets/Pasted Image 20230330091318_893.png",
@@ -236,7 +237,6 @@
     "TOK/AOF History.md",
     "TOK/Core items.md",
     "TOK/Definition.md",
-    "TOK/Natural Sciences.md",
     "assets/Pasted image 20230318064519.png",
     "assets/~$ectres atomiquescours2021.docx",
     "assets/Pasted Image 20230313200337_253.png",
