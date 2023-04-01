@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "Energie de liaison du noyau.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "Energie de liaison du noyau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation masse-énergie.md",
+                "file": "Energie de liaison du noyau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation masse-énergie.md"
+                "file": "Energie de liaison du noyau.md"
               }
             }
           },
@@ -209,7 +209,8 @@
   "active": "bf2e8d32faf3060a",
   "lastOpenFiles": [
     "IB/Physics.md",
-    "Conservation masse-énergie.md",
+    "Energie de liaison du noyau.md",
+    "Physics/Conservation masse-énergie.md",
     "IB/Maths.md",
     "Recherche d'Informatique.md",
     "Excalidraw/vab.md",
@@ -236,7 +237,6 @@
     "TOK/12 TOK concepts.md",
     "TOK/AOF History.md",
     "TOK/Core items.md",
-    "TOK/Definition.md",
     "assets/Pasted image 20230318064519.png",
     "assets/~$ectres atomiquescours2021.docx",
     "assets/Pasted Image 20230313200337_253.png",
