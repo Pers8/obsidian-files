@@ -8,9 +8,11 @@ A good extract that is related to the question is :"I was soon to discover that 
 ![[Pasted image 20230402102342.png]]
 *A photograph of a French colonial administrator standing with a group of African servants in front of a colonial building.*
 
+Extract :
 
-The extract highlights the harsh behavior of the French colonizers  against the Toundi and other African servants, who are required to continue serving and obeying their white masters. Toundi is forced to choose between his devotion to the French and his desire to bond with his fellow Africans, which causes him to struggle with his sense of self and belonging as a result of this treatment. The extract above demonstrates the oppressive nature of the French colonizers towards Toundi and other African servants, who are expected to remain subservient and obedient to their white masters. This treatment leaves Toundi struggling with his own identity and sense of belonging, as he is forced to navigate between his loyalty to the French and his desire to connect with his fellow Africans.
+The extract highlights the harsh behavior of the French colonizers  against the Toundi and other African servants, who are required to continue serving and obeying their white masters. Toundi is forced to choose between his devotion to the French and his desire to bond with his fellow Africans, which causes him to struggle with his sense of self and belonging as a result of this treatment. 
 
-	The image of the French colonial official and his African workers emphasizes the social hierarchy and power relationships in colonial life even more. The African servants, who are all dressed in traditional clothing and standing in a subservient position, are positioned around the administrator in the center of the image. The power dynamics that Toundi encounters in the novel are reinforced by this image, which furthers the concept that the French colonizers considered themselves superior and the Africans to be inferior.
+
+The image of the French colonial official and his African workers emphasizes the social hierarchy and power relationships in colonial life even more. The African servants, who are all dressed in traditional clothing and standing in a subservient position, are positioned around the administrator in the center of the image. The power dynamics that Toundi encounters in the novel are reinforced by this image, which furthers the concept that the French colonizers considered themselves superior and the Africans to be inferior.
 
 
