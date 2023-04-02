@@ -12,5 +12,4 @@ The extract highlights the harsh behavior of the French colonizers  against the 
 
 The photograph of the French colonial administrator and African servants further highlights the power dynamics and social hierarchies of colonial society. The administrator is positioned in the center of the photograph, surrounded by the African servants, who are all dressed in traditional clothing and standing in a subservient posture. This image reinforces the idea that the French colonizers saw themselves as superior and the Africans as inferior, reinforcing the power dynamics that Toundi experiences in the novel.
 
-Overall, Toundi's experiences in "Houseboy" demonstrate the complex nature of colonialism and its impact on both the colonizers and the colonized. The novel highlights the ways in which power dynamics and social hierarchies shape individual identity and sense of belonging, and how these issues can be perpetuated even after colonialism has officially ended.
 
