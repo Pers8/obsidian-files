@@ -3,8 +3,7 @@
 
 *Find an extract related to the question and find an image that is non-literary work to the question and then do an essay about it in 20 lines maximum*
 
-A good extract that is rel
-Extract from "Houseboy" by Ferdinand Oyono: "I was soon to discover that the whiteman was not happy with anyone who was not servile, anyone who dared to show a spirit of independence."
+A good extract that is related to the question is : "I was soon to discover that the whiteman was not happy with anyone who was not servile, anyone who dared to show a spirit of independence."
 
 Image: A photograph of a French colonial administrator standing with a group of African servants in front of a colonial building.
 
