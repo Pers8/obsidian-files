@@ -22,7 +22,7 @@ $\LARGE{HL}$
 
 $\LARGE{SL}$
 -
-### ✍️ [[English]]
+### ✍️ [[IB/English]]
 ### 📈 [[Economy]]
 ### 🇫🇷 [[French]]
 
