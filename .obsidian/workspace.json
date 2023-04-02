@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français devoir.md",
+                "file": "English extract homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français devoir.md",
+                "file": "English extract homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français devoir.md"
+                "file": "English extract homework.md"
               }
             }
           },
@@ -230,10 +230,11 @@
       "ava:Ava": false
     }
   },
-  "active": "dda7731043d717d4",
+  "active": "c996056c7dc05daf",
   "lastOpenFiles": [
-    "English extract homework.md",
     "Français devoir.md",
+    "Le Cid.md",
+    "English extract homework.md",
     "assets/Pasted image 20230402102342.png",
     "Comp Sci/Transmission de données.md",
     "IB/Comp Sci.md",
@@ -267,7 +268,6 @@
     "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
     "Comparison between King Lear and HouseBoy.md",
     "Electricité test.md",
-    "HouseBoy.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
