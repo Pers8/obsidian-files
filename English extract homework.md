@@ -10,6 +10,6 @@ A good extract that is related to the question is : "I was soon to discover that
 
 The extract highlights the harsh behavior of the French colonizers  against the Toundi and other African servants, who are required to continue serving and obeying their white masters. Toundi is forced to choose between his devotion to the French and his desire to bond with his fellow Africans, which causes him to struggle with his sense of self and belonging as a result of this treatment. 
 
-The photograph of the French colonial administrator and African servants further highlights the power dynamics and social hierarchies of colonial society. The administrator is positioned in the center of the photograph, surrounded by the African servants, who are all dressed in traditional clothing and standing in a subservient posture. This image reinforces the idea that the French colonizers saw themselves as superior and the Africans as inferior, reinforcing the power dynamics that Toundi experiences in the novel.
+The image of the French colonial official and his African workers emphasizes the social hierarchy and power relationships in colonial life even more. The African servants, who are all dressed in traditional clothing and standing in a subservient position, are positioned around the administrator in the center of the image. The power dynamics that Toundi encounters in the novel are reinforced by this image, which furthers the concept that the French colonizers considered themselves superior and the Africans to be inferior.
 
 
