@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "d355dfeeb2e289ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "dda7731043d717d4",
             "type": "leaf",
             "state": {
@@ -102,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
+                "file": "Le Cid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
+                "file": "Le Cid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md"
+                "file": "Le Cid.md"
               }
             }
           },
@@ -240,12 +230,12 @@
       "ava:Ava": false
     }
   },
-  "active": "d355dfeeb2e289ec",
+  "active": "f999d88f31b5722b",
   "lastOpenFiles": [
-    "In Class ENGL work.md",
-    "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
-    "assets/Pasted image 20230403102842.png",
     "English extract homework.md",
+    "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
+    "In Class ENGL work.md",
+    "assets/Pasted image 20230403102842.png",
     "Comparison between King Lear and HouseBoy.md",
     "Français devoir.md",
     "Le Cid.md",
