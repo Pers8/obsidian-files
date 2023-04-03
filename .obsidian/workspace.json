@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "f999d88f31b5722b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "c650206d4afcade5",
             "type": "leaf",
             "state": {
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md"
+                "file": "Comparison between King Lear and HouseBoy.md"
               }
             }
           },
@@ -228,11 +218,11 @@
       "ava:Ava": false
     }
   },
-  "active": "f999d88f31b5722b",
+  "active": "dda7731043d717d4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
     "assets/Pasted Image 20230403134519_056.png",
     "Le Cid.md",
-    "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
     "English extract homework.md",
     "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
     "In Class ENGL work.md",
@@ -258,7 +248,6 @@
     "Physics/Utilisation des aires.md",
     "assets/Pasted image 20230401075439.png",
     "assets/Pasted image 20230401075334.png",
-    "assets/Pasted image 20230401072955.png",
     "Accélération.md",
     "Physics/Vitesse.md",
     "Physics/Déplacement et Distance parcouru.md",
