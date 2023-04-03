@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "English extract homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "English extract homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md"
+                "file": "English extract homework.md"
               }
             }
           },
@@ -230,8 +230,9 @@
       "ava:Ava": false
     }
   },
-  "active": "dda7731043d717d4",
+  "active": "c996056c7dc05daf",
   "lastOpenFiles": [
+    "Comparison between King Lear and HouseBoy.md",
     "Français devoir.md",
     "English extract homework.md",
     "Le Cid.md",
@@ -266,7 +267,6 @@
     "Recherche d'Informatique.md",
     "Excalidraw/vab.md",
     "Excalidraw/Drawing 2023-03-30 09.09.38.excalidraw.md",
-    "Comparison between King Lear and HouseBoy.md",
     "Electricité test.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
