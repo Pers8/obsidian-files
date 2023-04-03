@@ -8,3 +8,4 @@ Conflict and colonialism: Violence and the Concept of inferiority ion terms of r
 
 **Extract :** "I was soon to discover that the whiteman was not happy with anyone who was not servile, anyone who dared to show a spirit of independence."
 
+**Non-literary work :** 
