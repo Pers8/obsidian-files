@@ -71,11 +71,9 @@
             "id": "f999d88f31b5722b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Le Cid.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md"
               }
             }
           },
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Cid.md"
+                "file": "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md"
               }
             }
           },
@@ -232,13 +230,14 @@
   },
   "active": "f999d88f31b5722b",
   "lastOpenFiles": [
+    "Le Cid.md",
+    "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
     "English extract homework.md",
     "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
     "In Class ENGL work.md",
     "assets/Pasted image 20230403102842.png",
     "Comparison between King Lear and HouseBoy.md",
     "Français devoir.md",
-    "Le Cid.md",
     "assets/Pasted image 20230402102342.png",
     "Comp Sci/Transmission de données.md",
     "IB/Comp Sci.md",
@@ -267,7 +266,6 @@
     "Physics/Conservation masse-énergie.md",
     "IB/Maths.md",
     "Recherche d'Informatique.md",
-    "Excalidraw/vab.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
