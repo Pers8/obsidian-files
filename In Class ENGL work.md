@@ -1,2 +1,3 @@
 
-Culture, Identity and community: Racial segrega.on in hos.le environment
+
+Culture, Identity and community: Racial segregation in hostile environment
