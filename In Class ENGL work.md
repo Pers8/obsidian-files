@@ -6,4 +6,4 @@ Conflict and colonialism: Violence and the Concept of inferiority ion terms of r
 
 **Thesis :** How  does House Boy highlight the concept of inferiority and racial segregation throughout the novella ?
 
-**Extract :**
+**Extract :** 
