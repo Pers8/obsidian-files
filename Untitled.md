@@ -1,1 +1,1 @@
-To narrow down my choice of object, I have to base my exhibition on one of the core or 5 optional themes 
+To narrow down my choice of object, I have to base my exhibition on one of the core or 5 optional themes. Object must be from the real world.  
