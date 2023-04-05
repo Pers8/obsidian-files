@@ -1,0 +1,1 @@
+To narrow down my choice of object, I have to base my exhibition on one of the core theme 
