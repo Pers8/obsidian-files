@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -230,8 +230,8 @@
   },
   "active": "549b9724e075041b",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Physics/Déplacement et Distance parcouru.md",
+    "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
     "Accélération.md",
