@@ -13,24 +13,16 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 (représentation économie ouverte)
 ?
 ![[Pasted image 20230406174640.png]]
-<!--SR:!2023-04-10,9,250-->
 
 - Autarcie =:: économie fermée
-<!--SR:!2023-04-12,11,270-->
 
 ### Symboles en macro-économie
 - T =:: Taxes
-<!--SR:!2023-04-16,14,290-->
 - S =:: Epargnes
-<!--SR:!2023-04-18,16,290-->
 - M =:: Importations
-<!--SR:!2023-04-17,15,290-->
 - G =:: Dépenses gouvernementales
-<!--SR:!2023-04-15,13,290-->
 - I =:: Investissements
-<!--SR:!2023-04-16,14,290-->
 - X =:: Exportations
-<!--SR:!2023-04-19,17,290-->
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
