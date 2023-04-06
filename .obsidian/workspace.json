@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Activité économique.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Activité économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Activité économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Activité économique.md"
               }
             }
           },
@@ -230,6 +230,9 @@
   },
   "active": "549b9724e075041b",
   "lastOpenFiles": [
+    "assets/Pasted image 20230406174640.png",
+    "IB/Economy.md",
+    "Activité économique.md",
     "Physics/Déplacement et Distance parcouru.md",
     "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
@@ -263,9 +266,6 @@
     "Physics/Vitesse de transmission des données sur un réseau.md",
     "Physics/Nécessité des protocoles.md",
     "Physics/Protocoles et paquets de données.md",
-    "Physics/Fission et fusion nucléaire.md",
-    "Physics/Energie de liaison du noyau.md",
-    "Physics/Conservation masse-énergie.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
