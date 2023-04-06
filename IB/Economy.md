@@ -54,3 +54,18 @@ $$
 3. [[Contrôles des prix planchers]] ou minimum, [[Conséquences possibles de l'imposition d'un prix plancher]]
 4. [[Impôts indirects]]
 5. [[Subventions]]
+
+# Theme 2 :Macro-économie
+
+
+
+Theme 2-Macro-économie
+
+Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations
+
+# 
+
+Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations
+
+1.  [Activité économique](app://obsidian.md/Activit%C3%A9%20%C3%A9conomique)
+2.  [PIB](app://obsidian.md/PIB)
