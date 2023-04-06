@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIB.md",
+                "file": "Economy/PIB.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PIB.md",
+                "file": "Economy/PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PIB.md",
+                "file": "Economy/PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIB.md"
+                "file": "Economy/PIB.md"
               }
             }
           },
@@ -230,9 +230,10 @@
   },
   "active": "549b9724e075041b",
   "lastOpenFiles": [
+    "Economy/Méthode de sortie (production).md",
+    "Economy/PIB.md",
     "assets/Pasted image 20230406174930.png",
     "IB/Economy.md",
-    "PIB.md",
     "Economy/Activité économique.md",
     "assets/Pasted image 20230406174640.png",
     "Physics/Déplacement et Distance parcouru.md",
@@ -253,7 +254,6 @@
     "assets/Pasted Image 20230404193116_683.png",
     "Comparison between King Lear and HouseBoy.md",
     "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
-    "assets/Pasted Image 20230403134519_056.png",
     "Le Cid.md",
     "English extract homework.md",
     "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
