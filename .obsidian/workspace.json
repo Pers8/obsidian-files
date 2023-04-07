@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Activité économique.md",
+                "file": "Commutation de paquets.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Activité économique.md",
+                "file": "Commutation de paquets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Activité économique.md",
+                "file": "Commutation de paquets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Activité économique.md"
+                "file": "Commutation de paquets.md"
               }
             }
           },
@@ -230,19 +230,19 @@
   },
   "active": "549b9724e075041b",
   "lastOpenFiles": [
+    "Accélération.md",
+    "Economy/Activité économique.md",
     "IB/Economy.md",
     "Economy/Méthode des dépenses (demande).md",
     "Economy/PIB.md",
     "Economy/Méthode du revenu.md",
     "Economy/Méthode de sortie (production).md",
     "assets/Pasted image 20230406174930.png",
-    "Economy/Activité économique.md",
     "assets/Pasted image 20230406174640.png",
     "Physics/Déplacement et Distance parcouru.md",
     "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
-    "Accélération.md",
     "Physics/Vitesse.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-04-04 19.31.01.excalidraw.md",
