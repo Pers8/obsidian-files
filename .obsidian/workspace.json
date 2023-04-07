@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Economy/Activité économique.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Economy/Activité économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode des dépenses (demande).md",
+                "file": "Economy/Activité économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode des dépenses (demande).md"
+                "file": "Economy/Activité économique.md"
               }
             }
           },
@@ -230,12 +230,12 @@
   },
   "active": "549b9724e075041b",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Economy/Méthode des dépenses (demande).md",
     "Economy/PIB.md",
-    "Méthode des dépenses (demande).md",
     "Economy/Méthode du revenu.md",
     "Economy/Méthode de sortie (production).md",
     "assets/Pasted image 20230406174930.png",
-    "IB/Economy.md",
     "Economy/Activité économique.md",
     "assets/Pasted image 20230406174640.png",
     "Physics/Déplacement et Distance parcouru.md",
