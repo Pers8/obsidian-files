@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-08 11.19.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Différents Modèles d'Architecture.md",
+                "file": "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Différents Modèles d'Architecture.md",
+                "file": "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Différents Modèles d'Architecture.md"
+                "file": "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   "active": "549b9724e075041b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-04-08 11.19.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
+    "EE/Différents Modèles d'Architecture.md",
     "Commutation de paquets.md",
     "Accélération.md",
     "Economy/Activité économique.md",
@@ -264,8 +266,6 @@
     "In Class ENGL work.md",
     "Français devoir.md",
     "Comp Sci/Transmission de données.md",
-    "IB/Comp Sci.md",
-    "Physics/Caractéristiques des différents supports de transmission.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
