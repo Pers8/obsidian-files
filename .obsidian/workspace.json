@@ -69,11 +69,9 @@
             "id": "549b9724e075041b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md"
               }
             }
           },
@@ -223,13 +221,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "ava:Ava": false
+      "ava:Ava": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "549b9724e075041b",
   "lastOpenFiles": [
+    "assets/Pasted Image 20230408112055_811.png",
     "Excalidraw/Drawing 2023-04-08 11.19.04.excalidraw.md",
     "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
     "EE/Différents Modèles d'Architecture.md",
@@ -265,7 +264,6 @@
     "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
     "In Class ENGL work.md",
     "Français devoir.md",
-    "Comp Sci/Transmission de données.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }

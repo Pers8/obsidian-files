@@ -1,11 +1,11 @@
 [
   "obsidian-banners",
-  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-charts",
   "obsidian-git",
   "obsidian-spaced-repetition",
   "obsidian-discordrpc",
   "convert-url-to-iframe",
-  "ava"
+  "ava",
+  "obsidian-excalidraw-plugin"
 ]
