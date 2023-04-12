@@ -2,7 +2,7 @@
 tags : [TOK]
 ---
 
-[[TOK]] > [[TOK Exhibition]]
+[[TOK]] > [[TOK/TOK Exhibition]]
 
 
 
