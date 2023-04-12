@@ -1,4 +1,4 @@
 
 **Question :** Are some types of knowledge more useful than others?
 
-**Objects :**  A book because
+**Objects :**  A book and a map
