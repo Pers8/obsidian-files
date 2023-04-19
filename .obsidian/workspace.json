@@ -79,11 +79,9 @@
             "id": "a92cf86fa7660d58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mécanique.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md"
               }
             }
           },
@@ -240,6 +238,9 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "assets/Pasted Image 20230419090949_467.png",
+    "Mécanique.md",
+    "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md",
     "TOK Exhibition.md",
     "assets/Pasted image 20230412143426.png",
     "assets/Pasted image 20230412143112.png",
@@ -273,8 +274,6 @@
     "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
     "Le Cid.md",
     "English extract homework.md",
-    "Excalidraw/Drawing 2023-04-03 11.17.17.excalidraw.md",
-    "In Class ENGL work.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
