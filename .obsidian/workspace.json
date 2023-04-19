@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change blindness.md",
+                "file": "HouseBoy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Change blindness.md",
+                "file": "HouseBoy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Change blindness.md",
+                "file": "HouseBoy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Change blindness.md"
+                "file": "HouseBoy.md"
               }
             }
           },
@@ -240,6 +240,8 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "Electricité test.md",
+    "Change blindness.md",
     "Accélération.md",
     "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md",
     "assets/Pasted Image 20230419090949_467.png",
@@ -274,7 +276,6 @@
     "Comparison between King Lear and HouseBoy.md",
     "Excalidraw/Drawing 2023-04-03 13.45.06.excalidraw.md",
     "Le Cid.md",
-    "English extract homework.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
