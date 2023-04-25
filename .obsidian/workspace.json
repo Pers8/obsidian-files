@@ -79,9 +79,11 @@
             "id": "a92cf86fa7660d58",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md"
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -238,9 +240,10 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "IB/📝Dashboard.md",
+    "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md",
     "assets/Pasted Image 20230425113205_978.png",
     "HouseBoy.md",
-    "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md",
     "Electricité test.md",
     "Change blindness.md",
     "Accélération.md",
@@ -273,7 +276,6 @@
     "Excalidraw/Drawing 2023-04-04 19.31.01.excalidraw.md",
     "assets/Pasted Image 20230405100935_341.png",
     "assets/Pasted Image 20230405091925_549.png",
-    "assets/Pasted Image 20230405063709_504.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
