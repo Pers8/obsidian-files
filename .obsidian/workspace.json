@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/French.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/French.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/French.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "IB/French.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "IB/📝Dashboard.md",
     "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md",
     "assets/Pasted Image 20230425113205_978.png",
@@ -268,7 +269,6 @@
     "assets/Pasted image 20230406174930.png",
     "assets/Pasted image 20230406174640.png",
     "Physics/Déplacement et Distance parcouru.md",
-    "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
     "Physics/Vitesse.md",
