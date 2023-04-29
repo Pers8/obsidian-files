@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -240,10 +240,10 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "Déterminants des composantes de la demande globale.md",
     "assets/Pasted image 20230429112244.png",
     "assets/Pasted image 20230429112240.png",
     "IB/Economy.md",
-    "Déterminants des composantes de la demande globale.md",
     "Demande globale.md",
     "Effet solde net.md",
     "Effet taux d'intérêt.md",
@@ -275,7 +275,6 @@
     "Economy/Activité économique.md",
     "Economy/Méthode des dépenses (demande).md",
     "assets/Pasted image 20230406174930.png",
-    "assets/Pasted image 20230406174640.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
