@@ -12,3 +12,4 @@ $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 
 Forme de la courbe de demande globale:
 ?
+![[Pasted image 20230429111206.png]]
