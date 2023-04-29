@@ -12,6 +12,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 ## Circuit économique
 (représentation économie ouverte)
 ?
+![[Pasted image 20230429154003.png]]
 ![[Pasted image 20230406174640.png]]
 
 - Autarcie =:: économie fermée
