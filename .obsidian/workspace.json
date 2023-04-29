@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "Comparison between King Lear and HouseBoy.md",
     "Change blindness.md",
     "IB/Maths.md",
     "IB/French.md",
@@ -273,7 +274,6 @@
     "Physics/Déplacement et Distance parcouru.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
-    "Physics/Vitesse.md",
     "assets/Pasted Image 20230405100935_341.png",
     "assets/Pasted Image 20230405091925_549.png",
     "assets/~$ectres atomiquescours2021.docx"
