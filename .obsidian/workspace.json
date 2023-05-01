@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Recherche d'Informatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Recherche d'Informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Recherche d'Informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Recherche d'Informatique.md"
               }
             }
           },
@@ -240,6 +240,9 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "Methods.md",
+    "Change blindness.md",
+    "TOK Exhibition.md",
     "Excalidraw/proof.md",
     "IB/Economy.md",
     "Economy/Activité économique.md",
@@ -253,7 +256,6 @@
     "Effet richesse.md",
     "assets/Pasted image 20230429111206.png",
     "Comparison between King Lear and HouseBoy.md",
-    "Change blindness.md",
     "IB/Maths.md",
     "IB/French.md",
     "IB/Physics.md",
@@ -266,7 +268,6 @@
     "Excalidraw/Drawing 2023-04-19 09.09.34.excalidraw.md",
     "assets/Pasted Image 20230419090949_467.png",
     "Mécanique.md",
-    "TOK Exhibition.md",
     "assets/Pasted image 20230412143426.png",
     "assets/Pasted image 20230412143112.png",
     "assets/Pasted image 20230412142918.png",
@@ -275,7 +276,6 @@
     "Excalidraw/Drawing 2023-04-08 11.19.04.excalidraw.md",
     "EE/Différents Modèles d'Architecture.md",
     "Commutation de paquets.md",
-    "Economy/Méthode des dépenses (demande).md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
