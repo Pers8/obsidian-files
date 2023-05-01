@@ -81,7 +81,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/D.md"
+                "file": "Excalidraw/proof.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/D.md",
+                "file": "Excalidraw/proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/D.md",
+                "file": "Excalidraw/proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/D.md"
+                "file": "Excalidraw/proof.md"
               }
             }
           },
@@ -239,7 +239,7 @@
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
     "IB/Economy.md",
-    "Excalidraw/D.md",
+    "Excalidraw/proof.md",
     "Economy/Activité économique.md",
     "Déterminants des composantes de la demande globale.md",
     "assets/Pasted image 20230429154003.png",
