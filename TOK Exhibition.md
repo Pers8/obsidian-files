@@ -21,6 +21,6 @@ The historical artifact of a diary from a soldier in World War II represents the
 
 **Object 3:** *A Microscope*
 ![[Pasted image 20230502151121.png]]
-The microscope represents the power of scientific inquiry to uncover new knowledge about the world around us. Visitors to this exhibit will explore the various ways in which scientific knowledge has been used to improve human life, from the discovery of antibiotics to the development of space travel. However, we will also examine the limitations of scientific knowledge, particularly in terms of its ability to fully capture the complexity and nuance of human experience.
+The microscope represents the power of scientific inquiry to uncover new knowledge about the world around us. Visitors to this exhibit will explore the various ways in which scientific knowledge has been used to improve human life, from the discovery of antibiotics to the development of space travel. However, we will also examine the limitations of scientific knowledge, particularly in terms of its ability to fully capture the complexity and nuance of human experience. 
 
 
