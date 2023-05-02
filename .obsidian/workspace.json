@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -222,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +237,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a92cf86fa7660d58",
+  "active": "c2c92536227f2e25",
   "lastOpenFiles": [
+    "Comparison between King Lear and HouseBoy.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "TOK Exhibition.md",
     "IB/Physics.md",
@@ -261,7 +261,6 @@
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
     "assets/Pasted image 20230429111206.png",
-    "Comparison between King Lear and HouseBoy.md",
     "IB/Maths.md",
     "IB/French.md",
     "IB/📝Dashboard.md",
