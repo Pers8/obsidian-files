@@ -7,3 +7,4 @@ Writing a HL essay in IB require a structured and well researched approach. Here
 - **Use evidence :** Don't just present your evidence but also analyse it. Explain how it supports your argument and why it is important. This could be in the form of direct quotes, statistics or other supporting informations.
 - **Use critical thinking :** The IB program values critical thinking so make sure to analyse your argument from multiple perspectives. This will help you to identify any weaknesses and strenghten it.
 - **Use proper referencing:** Make sure you properly reference all your sources. This include citations or works quoted into your essay.
+
