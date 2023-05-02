@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to do an English High Level Essay.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to do an English High Level Essay.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to do an English High Level Essay.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to do an English High Level Essay.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +252,8 @@
   },
   "active": "2382bff8f96e8d39",
   "lastOpenFiles": [
-    "IB/English.md",
     "How to do an English High Level Essay.md",
+    "IB/English.md",
     "IB/Physics.md",
     "Accélération.md",
     "Change blindness.md",
