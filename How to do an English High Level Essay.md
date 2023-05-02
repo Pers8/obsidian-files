@@ -1,1 +1,1 @@
-Writing a HL essay in IB require 
+Writing a HL essay in IB require a structured and well researched approach
