@@ -38,5 +38,6 @@ Both King Lear and Houseboy also make use of symbolism to convey their themes an
 
 ### Themes
 One of the key similarities between King Lear and Houseboy is their exploration of themes related to power, authority and betrayal. Both literary works examine the complex relationship that exists between those in position of power and those who are subject to their authority. In King Lear this is explored through the relationship between Lear and his daughters as well as between the various noble families who are vying for power and influence. In Houseboy the relationship between Toundi and his various masters serves as a metaphor for the broader power dynamics that existed in the colonial rule
+
 ***
 In conclusion while there are many different differences between these books, there are also several key similarities. Both explore the themes related to power, authority and betrayal, features complex and multi-dimensional characters and are set in environments marked by social and political upheaval. By examining this similarities we can gain deeper understanding of the ways in which literature can provide insights to into the human experience.
