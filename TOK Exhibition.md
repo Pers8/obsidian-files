@@ -1,7 +1,7 @@
 
 **Question :** Are some types of knowledge more useful than others?
 
-**Objects :**  A book, a map and satellite
+**Objects :**  A diary from a soldier in World War II, 
 
 
 
