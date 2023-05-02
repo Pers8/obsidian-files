@@ -7,8 +7,8 @@
 *A book*
 
 ![[Pasted image 20230502150607.png]]
-*A Map*
+*"Starry Night" *by Van Got
 
-![[Pasted image 20230412143426.png]]
+![[Pasted image 20230502151121.png]]
 *A Satellite*
 
