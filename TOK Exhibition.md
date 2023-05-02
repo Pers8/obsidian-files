@@ -1,7 +1,7 @@
 
 **Question :** Are some types of knowledge more useful than others?
 
-**Objects :**  A diary from a soldier in World War II, 
+**Objects :**  A diary from a soldier in World War II, "Starry Night"  by Vincent Van Gogh, A Microscope
 
 
 
