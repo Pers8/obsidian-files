@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "English High Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English.md",
+                "file": "English High Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English.md"
+                "file": "English High Essay.md"
               }
             }
           },
@@ -236,7 +236,7 @@
   "active": "2382bff8f96e8d39",
   "lastOpenFiles": [
     "IB/English.md",
-    "English.md",
+    "English High Essay.md",
     "IB/Physics.md",
     "Accélération.md",
     "Change blindness.md",
