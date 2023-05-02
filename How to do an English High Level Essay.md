@@ -1,4 +1,4 @@
 Writing a HL essay in IB require a structured and well researched approach. Here are some tips to help you write  a good essay : 
 
 -  **Understand  the assignment :** Before you start writing, make sure you understand the essay prompt and the requirements of the assignment. 
-- **Research extensively  :**  The IB program places a strong emp
+- **Research extensively  :**  The IB program places a strong emphasizes on research so make sure you conduct through researches on your topic
