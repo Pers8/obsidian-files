@@ -4,7 +4,7 @@
 **Objects :**  A book, a map and satellite
 
 ![[Pasted image 20230502150005.png]]
-*A book*
+*A diary from a soldier in World War II*
 
 ![[Pasted image 20230502150607.png]]
 *"Starry Night"  by Vincent Van Gogh*
