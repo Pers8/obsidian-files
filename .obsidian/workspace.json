@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -223,6 +223,9 @@
   },
   "active": "a92cf86fa7660d58",
   "lastOpenFiles": [
+    "Accélération.md",
+    "Change blindness.md",
+    "TOK Exhibition.md",
     "Untitled.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Recherche d'Informatique.md",
@@ -230,13 +233,11 @@
     "Mécanique.md",
     "IB/Economy.md",
     "Comparison between King Lear and HouseBoy.md",
-    "TOK Exhibition.md",
     "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Déplacement et Distance parcouru.md",
     "In Class ENGL work.md",
     "Methods.md",
-    "Change blindness.md",
     "Excalidraw/proof.md",
     "Economy/Activité économique.md",
     "Déterminants des composantes de la demande globale.md",
@@ -253,7 +254,6 @@
     "IB/📝Dashboard.md",
     "Excalidraw/Drawing 2023-04-24 06.51.44.excalidraw.md",
     "assets/Pasted Image 20230425113205_978.png",
-    "HouseBoy.md",
     "assets/Pasted Image 20230419090949_467.png",
     "assets/Pasted image 20230412143426.png",
     "assets/Pasted image 20230412143112.png",
