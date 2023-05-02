@@ -7,7 +7,7 @@
 *A book*
 
 ![[Pasted image 20230502150607.png]]
-*"Starry Night" *by Van Got
+*"Starry Night"  *
 
 ![[Pasted image 20230502151121.png]]
 *A Satellite*
