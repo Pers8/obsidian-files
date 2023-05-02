@@ -17,9 +17,10 @@ The historical artifact of a diary from a soldier in World War II represents the
 **Object 2:** *"Starry Night"  by Vincent Van Gogh*
 ![[Pasted image 20230502150607.png]]
 
+"Starry Night" by van Gogh represents the power of artistic expression to convey knowledge and insight about the human experience. Visitors to this exhibit will explore the ways in which art can be used to express emotions, convey meaning, and inspire action. We will also examine the limitations of art as a form of knowledge, particularly in terms of its subjective nature and the potential for interpretation and misinterpretation.
 
 **Object 3:** *A Microscope*
 ![[Pasted image 20230502151121.png]]
-
+The microscope represents the power of scientific inquiry to uncover new knowledge about the world around us. Visitors to this exhibit will explore the various ways in which scientific knowledge has been used to improve human life, from the discovery of antibiotics to the development of space travel. However, we will also examine the limitations of scientific knowledge, particularly in terms of its ability to fully capture the complexity and nuance of human experience.
 
 
