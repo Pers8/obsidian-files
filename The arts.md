@@ -1,1 +1,1 @@
-3-  'Every work of art is the child of its age and, in many cases, the mother of our emotions, it follows that each period produces an art of its own which can never be repeated.'* **Wassily Kandinsky ()** 
+3-  *'Every work of art is the child of its age and, in many cases, the mother of our emotions, it follows that each period produces an art of its own which can never be repeated.'* **Wassily Kandinsky ()** 
