@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organigr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,6 +260,7 @@
   },
   "active": "2382bff8f96e8d39",
   "lastOpenFiles": [
+    "IB/EE.md",
     "IB/TOK.md",
     "TOK/Core items.md",
     "TOK Exhibition.md",
@@ -292,7 +293,6 @@
     "Demande globale.md",
     "Effet solde net.md",
     "Effet taux d'intérêt.md",
-    "Effet richesse.md",
     "assets/Pasted image 20230429111206.png",
     "assets/Pasted Image 20230425113205_978.png",
     "assets/Pasted Image 20230419090949_467.png",
