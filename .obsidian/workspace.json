@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art.md",
+                "file": "The arts.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art.md",
+                "file": "The arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art.md"
+                "file": "The arts.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art.md",
+                "file": "The arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
   "active": "e29e7cfb8e1decde",
   "lastOpenFiles": [
     "Untitled.md",
-    "Art.md",
+    "The arts.md",
     "TOK Exhibition.md",
     "IB/EE.md",
     "IB/TOK.md",
