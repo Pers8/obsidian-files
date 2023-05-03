@@ -2,4 +2,7 @@
 
 For each quotation, consider: 
 1. Do you agree or disagree with the quotation ? 
-   2. What do you think the quotation suggests about the nature and purpose of the art is refers to? 3. Can you identify any implicit or explicit assumptions that the speaker makes about the arts? 4. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
+**We agree with this quotation because **
+1. What do you think the quotation suggests about the nature and purpose of the art is refers to? 
+2. Can you identify any implicit or explicit assumptions that the speaker makes about the arts? 
+3. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
