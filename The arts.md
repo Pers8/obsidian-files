@@ -8,7 +8,7 @@ For each quotation, consider:
 **It tells us that art provide different type of emotions and in a different period of time it transfer to us different type of unique ideas depending on the historical context**
 
 3. Can you identify any implicit or explicit assumptions that the speaker makes about the arts? 
-**v**
+**That art is depend on the period and mouvement. art could move masses and hearts. art of time period cannot be completely replicated because of the context**
 
 4. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
 **This quotation can applied in Art and History because it's mainly refering to art and how they provides emotions and how it gives their ideas druing a different period of time**
