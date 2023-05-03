@@ -9,7 +9,7 @@ Throughout history, humans have sought knowledge to better understand the world 
 
 
 **Object 1:** *A diary from a soldier in World War II*
-![[Pasted image 20230502150005.png]]
+![[Pasted image 20230503110858.png]]
 
 The above object is a historical artifact of a diary from a soldier in World War II represents the value of historical analysis in understanding the past and present. Visitors to this exhibit will explore the ways in which historical knowledge can be used to inform decisions and actions, from the study of past pandemics to the analysis of political systems. However, we will also examine the limitations of historical knowledge, particularly in terms of the potential for bias and the challenge of understanding the perspectives and experiences of people from different times and places.
 
@@ -25,3 +25,5 @@ The above object is a microscope represents the power of scientific inquiry to u
 
 
 **References :**
+1- https://www.ourwarwickshire.org.uk/content/article/world-war-ii-diary-extracts-nuneaton-soldier
+2- 
