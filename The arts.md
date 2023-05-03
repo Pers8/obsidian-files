@@ -7,3 +7,4 @@ For each quotation, consider:
 
 4. Can you identify any implicit or explicit assumptions that the speaker makes about the arts? 
 5. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
+
