@@ -14,3 +14,4 @@ For each quotation, consider:
 **This quotation can be applied in Art and History because it's mainly refering to art and how they provides emotions and how it gives their ideas during a different period of time**
 
 -  What is the arts
+The **Arts** include a range of discipline including visual arts, theatre, dance, music, film and literature. Th
