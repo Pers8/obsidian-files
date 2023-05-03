@@ -7,4 +7,4 @@ For each quotation, consider:
 
 4. Can you identify any implicit or explicit assumptions that the speaker makes about the arts? 
 5. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
-**This quotation can applied in Art and History because it's mainly refering to art and how they provides emotions and how
+**This quotation can applied in Art and History because it's mainly refering to art and how they provides emotions and how it gives their ideas druing a different period of time**
