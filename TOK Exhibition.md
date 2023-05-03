@@ -27,4 +27,4 @@ represents the power of scientific inquiry to uncover new knowledge about the wo
 
 **References :**
 1- https://www.ourwarwickshire.org.uk/content/article/world-war-ii-diary-extracts-nuneaton-soldier
-2- 
+2- https://www.clastify.com/tok/exhibition/6382aca0a7a5c70013364b2f
