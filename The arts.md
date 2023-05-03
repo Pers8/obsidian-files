@@ -11,6 +11,6 @@ For each quotation, consider:
 **That art is depend on the period and mouvement. art could move masses and hearts. art of time period cannot be completely replicated because of the context**
 
 4. Do you think the quotation could apply to other areas of knowledge? if so, in what ways?
-**This quotation can applied in Art and History because it's mainly refering to art and how they provides emotions and how it gives their ideas druing a different period of time**
+**This quotation can be applied in Art and History because it's mainly refering to art and how they provides emotions and how it gives their ideas during a different period of time**
 
 -  What is the arts
