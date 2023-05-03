@@ -11,8 +11,8 @@ Throughout history, humans have sought knowledge to better understand the world 
 **Object 1:** *A diary from a soldier in World War II*
 ![[Pasted image 20230503110858.png]]
 
-The above object is a historical artifact of a diary from a soldier in World War II. For most soldiers, **life was very difficult**. They had rationed food, but rations did not always get through to them. If they weren't at an army base, they lived in tents or in holes dug in the ground. They often had no access to heating, hot water or other comforts.
-This represents the value of historical analysis in understanding the past and present. Visitors to this exhibit will explore the ways in which historical knowledge can be used to inform decisions and actions, from the study of past pandemics to the analysis of political systems. However, we will also examine the limitations of historical knowledge, particularly in terms of the potential for bias and the challenge of understanding the perspectives and experiences of people from different times and places.
+The above object is a historical artifact of a diary from a soldier in World War II. For most soldiers, life was very difficult. They had rationed food, but rations did not always get through to them. If they weren't at an army base, they lived in tents or in holes dug in the ground. They often had no access to heating, hot water or other comforts.
+This diary represents the value of historical analysis in understanding the past and present. Visitors to this exhibit will explore the ways in which historical knowledge can be used to inform decisions and actions, from the study of past pandemics to the analysis of political systems. However, we will also examine the limitations of historical knowledge, particularly in terms of the potential for bias and the challenge of understanding the perspectives and experiences of people from different times and places.
 
 
 **Object 2:** *"Starry Night"  by Vincent Van Gogh*
@@ -33,3 +33,4 @@ I chose that object because it represents the power of scientific inquiry to unc
 3- https://education.nationalgeographic.org/resource/microscopes/
 4- https://www.aps.org/publications/apsnews/200403/history.cfm#:~:text=Thanks%20to%20vastly%20improved%20resolution,science%2C%20microelectronics%2C%20and%20biology.
 5- https://www.artandobject.com/news/brief-history-van-goghs-starry-night
+6- https://www.burnleyexpress.net/read-this/how-to-explain-world-war-two-to-children-life-for-soldiers-and-the-holocaust-2842861#:~:text=For%20most%20soldiers%2C%20life%20was,hot%20water%20or%20other%20comforts.
