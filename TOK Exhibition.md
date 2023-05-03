@@ -21,8 +21,8 @@ My second object is a paint called "Starry Night" by Van Gogh. It represents the
 
 **Object 3:** *A Microscope*
 ![[Pasted image 20230502151121.png]]
-My third object in my exhibition is a microscope which is a instrument that is used to magnify small objects. Thanks to the vastly improved resolution, contrast-enhancing techniques, digital imaging, fluorescent labelling and countless of other innovations, microscopy has revolutionize other fields such as 
-represents the power of scientific inquiry to uncover new knowledge about the world around us. Visitors to this exhibit will explore the various ways in which scientific knowledge has been used to improve human life, from the discovery of antibiotics to the development of space travel. However, we will also examine the limitations of scientific knowledge, particularly in terms of its ability to fully capture the complexity and nuance of human experience. 
+My third object in my exhibition is a microscope which is a instrument that is used to magnify small objects. Thanks to the vastly improved resolution, contrast-enhancing techniques, digital imaging, fluorescent labelling and countless of other innovations, microscopy has revolutionize other fields such as chemistry, physics or biology.
+I chose that object because it represents the power of scientific inquiry to uncover new knowledge about the world around us. Visitors to this exhibit will explore the various ways in which scientific knowledge has been used to improve human life, from the discovery of antibiotics to the development of space travel. However, we will also examine the limitations of scientific knowledge, particularly in terms of its ability to fully capture the complexity and nuance of human experience. 
 
 
 **References :**
