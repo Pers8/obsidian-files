@@ -19,3 +19,5 @@
 
 **Personnes référentes :**
 Mr. Pèdre Dieye (l'accès au CDI)
+
+Objectifs personnels :
