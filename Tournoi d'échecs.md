@@ -17,5 +17,5 @@
 - Mahouna Djokpe
 - Daniel Monj
 
-Personnes référentes :
-Mr. Pèdre
+**Personnes référentes :**
+Mr. Pèdre Dieye (l'accès au CDI)
