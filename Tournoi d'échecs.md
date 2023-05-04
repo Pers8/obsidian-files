@@ -22,4 +22,4 @@ Mr. Pèdre Dieye (l'accès au CDI)
 
 Objectifs personnels :
 - Pouvoir gérer mon stress pour une meilleur concentration
-- Pouvoir améliortiqueer mes tacs durant un match d'échecs
+- Pouvoir améliortiquer mes tacs durant un match d'échecs
