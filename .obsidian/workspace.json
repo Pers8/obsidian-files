@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tournoi d'échecs.md",
+                "file": "IB/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tournoi d'échecs.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tournoi d'échecs.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tournoi d'échecs.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,8 +284,8 @@
   },
   "active": "5168d128487fe55b",
   "lastOpenFiles": [
-    "Untitled.md",
     "Tournoi d'échecs.md",
+    "Untitled.md",
     "The arts.md",
     "TOK Exhibition.md",
     "IB/EE.md",
