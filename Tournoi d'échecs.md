@@ -6,3 +6,8 @@
 **La ou les objectifs d'apprentissage :**
 - Objectif 4 :Faire preuve d’engagement et perseverance vis a vis des experiences CAS
 - Objectif 5 : Démontrer des compétences et reconnaître les bénéfices du travail en    collaboration
+**Les attributs du profil de l'apprenant :**
+- Ouvert d'esprit 
+- Chercheur
+- Intègre
+Organisateurs
