@@ -4,7 +4,7 @@
 **Le lieu :** Le CDI
 **La ou les composantes CAS :** créativité et activité
 **La ou les objectifs d'apprentissage :**
-- Objectif 4 :Faire preuve d’engagement et perseverance vis a vis des experiences CAS
+- Objectif 4 : Faire preuve d’engagement et perseverance vis a vis des experiences CAS
 - Objectif 5 : Démontrer des compétences et reconnaître les bénéfices du travail en    collaboration
 **Les attributs du profil de l'apprenant :**
 - Ouvert d'esprit 
@@ -13,4 +13,9 @@
 **Organisateurs :**
 - Njami Tchuisseu Eldad Péres
 - Abdoul Wahab Touré
-- Tchuimi Tchuisseu Cicéron Br"
+- Tchuimi Tchuisseu Cicéron Bréal
+- Mahouna Djokpe
+- Daniel Monj
+
+Personnes référentes :
+Mr. Pèdre
