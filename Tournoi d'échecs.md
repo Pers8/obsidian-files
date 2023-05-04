@@ -1,1 +1,2 @@
-Objectif 4 :Faire preuve d’engagement et perseverance vis a vis des experiences CAS
+- Objectif 4 :Faire preuve d’engagement et perseverance vis a vis des experiences CAS
+- Objectif 5 : Démontrer des compétences et reconnaître les bénéfices du travail en    collaboration
