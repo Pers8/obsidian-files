@@ -10,4 +10,7 @@
 - Ouvert d'esprit 
 - Chercheur
 - Intègre
-Organisateurs
+**Organisateurs :**
+- Njami Tchuisseu Eldad Péres
+- Abdoul Wahab Touré
+- Tchuimi Tchuisseu Cicéron Br"
