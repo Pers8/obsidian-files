@@ -124,6 +124,18 @@
             }
           },
           {
+            "id": "496adf9da8216df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c650206d4afcade5",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -251,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,10 +294,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "5168d128487fe55b",
+  "active": "496adf9da8216df4",
   "lastOpenFiles": [
-    "EE/Matrice.md",
     "IB/EE.md",
+    "Untitled 1.md",
+    "EE/Matrice.md",
     "EE/Réseaux de Neurone.md",
     "EE/Neurones.md",
     "EE/Procédure de l'expérience.md",
@@ -313,7 +326,6 @@
     "IB/English.md",
     "IB/Physics.md",
     "Accélération.md",
-    "Change blindness.md",
     "assets/Pasted image 20230429154003.png",
     "assets/Pasted image 20230429112244.png",
     "assets/Pasted image 20230429112240.png",
