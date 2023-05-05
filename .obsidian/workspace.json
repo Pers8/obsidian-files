@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,6 +284,7 @@
   },
   "active": "5168d128487fe55b",
   "lastOpenFiles": [
+    "Déterminants des composantes de la demande globale.md",
     "IB/Economy.md",
     "IB/EE.md",
     "Tournoi d'échecs.md",
@@ -312,7 +313,6 @@
     "Methods.md",
     "Excalidraw/proof.md",
     "Economy/Activité économique.md",
-    "Déterminants des composantes de la demande globale.md",
     "assets/Pasted image 20230429154003.png",
     "assets/Pasted image 20230429112244.png",
     "assets/Pasted image 20230429112240.png",
