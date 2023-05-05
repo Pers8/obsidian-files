@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,8 +284,20 @@
   },
   "active": "5168d128487fe55b",
   "lastOpenFiles": [
-    "IB/Economy.md",
+    "EE/Réseaux de Neurone.md",
+    "EE/Neurones.md",
+    "EE/Procédure de l'expérience.md",
+    "EE/Méthodologie et Expérience.md",
+    "EE/Analyse.md",
+    "EE/Conclusion.md",
+    "EE/Données entrantes et traitement de données.md",
+    "EE/ResNet.md",
+    "EE/VGG16.md",
+    "EE/Test.md",
+    "EE/Introduction.md",
+    "EE/Matrice.md",
     "Déterminants des composantes de la demande globale.md",
+    "IB/Economy.md",
     "IB/EE.md",
     "Tournoi d'échecs.md",
     "Untitled.md",
@@ -302,21 +314,9 @@
     "IB/Physics.md",
     "Accélération.md",
     "Change blindness.md",
-    "Technologies nécessaires pour fournir un VPN.md",
-    "Recherche d'Informatique.md",
-    "Python.md",
-    "Mécanique.md",
-    "Comparison between King Lear and HouseBoy.md",
-    "Physics/Mouvement rectiligne uniforme.md",
-    "Physics/Déplacement et Distance parcouru.md",
-    "In Class ENGL work.md",
-    "Methods.md",
-    "Excalidraw/proof.md",
-    "Economy/Activité économique.md",
     "assets/Pasted image 20230429154003.png",
     "assets/Pasted image 20230429112244.png",
     "assets/Pasted image 20230429112240.png",
-    "Demande globale.md",
     "assets/Pasted image 20230429111206.png",
     "assets/Pasted Image 20230425113205_978.png",
     "assets/Pasted Image 20230419090949_467.png",
