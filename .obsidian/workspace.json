@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,11 +284,12 @@
   },
   "active": "5168d128487fe55b",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "IB/EE.md",
     "Tournoi d'échecs.md",
     "Untitled.md",
     "The arts.md",
     "TOK Exhibition.md",
-    "IB/EE.md",
     "IB/TOK.md",
     "TOK/Core items.md",
     "assets/Pasted image 20230503110858.png",
@@ -304,7 +305,6 @@
     "Recherche d'Informatique.md",
     "Python.md",
     "Mécanique.md",
-    "IB/Economy.md",
     "Comparison between King Lear and HouseBoy.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Déplacement et Distance parcouru.md",
