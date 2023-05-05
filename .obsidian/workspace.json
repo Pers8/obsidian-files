@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gbg.md",
+                "file": "IB/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gbg.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gbg.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gbg.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,8 +296,8 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
-    "IB/EE.md",
     "gbg.md",
+    "IB/EE.md",
     "EE/Matrice.md",
     "EE/Réseaux de Neurone.md",
     "EE/Neurones.md",
