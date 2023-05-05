@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EE/Matrice.md",
+                "file": "IB/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EE/Matrice.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EE/Matrice.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE/Matrice.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,6 +284,7 @@
   },
   "active": "5168d128487fe55b",
   "lastOpenFiles": [
+    "EE/Matrice.md",
     "IB/EE.md",
     "EE/Réseaux de Neurone.md",
     "EE/Neurones.md",
@@ -296,7 +297,6 @@
     "EE/VGG16.md",
     "EE/Test.md",
     "EE/Introduction.md",
-    "EE/Matrice.md",
     "Déterminants des composantes de la demande globale.md",
     "IB/Economy.md",
     "Tournoi d'échecs.md",
