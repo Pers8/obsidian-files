@@ -37,3 +37,16 @@ Dans un CNN, une image est généralement représentée sous la forme d'une matr
 L'opération de convolution peut être visualisée comme une grille de nombres glissant sur une autre grille de nombres, chaque position de la grille glissante produisant une valeur de sortie unique. Cette grille de glissement est le filtre, et la grille sur laquelle elle glisse est la matrice de l'image d'entrée. La matrice de sortie résultante représente la carte des caractéristiques, qui rend compte de la présence ou de l'absence de caractéristiques particulières dans l'image d'entrée.
 
 Considérons la grille/matrice suivante :
+Supposons que nous voulions extraire des caractéristiques de cette matrice à l'aide d'une couche convolutive avec un filtre de taille 3x3. Pour ce faire, nous ferons glisser le filtre sur la matrice d'entrée, en multipliant chaque élément du filtre par l'élément correspondant de la matrice d'entrée, puis en additionnant les résultats pour produire une valeur de sortie unique.
+
+Par exemple, considérons la position dans le coin supérieur gauche de la matrice d'entrée, qui correspond à la sous-matrice : 
+Pour traiter cette sous-matrice par le biais de la couche convolutive, nous multiplions chaque élément du filtre par l'élément correspondant de la sous-matrice, puis nous additionnons les résultats :
+Cela produit une seule valeur de sortie de 4 pour cette position dans la carte des caractéristiques.
+
+Nous répétons ce processus pour chaque position de la matrice d'entrée, en faisant glisser le filtre sur la matrice d'entrée et en calculant la valeur de sortie correspondante pour chaque position. La matrice de sortie résultante représenterait alors la carte des caractéristiques pour ce filtre particulier.
+
+Passons maintenant aux architectures ResNet et VGG16. Il s'agit de deux architectures CNN populaires utilisées pour les tâches de classification et de reconnaissance d'images, mais elles diffèrent en termes de profondeur et de complexité.
+
+L'architecture VGG16 se compose de 16 couches, dont des couches convolutives, des couches de regroupement maximal et des couches entièrement connectées. Sa structure est relativement simple par rapport à d'autres architectures CNN, avec des filtres plus petits et moins de paramètres. Le VGG16 n'en reste pas moins une architecture puissante, dont les performances ont été démontrées dans diverses tâches de reconnaissance d'images.
+
+En revanche, l'architecture ResNet est beaucoup plus profonde, avec des centaines de couches. ResNet utilise des connexions par saut, qui permettent aux informations de contourner certaines couches et de se propager directement d'une couche à l'autre. Cela permet de résoudre le problème de la disparition des gradients, qui peut se produire lorsque les gradients deviennent trop petits pour être utiles à la mise à jour des poids des couches précédentes du réseau.
