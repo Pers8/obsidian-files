@@ -37,6 +37,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 4. **Manipulation des taux de change/exigences en matière de santé et de sécurité**
 
 
-```python
-a
-```
+
