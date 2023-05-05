@@ -21,7 +21,15 @@ For example, let's consider the position in the top left corner of the input mat
 To process this sub-matrix through the convolutional layer, we would multiply each element of the filter with the corresponding element in the sub-matrix, and then sum the results :
 
 ```md
-[ 1  0  1]
-[ 2  1  0]
-[ 0  0  2]
+filter:      sub-matrix:
+ 1  0  1     1  0  1
+ 0  1  0     2  1  0
+ 1  0  1     0  0  2
+
+result: 1*1 + 0*0 + 1*1 + 0*2 + 1*1 + 0*0 + 1*0 + 0*1 + 1*2 = 4
+
 ```
+
+This produces a single output value of 4 for this position in the feature map.
+
+We would repeat this process for each position in the input matrix, sliding the filter over the input matrix and computing the corresponding output value for each position. The resulting output matrix would then represent the feature map for that particular filter.
