@@ -1,4 +1,4 @@
-- Que sont les nombres imaginaires et comment sont-ils utilisés en mathématiques et dans les applications du monde réel ?
+- Comment les nombres imaginaires sont-ils utilisés en mathématiques et dans les applications du monde réel ?
 
 - Comment les nombres complexes peuvent-ils être représentés géométriquement dans le plan complexe et quelles sont les propriétés de ces représentations ?
 
