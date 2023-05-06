@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The arts.md",
+                "file": "Potentiels questions pour le IA de Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The arts.md",
+                "file": "Potentiels questions pour le IA de Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The arts.md"
+                "file": "Potentiels questions pour le IA de Maths.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The arts.md",
+                "file": "Potentiels questions pour le IA de Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,6 +296,7 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
+    "The arts.md",
     "Potentiels questions pour le IA de Maths.md",
     "Methods.md",
     "Mécanique.md",
@@ -317,7 +318,6 @@
     "Accélération.md",
     "Untitled.md",
     "TOK Exhibition.md",
-    "The arts.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Tournoi d'échecs.md",
     "IB/EE.md",
