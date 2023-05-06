@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "gbg.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "gbg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "gbg.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "gbg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,8 +296,10 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
-    "gbg.md",
+    "Untitled.md",
+    "Tournoi d'échecs.md",
     "IB/EE.md",
+    "gbg.md",
     "EE/Matrice.md",
     "EE/Réseaux de Neurone.md",
     "EE/Neurones.md",
@@ -312,8 +314,6 @@
     "EE/Introduction.md",
     "Déterminants des composantes de la demande globale.md",
     "IB/Economy.md",
-    "Tournoi d'échecs.md",
-    "Untitled.md",
     "The arts.md",
     "TOK Exhibition.md",
     "IB/TOK.md",
