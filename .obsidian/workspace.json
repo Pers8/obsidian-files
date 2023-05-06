@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gbg.md",
+                "file": "Potentiels questions pour le IA de Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gbg.md",
+                "file": "Potentiels questions pour le IA de Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gbg.md"
+                "file": "Potentiels questions pour le IA de Maths.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gbg.md",
+                "file": "Potentiels questions pour le IA de Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
     "Untitled.md",
     "Tournoi d'échecs.md",
     "IB/EE.md",
-    "gbg.md",
+    "Potentiels questions pour le IA de Maths.md",
     "EE/Matrice.md",
     "EE/Réseaux de Neurone.md",
     "EE/Neurones.md",
