@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potentiels questions pour le IA de Maths.md",
+                "file": "Accélération.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Potentiels questions pour le IA de Maths.md",
+                "file": "Accélération.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Potentiels questions pour le IA de Maths.md"
+                "file": "Accélération.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Potentiels questions pour le IA de Maths.md",
+                "file": "Accélération.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,8 +296,8 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
-    "The arts.md",
     "Potentiels questions pour le IA de Maths.md",
+    "The arts.md",
     "Methods.md",
     "Mécanique.md",
     "Le Cid.md",
