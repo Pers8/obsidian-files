@@ -9,3 +9,4 @@ Writing a HL essay in IB require a structured and well researched approach. Here
 - **Use proper referencing:** Make sure you properly reference all your sources. This include citations or works quoted into your essay.
 
 
+
