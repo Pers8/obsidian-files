@@ -127,9 +127,11 @@
             "id": "496adf9da8216df4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-08 12.39.44.excalidraw.md"
+                "file": "IA de Math & Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -220,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-08 12.39.44.excalidraw.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-08 12.39.44.excalidraw.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -261,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-08 12.39.44.excalidraw.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,8 +296,10 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
+    "Tournoi d'échecs.md",
+    "TOK Exhibition.md",
+    "Excalidraw/cos.md",
     "How to do an English High Level Essay.md",
-    "Excalidraw/Drawing 2023-05-08 12.39.44.excalidraw.md",
     "IB/English.md",
     "IA de Math & Physics.md",
     "In Class ENGL work.md",
@@ -318,8 +322,6 @@
     "Commutation de paquets.md",
     "Change blindness.md",
     "Untitled.md",
-    "TOK Exhibition.md",
-    "Technologies nécessaires pour fournir un VPN.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
