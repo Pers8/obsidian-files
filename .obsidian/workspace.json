@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "How to do an English High Level Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "How to do an English High Level Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "How to do an English High Level Essay.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "How to do an English High Level Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,6 +296,7 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
+    "IB/English.md",
     "IA de Math & Physics.md",
     "In Class ENGL work.md",
     "Python.md",
@@ -321,7 +322,6 @@
     "TOK Exhibition.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Tournoi d'échecs.md",
-    "IB/EE.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
