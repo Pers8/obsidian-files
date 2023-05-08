@@ -5,4 +5,4 @@
 - En quoi les opérations sur les nombres complexes diffèrent-elles des opérations sur les nombres réels et comment ces différences influencent-elles les propriétés des nombres complexes ?
 
 
-**Physique :** Comment la température affecte la résistance interne d'une battérie 
+**Physique :** Comment la température affecte la résistance interne d'une batterie 
