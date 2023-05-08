@@ -4,5 +4,5 @@
 
 - En quoi les opérations sur les nombres complexes diffèrent-elles des opérations sur les nombres réels et comment ces différences influencent-elles les propriétés des nombres complexes ?
 
-
+**Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l'ingénieur
 **Physique :** Comment la température affecte la résistance interne d'une batterie 
