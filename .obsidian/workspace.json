@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Déplacement et Distance parcouru.md"
               }
             }
           },
@@ -263,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,6 +296,7 @@
   },
   "active": "496adf9da8216df4",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "IA de Math & Physics.md",
     "Tournoi d'échecs.md",
     "TOK Exhibition.md",
@@ -321,7 +322,6 @@
     "Comparison between King Lear and HouseBoy.md",
     "Commutation de paquets.md",
     "Change blindness.md",
-    "Untitled.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
