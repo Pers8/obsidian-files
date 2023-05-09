@@ -16,3 +16,15 @@ For each quotation, consider:
 -  What is the arts
 The **Arts** include a range of discipline including visual arts, theatre, dance, music, film and literature. The ways in which meaning is encoded, evoked and played out in these various forms of representation do not always overlap and may have no exact counterpart elsewhere. The arts, from the sublime to the mediocre (and even the banal) can provide insight and provoke questions about what it means to be human. Art can be made for its own sake, or created with a functionality in mind like catalyzing social change, conveying overt political or religious messages, and even self-referencetially pushing the boundaries of art itself. 
 
+
+**Scope**
+Is Artistic Knowledge something that cannot be expressed in any other way ?
+****
+Does art enlarge what it is possible for us to think and know ?
+
+**Perspective**
+Can a work of art have meaning of which the artist themselves is unaware ?
+How does knowing more about the social, cultural or historical context of a work of art have an impact on our knowledge of the work itself
+Should your judgments about art be given the same weight as those of an expert ?
+@24
+
