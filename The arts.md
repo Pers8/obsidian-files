@@ -19,7 +19,7 @@ The **Arts** include a range of discipline including visual arts, theatre, dance
 
 **Scope**
 Is Artistic Knowledge something that cannot be expressed in any other way ?
-****
+**b**
 Does art enlarge what it is possible for us to think and know ?
 
 **Perspective**
