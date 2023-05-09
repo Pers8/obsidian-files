@@ -6,4 +6,3 @@ African servants are required to continue serving and obeying their white master
 
 
 
-
