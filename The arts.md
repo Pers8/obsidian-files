@@ -20,7 +20,7 @@ The **Arts** include a range of discipline including visual arts, theatre, dance
 **Scope**
 Is Artistic Knowledge something that cannot be expressed in any other way ?
 
-Artistic knowledge can be expressed in a a lot of other of ways, but the unique quality of artistic knowledge is that it is often communicated through aesthetic means that are specific to the medium or form of art being used. For example, a painting or sculpture may express an artist's knowledge of color, form, and composition, while a piece of music may convey an understanding of rhythm, melody, and harmony.
+Artistic knowledge can be expressed in a a lot of other ways, but the unique quality of artistic knowledge is that it is often communicated through aesthetic means that are specific to the medium or form of art being used. For example, a painting or sculpture may express an artist's knowledge of color, form, and composition, while a piece of music may convey an understanding of rhythm, melody, and harmony.
 
 While it is possible to convey some aspects of artistic knowledge through language or other forms of communication, there may be elements of artistic knowledge that are difficult to fully express in words or other mediums. This is because artistic knowledge often involves a deep understanding of the nuances of a particular medium and the ability to use that medium to create a particular effect or convey a particular emotion or idea.
 
@@ -34,5 +34,4 @@ Does art enlarge what it is possible for us to think and know ?
 Can a work of art have meaning of which the artist themselves is unaware ?
 How does knowing more about the social, cultural or historical context of a work of art have an impact on our knowledge of the work itself
 Should your judgments about art be given the same weight as those of an expert ?
-@24
 
