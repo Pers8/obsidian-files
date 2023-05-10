@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "IA de Math & Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effet richesse.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,6 +320,8 @@
   },
   "active": "4b8def09e285d02d",
   "lastOpenFiles": [
+    "Effet taux d'intérêt.md",
+    "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-10 16.32.47.excalidraw.md",
     "The arts.md",
     "Le Cid.md",
@@ -340,8 +342,6 @@
     "In Class ENGL work.md",
     "Electricité test.md",
     "Effet solde net.md",
-    "Effet richesse.md",
-    "Effet taux d'intérêt.md",
     "Mécanique.md",
     "Python.md",
     "Tournoi d'échecs.md",
