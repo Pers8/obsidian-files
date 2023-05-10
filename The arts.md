@@ -20,10 +20,13 @@ The **Arts** include a range of discipline including visual arts, theatre, dance
 **Scope**
 Is Artistic Knowledge something that cannot be expressed in any other way ?
 **Artistic knowledge can be expressed in a a lot of other ways, but it often relies on the unique qualities of the medium or form of art being used. While some aspects of artistic knowledge can be communicated through language or other mediums, there may be elements that are difficult to fully express. Artistic knowledge can also include a kind of intuitive understanding that comes from lots of practice and experience, but this understanding can be hard to put into words.**
+
 Does art enlarge what it is possible for us to think and know ?
+**Yes, art has the potential to expand what we think and know. Through art, we can explore new ideas, perspectives, and ways of understanding the world. Artistic expression can challenge our assumptions and beliefs, provoke new thoughts and emotions, and expand our imagination and creativity.**
 
 **Perspective**
 Can a work of art have meaning of which the artist themselves is unaware ?
+
 
 How does knowing more about the social, cultural or historical context of a work of art have an impact on our knowledge of the work itself
 Should your judgments about art be given the same weight as those of an expert ?
