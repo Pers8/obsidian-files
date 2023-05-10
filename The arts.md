@@ -29,7 +29,7 @@ Can a work of art have meaning of which the artist themselves is unaware ?
 **Yes, it's possible for a work of art to have meaning that the artist themselves is unaware of. Once a work of art is completed and released into the world it becomes open to interpretation by others who bring their own experiences, perspectives, and cultural contexts to their understanding of the work. In some cases, the meaning of a work of art may even evolve over time as cultural contexts and interpretations change. For example, a work of art created in one era may be interpreted very differently in a different cultural or historical context.**
 
 How does knowing more about the social, cultural or historical context of a work of art have an impact on our knowledge of the work itself ?
-
+**Knowing the social, cultural, or historical context of a work of art helps us understand the artist's intentions, interpret its meaning, appreciate its craftsmanship, and relate it to broader cultural or historical trends.**
 
 Should your judgments about art be given the same weight as those of an expert ?
 
