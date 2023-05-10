@@ -33,3 +33,5 @@ How does knowing more about the social, cultural or historical context of a work
 
 Should your judgments about art be given the same weight as those of an expert ?
 **Expert opinions in art may carry more weight in specialized areas, but artistic judgments are subjective and can benefit from a diverse range of perspectives, including those of non-experts.**
+
+
