@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Demande globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,6 +320,7 @@
   },
   "active": "4b8def09e285d02d",
   "lastOpenFiles": [
+    "IA de Math & Physics.md",
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-10 16.32.47.excalidraw.md",
@@ -331,7 +332,6 @@
     "Technologies nécessaires pour fournir un VPN.md",
     "Recherche d'Informatique.md",
     "How to do an English High Level Essay.md",
-    "IA de Math & Physics.md",
     "Methods.md",
     "Commentary of an excerpt.md",
     "Déterminants des composantes de la demande globale.md",
