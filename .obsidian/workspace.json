@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electricité test.md",
+                "file": "Le Cid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electricité test.md"
+                "file": "Le Cid.md"
               }
             }
           },
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricité test.md",
+                "file": "Le Cid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,8 +318,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c650206d4afcade5",
+  "active": "4b8def09e285d02d",
   "lastOpenFiles": [
+    "Electricité test.md",
     "Comp Sci/Transmission de données.md",
     "English extract homework.md",
     "Le Cid.md",
@@ -341,7 +342,6 @@
     "Comparison between King Lear and HouseBoy.md",
     "HouseBoy.md",
     "In Class ENGL work.md",
-    "Electricité test.md",
     "Effet solde net.md",
     "Mécanique.md",
     "Python.md",
