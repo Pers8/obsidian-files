@@ -17,14 +17,14 @@ For each quotation, consider:
 The **Arts** include a range of discipline including visual arts, theatre, dance, music, film and literature. The ways in which meaning is encoded, evoked and played out in these various forms of representation do not always overlap and may have no exact counterpart elsewhere. The arts, from the sublime to the mediocre (and even the banal) can provide insight and provoke questions about what it means to be human. Art can be made for its own sake, or created with a functionality in mind like catalyzing social change, conveying overt political or religious messages, and even self-referencetially pushing the boundaries of art itself. 
 
 
-**Scope**
+****Scope***
 Is Artistic Knowledge something that cannot be expressed in any other way ?
 **Artistic knowledge can be expressed in a a lot of other ways, but it often relies on the unique qualities of the medium or form of art being used. While some aspects of artistic knowledge can be communicated through language or other mediums, there may be elements that are difficult to fully express. Artistic knowledge can also include a kind of intuitive understanding that comes from lots of practice and experience, but this understanding can be hard to put into words.**
 
 Does art enlarge what it is possible for us to think and know ?
 **Yes, art has the potential to expand what we think and know. Through art, we can explore new ideas, perspectives, and ways of understanding the world. Artistic expression can challenge our assumptions and beliefs, provoke new thoughts and emotions, and expand our imagination and creativity.**
 
-**Perspective**
+****Perspective***
 Can a work of art have meaning of which the artist themselves is unaware ?
 **Yes, it's possible for a work of art to have meaning that the artist themselves is unaware of. Once a work of art is completed and released into the world it becomes open to interpretation by others who bring their own experiences, perspectives, and cultural contexts to their understanding of the work. In some cases, the meaning of a work of art may even evolve over time as cultural contexts and interpretations change. For example, a work of art created in one era may be interpreted very differently in a different cultural or historical context.**
 
