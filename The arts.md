@@ -34,4 +34,4 @@ How does knowing more about the social, cultural or historical context of a work
 Should your judgments about art be given the same weight as those of an expert ?
 
   
-**Artistic knowledge can be expressed in a a lot of other ways, but it often relies on the unique qualities of the medium or form of art being used. While some aspects of artistic knowledge can be communicated through language or other mediums, there may be elements that are difficult to fully express. Additionally, artistic knowledge can involve a kind of tacit knowledge or intuition that is developed through practice and experience and may be difficult to articulate.
+**Artistic knowledge can be expressed in a a lot of other ways, but it often relies on the unique qualities of the medium or form of art being used. While some aspects of artistic knowledge can be communicated through language or other mediums, there may be elements that are difficult to fully express. Additionally, artistic knowledge can involve a kind of tacit knowledge or intuition that is developed through practice and experience and may be difficult to articulate.**
