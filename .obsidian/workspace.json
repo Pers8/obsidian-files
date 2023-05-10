@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Electricité test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le Cid.md"
+                "file": "Electricité test.md"
               }
             }
           },
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le Cid.md",
+                "file": "Electricité test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,8 +318,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4b8def09e285d02d",
+  "active": "c650206d4afcade5",
   "lastOpenFiles": [
+    "Comp Sci/Transmission de données.md",
+    "English extract homework.md",
+    "Le Cid.md",
     "Français devoir.md",
     "Demande globale.md",
     "IA de Math & Physics.md",
@@ -327,7 +330,6 @@
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-10 16.32.47.excalidraw.md",
     "The arts.md",
-    "Le Cid.md",
     "IB/Economy.md",
     "TOK Exhibition.md",
     "Technologies nécessaires pour fournir un VPN.md",
@@ -337,7 +339,6 @@
     "Commentary of an excerpt.md",
     "Déterminants des composantes de la demande globale.md",
     "Comparison between King Lear and HouseBoy.md",
-    "English extract homework.md",
     "HouseBoy.md",
     "In Class ENGL work.md",
     "Electricité test.md",
@@ -345,7 +346,6 @@
     "Mécanique.md",
     "Python.md",
     "Tournoi d'échecs.md",
-    "Untitled.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
