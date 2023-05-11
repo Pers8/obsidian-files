@@ -151,11 +151,9 @@
             "id": "4b8def09e285d02d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IA de Math & Physics.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md"
               }
             }
           },
@@ -246,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md"
               }
             }
           },
@@ -287,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,6 +318,8 @@
   },
   "active": "4b8def09e285d02d",
   "lastOpenFiles": [
+    "IA de Math & Physics.md",
+    "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
     "The arts.md",
     "Français devoir.md",
     "Le Cid.md",
@@ -327,7 +327,6 @@
     "Comp Sci/Transmission de données.md",
     "English extract homework.md",
     "Demande globale.md",
-    "IA de Math & Physics.md",
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-10 16.32.47.excalidraw.md",
@@ -345,7 +344,6 @@
     "Effet solde net.md",
     "Mécanique.md",
     "Python.md",
-    "Tournoi d'échecs.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
