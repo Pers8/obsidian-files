@@ -18,3 +18,7 @@ la relation qu’elle représente.
 (b) Quelle est la cause du déplacement le long de la courbe d’offre à court
 terme ?
 **La cause serait le prix**
+
+4 En utilisant un diagramme, montrez pour chaque cas, le changement de la
+courbe d’offre à court terme :
+(a) Le prix du pétrole augmente.
