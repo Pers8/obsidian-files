@@ -36,3 +36,5 @@ des entreprises.
 ![[Y decreasing]]
 
 (e) Il y’a une hausse du salaire minimum.
+![[Y increasing]]
+
