@@ -12,3 +12,4 @@ baisse ?
 
 3 (a) Montrez dans un graphique la courbe d’offre à court terme et expliquez
 la relation qu’elle représente.
+![[Pasted image 20230512080919.png]]
