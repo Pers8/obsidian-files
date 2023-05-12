@@ -163,9 +163,11 @@
             "id": "61aae2a78d885538",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-12 08.31.39.excalidraw.md"
+                "file": "Mécanique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -256,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-12 08.31.39.excalidraw.md",
+                "file": "Mécanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-12 08.31.39.excalidraw.md"
+                "file": "Mécanique.md"
               }
             }
           },
@@ -297,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-12 08.31.39.excalidraw.md",
+                "file": "Mécanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,8 +332,10 @@
   },
   "active": "61aae2a78d885538",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Y increasing.md",
+    "Excalidraw/Y decreasing.md",
     "Eco TD2.md",
-    "Excalidraw/Drawing 2023-05-12 08.31.39.excalidraw.md",
     "assets/Pasted image 20230512080919.png",
     "TOK Exhibition.md",
     "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
@@ -355,8 +359,6 @@
     "Déterminants des composantes de la demande globale.md",
     "Comparison between King Lear and HouseBoy.md",
     "HouseBoy.md",
-    "In Class ENGL work.md",
-    "Effet solde net.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
