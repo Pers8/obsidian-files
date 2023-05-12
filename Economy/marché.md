@@ -14,5 +14,5 @@ Le **Marché** est:: la rencontre entre acheteur et revendeur effectuant des éc
 >Un **marché monopole** est un marché :: ou une entité qui détient la totalité de l'[[Offre]] et domine son secteur d'activité respectif.
 <!--SR:!2023-04-06,16,190-->
 >Un **marché concurrentiel** est un marché :: de compétition caractérisé par la liberté ou l'indépendance des choix.
-<!--SR:!2023-04-03,27,210-->
+<!--SR:!2023-05-30,18,190-->
 

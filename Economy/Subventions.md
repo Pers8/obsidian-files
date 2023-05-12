@@ -6,7 +6,7 @@ tags: [economy]
 Les subventions sont :
 ?
 Les subventions sont des paiements unitaires qui sont utilisés pour réduire les coûts de production et augmenter la production du marché.
-<!--SR:!2023-04-13,36,252-->
+<!--SR:!2023-12-28,230,272-->
 
 Les objectifs des subventions pour le gouvernement sont généralement : 
 ?
@@ -42,6 +42,6 @@ Cependant, en supposant que l'équilibre du marché libre, sans intervention du 
 - Recettes du gouvernement=>::Diminue 
 <!--SR:!2023-04-14,38,292-->
 - Bien-être social=>::Diminue
-<!--SR:!2023-04-09,32,252-->
+<!--SR:!2023-06-01,20,232-->
 
 
