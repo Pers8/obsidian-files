@@ -8,4 +8,7 @@ macroéconomie.
 
 (b) Quelles sont les raisons qui rendent les salaires difficilement inflexibles à la
 baisse ? 
-**La baisse de charge des entreprises, lorsque les entreprises sont beaucoup de profi, lorsqu'ils ont un monopole**
+**La baisse de charge des entreprises, lorsque les entreprises sont beaucoup de profit, lorsqu'ils ont un monopole**
+
+3 (a) Montrez dans un graphique la courbe d’offre à court terme et expliquez
+la relation qu’elle représente.
