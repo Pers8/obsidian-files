@@ -22,3 +22,7 @@ terme ?
 4 En utilisant un diagramme, montrez pour chaque cas, le changement de la
 courbe d’offre à court terme :
 (a) Le prix du pétrole augmente.
+![[Y decreasing]]
+
+(b) La baisse de la température qui détruit la production agricole.
+

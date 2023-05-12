@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Eco TD2.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Eco TD2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Eco TD2.md"
               }
             }
           },
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Eco TD2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,6 +332,7 @@
   },
   "active": "61aae2a78d885538",
   "lastOpenFiles": [
+    "Mécanique.md",
     "Untitled.md",
     "Excalidraw/Y increasing.md",
     "Excalidraw/Y decreasing.md",
@@ -358,7 +359,6 @@
     "Commentary of an excerpt.md",
     "Déterminants des composantes de la demande globale.md",
     "Comparison between King Lear and HouseBoy.md",
-    "HouseBoy.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
