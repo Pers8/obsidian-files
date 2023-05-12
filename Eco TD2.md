@@ -17,3 +17,4 @@ la relation qu’elle représente.
 
 (b) Quelle est la cause du déplacement le long de la courbe d’offre à court
 terme ?
+L
