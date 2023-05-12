@@ -8,3 +8,4 @@ macroéconomie.
 
 (b) Quelles sont les raisons qui rendent les salaires difficilement inflexibles à la
 baisse ? 
+**La baisse de charge des entrep**
