@@ -26,3 +26,13 @@ courbe d’offre à court terme :
 
 (b) La baisse de la température qui détruit la production agricole.
 
+![[Y decreasing]]
+
+(c) Le gouvernement qui diminuent les taxes professionnelles sur le bénéfice
+des entreprises.
+![[Y increasing]]
+
+(d) Le gouvernement qui supprime les subventions sur les produits agricoles.
+![[Y decreasing]]
+
+(e) Il y’a une hausse du salaire minimum.
