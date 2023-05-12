@@ -7,4 +7,4 @@ macroéconomie.
 **A long terme : A long terme, tous les facteurs de production sont variables. Ce ne sont pas les coûts de production qui détermineront combien les entreprises peuvent produire, mais plutôt la qualité et la quantité des facteurs de production disponibles pour les entreprises à un moment donné.**
 
 (b) Quelles sont les raisons qui rendent les salaires difficilement inflexibles à la
-baisse ?
+baisse ? 
