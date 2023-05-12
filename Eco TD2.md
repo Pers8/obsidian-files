@@ -3,3 +3,4 @@
 
 2 - (a) Distinguez l’offre à court terme de l’offre à long terme en
 macroéconomie.
+**A court terme : **
