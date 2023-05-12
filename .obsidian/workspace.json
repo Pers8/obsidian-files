@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eco TD2.md",
+                "file": "The arts.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eco TD2.md",
+                "file": "The arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eco TD2.md"
+                "file": "The arts.md"
               }
             }
           },
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eco TD2.md",
+                "file": "The arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,8 +332,9 @@
   },
   "active": "61aae2a78d885538",
   "lastOpenFiles": [
-    "Excalidraw/Y increasing.md",
+    "IB/Economy.md",
     "Eco TD2.md",
+    "Excalidraw/Y increasing.md",
     "Mécanique.md",
     "Untitled.md",
     "Excalidraw/Y decreasing.md",
@@ -351,7 +352,6 @@
     "Effet taux d'intérêt.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-10 16.32.47.excalidraw.md",
-    "IB/Economy.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "Recherche d'Informatique.md",
     "How to do an English High Level Essay.md",
