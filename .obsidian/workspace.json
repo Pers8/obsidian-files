@@ -187,8 +187,12 @@
             "id": "f0d88bfb0d6fdc0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Eco TD2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -266,6 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Eco TD2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +292,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Eco TD2.md"
+              }
             }
           },
           {
@@ -304,6 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eco TD2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
