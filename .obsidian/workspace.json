@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IA de Math & Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,6 +332,7 @@
   },
   "active": "61aae2a78d885538",
   "lastOpenFiles": [
+    "IB/EE.md",
     "IB/📝Dashboard.md",
     "The arts.md",
     "IB/Economy.md",
@@ -358,7 +359,6 @@
     "How to do an English High Level Essay.md",
     "Methods.md",
     "Commentary of an excerpt.md",
-    "Déterminants des composantes de la demande globale.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",
