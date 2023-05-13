@@ -14,8 +14,7 @@ Throughout history, humans have sought knowledge to better understand the world 
 The above object is a historical artifact of a diary from a soldier in World War II. For most soldiers, life was very difficult. They had rationed food, but rations did not always get through to them. If they weren't at an army base, they lived in tents or in holes dug in the ground. They often had no access to heating, hot water or other comforts.
 This diary represents the value of historical analysis in understanding the past and present. Visitors to this exhibit will explore the ways in which historical knowledge can be used to inform decisions and actions, from the study of past pandemics to the analysis of political systems. However, we will also examine the limitations of historical knowledge, particularly in terms of the potential for bias and the challenge of understanding the perspectives and experiences of people from different times and places. 
 
-$$M>m$$
-$$\vec{T_1} = \$$
+
 
 
 **Object 2:** *"Starry Night"  by Vincent Van Gogh*
