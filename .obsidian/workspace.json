@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The arts.md",
+                "file": "IB/EE.md",
                 "mode": "source",
                 "source": false
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The arts.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The arts.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The arts.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,6 +332,8 @@
   },
   "active": "61aae2a78d885538",
   "lastOpenFiles": [
+    "IB/📝Dashboard.md",
+    "The arts.md",
     "IB/Economy.md",
     "Eco TD2.md",
     "Excalidraw/Y increasing.md",
@@ -342,7 +344,6 @@
     "TOK Exhibition.md",
     "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
     "IA de Math & Physics.md",
-    "The arts.md",
     "Français devoir.md",
     "Le Cid.md",
     "Electricité test.md",
@@ -358,7 +359,6 @@
     "Methods.md",
     "Commentary of an excerpt.md",
     "Déterminants des composantes de la demande globale.md",
-    "Comparison between King Lear and HouseBoy.md",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
     "assets/Pasted image 20230502150607.png",

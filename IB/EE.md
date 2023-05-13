@@ -1,6 +1,6 @@
 >[!Question]
 >**English :** To what extent is VGG16 convolutional neural networks architecture viable for image classification and recognition
->**French :** Dans quelle mesure l'architecture des réseaux de neurones convolutifs ResNet est t-elle meilleure que l'architecture VGG16 en terme de performance et de précision dans la classification et reconnaissance des images ?
+>	**French :** Dans quelle mesure l'architecture des réseaux de neurones convolutifs ResNet est t-elle meilleure que l'architecture VGG16 en terme de performance et de précision dans la classification et reconnaissance des images ?
 
 
 >[!Thème]
