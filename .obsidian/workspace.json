@@ -182,9 +182,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0d88bfb0d6fdc0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -258,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,9 +287,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TOK Exhibition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -299,7 +304,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,8 +334,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "61aae2a78d885538",
+  "active": "f0d88bfb0d6fdc0a",
   "lastOpenFiles": [
+    "TOK Exhibition.md",
     "How to do an English High Level Essay.md",
     "IA de Math & Physics.md",
     "IB/EE.md",
@@ -344,7 +349,6 @@
     "Untitled.md",
     "Excalidraw/Y decreasing.md",
     "assets/Pasted image 20230512080919.png",
-    "TOK Exhibition.md",
     "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
     "Français devoir.md",
     "Le Cid.md",
