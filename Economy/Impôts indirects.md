@@ -14,7 +14,7 @@ Les objectifs de impôts indirects sont généralement de:
 - corriger les externalités négatives et l'allocation socialement inefficace des ressources.
 
 Les impôts indirects sont aussi appelés :: taxes d'accise.
-<!--SR:!2023-05-10,59,310-->
+<!--SR:!2024-01-30,262,330-->
 
 Il y a deux types d’impôts indirects à considérer:
 ?
