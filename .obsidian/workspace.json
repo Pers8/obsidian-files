@@ -194,9 +194,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec0ae165e824c8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -270,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English extract homework.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English extract homework.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -311,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English extract homework.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -342,8 +354,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f0d88bfb0d6fdc0a",
+  "active": "ec0ae165e824c8e5",
   "lastOpenFiles": [
+    "English extract homework.md",
+    "Untitled 1.md",
     "Français devoir.md",
     "HouseBoy.md",
     "How to do an English High Level Essay.md",
@@ -368,8 +382,6 @@
     "IB/EE.md",
     "IB/📝Dashboard.md",
     "IB/Economy.md",
-    "Excalidraw/Y increasing.md",
-    "Excalidraw/Y decreasing.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
