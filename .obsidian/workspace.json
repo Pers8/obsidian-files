@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Champ électrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Champ électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Champ électrique.md"
               }
             }
           },
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Champ électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,8 +356,8 @@
   },
   "active": "ec0ae165e824c8e5",
   "lastOpenFiles": [
-    "Physics/Intensité du courant électrique.md",
     "IB/Physics.md",
+    "Physics/Intensité du courant électrique.md",
     "Physics/Champ électrique.md",
     "Physics/Loi de Coulomb.md",
     "Physics/Rappel d'électrostatique.md",
