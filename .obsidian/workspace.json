@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Champ électrique.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Champ électrique.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Champ électrique.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Champ électrique.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,9 @@
   },
   "active": "ec0ae165e824c8e5",
   "lastOpenFiles": [
+    "Physics/Intensité du courant électrique.md",
     "IB/Physics.md",
+    "Physics/Champ électrique.md",
     "Physics/Loi de Coulomb.md",
     "Physics/Rappel d'électrostatique.md",
     "IB/📝Dashboard.md",
@@ -380,8 +382,6 @@
     "Untitled.md",
     "Commentary of an excerpt.md",
     "Change blindness.md",
-    "Commutation de paquets.md",
-    "Comparison between King Lear and HouseBoy.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
