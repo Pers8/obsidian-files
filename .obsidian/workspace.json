@@ -11,12 +11,8 @@
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Sci/Réseaux(2).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -269,7 +265,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Réseaux(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,9 +286,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comp Sci/Réseaux(2).md"
-              }
+              "state": {}
             }
           },
           {
@@ -310,7 +303,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Réseaux(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,6 +335,7 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "Comp Sci/Réseaux(2).md",
     "Algorithme.md",
     "IB/Comp Sci.md",
     "Notion de problème.md",
@@ -370,7 +363,6 @@
     "Physics/Rappel d'électrostatique.md",
     "IB/📝Dashboard.md",
     "Commentary.md",
-    "English extract homework.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
