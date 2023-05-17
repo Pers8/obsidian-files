@@ -38,3 +38,5 @@ Should your judgments about art be given the same weight as those of an expert ?
 The truth expressed by an artwork  is  not scientific, 
 
 **Question :** Can you think of ways in which artistic representations (especially paintings, literature or films) have shaped the way you think about particular people events or issues?
+
+i think
