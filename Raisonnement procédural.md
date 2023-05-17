@@ -16,3 +16,8 @@ Created: 2023-04-10
 ?
 - La pensée procédurale est une méthode disciplinée qui consiste à penser en séquence, dans l'ordre et de manière logique : trouver la procédure appropriée pour résoudre un problème.
 - La pensée procédurale peut se traduire par un organigramme.
+![[Pasted image 20230517100705.png]]
+
+## Sous processus
+?
+Un sous-processus ou sous-procédure est une partie nommée d'un processus plus large. Ce sous-processus peut être appelé plusieurs fois, comme une fonction. Un sous-processus accepte des données d'entrée, les traite et renvoie un résultat.
