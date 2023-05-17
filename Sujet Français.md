@@ -9,4 +9,4 @@
 
 
 
-La séparation ou le divorce entre 2 parents est un phénomène qui est devenu de plus en plus fréquent dans la vie d'un enfant
+La séparation ou le divorce entre 2 parents est un phénomène qui est devenu de plus en plus fréquent dans la vie d'un enfant (prés de 12% des enfants on)
