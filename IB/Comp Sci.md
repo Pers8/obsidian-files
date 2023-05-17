@@ -65,17 +65,12 @@ $$
 1.  [[Notion de problème]]
 2.  [[Algorithme]]
 
-  
 
-Chapitre 2 - Pensée computationnelle
+# Chapitre 2 - Pensée computationnelle
 
-# 
-
-Chapitre 2 - Pensée computationnelle
-
-1.  [Raisonnement procédural](app://obsidian.md/Raisonnement%20proc%C3%A9dural)
-2.  [Raisonnement logique](app://obsidian.md/Raisonnement%20logique)
+1.  [Raisonnement procédural]
+2.  [Raisonnement logique]
 3.  [Raisonnement par anticipation](app://obsidian.md/Raisonnement%20par%20anticipation)
 4.  [Raisonnement simultané](app://obsidian.md/Raisonnement%20simultan%C3%A9)
-5.  [Raisonnement abstrait](app://obsidian.md/Raisonnement%20abstrait)
+5.  [Raisonnement abstrait](app
 
