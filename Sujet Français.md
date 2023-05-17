@@ -9,4 +9,4 @@
 
 
 
-La séparation ou le divorce entre 2 parents est un phénomène qui est devenu de plus en plus fréquent dans la vie d'un enfant (près de 1,92% des couples ont divorcé ou se sont séparé en 2014 contre 1,86% en 2000). Les enfants sont les personnes grandement affectés   par le divorce et 
+La séparation ou le divorce entre 2 parents est un phénomène qui est devenu de plus en plus fréquent dans la vie d'un enfant (près de 1,92% des couples ont divorcé ou se sont séparé en 2014 contre 1,86% en 2000). Les enfants sont les personnes grandement affectés   par le divorce et le potentiel problème à long terme ou à court terme est bien plus élevé chez les enfants 
