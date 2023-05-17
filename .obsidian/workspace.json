@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "Effet richesse.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "Effet richesse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sujet Français.md"
+                "file": "Effet richesse.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "Effet richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,8 +343,9 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
-    "Français devoir.md",
+    "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
     "Sujet Français.md",
+    "Français devoir.md",
     "assets/Pasted image 20230517114008.png",
     "Comp Sci/Réseaux(2).md",
     "Algorithme.md",
@@ -371,7 +372,6 @@
     "Physics/Champ électrique.md",
     "Physics/Intensité du courant électrique.md",
     "Physics/Loi de Coulomb.md",
-    "Physics/Rappel d'électrostatique.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
