@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:info",
       "color": {
         "a": 1,
         "rgb": 5431473

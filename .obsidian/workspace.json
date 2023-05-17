@@ -11,8 +11,12 @@
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notion de problème.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -265,6 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notion de problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +291,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notion de problème.md"
+              }
             }
           },
           {
@@ -303,6 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notion de problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,8 +343,9 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
-    "Algorithme.md",
     "IB/Comp Sci.md",
+    "IB/Economy.md",
+    "Algorithme.md",
     "Notion de problème.md",
     "Raisonnement procédural.md",
     "Raisonnement logique.md",
@@ -350,7 +359,6 @@
     "Composants matériels et logiciels d'un réseau sans fil..md",
     "Comp Sci/Systèmes d'exploitation.md",
     "[.md",
-    "IB/Economy.md",
     "IB/French.md",
     "IB/Physics.md",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
