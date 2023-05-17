@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Champ électrique.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Champ électrique.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Champ électrique.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Champ électrique.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,9 +356,10 @@
   },
   "active": "ec0ae165e824c8e5",
   "lastOpenFiles": [
+    "Accélération.md",
+    "Physics/Champ électrique.md",
     "IB/Physics.md",
     "Physics/Intensité du courant électrique.md",
-    "Physics/Champ électrique.md",
     "Physics/Loi de Coulomb.md",
     "Physics/Rappel d'électrostatique.md",
     "IB/📝Dashboard.md",
@@ -381,7 +382,6 @@
     "Tournoi d'échecs.md",
     "Untitled.md",
     "Commentary of an excerpt.md",
-    "Change blindness.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
