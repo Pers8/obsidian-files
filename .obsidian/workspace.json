@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Algorithme.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Algorithme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Algorithme.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Algorithme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,6 +343,8 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "IB/Comp Sci.md",
+    "Notion de problème.md",
     "IB/📝Dashboard.md",
     "Sujet Français.md",
     "The arts.md",
@@ -352,8 +354,6 @@
     "assets/Pasted image 20230517114008.png",
     "Comp Sci/Réseaux(2).md",
     "Algorithme.md",
-    "IB/Comp Sci.md",
-    "Notion de problème.md",
     "IB/Economy.md",
     "Raisonnement procédural.md",
     "Raisonnement logique.md",
