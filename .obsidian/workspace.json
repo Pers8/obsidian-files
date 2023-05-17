@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recherche d'Informatique.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,21 +194,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec0ae165e824c8e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IB/Comp Sci.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,15 +341,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ec0ae165e824c8e5",
+  "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
     "IB/Economy.md",
-    "Réseaux sans fil.md",
+    "IB/French.md",
+    "IB/Physics.md",
+    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "IB/Comp Sci.md",
+    "Réseaux sans fil.md",
     "Untitled.md",
     "Accélération.md",
     "Physics/Champ électrique.md",
-    "IB/Physics.md",
     "Physics/Intensité du courant électrique.md",
     "Physics/Loi de Coulomb.md",
     "Physics/Rappel d'électrostatique.md",
@@ -380,8 +369,6 @@
     "Python.md",
     "Recherche d'Informatique.md",
     "Technologies nécessaires pour fournir un VPN.md",
-    "The arts.md",
-    "TOK Exhibition.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
