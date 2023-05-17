@@ -1,5 +1,5 @@
 ---
-tags: [computer_science] 
+tags: [info] 
 ---
 
 # Raisonnement simultané (traitement simultané)

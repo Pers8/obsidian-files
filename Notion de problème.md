@@ -1,5 +1,5 @@
 ---
-tags: [computer_science] 
+tags: [info] 
 ---
 
 Etapes a suivre pour résoudre un problème:

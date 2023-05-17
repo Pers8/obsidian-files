@@ -1,5 +1,5 @@
 ---
-tags: [computer_science] 
+tags: [info] 
 ---
 Created: 2023-04-10
 
