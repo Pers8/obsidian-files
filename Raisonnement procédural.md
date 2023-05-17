@@ -1,5 +1,5 @@
 ---
-tags: [computer_science] 
+tags: [info] 
 ---
 
 Quelles sont les 5 types de raisonnement:
