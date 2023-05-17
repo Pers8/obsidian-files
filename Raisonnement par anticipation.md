@@ -13,3 +13,4 @@ Created: 2023-04-10
 
 Exemple de Diagramme de Gant:
 ?
+![[Pasted image 20230517101009.png]]

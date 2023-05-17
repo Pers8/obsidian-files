@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Raisonnement simultané.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Raisonnement simultané.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement par anticipation.md"
+                "file": "Raisonnement simultané.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement par anticipation.md",
+                "file": "Raisonnement simultané.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +344,9 @@
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Raisonnement simultané.md",
     "Raisonnement par anticipation.md",
+    "assets/Pasted image 20230517101009.png",
     "Raisonnement logique.md",
     "Raisonnement procédural.md",
     "assets/Pasted image 20230517100705.png",
@@ -369,7 +371,6 @@
     "Commentary.md",
     "English extract homework.md",
     "Français devoir.md",
-    "HouseBoy.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
@@ -378,7 +379,6 @@
     "assets/Pasted image 20230429154003.png",
     "assets/Pasted image 20230429112244.png",
     "assets/Pasted image 20230429112240.png",
-    "assets/Pasted image 20230429111206.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
