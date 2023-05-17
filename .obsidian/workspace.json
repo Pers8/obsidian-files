@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "The arts.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "The arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "The arts.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "The arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,10 +343,10 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "TOK Exhibition.md",
     "Python.md",
     "Notion de problème.md",
     "Raisonnement abstrait.md",
-    "TOK Exhibition.md",
     "IB/TOK.md",
     "Raisonnement procédural.md",
     "IB/Comp Sci.md",
