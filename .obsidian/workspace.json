@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Raisonnement procédural.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Raisonnement procédural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithme.md"
+                "file": "Raisonnement procédural.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Raisonnement procédural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,6 +344,7 @@
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Algorithme.md",
     "Notion de problème.md",
     "IB/📝Dashboard.md",
     "Sujet Français.md",
@@ -353,7 +354,6 @@
     "Français devoir.md",
     "assets/Pasted image 20230517114008.png",
     "Comp Sci/Réseaux(2).md",
-    "Algorithme.md",
     "IB/Economy.md",
     "Raisonnement procédural.md",
     "Raisonnement logique.md",
