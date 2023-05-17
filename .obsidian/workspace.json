@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement procédural.md"
+                "file": "Raisonnement logique.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement procédural.md",
+                "file": "Raisonnement logique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,9 +343,10 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
-    "assets/Pasted image 20230517100705.png",
     "IB/Comp Sci.md",
+    "Raisonnement logique.md",
     "Raisonnement procédural.md",
+    "assets/Pasted image 20230517100705.png",
     "Algorithme.md",
     "Comp Sci/Organigrammes.md",
     "Notion de problème.md",
@@ -378,7 +379,6 @@
     "assets/Pasted image 20230429112244.png",
     "assets/Pasted image 20230429112240.png",
     "assets/Pasted image 20230429111206.png",
-    "assets/Pasted Image 20230425113205_978.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
