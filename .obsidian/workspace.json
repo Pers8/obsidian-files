@@ -11,12 +11,8 @@
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -269,7 +265,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,9 +286,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -310,7 +303,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,10 +335,10 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "Algorithme.md",
     "IB/Comp Sci.md",
     "Notion de problème.md",
     "IB/Economy.md",
-    "Algorithme.md",
     "Raisonnement procédural.md",
     "Raisonnement logique.md",
     "Raisonnement par anticipation.md",
