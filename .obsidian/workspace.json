@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The arts.md",
+                "file": "IB/📝Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The arts.md",
+                "file": "IB/📝Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The arts.md"
+                "file": "IB/📝Dashboard.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The arts.md",
+                "file": "IB/📝Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,6 +343,7 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "The arts.md",
     "TOK Exhibition.md",
     "Python.md",
     "Notion de problème.md",
@@ -353,7 +354,6 @@
     "Algorithme.md",
     "IB/📝Dashboard.md",
     "Sujet Français.md",
-    "The arts.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
     "Français devoir.md",
