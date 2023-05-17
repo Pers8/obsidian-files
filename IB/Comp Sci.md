@@ -59,5 +59,23 @@ $$
 3. [[Transmission de données]]
 2.  [[Réseaux sans fil]]
 ---
-## Theme 4-Pensée informatique, résolution de problèmes et programmation
+# Theme 4-Pensée informatique, résolution de problèmes et programmation
+## Chapitre 1 - Notion de bases
+
+1.  [[Notion de problème]]
+2.  [[Algorithme]]
+
+  
+
+Chapitre 2 - Pensée computationnelle
+
+# 
+
+Chapitre 2 - Pensée computationnelle
+
+1.  [Raisonnement procédural](app://obsidian.md/Raisonnement%20proc%C3%A9dural)
+2.  [Raisonnement logique](app://obsidian.md/Raisonnement%20logique)
+3.  [Raisonnement par anticipation](app://obsidian.md/Raisonnement%20par%20anticipation)
+4.  [Raisonnement simultané](app://obsidian.md/Raisonnement%20simultan%C3%A9)
+5.  [Raisonnement abstrait](app://obsidian.md/Raisonnement%20abstrait)
 
