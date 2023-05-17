@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "The arts.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "The arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "The arts.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "The arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,13 +343,13 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "IB/TOK.md",
     "IB/📝Dashboard.md",
     "The arts.md",
     "TOK Exhibition.md",
     "Python.md",
     "Notion de problème.md",
     "Raisonnement abstrait.md",
-    "IB/TOK.md",
     "Raisonnement procédural.md",
     "IB/Comp Sci.md",
     "Algorithme.md",
