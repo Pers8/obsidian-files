@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sujet Français.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,10 +343,11 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "IB/📝Dashboard.md",
+    "Sujet Français.md",
     "The arts.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
-    "Sujet Français.md",
     "Français devoir.md",
     "assets/Pasted image 20230517114008.png",
     "Comp Sci/Réseaux(2).md",
@@ -371,7 +372,6 @@
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "Untitled.md",
     "Accélération.md",
-    "Physics/Champ électrique.md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
