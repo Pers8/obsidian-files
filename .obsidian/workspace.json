@@ -11,8 +11,12 @@
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Comp Sci/Réseaux(2).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -265,6 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Comp Sci/Réseaux(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +291,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Comp Sci/Réseaux(2).md"
+              }
             }
           },
           {
@@ -303,6 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comp Sci/Réseaux(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
