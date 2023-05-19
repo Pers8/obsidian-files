@@ -11,9 +11,11 @@
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md"
+                "file": "IB/Economy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -267,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -308,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,12 +343,12 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
-    "Electricité test.md",
+    "IB/📝Dashboard.md",
     "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
+    "Electricité test.md",
     "English extract homework.md",
     "The arts.md",
     "IB/TOK.md",
-    "IB/📝Dashboard.md",
     "TOK Exhibition.md",
     "Python.md",
     "Notion de problème.md",
