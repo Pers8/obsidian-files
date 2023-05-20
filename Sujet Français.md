@@ -15,7 +15,3 @@ La séparation ou le divorce entre deux parents est un phénomène de plus en pl
 
 Dans cette réflexion, nous examinerons les causes principales du divorce et d'une séparation entre les couples ensuite nous analyserons également les impacts sur la relation avec les parents. Enfin, nous explorerons les différents impacts sur la vie social de l'enfant et terminer par une conclusion.
 
-- Introduction (Peres) - Body - Cause du divorce/separation (Breal) 
-- Impact sur les relation avec les parents (Ariel, Mahouna) 
-- Impact sur la vie social de l'enfant (Daniel, Mangara) 
-- Conclusion (Wahab)
