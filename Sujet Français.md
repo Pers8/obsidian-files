@@ -13,7 +13,7 @@ La séparation ou le divorce entre 2 parents est un phénomène qui est devenu d
 
 La séparation ou le divorce entre deux parents est un phénomène de plus en plus fréquent dans la société contemporaine, et il a un impact significatif sur la vie des enfants. Selon les statistiques récentes, le taux de divorces ou de séparations a augmenté au cours des dernières années, mettant en évidence la nécessité de comprendre les préoccupations auxquelles les enfants peuvent être confrontés lorsqu'ils vivent une telle situation . Cette réalité soulève la question essentielle suivante : quels sont les impacts psychologiques et émotionnels des parents séparés ou divorcés sur les enfants  et quelles sont leurs inquiétudes ?
 
-Dans cette réflexion, nous examinerons les causes principales du divorce et d'une séparation entre les couples ensuite nous analyserons également les impacts sur la relation avec les parents Enfin, nous explorerons les mesures et les soutiens appropriés pour atténuer ces préoccupations et favoriser le bien-être émotionnel et psychologique des enfants dans ces circonstances difficiles.
+Dans cette réflexion, nous examinerons les causes principales du divorce et d'une séparation entre les couples ensuite nous analyserons également les impacts sur la relation avec les parents. Enfin, nous explorerons les mesures et les soutiens appropriés pour atténuer ces préoccupations et favoriser le bien-être émotionnel et psychologique des enfants dans ces circonstances difficiles.
 
 - Introduction (Peres) - Body - Cause du divorce/separation (Breal) 
 - Impact sur les relation avec les parents (Ariel, Mahouna) 
