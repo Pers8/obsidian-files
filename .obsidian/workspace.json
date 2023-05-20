@@ -11,9 +11,11 @@
             "id": "5ecaacd1776f6a92",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md"
+                "file": "Sujet Français.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -267,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
+                "file": "Sujet Français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md"
+                "file": "Sujet Français.md"
               }
             }
           },
@@ -308,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
+                "file": "Sujet Français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,8 +343,10 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
-    "IB/Economy.md",
+    "In Class ENGL work.md",
+    "Français devoir.md",
     "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
+    "IB/Economy.md",
     "IB/📝Dashboard.md",
     "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
     "Electricité test.md",
@@ -359,7 +363,6 @@
     "Sujet Français.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
-    "Français devoir.md",
     "assets/Pasted image 20230517114008.png",
     "Comp Sci/Réseaux(2).md",
     "Raisonnement logique.md",
@@ -369,7 +372,6 @@
     "assets/Pasted image 20230517100705.png",
     "Comp Sci/Organigrammes.md",
     "Réseaux sans fil.md",
-    "Composants matériels et logiciels d'un réseau sans fil..md",
     "assets/Pasted image 20230512080919.png",
     "assets/Pasted image 20230503110858.png",
     "assets/Pasted image 20230502151121.png",
