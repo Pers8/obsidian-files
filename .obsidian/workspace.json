@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "Recherche d'Informatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "Recherche d'Informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sujet Français.md"
+                "file": "Recherche d'Informatique.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sujet Français.md",
+                "file": "Recherche d'Informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,6 +343,7 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "Sujet Français.md",
     "In Class ENGL work.md",
     "Français devoir.md",
     "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
@@ -360,7 +361,6 @@
     "Raisonnement procédural.md",
     "IB/Comp Sci.md",
     "Algorithme.md",
-    "Sujet Français.md",
     "Effet richesse.md",
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
     "assets/Pasted image 20230517114008.png",
