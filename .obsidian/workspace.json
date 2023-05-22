@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "Commentary.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Commentary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Commentary.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Commentary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,6 +343,7 @@
   },
   "active": "5ecaacd1776f6a92",
   "lastOpenFiles": [
+    "IB/English.md",
     "Untitled.md",
     "Untitled 1.md",
     "The arts.md",
@@ -369,7 +370,6 @@
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
     "assets/Pasted image 20230517114008.png",
     "Comp Sci/Réseaux(2).md",
-    "Raisonnement logique.md",
     "assets/Pasted image 20230517101009.png",
     "assets/Pasted image 20230517100705.png",
     "assets/Pasted image 20230512080919.png",
