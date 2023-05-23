@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "a5bcff827c876d4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          },
+          {
             "id": "59e4fa893bee0d23",
             "type": "leaf",
             "state": {
@@ -195,7 +205,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,7 +352,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "5ecaacd1776f6a92",
+  "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
     "IB/EE.md",
     "Raisonnement procédural.md",
