@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -362,7 +362,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ec1f747e2a1146a3",
+  "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
     "IB/EE.md",
     "Raisonnement procédural.md",
