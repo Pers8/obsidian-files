@@ -23,9 +23,11 @@
             "id": "a5bcff827c876d4e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.3"
+                "file": "IB/Maths.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -290,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effet solde net.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effet solde net.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -331,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effet solde net.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,12 +366,12 @@
   },
   "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
+    "IB/French.md",
+    "IB/English.md",
     "IB/EE.md",
     "Raisonnement procédural.md",
     "IB/Comp Sci.md",
-    "IB/French.md",
     "Commentary.md",
-    "IB/English.md",
     "Untitled.md",
     "Untitled 1.md",
     "The arts.md",
