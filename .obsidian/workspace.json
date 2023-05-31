@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,10 +366,10 @@
   },
   "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
+    "IB/English.md",
     "IB/EE.md",
     "IB/Maths.md",
     "IB/French.md",
-    "IB/English.md",
     "Raisonnement procédural.md",
     "IB/Comp Sci.md",
     "Commentary.md",
