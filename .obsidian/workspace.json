@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change blindness.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effet solde net.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effet solde net.md"
+                "file": "Comparison between King Lear and HouseBoy.md"
               }
             }
           },
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effet solde net.md",
+                "file": "Comparison between King Lear and HouseBoy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,8 +364,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
+    "Effet solde net.md",
     "Accélération.md",
     "IB/Maths.md",
     "IB/English.md",
@@ -391,7 +392,6 @@
     "English extract homework.md",
     "IB/TOK.md",
     "Python.md",
-    "Notion de problème.md",
     "assets/Pasted image 20230517114008.png",
     "assets/Pasted image 20230517101009.png",
     "assets/Pasted image 20230517100705.png",
