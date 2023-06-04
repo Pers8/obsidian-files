@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "Comp Sci/Accès aux disques et gestion des données.md",
                 "mode": "source",
                 "source": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "Comp Sci/Accès aux disques et gestion des données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md"
+                "file": "Comp Sci/Accès aux disques et gestion des données.md"
               }
             }
           },
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison between King Lear and HouseBoy.md",
+                "file": "Comp Sci/Accès aux disques et gestion des données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,6 +366,7 @@
   },
   "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
+    "Comparison between King Lear and HouseBoy.md",
     "Effet solde net.md",
     "Accélération.md",
     "IB/Maths.md",
@@ -391,7 +392,6 @@
     "Electricité test.md",
     "English extract homework.md",
     "IB/TOK.md",
-    "Python.md",
     "assets/Pasted image 20230517114008.png",
     "assets/Pasted image 20230517101009.png",
     "assets/Pasted image 20230517100705.png",
