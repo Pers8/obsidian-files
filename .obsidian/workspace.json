@@ -23,12 +23,8 @@
             "id": "a5bcff827c876d4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Sci/Changements dans un environment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -292,7 +288,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Changements dans un environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,9 +309,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comp Sci/Changements dans un environment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -333,7 +326,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Changements dans un environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,6 +358,7 @@
   },
   "active": "a5bcff827c876d4e",
   "lastOpenFiles": [
+    "Comp Sci/Changements dans un environment.md",
     "Comp Sci/Accès aux disques et gestion des données.md",
     "Comparison between King Lear and HouseBoy.md",
     "Effet solde net.md",
@@ -391,7 +384,6 @@
     "IB/📝Dashboard.md",
     "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
     "Electricité test.md",
-    "English extract homework.md",
     "assets/Pasted image 20230517114008.png",
     "assets/Pasted image 20230517101009.png",
     "assets/Pasted image 20230517100705.png",
