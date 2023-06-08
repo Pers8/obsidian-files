@@ -23,8 +23,12 @@
             "id": "a5bcff827c876d4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -288,6 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +314,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md"
+              }
             }
           },
           {
@@ -326,6 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +364,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a5bcff827c876d4e",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
     "Comp Sci/Changements dans un environment.md",
     "Comp Sci/Accès aux disques et gestion des données.md",
