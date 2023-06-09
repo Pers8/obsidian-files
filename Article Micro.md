@@ -4,7 +4,7 @@
 **Date où le commentaire fût écrit :** 09/06/23
 **Nombre de mots :**
 **Section du programme :** Micro-Economie
-**Concept clé :** Equité
+**Concept clé :** Équité
 
 ## Article
 Le gouvernement et les partis au pouvoir envisagent d'augmenter les impôts pour les grandes fortunes dont le revenu annuel s'élève à 3 milliards de yens ou plus, y compris les gains provenant d'actifs financiers, ont déclaré des sources mardi.
