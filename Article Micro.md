@@ -20,3 +20,4 @@ Plus précisément, jusqu'à 2 milliards de yens de plus-values seraient exonér
 Certains membres du groupe fiscal de la coalition au pouvoir avaient demandé que le seuil de revenu annuel pour l'augmentation des impôts sur les super riches soit fixé à 1 milliard ou 2 milliards de yens. Le gouvernement et le bloc au pouvoir envisagent un seuil plus élevé en réponse aux inquiétudes soulevées quant à l'impact de l'augmentation de l'impôt sur les marchés financiers.
 
 ## Commentaire
+Cette article d
