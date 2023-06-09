@@ -1,10 +1,10 @@
 **Titre de l'article :** Le Japon va augmenter les impôts pour les riches dont le revenu annuel est supérieur à 3 milliards de yens
-**Source de l'article :**
-**Date où l'article fût publié :** 13/12/
+**Source de l'article :** ([https://www.japantimes.co.jp/news/2022/12/13/business/economy-business/wealth-tax/](https://www.japantimes.co.jp/news/2022/12/13/business/economy-business/wealth-tax/))
+**Date où l'article fût publié :** 13/12/22
 **Date où le commentaire fût écrit :** 09/06/23
 **Nombre de mots :**
-**Section du programme :**
-**Concept clé :**
+**Section du programme :** Micro-Economie
+**Concept clé :** Equité
 
 ## Article
 Le gouvernement et les partis au pouvoir envisagent d'augmenter les impôts pour les grandes fortunes dont le revenu annuel s'élève à 3 milliards de yens ou plus, y compris les gains provenant d'actifs financiers, ont déclaré des sources mardi.
