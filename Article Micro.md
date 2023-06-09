@@ -2,4 +2,6 @@
 **Source de l'article :**
 **Date où l'article fût publié :**
 **Date où le commentaire fût écrit :**
-**Nombre de mots  **
+**Nombre de mots :**
+**Section du programme :**
+****
