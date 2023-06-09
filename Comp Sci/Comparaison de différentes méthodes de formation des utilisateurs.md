@@ -6,6 +6,3 @@ tags: [info]
 2. [[Formation sur site]]
 3. [[Formation a distance]]
 
-```python
-print("Oui")
-```
