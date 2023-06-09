@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Impôts indirects.md",
                 "mode": "source",
                 "source": false
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Economy/Impôts indirects.md"
               }
             }
           },
@@ -345,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,8 +378,9 @@
   },
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
-    "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
+    "IB/Economy.md",
     "Article Micro.md",
+    "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
     "Effet solde net.md",
     "Comp Sci/Changements dans un environment.md",
     "Comp Sci/Accès aux disques et gestion des données.md",
@@ -401,7 +402,6 @@
     "In Class ENGL work.md",
     "Français devoir.md",
     "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
-    "IB/Economy.md",
     "IB/📝Dashboard.md",
     "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
     "assets/Pasted image 20230517114008.png",
