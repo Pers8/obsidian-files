@@ -4,4 +4,16 @@
 **Date où le commentaire fût écrit :**
 **Nombre de mots :**
 **Section du programme :**
-****
+**Concept clé :**
+
+Le gouvernement et les partis au pouvoir envisagent d'augmenter les impôts pour les grandes fortunes dont le revenu annuel s'élève à 3 milliards de yens ou plus, y compris les gains provenant d'actifs financiers, ont déclaré des sources mardi.
+
+Cette mesure vise à corriger la situation connue sous le nom de "mur des 100 millions de yens", dans laquelle le ratio de la charge fiscale commence à diminuer lorsque le revenu annuel dépasse les 100 millions de yens, ont déclaré les sources.
+
+"Nous aimerions augmenter la charge fiscale des personnes dont le revenu annuel s'élève en moyenne à 3 milliards de yens", a déclaré Yoichi Miyazawa, président de la commission de recherche sur le système fiscal du parti libéral-démocrate au pouvoir, à des journalistes au siège du PLD à Tokyo.
+
+Parallèlement, le gouvernement et la coalition au pouvoir envisagent d'offrir aux grandes fortunes un allégement fiscal pour le réinvestissement des plus-values dans des entreprises en phase de démarrage, afin de ne pas réduire la volonté d'investir des entrepreneurs qui ont réussi.
+
+Plus précisément, jusqu'à 2 milliards de yens de plus-values seraient exonérés d'impôts si les entrepreneurs les réinvestissent dans des startups, ont déclaré les sources, ajoutant que la mesure vise également à faciliter le transfert de fonds vers les startups.
+
+Certains membres du groupe fiscal de la coalition au pouvoir avaient demandé que le seuil de revenu annuel pour l'augmentation des impôts sur les super riches soit fixé à 1 milliard ou 2 milliards de yens. Le gouvernement et le bloc au pouvoir envisagent un seuil plus élevé en réponse aux inquiétudes soulevées quant à l'impact de l'augmentation de l'impôt sur les marchés financiers.
