@@ -26,3 +26,4 @@ Sur le plan didactique, cette scène soulève des questions morales et éthiques
 Cette scène a un impact significatif sur l'intrigue globale du Cid. Elle pose les bases des conflits qui animeront la pièce, notamment l'amour de Rodrigue pour Chimène, les tensions familiales et les exigences de l'honneur. En laissant le dilemme de Rodrigue en suspens à la fin de la scène, Corneille crée une anticipation chez le public, suscitant l'intérêt pour la résolution de ces conflits complexes.
 
 En conclusion, cet extrait de l'acte 1, scène 6 du Cid met en œuvre les éléments caractéristiques de la tragédie classique. À travers les registres tragique, pathétique et didactique, Corneille explore les tensions familiales, les conflits d'honneur et les dilemmes moraux. Cette scène a un impact significatif sur l'intrigue globale de la pièce, en posant les fondations des conflits à venir et en invitant le public à réfléchir aux valeurs en jeu.
+ cb
