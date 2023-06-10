@@ -7,7 +7,7 @@ III. Les justifications de Don Rodrigue A. Rodrigue explique qu'il a agi pour d�
 
 IV. La demande de vengeance de Don Gomès A. Don Gomès exige une réparation pour la mort de son père B. Tension et confrontation entre Don Rodrigue et Don Gomès
 
-V. Conclusion de la scène A. La scène se termine sur une note tendue B. L'introduction des principaux conflits qui vont animer l'intr
+V. Conclusion de la scène A. La scène se termine sur une note tendue B. L'introduction des principaux conflits qui vont animer l'intrigue
 
 **Commentaire :**
 
