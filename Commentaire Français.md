@@ -11,7 +11,7 @@ V. Conclusion de la scène A. La scène se termine sur une note tendue B. L'intr
 
 **Commentaire :**
 
-L'extrait de l'act1
+
 
 L'extrait de l'acte 1, scène 6 du Cid de Pierre Corneille, s'inscrit dans le genre littéraire de la tragédie classique, avec une forme théâtrale caractérisée par l'utilisation de vers alexandrins. Cette scène suscite une gamme d'émotions grâce à la combinaison de différents registres, tels que le tragique, le pathétique et le didactique.
 
