@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commentaire Français.md",
+                "file": "Français Devoirs.md",
                 "mode": "source",
                 "source": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commentaire Français.md",
+                "file": "Français Devoirs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commentaire Français.md"
+                "file": "Français Devoirs.md"
               }
             }
           },
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commentaire Français.md",
+                "file": "Français Devoirs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
   "active": "1714d2509082c007",
   "lastOpenFiles": [
     "Article Micro.md",
-    "Commentaire Français.md",
+    "Français Devoirs.md",
     "Economy/Impôts indirects.md",
     "IB/Economy.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",

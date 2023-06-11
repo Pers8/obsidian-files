@@ -27,3 +27,4 @@ Cette scène a un impact significatif sur l'intrigue globale du Cid. Elle pose l
 
 En conclusion, le Cid met en œuvre les éléments caractéristiques de la tragédie classique. À travers les registres tragique, pathétique et didactique, Corneille explore les tensions familiales, les conflits d'honneur et les dilemmes moraux. Cette scène a un impact significatif sur l'intrigue globale de la pièce, en posant les fondations des conflits à venir et en invitant le public à réfléchir aux valeurs en jeu.
 
+### Ingéniosité  Humaine
