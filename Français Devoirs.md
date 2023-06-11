@@ -29,4 +29,3 @@ En conclusion, le Cid met en œuvre les éléments caractéristiques de la trag�
 
 ### Ingéniosité  Humaine
 
-L'ingéniosité humaine est un domainer en français 
