@@ -57,7 +57,9 @@ La communication et les médias permettent la diffusion de connaissances, la pro
 
 Cependant, il est important de prendre du recul et de développer une pensée critique face aux informations véhiculées par les médias, car ils peuvent être sujets à des biais, à la désinformation et à la manipulation. Il est essentiel de développer des compétences en matière de lecture critique des médias et de vérification des sources pour s'assurer de la fiabilité des informations.
 
-4. Technologie: La technologie a révolutionné notre monde, en transformant la façon dont nous vivons, travaillons, communiquons et interagissons avec notre environnement. Elle englobe un large éventail de domaines tels que l'informatique, les télécommunications, l'intelligence artificielle, la robotique, les sciences de la santé et les énergies renouvelables.
+**Technologie**
+
+La technologie a révolutionné notre monde, en transformant la façon dont nous vivons, travaillons, communiquons et interagissons avec notre environnement. Elle englobe un large éventail de domaines tels que l'informatique, les télécommunications, l'intelligence artificielle, la robotique, les sciences de la santé et les énergies renouvelables.
 
 La technologie a apporté de nombreux avantages, améliorant notre qualité de vie, facilitant les tâches quotidiennes, permettant des avancées scientifiques et médicales, et créant de nouvelles opportunités économiques. Elle a également contribué à une meilleure connectivité mondiale, rapprochant les individus et les cultures à travers les frontières.
 
