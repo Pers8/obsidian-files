@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français Devoirs.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français Devoirs.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français Devoirs.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français Devoirs.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,9 +390,9 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
+    "Français Devoirs.md",
     "assets/Pasted image 20230611144725.png",
     "Article Micro.md",
-    "Français Devoirs.md",
     "Economy/Impôts indirects.md",
     "IB/Economy.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
@@ -425,7 +425,6 @@
     "assets/Pasted image 20230502150607.png",
     "assets/Pasted image 20230502150005.png",
     "assets/Pasted image 20230429154003.png",
-    "assets/Pasted image 20230429112244.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
