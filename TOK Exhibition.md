@@ -36,3 +36,4 @@ I chose that object because it represents the power of scientific inquiry to unc
 4- https://www.aps.org/publications/apsnews/200403/history.cfm#:~:text=Thanks%20to%20vastly%20improved%20resolution,science%2C%20microelectronics%2C%20and%20biology.
 5- https://www.artandobject.com/news/brief-history-van-goghs-starry-night
 6- https://www.burnleyexpress.net/read-this/how-to-explain-world-war-two-to-children-life-for-soldiers-and-the-holocaust-2842861#:~:text=For%20most%20soldiers%2C%20life%20was,hot%20water%20or%20other%20comforts.
+
