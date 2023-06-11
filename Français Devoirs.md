@@ -33,19 +33,25 @@ L'ingéniosité humaine est une manifestation remarquable de notre capacité à 
 
 L'identité humaine, dans toute sa complexité, joue un rôle essentiel dans le développement de l'ingéniosité. Notre identité personnelle, qui englobe notre histoire, notre culture, nos croyances et nos expériences individuelles, influence profondément notre manière de penser, de créer et de résoudre les problèmes auxquels nous sommes confrontés. De même, notre identité collective, en tant que membres de groupes sociaux, ethniques ou culturels spécifiques, apporte une richesse de perspectives et de connaissances qui nourrissent notre ingéniosité collective.
 
-Divertissements: Les divertissements jouent un rôle essentiel dans la vie humaine, offrant une évasion de la routine quotidienne et permettant de se détendre et de se divertir. Ils prennent de nombreuses formes, allant des spectacles artistiques tels que le théâtre, la danse et la musique aux activités récréatives comme les sports, les jeux vidéo et les loisirs en plein air.
+**Divertissements**
+
+Les divertissements jouent un rôle essentiel dans la vie humaine, offrant une évasion de la routine quotidienne et permettant de se détendre et de se divertir. Ils prennent de nombreuses formes, allant des spectacles artistiques tels que le théâtre, la danse et la musique aux activités récréatives comme les sports, les jeux vidéo et les loisirs en plein air.
 
 Les divertissements sont une fenêtre sur la créativité humaine et reflètent la diversité des cultures et des préférences individuelles. Ils sont également un moyen de partage d'émotions et de plaisirs communs, favorisant ainsi les liens sociaux et les relations interpersonnelles. Les divertissements peuvent être à la fois passifs, où l'on est spectateur, et actifs, où l'on participe activement à une activité.
 
 Dans notre société moderne, les divertissements ont évolué avec l'avènement des médias et de la technologie. Les films, les séries télévisées, les plateformes de streaming, les réseaux sociaux et les jeux en ligne sont devenus des formes populaires de divertissement. Cependant, il est important de trouver un équilibre entre le divertissement et les responsabilités quotidiennes, afin de ne pas en faire une échappatoire excessive ou addictive.
 
-2. Expressions artistiques: Les expressions artistiques sont des moyens de communication et d'exploration de soi, permettant aux individus d'exprimer leurs émotions, leurs idées et leurs expériences d'une manière créative et esthétique. Elles englobent une variété de disciplines telles que la musique, la danse, le théâtre, la littérature, les arts visuels, la poésie, la sculpture et la peinture, pour n'en citer que quelques-unes.
+**Expressions artistiques:**
+
+Les expressions artistiques sont des moyens de communication et d'exploration de soi, permettant aux individus d'exprimer leurs émotions, leurs idées et leurs expériences d'une manière créative et esthétique. Elles englobent une variété de disciplines telles que la musique, la danse, le théâtre, la littérature, les arts visuels, la poésie, la sculpture et la peinture, pour n'en citer que quelques-unes.
 
 Les expressions artistiques jouent un rôle crucial dans la société en reflétant les valeurs, les croyances et les expériences collectives d'une communauté ou d'une époque donnée. Elles sont également un moyen de préserver et de transmettre la culture et l'identité d'un peuple. Par exemple, la musique traditionnelle, les danses folkloriques et les récits oraux sont des formes d'expressions artistiques qui permettent de préserver les traditions et les coutumes d'une communauté.
 
 Les expressions artistiques peuvent également remettre en question les normes établies, susciter la réflexion critique et favoriser le dialogue interculturel. Elles peuvent être un moyen puissant de sensibilisation et de changement social. L'art engagé, le théâtre politique et les œuvres d'art provocantes sont des exemples d'expressions artistiques qui abordent des questions sociales, politiques et environnementales.
 
-3. Communication et médias: La communication et les médias jouent un rôle central dans nos vies modernes, en facilitant la transmission d'informations, d'idées et d'émotions à travers les différentes plateformes et canaux de communication. Les médias traditionnels tels que la presse écrite, la télévision et la radio ont été rejoints par les médias numériques tels que les réseaux sociaux, les blogs et les sites d'information en ligne.
+**Communication et médias**
+
+La communication et les médias jouent un rôle central dans nos vies modernes, en facilitant la transmission d'informations, d'idées et d'émotions à travers les différentes plateformes et canaux de communication. Les médias traditionnels tels que la presse écrite, la télévision et la radio ont été rejoints par les médias numériques tels que les réseaux sociaux, les blogs et les sites d'information en ligne.
 
 La communication et les médias permettent la diffusion de connaissances, la promotion du dialogue et de l'échange d'idées, et peuvent contribuer à la construction d'une société informée et participative. Ils offrent également des opportunités pour le divertissement, la publicité, la sensibilisation sociale et le journalisme d'investigation.
 
