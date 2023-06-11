@@ -65,7 +65,9 @@ La technologie a apporté de nombreux avantages, améliorant notre qualité de v
 
 Cependant, la technologie soulève également des préoccupations et des défis, tels que la dépendance excessive, la protection de la vie privée, la sécurité des données, l'impact environnemental et les inégalités sociales. Il est important de promouvoir une utilisation responsable de la technologie, en tenant compte de ses implications éthiques, sociales et environnementales.
 
-5. Innovation scientifique: L'innovation scientifique est le moteur de progrès et de développement dans notre société. Elle englobe la recherche, la découverte et l'application de nouvelles connaissances et technologies pour résoudre des problèmes, améliorer les processus existants et ouvrir de nouvelles possibilités.
+**Innovation scientifique**
+
+L'innovation scientifique est le moteur de progrès et de développement dans notre société. Elle englobe la recherche, la découverte et l'application de nouvelles connaissances et technologies pour résoudre des problèmes, améliorer les processus existants et ouvrir de nouvelles possibilités.
 
 L'innovation scientifique peut se manifester dans divers domaines tels que la médecine, l'ingénierie, les sciences de l'environnement, les technologies de l'information, l'agriculture, l'énergie et bien d'autres encore. Elle nécessite souvent une approche multidisciplinaire, combinant les connaissances et les compétences de différentes disciplines pour trouver des solutions créatives.
 
