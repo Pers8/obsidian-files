@@ -57,9 +57,11 @@
             "id": "b45c2ea1bb1f2c7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md"
+                "file": "Eco TD2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -324,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
+                "file": "Eco TD2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md"
+                "file": "Eco TD2.md"
               }
             }
           },
@@ -365,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
+                "file": "Eco TD2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,6 +400,8 @@
   },
   "active": "b45c2ea1bb1f2c7f",
   "lastOpenFiles": [
+    "Effet richesse.md",
+    "Excalidraw/Drawing 2023-05-11 20.01.35.excalidraw.md",
     "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
     "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
@@ -431,8 +435,6 @@
     "Economy/Impôts indirects.md",
     "IB/Economy.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
-    "Effet solde net.md",
-    "Comp Sci/Changements dans un environment.md",
     "assets/Pasted image 20230517114008.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
