@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article Micro.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -367,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,6 +400,7 @@
   },
   "active": "b45c2ea1bb1f2c7f",
   "lastOpenFiles": [
+    "Article Micro.md",
     "Algorithme.md",
     "Accélération.md",
     "2.3 Travail, Puissance et Energie.md",
@@ -425,7 +426,6 @@
     "Excalidraw/Drawing 2023-05-17 17.11.05.excalidraw.md",
     "Excalidraw/Drawing 2023-05-17 11.47.20.excalidraw.md",
     "Excalidraw/Drawing 2023-05-20 14.39.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "assets/Pasted image 20220831213226.png",
     "assets/Pasted Image 20230612162828_102.png",
     "assets/Pasted Image 20230612133807_063.png",
