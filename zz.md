@@ -1,0 +1,1 @@
+This article, from The Straits Times, is about the Singaporean goverment's 
