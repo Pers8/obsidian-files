@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English extract homework.md",
+                "file": "How to do an English High Level Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English extract homework.md",
+                "file": "How to do an English High Level Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English extract homework.md"
+                "file": "How to do an English High Level Essay.md"
               }
             }
           },
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English extract homework.md",
+                "file": "How to do an English High Level Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,6 +390,7 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
+    "English extract homework.md",
     "Commutation de paquets.md",
     "Commentary of an excerpt.md",
     "Raisonnement procédural.md",
@@ -416,7 +417,6 @@
     "IB/Comp Sci.md",
     "Commentary.md",
     "Untitled.md",
-    "Technologies nécessaires pour fournir un VPN.md",
     "assets/Pasted image 20230517114008.png",
     "assets/Pasted image 20230517101009.png",
     "assets/Pasted image 20230517100705.png",
