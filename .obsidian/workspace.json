@@ -57,9 +57,11 @@
             "id": "b45c2ea1bb1f2c7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 17.53.26.excalidraw.md"
+                "file": "2.3 Travail, Puissance et Energie.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -324,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 17.53.26.excalidraw.md",
+                "file": "2.3 Travail, Puissance et Energie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 17.53.26.excalidraw.md"
+                "file": "2.3 Travail, Puissance et Energie.md"
               }
             }
           },
@@ -365,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 17.53.26.excalidraw.md",
+                "file": "2.3 Travail, Puissance et Energie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,8 +400,9 @@
   },
   "active": "b45c2ea1bb1f2c7f",
   "lastOpenFiles": [
-    "2.3 Travail, Puissance et Energie.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2023-06-12 17.53.26.excalidraw.md",
+    "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "assets/Pasted Image 20230612162828_102.png",
     "assets/Pasted Image 20230612133807_063.png",
@@ -431,7 +434,6 @@
     "Comparison between King Lear and HouseBoy.md",
     "Accélération.md",
     "IB/Maths.md",
-    "IB/English.md",
     "assets/Pasted image 20230517114008.png",
     "assets/Pasted image 20230517101009.png",
     "assets/~$ectres atomiquescours2021.docx"
