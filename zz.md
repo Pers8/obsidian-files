@@ -1,1 +1,1 @@
-This article, from The Straits Times, is about the Singaporean goverment's attempt to correct the market failure arising from cigarette consumption by raising the legal smoking age progressi
+This article, from The Straits Times, is about the Singaporean goverment's attempt to correct the market failure arising from cigarette consumption by raising the legal smoking age progressively until 2022. Cigarettes are demerit goods
