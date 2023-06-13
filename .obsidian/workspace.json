@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +200,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0c95243b652260e5",
+  "active": "b45c2ea1bb1f2c7f",
   "lastOpenFiles": [
-    "zz.md",
     "Article Micro.md",
+    "zz.md",
     "Effet solde net.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
