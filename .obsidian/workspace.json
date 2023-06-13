@@ -45,9 +45,11 @@
             "id": "0c95243b652260e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md"
+                "file": "Article Micro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
+                "file": "Article Micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md"
+                "file": "Article Micro.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
+                "file": "Article Micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,11 +200,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0c95243b652260e5",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
     "Article Micro.md",
-    "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "IB/Physics.md",
     "zz.md",
     "Effet solde net.md",
@@ -235,7 +237,6 @@
     "assets/Pasted Image 20230612105754_742.png",
     "assets/Pasted Image 20230612103153_300.png",
     "assets/Pasted image 20230611144725.png",
-    "assets/Pasted image 20230517114008.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
