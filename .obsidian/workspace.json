@@ -45,11 +45,9 @@
             "id": "0c95243b652260e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Article Micro.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md"
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md"
               }
             }
           },
@@ -169,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +200,10 @@
   },
   "active": "0c95243b652260e5",
   "lastOpenFiles": [
-    "IB/Physics.md",
+    "assets/Pasted Image 20230613095130_928.png",
     "Article Micro.md",
+    "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
+    "IB/Physics.md",
     "zz.md",
     "Effet solde net.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
@@ -226,8 +226,6 @@
     "Raisonnement logique.md",
     "Raisonnement abstrait.md",
     "Raisonnement par anticipation.md",
-    "Raisonnement procédural.md",
-    "Raisonnement simultané.md",
     "assets/Pasted image 20220831213226.png",
     "assets/Pasted Image 20230612162828_102.png",
     "assets/Pasted Image 20230612133807_063.png",
