@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7edb1782e343a69f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Math Kognity hmwk.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Math Kognity hmwk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Excalidraw/Math Kognity hmwk.md"
               }
             }
           },
@@ -157,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Math Kognity hmwk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +198,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b45c2ea1bb1f2c7f",
+  "active": "7edb1782e343a69f",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614201510_900.png",
     "Excalidraw/cos.md",
@@ -219,7 +230,6 @@
     "Article Micro.md",
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
-    "IB/Physics.md",
     "zz.md",
     "Effet solde net.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
