@@ -45,9 +45,11 @@
             "id": "0c95243b652260e5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +202,7 @@
   },
   "active": "0c95243b652260e5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "Recherche d'Informatique.md",
     "Sujet Français.md",
     "Technologies nécessaires pour fournir un VPN.md",
@@ -226,7 +229,6 @@
     "Physics/Champ de gravitation.md",
     "Algorithme.md",
     "Accélération.md",
-    "2.3 Travail, Puissance et Energie.md",
     "assets/Pasted image 20220831213226.png",
     "assets/Pasted Image 20230612162828_102.png",
     "assets/Pasted Image 20230612133807_063.png",
