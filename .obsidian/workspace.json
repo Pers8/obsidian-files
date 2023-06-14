@@ -45,11 +45,9 @@
             "id": "0c95243b652260e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-06-14 12.18.31.excalidraw.md"
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2023-06-14 12.18.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2023-06-14 12.18.31.excalidraw.md"
               }
             }
           },
@@ -169,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2023-06-14 12.18.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +200,8 @@
   },
   "active": "0c95243b652260e5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-06-14 12.18.31.excalidraw.md",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "Recherche d'Informatique.md",
     "Sujet Français.md",
@@ -209,7 +209,6 @@
     "The arts.md",
     "TOK Exhibition.md",
     "Tournoi d'échecs.md",
-    "Untitled.md",
     "Article Micro.md",
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
@@ -228,7 +227,6 @@
     "HouseBoy.md",
     "Physics/Champ de gravitation.md",
     "Algorithme.md",
-    "Accélération.md",
     "assets/Pasted image 20220831213226.png",
     "assets/Pasted Image 20230612162828_102.png",
     "assets/Pasted Image 20230612133807_063.png",
