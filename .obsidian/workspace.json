@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article Micro.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Math Kognit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -168,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,13 +197,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7edb1782e343a69f",
+  "active": "8000b49d4be506e7",
   "lastOpenFiles": [
+    "Article Micro.md",
+    "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614231111_274.png",
     "TOK Exhibition.md",
     "2.3 Travail, Puissance et Energie.md",
     "Accélération.md",
-    "Excalidraw/Math Kognity hmwk.md",
     "IB/Physics.md",
     "assets/Pasted Image 20230614201510_900.png",
     "Excalidraw/cos.md",
@@ -231,12 +230,10 @@
     "Technologies nécessaires pour fournir un VPN.md",
     "The arts.md",
     "Tournoi d'échecs.md",
-    "Article Micro.md",
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
     "zz.md",
     "Effet solde net.md",
-    "assets/Pasted image 20220831213226.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
