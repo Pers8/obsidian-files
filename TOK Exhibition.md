@@ -39,3 +39,5 @@ I chose that object because it represents the power of scientific inquiry to unc
 
   
   
+  
+"Starry Night" goes beyond what we usually understand, showing us the powerful influence of artistic knowledge. Van Gogh's personal knowledge and artistic expression come together to create a mesmerizing painting of a sky full of stars, a peaceful village, and a vivid, expressive moon. This artwork gives us a special glimpse into the artist's emotions and how he saw the world. Van Gogh's personal knowledge, which comes from his own experiences, beliefs, and feelings, helps us understand how he created his art and allows us to connect with his deepest thoughts. Looking at "Starry Night," we are reminded of how art can make us feel emotions, make us think about ourselves, and help us see the beauty that surrounds us in a fresh way.
