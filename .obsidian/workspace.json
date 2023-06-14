@@ -45,11 +45,9 @@
             "id": "7edb1782e343a69f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TOK Exhibition.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Math Kognity hmwk.md"
               }
             }
           }
@@ -83,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Math Kognit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Excalidraw/Math Kognity hmwk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Excalidraw/Math Kognity hmwk.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Excalidraw/Math Kognity hmwk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +201,7 @@
   },
   "active": "7edb1782e343a69f",
   "lastOpenFiles": [
+    "TOK Exhibition.md",
     "2.3 Travail, Puissance et Energie.md",
     "Accélération.md",
     "Excalidraw/Math Kognity hmwk.md",
@@ -209,7 +209,6 @@
     "assets/Pasted Image 20230614201510_900.png",
     "Excalidraw/cos.md",
     "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
-    "TOK Exhibition.md",
     "Untitled.md",
     "Déterminants des composantes de la demande globale.md",
     "Effet richesse.md",
