@@ -40,19 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c95243b652260e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -167,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +188,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0c95243b652260e5",
+  "active": "b45c2ea1bb1f2c7f",
   "lastOpenFiles": [
+    "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614201510_900.png",
     "Excalidraw/cos.md",
     "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
@@ -212,7 +203,6 @@
     "Le Cid.md",
     "Mécanique.md",
     "IB/TOK.md",
-    "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614131320_883.png",
     "assets/Pasted Image 20230614130944_779.png",
     "assets/Pasted Image 20230614124857_771.png",
@@ -235,7 +225,6 @@
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "assets/Pasted image 20220831213226.png",
-    "assets/Pasted Image 20230612162828_102.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
