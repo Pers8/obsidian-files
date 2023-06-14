@@ -45,9 +45,11 @@
             "id": "7edb1782e343a69f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md"
+                "file": "TOK Exhibition.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Math Kognity hmwk.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +202,10 @@
   },
   "active": "7edb1782e343a69f",
   "lastOpenFiles": [
-    "IB/Physics.md",
+    "2.3 Travail, Puissance et Energie.md",
+    "Accélération.md",
     "Excalidraw/Math Kognity hmwk.md",
+    "IB/Physics.md",
     "assets/Pasted Image 20230614201510_900.png",
     "Excalidraw/cos.md",
     "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
@@ -233,7 +237,6 @@
     "zz.md",
     "Effet solde net.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
-    "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "assets/Pasted image 20220831213226.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
