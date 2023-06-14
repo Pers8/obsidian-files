@@ -30,8 +30,8 @@ The usefulness of knowledge ultimately depends on the context and purpose at han
 
 **Object 3:** *A Microscope*
 ![[Pasted image 20230502151121.png]]
-My third object in my exhibition is a microscope which is a instrument that is used to magnify small objects. Thanks to the vastly improved resolution, contrast-enhancing techniques, digital imaging, fluorescent labelling and countless of other innovations, microscopy has revolutionize other fields such as chemistry, physics or biology.
-I chose that object because it represents the power of scientific inquiry to uncover new knowledge about the world around us. Visitors to this exhibit will explore the various ways in which scientific knowledge has been used to improve human life, from the discovery of antibiotics to the development of space travel. However, we will also examine the limitations of scientific knowledge, particularly in terms of its ability to fully capture the complexity and nuance of human experience. 
+
+My third is a "A microscope". It represents a powerful scientific tool that enables us to explore and comprehend the intricate details of the microscopic realm. Through its lens, we gain access to a world previously invisible to the naked eye. Scientific knowledge, derived from the observations made using a microscope, has proven invaluable across various disciplines. The ability to visualize and study microorganisms, cellular structures, and subatomic particles has facilitated groundbreaking discoveries in biology, medicine, chemistry, and physics. By harnessing this objective knowledge, scientists have developed life-saving medicines, unraveled the mysteries of disease, and advanced our understanding of fundamental principles governing the universe. The microscopic knowledge unlocked by the microscope not only expands our scientific understanding but also enables us to address practical challenges and improve the quality of human life.
 
 
 **References :**
