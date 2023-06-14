@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Article Micro.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Article Micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Article Micro.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Article Micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +199,10 @@
   },
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
+    "TOK Exhibition.md",
     "Article Micro.md",
     "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614231111_274.png",
-    "TOK Exhibition.md",
     "2.3 Travail, Puissance et Energie.md",
     "Accélération.md",
     "IB/Physics.md",
