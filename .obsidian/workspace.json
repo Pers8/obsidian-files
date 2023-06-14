@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Recherche d'Informatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Recherche d'Informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Recherche d'Informatique.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Recherche d'Informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,20 +200,24 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "0c95243b652260e5",
   "lastOpenFiles": [
+    "Sujet Français.md",
+    "Technologies nécessaires pour fournir un VPN.md",
+    "The arts.md",
+    "TOK Exhibition.md",
+    "Tournoi d'échecs.md",
+    "Untitled.md",
+    "Article Micro.md",
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
-    "Article Micro.md",
     "IB/Physics.md",
     "zz.md",
     "Effet solde net.md",
     "Comp Sci/Comparaison de différentes méthodes de formation des utilisateurs.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
-    "The arts.md",
     "Electricité test.md",
     "IB/EE.md",
-    "Untitled.md",
     "IB/English.md",
     "Excalidraw/Drawing 2023-04-08 11.20.07.excalidraw.md",
     "Excalidraw/Drawing 2023-04-04 19.31.01.excalidraw.md",
@@ -225,9 +229,6 @@
     "Accélération.md",
     "2.3 Travail, Puissance et Energie.md",
     "Notion de problème.md",
-    "Raisonnement logique.md",
-    "Raisonnement abstrait.md",
-    "Raisonnement par anticipation.md",
     "assets/Pasted image 20220831213226.png",
     "assets/Pasted Image 20230612162828_102.png",
     "assets/Pasted Image 20230612133807_063.png",
