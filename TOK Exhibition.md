@@ -20,8 +20,7 @@ While the soldier's personal knowledge gives us a subjective understanding of th
 **Object 2:** *"Starry Night"  by Vincent Van Gogh*
 ![[Pasted image 20230502150607.png]]
 
-My second object is a paint called "Starry Night" by Van Gogh. Vincent Van Gogh painted it in 1889 while he was staying in Saint-Paul asylum in Saint-Rémy, France, where he lived for a year following a breakdown and the mutilation of his left ear. Painted with oil on canvas, the artist attempted to capture the view from the window in his room.
-This paint mainly represents the power of artistic expression to convey knowledge and insight about the human experience. Visitors to this exhibit will explore the ways in which art can be used to express emotions, convey meaning, and inspire action. We will also examine the limitations of art as a form of knowledge, particularly in terms of its subjective nature and the potential for interpretation and misinterpretation.
+My second object is the artwork "Starry Night"  by Vincent Van Gogh. "Starry Night" demonstrates the impact of artistic knowledge and raises the question of the usefulness of different types of knowledge. Van Gogh's painting goes beyond conventional understanding, allowing us to experience his emotions and perspective. Artistic knowledge, while not immediately practical, challenges our perceptions, evokes emotions, and fosters creativity and introspection. Practical knowledge, on the other hand, has tangible applications and addresses specific problems. Both types of knowledge have their own significance and contributions, catering to different aspects of human experience. The usefulness of knowledge depends on the context and purpose at hand, with artistic knowledge offering a unique way of understanding and engaging with the world.
 
 **Object 3:** *A Microscope*
 ![[Pasted image 20230502151121.png]]
@@ -41,4 +40,3 @@ I chose that object because it represents the power of scientific inquiry to unc
   
   
   
-My second object is "Starry Night" demonstrates the impact of artistic knowledge and raises the question of the usefulness of different types of knowledge. Van Gogh's painting goes beyond conventional understanding, allowing us to experience his emotions and perspective. Artistic knowledge, while not immediately practical, challenges our perceptions, evokes emotions, and fosters creativity and introspection. Practical knowledge, on the other hand, has tangible applications and addresses specific problems. Both types of knowledge have their own significance and contributions, catering to different aspects of human experience. The usefulness of knowledge depends on the context and purpose at hand, with artistic knowledge offering a unique way of understanding and engaging with the world.
