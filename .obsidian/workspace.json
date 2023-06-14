@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +202,7 @@
   },
   "active": "0c95243b652260e5",
   "lastOpenFiles": [
+    "IB/TOK.md",
     "TOK Exhibition.md",
     "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614131320_883.png",
