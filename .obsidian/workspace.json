@@ -11,11 +11,9 @@
             "id": "8000b49d4be506e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2.3 Travail, Puissance et Energie.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Travail du poids.md"
               }
             }
           },
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.3 Travail, Puissance et Energie.md",
+                "file": "Excalidraw/Travail du poids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.3 Travail, Puissance et Energie.md"
+                "file": "Excalidraw/Travail du poids.md"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3 Travail, Puissance et Energie.md",
+                "file": "Excalidraw/Travail du poids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +197,8 @@
   },
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
-    "Excalidraw/Travail du poids.md",
     "2.3 Travail, Puissance et Energie.md",
+    "Excalidraw/Travail du poids.md",
     "Article Micro.md",
     "Economy/Impôts indirects.md",
     "IB/Economy.md",
