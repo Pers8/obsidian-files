@@ -22,7 +22,7 @@ Certains membres du groupe fiscal de la coalition au pouvoir avaient demandé qu
 ## Commentaire
 Cet article met en évidence les projets du gouvernement et des partis au pouvoir visant à augmenter les impôts pour les grandes fortunes au Japon. Cette mesure, qui cible les individus dont le revenu annuel s'élève à 3 milliards de yens ou plus, a des implications significatives dans l'économie du Japon.
 
-L'objectif de cette augmentation fiscale est de corriger la situation connue sous le nom de "mur des 100 millions de yens", où le taux d'imposition diminue une fois que le revenu annuel dépasse les 100 millions de yens. Cette **interventation gouvernementale** vise à rétablir l'équité fiscale en ciblant les grandes fortunes et en ajustant leur contribution à l'impôt. 
+L'objectif de cette augmentation fiscale est de corriger la situation connue sous le nom de "mur des 100 millions de yens", où le taux d'imposition soit le ratio de la charge fiscale diminue une fois que le revenu annuel dépasse les 100 millions de yens. Cette **interventation gouvernementale** vise à rétablir l'équité fiscale en ciblant les grandes fortunes et en ajustant leur contribution à l'impôt. 
 
 ![[Eco graphe 1]]
 
