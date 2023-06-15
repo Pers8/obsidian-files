@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Economy/Impôts indirects.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Impôts indirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Economy/Impôts indirects.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Impôts indirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +198,16 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8000b49d4be506e7",
+  "active": "b45c2ea1bb1f2c7f",
   "lastOpenFiles": [
-    "TOK Exhibition.md",
+    "IB/Economy.md",
+    "IB/Physics.md",
     "Article Micro.md",
+    "TOK Exhibition.md",
     "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614231111_274.png",
     "2.3 Travail, Puissance et Energie.md",
     "Accélération.md",
-    "IB/Physics.md",
     "assets/Pasted Image 20230614201510_900.png",
     "Excalidraw/cos.md",
     "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
