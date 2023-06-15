@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Impôts indirects.md",
+                "file": "Article Micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Impôts indirects.md"
+                "file": "Article Micro.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Impôts indirects.md",
+                "file": "Article Micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +197,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b45c2ea1bb1f2c7f",
+  "active": "8000b49d4be506e7",
   "lastOpenFiles": [
+    "Economy/Impôts indirects.md",
     "IB/Economy.md",
     "IB/Physics.md",
     "Article Micro.md",
@@ -235,7 +235,6 @@
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
     "zz.md",
-    "Effet solde net.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
