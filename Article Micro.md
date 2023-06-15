@@ -24,3 +24,5 @@ Cet article met en évidence les projets du gouvernement et des partis au pouvoi
 
 L'objectif de cette augmentation fiscale est de corriger la situation connue sous le nom de "mur des 100 millions de yens", où le taux d'imposition diminue une fois que le revenu annuel dépasse les 100 millions de yens. Cette mesure vise à rétablir l'équité fiscale en ciblant les grandes fortunes et en ajustant leur contribution à l'impôt. 
 
+![[Eco graphe 1]]
+
