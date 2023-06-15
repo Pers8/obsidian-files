@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "1714d2509082c007",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "b45c2ea1bb1f2c7f",
             "type": "leaf",
             "state": {
@@ -36,6 +26,16 @@
                 "file": "Economy/Impôts indirects.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1714d2509082c007",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
     "Economy/Impôts indirects.md",
+    "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "Excalidraw/Drawing 2023-06-15 23.52.07.excalidraw.md",
     "Article Micro.md",
     "2.3 Travail, Puissance et Energie.md",
@@ -231,7 +232,6 @@
     "Sujet Français.md",
     "Technologies nécessaires pour fournir un VPN.md",
     "The arts.md",
-    "Tournoi d'échecs.md",
     "assets/Pasted Image 20230613095130_928.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
