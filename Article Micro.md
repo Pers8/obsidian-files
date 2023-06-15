@@ -26,4 +26,6 @@ L'objectif de cette augmentation fiscale est de corriger la situation connue sou
 
 ![[Eco graphe 1]]
 
-Graphique 1 - Impact de la taxe sur 
+*Graphique 1 - Impact de la taxe sur les entreprises*
+
+Dans le graphique ci-dessus, nous pouvons constater 
