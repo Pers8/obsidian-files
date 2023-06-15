@@ -1104,8 +1104,8 @@ Taxe ^tjP0N5Wh
 		},
 		{
 			"type": "arrow",
-			"version": 47,
-			"versionNonce": 1571874005,
+			"version": 93,
+			"versionNonce": 352674299,
 			"isDeleted": false,
 			"id": "4b_gz1Tx4fC2J4DbNeOH-",
 			"fillStyle": "hachure",
@@ -1114,17 +1114,17 @@ Taxe ^tjP0N5Wh
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 214.28723264912492,
-			"y": -129.8928873041669,
+			"x": 211.78723264912492,
+			"y": -145.72622063750023,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1.8019623316412208,
-			"height": 73.88045559729127,
+			"height": 58.04712226395796,
 			"seed": 1025331509,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1686870108337,
+			"updated": 1686870434631,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1139,7 +1139,7 @@ Taxe ^tjP0N5Wh
 				],
 				[
 					1.8019623316412208,
-					-73.88045559729127
+					-58.04712226395796
 				]
 			]
 		},
@@ -1285,8 +1285,8 @@ Taxe ^tjP0N5Wh
 		},
 		{
 			"type": "text",
-			"version": 486,
-			"versionNonce": 1781301851,
+			"version": 518,
+			"versionNonce": 10098325,
 			"isDeleted": false,
 			"id": "tjP0N5Wh",
 			"fillStyle": "hachure",
@@ -1295,8 +1295,8 @@ Taxe ^tjP0N5Wh
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 5.474353933902671,
-			"x": 250.86004284552624,
-			"y": -221.4317496132634,
+			"x": 233.36004284552624,
+			"y": -213.0984162799301,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 69,
@@ -1305,7 +1305,7 @@ Taxe ^tjP0N5Wh
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1686870393210,
+			"updated": 1686870437216,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.925506442885553,
@@ -1320,8 +1320,8 @@ Taxe ^tjP0N5Wh
 		},
 		{
 			"type": "arrow",
-			"version": 201,
-			"versionNonce": 913347675,
+			"version": 248,
+			"versionNonce": 838209333,
 			"isDeleted": false,
 			"id": "FfBdXGpIQ_uFg2DPaKORL",
 			"fillStyle": "hachure",
@@ -1330,17 +1330,17 @@ Taxe ^tjP0N5Wh
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 213.72831526794,
-			"y": -158.32019115533038,
+			"x": 211.22831526794,
+			"y": -174.98685782199703,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1.8019623316412208,
-			"height": 66.11954440270873,
+			"height": 53.619544402708726,
 			"seed": 576078389,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1686870414378,
+			"updated": 1686870434631,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1355,7 +1355,7 @@ Taxe ^tjP0N5Wh
 				],
 				[
 					1.8019623316412208,
-					66.11954440270873
+					53.619544402708726
 				]
 			]
 		}
