@@ -28,4 +28,4 @@ L'objectif de cette augmentation fiscale est de corriger la situation connue sou
 
 *Graphique 1 - Impact de la taxe sur les personnes ayant un revenu d'au moins 3 milliards de yen*
 
-Dans le graphique ci-dessus, nous pouvons constater que l'augmentation de la charge fiscale d'individus ayant un revenu annuel de 3 milliards de yen au minimum a un impact sur 
+Dans le graphique ci-dessus, nous pouvons constater que l'augmentation de la charge fiscale d'individus ayant un revenu annuel de 3 milliards de yen au minimum a un impact sur la qualité de vie de ces personnes. On peut 
