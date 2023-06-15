@@ -11,9 +11,11 @@
             "id": "8000b49d4be506e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-15 23.52.07.excalidraw.md"
+                "file": "Article Micro.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-15 23.52.07.excalidraw.md",
+                "file": "Article Micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-15 23.52.07.excalidraw.md"
+                "file": "Article Micro.md"
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-15 23.52.07.excalidraw.md",
+                "file": "Article Micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +199,8 @@
   },
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
+    "Excalidraw/Eco graphe 1.md",
     "Economy/Impôts indirects.md",
-    "Excalidraw/Drawing 2023-06-15 23.52.07.excalidraw.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "Article Micro.md",
     "2.3 Travail, Puissance et Energie.md",

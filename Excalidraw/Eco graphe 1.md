@@ -46,7 +46,7 @@ P ^v5eb5nFo
 
 (Q) Quantité demandé ^uPIIQOBO
 
-(Q) Quantité demandé ^WgzHcfja
+(P) Prix ^WgzHcfja
 
 %%
 # Drawing
@@ -1140,10 +1140,10 @@ P ^v5eb5nFo
 		{
 			"id": "uPIIQOBO",
 			"type": "text",
-			"x": -106.14641859198434,
-			"y": 400.66599748131716,
-			"width": 364.16463359210303,
-			"height": 41.382344726375344,
+			"x": -98.29003528996247,
+			"y": 393.791662092048,
+			"width": 363,
+			"height": 41,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1155,11 +1155,11 @@ P ^v5eb5nFo
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1279754805,
-			"version": 253,
-			"versionNonce": 412215541,
+			"version": 267,
+			"versionNonce": 234326619,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1686870171896,
+			"updated": 1686870206219,
 			"link": null,
 			"locked": false,
 			"text": "(Q) Quantité demandé",
@@ -1168,14 +1168,14 @@ P ^v5eb5nFo
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 29.382344726375344,
+			"baseline": 29,
 			"containerId": null,
 			"originalText": "(Q) Quantité demandé"
 		},
 		{
 			"type": "text",
-			"version": 253,
-			"versionNonce": 412215541,
+			"version": 599,
+			"versionNonce": 2094454107,
 			"isDeleted": false,
 			"id": "WgzHcfja",
 			"fillStyle": "hachure",
@@ -1183,29 +1183,29 @@ P ^v5eb5nFo
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 50,
-			"angle": 0,
-			"x": -255.8211542671952,
-			"y": 394.8671125946461,
+			"angle": 4.729431425485034,
+			"x": -387.41557457606285,
+			"y": 23.653001574108885,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 364.16463359210303,
-			"height": 41.382344726375344,
+			"width": 127,
+			"height": 41,
 			"seed": 1907669371,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1686870175240,
+			"updated": 1686870202872,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.10587578110033,
 			"fontFamily": 1,
-			"text": "(Q) Quantité demandé",
-			"rawText": "(Q) Quantité demandé",
-			"baseline": 29.382344726375344,
+			"text": "(P) Prix",
+			"rawText": "(P) Prix",
+			"baseline": 29,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(Q) Quantité demandé"
+			"originalText": "(P) Prix"
 		}
 	],
 	"appState": {
