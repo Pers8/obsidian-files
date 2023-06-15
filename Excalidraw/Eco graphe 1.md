@@ -48,9 +48,11 @@ P ^v5eb5nFo
 
 (P) Prix ^WgzHcfja
 
-* ^aUStkIvX
+t ^aUStkIvX
 
 Q ^2rd1Q5OC
+
+Taxe ^tjP0N5Wh
 
 %%
 # Drawing
@@ -1213,8 +1215,8 @@ Q ^2rd1Q5OC
 		},
 		{
 			"type": "text",
-			"version": 175,
-			"versionNonce": 2020551381,
+			"version": 198,
+			"versionNonce": 2100983227,
 			"isDeleted": false,
 			"id": "aUStkIvX",
 			"fillStyle": "hachure",
@@ -1224,27 +1226,27 @@ Q ^2rd1Q5OC
 			"opacity": 100,
 			"angle": 0,
 			"x": -70.3595073310903,
-			"y": 336.01419772362476,
+			"y": 353.51419772362476,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 13,
+			"width": 15,
 			"height": 28,
 			"seed": 616647029,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1686870350359,
+			"updated": 1686870355961,
 			"link": null,
 			"locked": false,
 			"fontSize": 22.14814814814815,
 			"fontFamily": 1,
-			"text": "*",
-			"rawText": "*",
+			"text": "t",
+			"rawText": "t",
 			"baseline": 20,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "*"
+			"originalText": "t"
 		},
 		{
 			"type": "text",
@@ -1280,6 +1282,82 @@ Q ^2rd1Q5OC
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Q"
+		},
+		{
+			"type": "text",
+			"version": 486,
+			"versionNonce": 1781301851,
+			"isDeleted": false,
+			"id": "tjP0N5Wh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 5.474353933902671,
+			"x": 250.86004284552624,
+			"y": -221.4317496132634,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 69,
+			"height": 33,
+			"seed": 1708417237,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1686870393210,
+			"link": null,
+			"locked": false,
+			"fontSize": 25.925506442885553,
+			"fontFamily": 1,
+			"text": "Taxe",
+			"rawText": "Taxe",
+			"baseline": 23,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Taxe"
+		},
+		{
+			"type": "arrow",
+			"version": 201,
+			"versionNonce": 913347675,
+			"isDeleted": false,
+			"id": "FfBdXGpIQ_uFg2DPaKORL",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 213.72831526794,
+			"y": -158.32019115533038,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.8019623316412208,
+			"height": 66.11954440270873,
+			"seed": 576078389,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1686870414378,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.8019623316412208,
+					66.11954440270873
+				]
+			]
 		}
 	],
 	"appState": {
