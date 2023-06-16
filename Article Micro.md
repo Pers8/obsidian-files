@@ -36,4 +36,4 @@ Un problème est la cohérence de cette **intervention gouvernementale** car par
 
 *Graphique 2 - Allègement fiscale aux personnes fortunées*
 
-En regardant le graphique 2 ci-dessus, 
+En regardant le graphique 2 ci-dessus, nous pouvons constater 
