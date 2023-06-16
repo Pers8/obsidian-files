@@ -11,9 +11,23 @@
             "id": "8000b49d4be506e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md"
+                "file": "Article Micro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eec98f218d78351d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -51,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -166,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,13 +212,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8000b49d4be506e7",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Article Micro.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
     "IB/Economy.md",
     "Economy/PIB.md",
     "Economy/Impôts indirects.md",
-    "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
-    "Article Micro.md",
     "Excalidraw/Eco graphe 2.md",
     "Excalidraw/Eco graphe 1.md",
     "Economy/Subventions.md",
@@ -233,7 +249,6 @@
     "assets/Pasted Image 20230614124403_845.png",
     "assets/Pasted Image 20230614124347_803.png",
     "assets/Pasted Image 20230614121846_417.png",
-    "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "assets/Pasted Image 20230613095130_928.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
