@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Subventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Economy/Subventions.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Economy/Subventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +200,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8000b49d4be506e7",
+  "active": "1714d2509082c007",
   "lastOpenFiles": [
-    "Excalidraw/Eco graphe 1.md",
     "Article Micro.md",
+    "Excalidraw/Eco graphe 1.md",
     "Excalidraw/Eco graphe 2.md",
     "Economy/Subventions.md",
     "Excalidraw/Math Kognity hmwk.md",
