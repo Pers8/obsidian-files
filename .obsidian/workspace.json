@@ -11,9 +11,11 @@
             "id": "8000b49d4be506e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md"
+                "file": "Article Micro.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,9 +35,11 @@
             "id": "1714d2509082c007",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md"
+                "file": "Economy/Subventions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -49,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
+                "file": "Article Micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md"
+                "file": "Article Micro.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
+                "file": "Article Micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +199,18 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1714d2509082c007",
+  "active": "8000b49d4be506e7",
   "lastOpenFiles": [
-    "Excalidraw/Math Kognity hmwk.md",
+    "Excalidraw/Eco graphe 2.md",
+    "Economy/Subventions.md",
+    "IB/Economy.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md",
+    "Excalidraw/Math Kognity hmwk.md",
     "Article Micro.md",
     "Economy/Impôts indirects.md",
     "Excalidraw/Eco graphe 1.md",
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Travail du poids.md",
-    "IB/Economy.md",
     "IB/Physics.md",
     "TOK Exhibition.md",
     "assets/Pasted Image 20230614231111_274.png",
@@ -232,5 +236,7 @@
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
     "Recherche d'Informatique.md",
     "Sujet Français.md",
-    "Technologies nécessaires pour fournir un VPN.md",
-    "assets/Pasted Image 2023061309513
+    "assets/Pasted Image 20230613095130_928.png",
+    "assets/~$ectres atomiquescours2021.docx"
+  ]
+}
