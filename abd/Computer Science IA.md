@@ -6,9 +6,9 @@ up:: [[_computer science]]
 - [ ] Find application idea
 - [ ] Learn basic of tools
 # Ideas
-- Will use [[Flask]] Framework with [[SQLite]]
+- Will use [[abd/Flask]] Framework with [[SQLite]]
 	- [Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) (Tech with Tim)
-	- have to find [[SQLite]] tutorials with [[Flask]] using [[SQLAlchemy]] ?
+	- have to find [[SQLite]] tutorials with [[abd/Flask]] using [[SQLAlchemy]] ?
 - Database backed application ?
 
 | colonne 1 | collone 2 | collone 3 |

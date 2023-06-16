@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c09f18428cbdf768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1714d2509082c007",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration Computer Science.md",
+                "file": "Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration Computer Science.md"
+                "file": "Flask.md"
               }
             }
           },
@@ -181,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration Computer Science.md",
+                "file": "Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,10 +224,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eec98f218d78351d",
+  "active": "c09f18428cbdf768",
   "lastOpenFiles": [
-    "Article Micro.md",
     "Exploration Computer Science.md",
+    "Flask.md",
+    "Article Micro.md",
     "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
     "IB/Economy.md",
     "Economy/PIB.md",
@@ -241,7 +254,6 @@
     "In Class ENGL work.md",
     "Le Cid.md",
     "Mécanique.md",
-    "IB/TOK.md",
     "assets/Pasted Image 20230614131320_883.png",
     "assets/Pasted Image 20230614130944_779.png",
     "assets/Pasted Image 20230614124857_771.png",
