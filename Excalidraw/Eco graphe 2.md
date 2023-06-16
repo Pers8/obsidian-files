@@ -923,8 +923,8 @@ Taxe ^xpkYmKPy
 		},
 		{
 			"type": "line",
-			"version": 294,
-			"versionNonce": 1304772725,
+			"version": 321,
+			"versionNonce": 249868949,
 			"isDeleted": false,
 			"id": "QWVFFStwhAqLWm405cqsb",
 			"fillStyle": "hachure",
@@ -933,17 +933,17 @@ Taxe ^xpkYmKPy
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -109.78845498602209,
-			"y": 150.12527166096743,
+			"x": -114.78845498602209,
+			"y": 156.12527166096743,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 136.79279653675528,
+			"width": 131.79279653675528,
 			"height": 1.2492492834406903,
 			"seed": 631544021,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1686889663512,
+			"updated": 1686889733908,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -957,7 +957,7 @@ Taxe ^xpkYmKPy
 					0
 				],
 				[
-					-136.79279653675528,
+					-131.79279653675528,
 					1.2492492834406903
 				]
 			]
