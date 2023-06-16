@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Impôts indirects.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,15 +199,16 @@
   },
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
-    "Article Micro.md",
+    "IB/Economy.md",
+    "Economy/PIB.md",
+    "Economy/Impôts indirects.md",
     "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
+    "Article Micro.md",
     "Excalidraw/Eco graphe 2.md",
     "Excalidraw/Eco graphe 1.md",
     "Economy/Subventions.md",
     "Excalidraw/Math Kognity hmwk.md",
-    "IB/Economy.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
-    "Economy/Impôts indirects.md",
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Travail du poids.md",
     "IB/Physics.md",
@@ -233,7 +234,6 @@
     "assets/Pasted Image 20230614124347_803.png",
     "assets/Pasted Image 20230614121846_417.png",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
-    "Recherche d'Informatique.md",
     "assets/Pasted Image 20230613095130_928.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
