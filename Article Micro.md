@@ -33,3 +33,5 @@ Dans le graphique ci-dessus, nous pouvons voir que l'augmentation de la charge f
 Un problème est la cohérence de cette **intervention gouvernementale** car parallèlement le gouvernement et la coalition envisagent d'offrir aux grandes fortunes un allègement fiscal, c'est à dire qu'ils souhaitent proposer des avantages fiscaux aux personnes fortunées. Cela peut s'avérer incohérent car cet allègement fiscal constitue un coût d'opportunité pour l'Etat qui n'a pas réellement d'impact positif sur la société en général car ne fait que profiter les riches. De plus cela va à l'encontre de l'objectif initial fixé par le gouvernement qui est de rétablir l'équité fiscale en ciblant les grandes fortunes et en ajustant la contribution de personnes fortunées à la contribution de l'impôt. Ainsi on peut dire que cette tentative de distribuer un allègement fiscale n'est pas équitable, et va davantage creuser l'écart entre les riches et les pauvres : cela n'est pas efficace du point de vue communautaire car vouloir proposer un avantage fiscal aux personnes riches n'avantage pas la société dans son ensemble.
 
 ![[Eco graphe 2]]
+
+*Graphique 2 - Allègement fiscale aux person*
