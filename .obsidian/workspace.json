@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,19 +196,19 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8000b49d4be506e7",
+  "active": "1714d2509082c007",
   "lastOpenFiles": [
-    "Article Micro.md",
-    "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md",
-    "Economy/Impôts indirects.md",
+    "Excalidraw/Math Kognity hmwk.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-16 05.22.28.excalidraw.md",
+    "Article Micro.md",
+    "Economy/Impôts indirects.md",
     "Excalidraw/Eco graphe 1.md",
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Travail du poids.md",
     "IB/Economy.md",
     "IB/Physics.md",
     "TOK Exhibition.md",
-    "Excalidraw/Math Kognity hmwk.md",
     "assets/Pasted Image 20230614231111_274.png",
     "Accélération.md",
     "assets/Pasted Image 20230614201510_900.png",
@@ -232,7 +233,4 @@
     "Recherche d'Informatique.md",
     "Sujet Français.md",
     "Technologies nécessaires pour fournir un VPN.md",
-    "assets/Pasted Image 20230613095130_928.png",
-    "assets/~$ectres atomiquescours2021.docx"
-  ]
-}
+    "assets/Pasted Image 2023061309513
