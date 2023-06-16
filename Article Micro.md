@@ -36,6 +36,4 @@ Un problème est la cohérence de cette **intervention gouvernementale** car par
 
 *Graphique 2 - Allègement fiscale aux personnes fortunées*
 
-Un all
-
-En regardant le graphique 2 ci-dessus, nous pouvons constater 
+Un allègement fiscale peut être considéré comme une subvention pour les personnes dans le cas de l'article. En regardant le graphique 2 ci-dessus, nous pouvons constater 

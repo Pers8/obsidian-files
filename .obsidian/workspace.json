@@ -11,11 +11,9 @@
             "id": "8000b49d4be506e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Article Micro.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Eco graphe 1.md"
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Excalidraw/Eco graphe 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Excalidraw/Eco graphe 1.md"
               }
             }
           },
@@ -168,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Excalidraw/Eco graphe 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +199,10 @@
   },
   "active": "8000b49d4be506e7",
   "lastOpenFiles": [
+    "Article Micro.md",
     "Excalidraw/Eco graphe 2.md",
     "Economy/Subventions.md",
     "Excalidraw/Math Kognity hmwk.md",
-    "Article Micro.md",
     "Excalidraw/Eco graphe 1.md",
     "IB/Economy.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
