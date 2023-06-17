@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flask.md",
+                "file": "Exploration Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flask.md"
+                "file": "Exploration Computer Science.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flask.md",
+                "file": "Exploration Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c09f18428cbdf768",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
-    "Exploration Computer Science.md",
     "Flask.md",
+    "Exploration Computer Science.md",
     "Article Micro.md",
     "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
     "IB/Economy.md",
