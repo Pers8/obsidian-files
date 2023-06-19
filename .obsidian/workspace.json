@@ -23,9 +23,11 @@
             "id": "eec98f218d78351d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md"
+                "file": "2.3 Travail, Puissance et Energie.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
+                "file": "2.3 Travail, Puissance et Energie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md"
+                "file": "2.3 Travail, Puissance et Energie.md"
               }
             }
           },
@@ -191,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
+                "file": "2.3 Travail, Puissance et Energie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +226,7 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
     "Excalidraw/Drawing 2023-03-07 12.01.31.excalidraw.md",
     "Excalidraw/Drawing 2023-03-06 11.33.58.excalidraw.md",
@@ -249,7 +252,6 @@
     "Excalidraw/Math Kognity hmwk.md",
     "Excalidraw/Drawing 2023-06-12 10.31.37.excalidraw.md",
     "Excalidraw/Travail du poids.md",
-    "IB/Physics.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
