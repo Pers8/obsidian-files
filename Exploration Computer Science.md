@@ -7,4 +7,7 @@
 **La date de début :**
 **La date de fin :**
 **Le lieu :** 
-La ou les composantes C.A.S : activité Les objectifs d'apprentissage C.A.S : - Objectif n° 2 : Démontrer que des défis ont été relevés et qu'ils sont à l'origine de nouvelles compétences. - Objectif n° 4 : Faire preuve d'engagement et de persévérance vis-à-vis des expériences C.A.S. Les attributs du profil de l'apprenant qui seront développés : - Equilibré - Ouvert d'esprit Défis à relever :
+**La ou les composantes C.A.S :** 
+**Les objectifs d'apprentissage C.A.S :**  
+**Les attributs du profil de l'apprenant qui seront développés :** 
+**Défis à relever :**
