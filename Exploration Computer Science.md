@@ -11,3 +11,5 @@
 **Les objectifs d'apprentissage C.A.S :**  
 **Les attributs du profil de l'apprenant qui seront développés :** 
 **Défis à relever :**
+
+Un fois rempli, les informations seront stockés dans une base de donnée où le professeur pourra voir les différents descriptif de 
