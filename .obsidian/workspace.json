@@ -23,9 +23,11 @@
             "id": "eec98f218d78351d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-23 03.24.06.excalidraw.md"
+                "file": "Exploration Computer Science.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-23 03.24.06.excalidraw.md",
+                "file": "Exploration Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-23 03.24.06.excalidraw.md"
+                "file": "Exploration Computer Science.md"
               }
             }
           },
@@ -191,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-23 03.24.06.excalidraw.md",
+                "file": "Exploration Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,9 +226,11 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
-    "assets/Pasted Image 20230623032421_958.png",
+    "Untitled.md",
+    "zz.md",
     "2.3 Travail, Puissance et Energie.md",
-    "Excalidraw/Drawing 2023-06-23 03.24.06.excalidraw.md",
+    "Excalidraw/Twitter help.md",
+    "assets/Pasted Image 20230623032421_958.png",
     "Excalidraw/Travail du poids.md",
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
@@ -249,7 +253,6 @@
     "Economy/Impôts indirects.md",
     "Excalidraw/Eco graphe 2.md",
     "Excalidraw/Eco graphe 1.md",
-    "Economy/Subventions.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
@@ -259,7 +262,6 @@
     "assets/Pasted Image 20230614124403_845.png",
     "assets/Pasted Image 20230614124347_803.png",
     "assets/Pasted Image 20230614121846_417.png",
-    "assets/Pasted Image 20230613095130_928.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
