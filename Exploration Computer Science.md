@@ -12,4 +12,4 @@
 **Les attributs du profil de l'apprenant qui seront développés :** 
 **Défis à relever :**
 
-	Un fois rempli, les informations seront stockés dans une base de donnée où le professeur pourra voir les différents descriptif de chaque élève. Enfin lorsque l'élève termine son compte rendu, un section ""
+Un fois rempli, les informations seront stockés dans une base de donnée où le professeur pourra voir les différents descriptif de chaque élève. Enfin lorsque l'élève termine son compte rendu, un section "Compte rendu" pourrait servir comme lieu ou les élèves déposerait leur compte rendu 
