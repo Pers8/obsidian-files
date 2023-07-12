@@ -36,28 +36,24 @@ $$\Large{a-ib}$$
 $z+z^*$=
 ?
 $$\Large{2a}$$
-<!--SR:!2023-05-12,10,250-->
 
 $z-z^{*}$=
 ?
 $$\Large{2bi}$$
-<!--SR:!2023-05-12,10,250-->
 
 $zz^{*}$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2023-06-01,22,250-->
 
 ---
 $|z|$=
 ?
 $$\Large{\sqrt{a^{2}+b^{2}}}$$
-<!--SR:!2023-05-12,10,250-->
 
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2023-05-12,10,250-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
+![[Pasted image 20230712084000.png]]
