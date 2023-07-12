@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "1714d2509082c007",
+            "id": "fe4c2d2f63005c14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Keynésienne.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Keynésienne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offre globale.md"
+                "file": "Keynésienne.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Keynésienne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,11 +224,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1714d2509082c007",
+  "active": "fe4c2d2f63005c14",
   "lastOpenFiles": [
+    "image-20230505092514830.png.md",
+    "Flask.md",
+    "Keynésienne.md",
+    "Offre globale.md",
     "Néo-classique (monétariste).md",
     "assets/Pasted image 20230712083056.png",
-    "Offre globale.md",
     "assets/Pasted image 20230712082842.png",
     "IB/Economy.md",
     "Déterminants des composantes de la demande globale.md",
@@ -252,8 +255,6 @@
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Twitter help.md",
     "assets/Pasted Image 20230623032421_958.png",
-    "Excalidraw/Travail du poids.md",
-    "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
