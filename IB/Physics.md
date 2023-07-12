@@ -70,3 +70,6 @@ $sin^2 x + cos^2 x = 1 \hspace{2mm} so :$
 $cos^2 x = 1-sin^2 x$
 
 $\LARGE{81^{sin^2 x} + 81^{cos^2 x}=30 \rightarrow 81^{sin^2 x} + 81^{1 -sin^2 x}=30}$
+
+There is a rule that says :
+$\Largea^{m-n}=$
