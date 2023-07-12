@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +226,8 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
+    "IB/Comp Sci.md",
+    "Raisonnement abstrait.md",
     "IB/Physics.md",
     "IB/TOK.md",
     "Algorithme.md",
@@ -251,8 +253,6 @@
     "Excalidraw/Drawing 2023-03-06 10.11.09.excalidraw.md",
     "Excalidraw/Drawing 2023-03-05 14.44.53.excalidraw.md",
     "Excalidraw/Drawing 2023-02-14 14.26.08.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-14 12.49.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-09 03.37.16.excalidraw.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
