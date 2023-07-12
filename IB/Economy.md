@@ -67,3 +67,4 @@ $$
 
 1.  [[Demande globale]]
 2.  [[Déterminants des composantes de la demande globale]]
+3. 1. [[Offre globale]]
