@@ -68,3 +68,5 @@ $$
 
 $sin^2 x + cos^2 x = 1 \hspace{2mm} so :$
 $cos^2 x = 1-sin^2 x$
+
+$81^{sin^2 x} + 81^{cos^2}$
