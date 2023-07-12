@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Néo-classique (monétariste).md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Néo-classique (monétariste).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offre globale.md"
+                "file": "Néo-classique (monétariste).md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offre globale.md",
+                "file": "Néo-classique (monétariste).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +226,11 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
+    "Offre globale.md",
+    "Néo-classique (monétariste).md",
     "assets/Pasted image 20230712082842.png",
     "IB/Economy.md",
     "Déterminants des composantes de la demande globale.md",
-    "Offre globale.md",
     "Demande globale.md",
     "IB/Physics.md",
     "IB/Comp Sci.md",
@@ -261,7 +262,6 @@
     "assets/Pasted Image 20230614124433_867.png",
     "assets/Pasted Image 20230614124403_845.png",
     "assets/Pasted Image 20230614124347_803.png",
-    "assets/Pasted Image 20230614121846_417.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
