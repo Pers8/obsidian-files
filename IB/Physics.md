@@ -66,13 +66,3 @@ $$
 [[Electricité test]]
 [[Important]]
 
-$sin^2 x + cos^2 x = 1 \hspace{2mm} so :$
-$cos^2 x = 1-sin^2 x$
-
-$\LARGE{81^{sin^2 x} + 81^{cos^2 x}=30 \rightarrow 81^{sin^2 x} + 81^{1 -sin^2 x}=30}$
-
-There is a rule that says :
-$\Large{a^{m-n}=\frac{a^m}{a^n},\hspace{2mm} so :}$
-
-$\LARGE{81^{sin^2 x} + 81^{1 -sin^2 x}=30\Rightarrow 81^{sin^2 x} + \frac{81^1}{81^{sin^2 x}}=30}$
-
