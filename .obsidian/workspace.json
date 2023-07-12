@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorème Binomial.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
@@ -255,7 +256,6 @@
     "IB/📝Dashboard.md",
     "Economy/Subventions.md",
     "IA de Math & Physics.md",
-    "HouseBoy.md",
     "assets/Pasted Image 20230623032421_958.png",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
