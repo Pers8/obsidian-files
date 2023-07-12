@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Etude graphique des fonctions quadratiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Etude graphique des fonctions quadratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "Etude graphique des fonctions quadratiques.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Etude graphique des fonctions quadratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Etude graphique des fonctions quadratiques.md",
     "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
@@ -256,7 +257,6 @@
     "Algorithme.md",
     "Commentary.md",
     "Comparison between King Lear and HouseBoy.md",
-    "IB/📝Dashboard.md",
     "assets/Pasted Image 20230623032421_958.png",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
