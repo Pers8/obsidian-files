@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Subventions.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Subventions.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Subventions.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Subventions.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +226,8 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
+    "IB/📝Dashboard.md",
+    "Economy/Subventions.md",
     "IA de Math & Physics.md",
     "HouseBoy.md",
     "Français devoir.md",
@@ -251,8 +253,6 @@
     "Excalidraw/cos.md",
     "Article Micro.md",
     "Flask.md",
-    "IB/Economy.md",
-    "Economy/PIB.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
