@@ -72,4 +72,4 @@ $cos^2 x = 1-sin^2 x$
 $\LARGE{81^{sin^2 x} + 81^{cos^2 x}=30 \rightarrow 81^{sin^2 x} + 81^{1 -sin^2 x}=30}$
 
 There is a rule that says :
-$\Largea^{m-n}=$
+$\Large{a^{m-n}=\frac{a^m}{a^n},\hspace{2mm}$
