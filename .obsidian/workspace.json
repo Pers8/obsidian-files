@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logarithmes.md"
+                "file": "Séries et Séquences.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,9 @@
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Séries et Séquences.md",
     "Logarithmes.md",
+    "assets/Pasted image 20230712083639.png",
     "Excalidraw/Drawing 2023-07-12 08.35.17.excalidraw.md",
     "Flask.md",
     "IB/English.md",
@@ -254,14 +256,12 @@
     "IA de Math & Physics.md",
     "HouseBoy.md",
     "Français devoir.md",
-    "Exploration Computer Science.md",
     "assets/Pasted Image 20230623032421_958.png",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
     "assets/Pasted Image 20230614130944_779.png",
     "assets/Pasted Image 20230614124857_771.png",
-    "assets/Pasted Image 20230614124433_867.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
