@@ -74,4 +74,4 @@ $\LARGE{81^{sin^2 x} + 81^{cos^2 x}=30 \rightarrow 81^{sin^2 x} + 81^{1 -sin^2 x
 There is a rule that says :
 $\Large{a^{m-n}=\frac{a^m}{a^n},\hspace{2mm} so :}$
 
-$81^{sin^2 x} + 81^{1 -sin^2 x}=30\Rightarrow 8$
+$81^{sin^2 x} + 81^{1 -sin^2 x}=30\Rightarrow 81^{sin^2 x} + \frac{}{}=30$
