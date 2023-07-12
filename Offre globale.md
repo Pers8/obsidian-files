@@ -9,7 +9,8 @@ L'offre globale est la **quantité totale** de biens et de services **produits**
 
 - Le court terme en **macroéconomie** est considéré comme:: la durée pendant laquelle les **prix des ressources** restent relativement **constants**, en particulier les salaires.
 
-Graphe de l'offre globale à court terme (OGCT)::![[image-20230505082645978.png|500]]
+Graphe de l'offre globale à court terme (OGCT)::
+![[Pasted image 20230712082842.png]]
 
 Déterminants de l'offre globale à court terme (OGCT):
 ?
