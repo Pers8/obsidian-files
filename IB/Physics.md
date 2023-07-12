@@ -65,3 +65,6 @@ $$
 --
 [[Electricité test]]
 [[Important]]
+
+$sin^2 x + cos^2 x = 1 \hspace{2mm} so :$
+$cos^2 $
