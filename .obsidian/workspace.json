@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +226,11 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
+    "IB/TOK.md",
+    "Algorithme.md",
+    "Commentary.md",
+    "Comparison between King Lear and HouseBoy.md",
+    "IB/Maths.md",
     "IB/📝Dashboard.md",
     "Economy/Subventions.md",
     "IA de Math & Physics.md",
@@ -248,11 +253,6 @@
     "Excalidraw/Drawing 2023-02-14 12.49.15.excalidraw.md",
     "Excalidraw/Drawing 2023-02-09 03.37.16.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 01.45.27.excalidraw.md",
-    "Excalidraw/Drawing 2022-12-06 16.57.57.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
-    "Excalidraw/cos.md",
-    "Article Micro.md",
-    "Flask.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
