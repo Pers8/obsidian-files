@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md",
+                "file": "Formules de Viète.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md",
+                "file": "Formules de Viète.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md"
+                "file": "Formules de Viète.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etude graphique des fonctions quadratiques.md",
+                "file": "Formules de Viète.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +226,11 @@
   },
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
-    "Fonctions quadratiques.md",
-    "Etude graphique des fonctions quadratiques.md",
-    "assets/Pasted image 20230712084528.png",
     "IB/Maths.md",
+    "Formules de Viète.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "Fonctions quadratiques.md",
+    "assets/Pasted image 20230712084528.png",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "assets/Pasted image 20230712084000.png",
