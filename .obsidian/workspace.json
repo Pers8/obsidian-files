@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Offre globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Offre globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Néo-classique (monétariste).md"
+                "file": "Offre globale.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "Offre globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,8 +226,9 @@
   },
   "active": "1714d2509082c007",
   "lastOpenFiles": [
-    "Offre globale.md",
     "Néo-classique (monétariste).md",
+    "assets/Pasted image 20230712083056.png",
+    "Offre globale.md",
     "assets/Pasted image 20230712082842.png",
     "IB/Economy.md",
     "Déterminants des composantes de la demande globale.md",
@@ -253,7 +254,6 @@
     "assets/Pasted Image 20230623032421_958.png",
     "Excalidraw/Travail du poids.md",
     "Excalidraw/Drawing 2023-06-13 09.51.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-16 09.39.00.excalidraw.md",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
     "assets/Pasted Image 20230614131320_883.png",
@@ -261,7 +261,6 @@
     "assets/Pasted Image 20230614124857_771.png",
     "assets/Pasted Image 20230614124433_867.png",
     "assets/Pasted Image 20230614124403_845.png",
-    "assets/Pasted Image 20230614124347_803.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
