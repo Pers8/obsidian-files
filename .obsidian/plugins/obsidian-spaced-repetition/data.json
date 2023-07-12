@@ -9,7 +9,8 @@
       "#info",
       "#TOK",
       "#economy",
-      "#math"
+      "#math",
+      "#"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
