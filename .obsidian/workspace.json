@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Théorème Binomial.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Théorème Binomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Séries et Séquences.md"
+                "file": "Théorème Binomial.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Théorème Binomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
     "assets/Pasted image 20230712083639.png",
@@ -255,7 +256,6 @@
     "Economy/Subventions.md",
     "IA de Math & Physics.md",
     "HouseBoy.md",
-    "Français devoir.md",
     "assets/Pasted Image 20230623032421_958.png",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
