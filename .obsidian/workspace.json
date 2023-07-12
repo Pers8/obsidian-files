@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "IB/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keynésienne.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keynésienne.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,14 +226,16 @@
   },
   "active": "fe4c2d2f63005c14",
   "lastOpenFiles": [
-    "image-20230505092514830.png.md",
-    "Flask.md",
-    "Keynésienne.md",
+    "IB/EE.md",
+    "IB/Economy.md",
     "Offre globale.md",
     "Néo-classique (monétariste).md",
+    "Keynésienne.md",
+    "assets/Pasted image 20230712083234.png",
+    "image-20230505092514830.png.md",
+    "Flask.md",
     "assets/Pasted image 20230712083056.png",
     "assets/Pasted image 20230712082842.png",
-    "IB/Economy.md",
     "Déterminants des composantes de la demande globale.md",
     "Demande globale.md",
     "IB/Physics.md",
@@ -253,7 +255,6 @@
     "Untitled.md",
     "zz.md",
     "2.3 Travail, Puissance et Energie.md",
-    "Excalidraw/Twitter help.md",
     "assets/Pasted Image 20230623032421_958.png",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
@@ -261,7 +262,6 @@
     "assets/Pasted Image 20230614130944_779.png",
     "assets/Pasted Image 20230614124857_771.png",
     "assets/Pasted Image 20230614124433_867.png",
-    "assets/Pasted Image 20230614124403_845.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
