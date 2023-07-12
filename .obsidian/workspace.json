@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lois des sinus et cosinus.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "IB/English.md",
     "Lois des sinus et cosinus.md",
     "Radians.md",
     "Position relative parabole et droite.md",
@@ -243,7 +244,6 @@
     "assets/Pasted image 20230712083639.png",
     "Excalidraw/Drawing 2023-07-12 08.35.17.excalidraw.md",
     "Flask.md",
-    "IB/English.md",
     "IB/EE.md",
     "IB/Economy.md",
     "Offre globale.md",
