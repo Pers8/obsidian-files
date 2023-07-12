@@ -21,11 +21,13 @@ a) **guerrilla advertising :** is the creating use of novel or unconventional m
 
 
 ## **AOF :** 
+?
 1. [[Time & Space]] $\Rightarrow$ Literary work, Non-Literary work
 2. Readers, Writers and Texts 
 3. Intertextuality 
 
 ## **7 Concepts :**
+?
 1. Creativity
 2. Perspective
 3. Representation
@@ -35,6 +37,7 @@ a) **guerrilla advertising :** is the creating use of novel or unconventional m
 7. Communication
 
 ## **Books to read :**
+?
 - The Scarlet Letter
 - King Lear 
 - Houseboy
@@ -45,6 +48,7 @@ a) **guerrilla advertising :** is the creating use of novel or unconventional m
 
 ## "Develop the writing skills required for Paper 2" - Comparative essay 
 Here are 7 basic plot as outlined by Christopher Booker. If you already read literary work in your language or literary class, you can describe how it fits or breaks one of the plots shown below :
+?
 - **Overcoming the monster** : It's when the plot structure involves a threatening predator which mean when the main character is a person or thing that is abnormal or dangerous.
 - **Rag the riches** : It's a plot that focuses on the improvement of a character from a lower or depraved state of being to or more enlightened a wealthy position in society.
 - **The Quest** : It involves a call to a journey with a purpose with some thrilling ordeals and a triumph end.
@@ -99,6 +103,7 @@ Define art => Link art with Picasso => Explain the statement => give some
 ### The Key theories of language
 
 In language acquisition, we have 3 key theories : 
+?
 $\star$  [[The behaviourist theory]]
 $\star$  [[The innatism theory]]
 $\star$  [[The interactionist theory]]

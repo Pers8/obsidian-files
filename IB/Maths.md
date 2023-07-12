@@ -1,5 +1,5 @@
 ---
-tags: [MOC]
+tags: [MOC,math]
 ---
 [[📝Dashboard]] > [[Maths]]
 <br/>

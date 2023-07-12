@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +226,7 @@
   },
   "active": "fe4c2d2f63005c14",
   "lastOpenFiles": [
+    "IB/English.md",
     "IB/EE.md",
     "IB/Economy.md",
     "Offre globale.md",
@@ -254,7 +255,6 @@
     "Exploration Computer Science.md",
     "Untitled.md",
     "zz.md",
-    "2.3 Travail, Puissance et Energie.md",
     "assets/Pasted Image 20230623032421_958.png",
     "assets/Pasted Image 20230614231111_274.png",
     "assets/Pasted Image 20230614201510_900.png",
