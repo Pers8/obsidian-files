@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "Algorithme.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "Algorithme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de problème.md"
+                "file": "Algorithme.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "Algorithme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "fda7cab3787f89b2",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Notion de problème.md",
     "Comp Sci/Conception d'un système.md",
     "Comp Sci/Système informatique.md",
     "Comp Sci/Environment du système.md",
@@ -254,7 +255,6 @@
     "Excalidraw/Drawing 2023-07-12 08.35.17.excalidraw.md",
     "Flask.md",
     "IB/Economy.md",
-    "Offre globale.md",
     "assets/Pasted image 20230712083234.png",
     "assets/Pasted image 20230712083056.png",
     "assets/Pasted image 20230712082842.png",
