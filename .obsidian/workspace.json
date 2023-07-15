@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de problème.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +226,7 @@
   },
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
+    "Notion de problème.md",
     "IB/Comp Sci.md",
     "Raisonnement abstrait.md",
     "Raisonnement simultané.md",
@@ -234,7 +235,6 @@
     "Raisonnement logique.md",
     "Raisonnement procédural.md",
     "Algorithme.md",
-    "Notion de problème.md",
     "IB/📝Dashboard.md",
     "Flask.md",
     "IA de Math & Physics.md",
