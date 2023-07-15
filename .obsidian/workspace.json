@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "Algorithme.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "Algorithme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion de problème.md"
+                "file": "Algorithme.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion de problème.md",
+                "file": "Algorithme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,11 +227,11 @@
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Notion de problème.md",
     "IB/📝Dashboard.md",
     "Flask.md",
     "IA de Math & Physics.md",
     "Algorithme.md",
-    "Notion de problème.md",
     "Comp Sci/Conception d'un système.md",
     "Comp Sci/Système informatique.md",
     "Comp Sci/Environment du système.md",
