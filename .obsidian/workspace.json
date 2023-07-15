@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Raisonnement procédural.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Raisonnement procédural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithme.md"
+                "file": "Raisonnement procédural.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
+                "file": "Raisonnement procédural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Algorithme.md",
     "Notion de problème.md",
     "Raisonnement abstrait.md",
     "Raisonnement simultané.md",
@@ -234,7 +235,6 @@
     "Raisonnement par anticipation.md",
     "Raisonnement logique.md",
     "Raisonnement procédural.md",
-    "Algorithme.md",
     "IB/📝Dashboard.md",
     "Flask.md",
     "IA de Math & Physics.md",
