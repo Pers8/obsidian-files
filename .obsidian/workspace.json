@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement abstrait.md",
+                "file": "Notion de problème.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement abstrait.md",
+                "file": "Notion de problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement abstrait.md"
+                "file": "Notion de problème.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement abstrait.md",
+                "file": "Notion de problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Raisonnement abstrait.md",
     "Raisonnement simultané.md",
     "IB/Economy.md",
     "Raisonnement par anticipation.md",
@@ -251,7 +252,6 @@
     "Radians.md",
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
-    "Etude graphique des fonctions quadratiques.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
