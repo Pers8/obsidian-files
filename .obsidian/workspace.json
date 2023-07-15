@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raisonnement logique.md"
+                "file": "Raisonnement par anticipation.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raisonnement logique.md",
+                "file": "Raisonnement par anticipation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Raisonnement logique.md",
     "Raisonnement procédural.md",
     "Algorithme.md",
     "Notion de problème.md",
@@ -253,7 +254,6 @@
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "assets/Pasted image 20230712084000.png",
-    "Théorème Binomial.md",
     "assets/Pasted image 20230712083639.png",
     "assets/Pasted image 20230712083234.png",
     "assets/Pasted image 20230712083056.png",
