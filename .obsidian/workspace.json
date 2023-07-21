@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithme.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithme.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithme.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithme.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +226,10 @@
   },
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
+    "Algorithme.md",
     "IB/Comp Sci.md",
     "Notion de problème.md",
     "Raisonnement procédural.md",
-    "Algorithme.md",
     "Raisonnement abstrait.md",
     "Raisonnement simultané.md",
     "IB/Economy.md",
