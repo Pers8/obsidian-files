@@ -19,6 +19,8 @@ $$
 ### 2. Les équations de la cinématique a une dimension (SUVAT)
 1.  [[Utilisation des aires]]
 2.  [[Mouvement rectiligne uniforme]]
+3. [Chute libre](app://obsidian.md/Chute%20libre)
+4. [Mouvement d'un projectile](app://obsidian.md/Mouvement%20d'un%20projectile)
 
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
