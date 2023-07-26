@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Chute libre.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Chute libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Chute libre.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Chute libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,8 +226,9 @@
   },
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
-    "Physics/Mouvement rectiligne uniforme.md",
     "IB/Physics.md",
+    "Chute libre.md",
+    "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
     "IA de Math & Physics.md",
     "IB/Maths.md",
@@ -251,7 +252,6 @@
     "IB/TOK.md",
     "IB/English.md",
     "Lois des sinus et cosinus.md",
-    "Radians.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
