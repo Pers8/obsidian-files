@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +226,10 @@
   },
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
+    "Physics/Mouvement rectiligne uniforme.md",
     "IB/Physics.md",
     "Physics/Utilisation des aires.md",
     "Mouvement d'un projectile.md",
-    "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Déplacement et Distance parcouru.md",
     "IA de Math & Physics.md",
     "Physics/Chute libre.md",
