@@ -22,7 +22,9 @@ A. Impédance complexe
 1. Introduction à l'impédance complexe en tant que nombre imaginaire. 
 2. Utilisation de l'impédance complexe dans l'analyse de circuits en courant alternatif.
 
-B. Notion de nombres complexes dans les équations différentielles 1. Introduction aux équations différentielles avec coefficients constants. 2. Utilisation de nombres imaginaires pour résoudre ces équations et modéliser le comportement des circuits.
+B. Notion de nombres complexes dans les équations différentielles 
+1. Introduction aux équations différentielles avec coefficients constants. 
+2. Utilisation de nombres imaginaires pour résoudre ces équations et modéliser le comportement des circuits.
 
 ### IV. Exemples d'applications pratiques 
 A. Filtres électroniques 
