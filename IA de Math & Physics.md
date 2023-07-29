@@ -17,15 +17,22 @@ A. Impédance complexe 1. Introduction à l'impédance complexe en tant que nomb
 B. Notion de nombres complexes dans les équations différentielles 1. Introduction aux équations différentielles avec coefficients constants. 2. Utilisation de nombres imaginaires pour résoudre ces équations et modéliser le comportement des circuits.
 
 ### IV. Exemples d'applications pratiques 
-A. Filtres électroniques 1. Utilisation de nombres imaginaires dans la conception de filtres passe-bas/passe-haut. 2. Analyse de la réponse fréquentielle des filtres à l'aide de nombres complexes.
+A. Filtres électroniques 
+1. Utilisation de nombres imaginaires dans la conception de filtres passe-bas/passe-haut.
+2. Analyse de la réponse fréquentielle des filtres à l'aide de nombres complexes.
 
-B. Circuit RLC 1. Analyse du comportement d'un circuit RLC en utilisant les nombres imaginaires. 2. Compréhension des résonances et des oscillations dans le circuit.
+B. Circuit RLC 
+1. Analyse du comportement d'un circuit RLC en utilisant les nombres imaginaires. 
+2. Compréhension des résonances et des oscillations dans le circuit.
 
 ### V. Limites et considérations 
-A. Limitations de l'utilisation de nombres imaginaires dans la description des circuits électroniques. B. Autres approches mathématiques pour modéliser le comportement des circuits.
+A. Limitations de l'utilisation de nombres imaginaires dans la description des circuits électroniques. 
+B. Autres approches mathématiques pour modéliser le comportement des circuits je pense.
 
 ### VI. Conclusion 
-A. Résumé des résultats obtenus concernant l'utilisation des nombres imaginaires dans l'ingénierie électronique. B. Réflexion sur l'efficacité et la pertinence de ces méthodes. C. Perspectives pour de futures recherches dans ce domaine.
+A. Résumé des résultats obtenus concernant l'utilisation des nombres imaginaires dans l'ingénierie électronique. 
+B. Réflexion sur l'efficacité et la pertinence de ces méthodes. 
+C. Perspectives pour de futures recherches dans ce domaine.
 
 ### VII. Bibliographie 
-A. Les sources en général  qui m'ont permit d'écrire mon
+A. Les sources en général  qui m'ont permit d'écrire mon IA.
