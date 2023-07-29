@@ -4,10 +4,14 @@
 **Maths Plan :** 
 
 ### I. Introduction
-A. Présentation du sujet et de l'importance des nombres imaginaires en ingénierie électronique. B. Objectif de l'Internal Assessment. C. Définition des termes clés : nombres imaginaires, circuits électroniques.
+A. Présentation du sujet et de l'importance des nombres imaginaires en ingénierie électronique. 
+B. Objectif de l'Internal Assessment. 
+C. Définition des termes clés : nombres imaginaires, circuits électroniques.
 
 ### II. Fondements théoriques 
-A. Introduction aux nombres imaginaires 1. Définition des nombres imaginaires et leur représentation sous forme de 'i'. 2. Exemples d'opérations impliquant des nombres imaginaires.
+A. Introduction aux nombres imaginaires 
+1. Définition des nombres imaginaires et leur représentation sous forme de 'i'. 
+2. Exemples d'opérations impliquant des nombres imaginaires.
 
 B. Présentation des circuits électroniques 1. Présentation générale des circuits électroniques et de leur fonctionnement. 2. Importance de la description mathématique du comportement des circuits.
 
@@ -22,6 +26,7 @@ A. Filtres électroniques
 2. Analyse de la réponse fréquentielle des filtres à l'aide de nombres complexes.
 
 B. Circuit RLC 
+![[Pasted image 20230729114054.png]]
 1. Analyse du comportement d'un circuit RLC en utilisant les nombres imaginaires. 
 2. Compréhension des résonances et des oscillations dans le circuit.
 
