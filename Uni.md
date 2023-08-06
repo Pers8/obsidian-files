@@ -1,1 +1,1 @@
-1. University of Manitoba
+1. University of Regina
