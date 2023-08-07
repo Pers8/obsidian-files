@@ -17,7 +17,7 @@ B. Présentation des circuits électroniques
 1. Présentation générale des circuits électroniques et de leur fonctionnement. 
 2. Importance de la description mathématique du comportement des circuits.
 
-### III. Les nombres imaginaires dans l'analyse de circuits électroniques 
+### III. Les nombres imaginaires dans l'analyse de circuits électroniques  
 A. Impédance complexe 
 1. Introduction à l'impédance complexe en tant que nombre imaginaire. 
 2. Utilisation de l'impédance complexe dans l'analyse de circuits en courant alternatif.
