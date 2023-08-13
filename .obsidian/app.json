@@ -5,10 +5,7 @@
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-GB",
-    "fr"
-  ],
+  "spellcheckLanguages": null,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
