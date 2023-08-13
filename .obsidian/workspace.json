@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,10 +238,12 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "IB/📝Dashboard.md",
+    "Commutation de paquets.md",
+    "IA de Math & Physics.md",
     "Uni.md",
     "Radians.md",
-    "IB/Maths.md",
-    "IA de Math & Physics.md",
     "assets/Pasted image 20230729114054.png",
     "Physics/Utilisation des aires.md",
     "IB/Physics.md",
@@ -259,13 +261,11 @@
     "Raisonnement simultané.md",
     "IB/Economy.md",
     "Raisonnement logique.md",
-    "IB/📝Dashboard.md",
     "Flask.md",
     "Comp Sci/Conception d'un système.md",
     "Comp Sci/Système informatique.md",
     "Comp Sci/Environment du système.md",
     "Excalidraw/Drawing 2023-07-13 02.04.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-13 02.04.25.excalidraw.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
