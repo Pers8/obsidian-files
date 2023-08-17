@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Uni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Uni.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Uni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,14 +236,16 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eec98f218d78351d",
+  "active": "922ee4c71a1445c1",
   "lastOpenFiles": [
+    "Radians.md",
+    "Nombres complexes.md",
+    "Article Micro.md",
     "IB/Maths.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
     "IA de Math & Physics.md",
     "Uni.md",
-    "Radians.md",
     "assets/Pasted image 20230729114054.png",
     "Physics/Utilisation des aires.md",
     "IB/Physics.md",
@@ -264,8 +266,6 @@
     "Flask.md",
     "Comp Sci/Conception d'un système.md",
     "Comp Sci/Système informatique.md",
-    "Comp Sci/Environment du système.md",
-    "Excalidraw/Drawing 2023-07-13 02.04.19.excalidraw.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
