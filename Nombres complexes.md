@@ -58,3 +58,6 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ?
 ![[Pasted image 20230712084000.png]]
 
+
+
+W
