@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Article Micro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "Article Micro.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "Article Micro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,16 +236,20 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eec98f218d78351d",
+  "active": "8000b49d4be506e7",
   "lastOpenFiles": [
+    "Excalidraw/Math Kognity hmwk.md",
+    "IB/Economy.md",
+    "Algorithme.md",
+    "Uni.md",
+    "Radians.md",
+    "Article Micro.md",
+    "Fonctions quadratiques.md",
     "IB/Maths.md",
     "Fonctions linéaires.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
     "Nombres complexes.md",
-    "Uni.md",
-    "Radians.md",
-    "Article Micro.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
     "IA de Math & Physics.md",
@@ -261,11 +265,7 @@
     "Raisonnement abstrait.md",
     "Raisonnement par anticipation.md",
     "Raisonnement procédural.md",
-    "Algorithme.md",
     "Notion de problème.md",
-    "Raisonnement simultané.md",
-    "IB/Economy.md",
-    "Raisonnement logique.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
