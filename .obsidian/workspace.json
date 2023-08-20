@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Logarithmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Logarithmes.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,11 +238,11 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Nombres complexes.md",
     "Uni.md",
     "Radians.md",
-    "Nombres complexes.md",
     "Article Micro.md",
-    "IB/Maths.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
     "IA de Math & Physics.md",
