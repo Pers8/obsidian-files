@@ -60,4 +60,4 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 
 
 
-W
+( O - X - F - 
