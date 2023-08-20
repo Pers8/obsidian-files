@@ -60,4 +60,4 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 
 
 
-( O - X - F - N - N - B - F - C - F ) -- ( X - F - N - .  ) -- ( . ) -- ( . ) -- ( , - J - ,  ) -- ( C - N - , ) -- ( O - O ) -- ( . ) -- ( , - M - , ) -- ( . ) -- ( , - M ) -- ( N - B - F - B - N - B - X - C )
+	( O - X - F - N - N - B - F - C - F ) -- ( X - F - N - .  ) -- ( . ) -- ( . ) -- ( , - J - ,  ) -- ( C - N - , ) -- ( O - O ) -- ( . ) -- ( , - M - , ) -- ( . ) -- ( , - M ) -- ( N - B - F - B - N - B - X - C )
