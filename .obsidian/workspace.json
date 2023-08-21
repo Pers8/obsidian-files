@@ -90,6 +90,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Fonctions quadratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Micro.md"
+                "file": "Fonctions quadratiques.md"
               }
             }
           },
@@ -205,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Micro.md",
+                "file": "Fonctions quadratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,14 +237,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8000b49d4be506e7",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Article Micro.md",
     "Excalidraw/Math Kognity hmwk.md",
     "IB/Economy.md",
     "Algorithme.md",
     "Uni.md",
     "Radians.md",
-    "Article Micro.md",
     "Fonctions quadratiques.md",
     "IB/Maths.md",
     "Fonctions linéaires.md",
