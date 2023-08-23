@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Séries et Séquences.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Séries et Séquences.md",
     "Logarithmes.md",
     "Lois des sinus et cosinus.md",
     "Radians.md",
@@ -238,7 +239,6 @@
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Théorème Binomial.md",
-    "Séries et Séquences.md",
     "Article Micro.md",
     "Excalidraw/Math Kognity hmwk.md",
     "IB/Economy.md",
