@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fonctions quadratiques.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fonctions quadratiques.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,13 +226,13 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Fonctions quadratiques.md",
     "IB/Maths.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
-    "Fonctions quadratiques.md",
     "Radians.md",
     "Article Micro.md",
     "Excalidraw/Math Kognity hmwk.md",
