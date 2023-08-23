@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logarithmes.md"
+                "file": "Séries et Séquences.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Logarithmes.md",
     "Fonctions quadratiques.md",
     "Radians.md",
     "Article Micro.md",
@@ -236,7 +237,6 @@
     "Uni.md",
     "Fonctions linéaires.md",
     "Séries et Séquences.md",
-    "Logarithmes.md",
     "Nombres complexes.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
