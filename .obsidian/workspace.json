@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Fonctions quadratiques.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Fonctions quadratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,8 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Fonctions linéaires.md",
+    "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
@@ -237,8 +239,6 @@
     "IB/Economy.md",
     "Algorithme.md",
     "Uni.md",
-    "Fonctions linéaires.md",
-    "Nombres complexes.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
     "IA de Math & Physics.md",
