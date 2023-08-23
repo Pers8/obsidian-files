@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Séries et Séquences.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Séries et Séquences.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,8 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Théorème Binomial.md",
+    "Séries et Séquences.md",
     "Logarithmes.md",
     "Fonctions quadratiques.md",
     "Radians.md",
@@ -236,7 +238,6 @@
     "Algorithme.md",
     "Uni.md",
     "Fonctions linéaires.md",
-    "Séries et Séquences.md",
     "Nombres complexes.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
@@ -253,7 +254,6 @@
     "Raisonnement abstrait.md",
     "Raisonnement par anticipation.md",
     "Raisonnement procédural.md",
-    "Notion de problème.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
