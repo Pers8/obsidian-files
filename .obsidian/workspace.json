@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formules de Viète.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules de Viète.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules de Viète.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules de Viète.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,6 +226,7 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Formules de Viète.md",
     "IB/Maths.md",
     "Etude graphique des fonctions quadratiques.md",
     "Fonctions quadratiques.md",
@@ -236,7 +237,6 @@
     "Lois des sinus et cosinus.md",
     "Radians.md",
     "Position relative parabole et droite.md",
-    "Formules de Viète.md",
     "assets/Etude graphique des fonctions quadratiques 2023-08-23 09.51.54.excalidraw.md",
     "Théorème Binomial.md",
     "Article Micro.md",
