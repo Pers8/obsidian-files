@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formules de Viète.md",
+                "file": "Position relative parabole et droite.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formules de Viète.md",
+                "file": "Position relative parabole et droite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formules de Viète.md"
+                "file": "Position relative parabole et droite.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formules de Viète.md",
+                "file": "Position relative parabole et droite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Formules de Viète.md",
     "Etude graphique des fonctions quadratiques.md",
     "assets/Etude graphique des fonctions quadratiques 2023-08-23 09.51.54.excalidraw.md",
     "Fonctions quadratiques.md",
@@ -253,7 +254,6 @@
     "Physics/Chute libre.md",
     "assets/Pasted image 20230726125551.png",
     "IB/Comp Sci.md",
-    "Raisonnement abstrait.md",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
