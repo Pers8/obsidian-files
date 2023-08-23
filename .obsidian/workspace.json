@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "Logarithmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lois des sinus et cosinus.md"
+                "file": "Logarithmes.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Lois des sinus et cosinus.md",
     "Radians.md",
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
@@ -252,7 +253,6 @@
     "Physics/Mouvement rectiligne uniforme.md",
     "Mouvement d'un projectile.md",
     "Physics/Déplacement et Distance parcouru.md",
-    "Physics/Chute libre.md",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
     "assets/Pasted image 20230712084000.png",
