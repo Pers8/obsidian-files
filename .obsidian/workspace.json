@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,13 +227,14 @@
   },
   "active": "c09f18428cbdf768",
   "lastOpenFiles": [
-    "Lois des sinus et cosinus.md",
+    "IB/Physics.md",
     "IB/Maths.md",
+    "Fonctions quadratiques.md",
     "Radians.md",
+    "Lois des sinus et cosinus.md",
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
     "Etude graphique des fonctions quadratiques.md",
-    "Fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Séries et Séquences.md",
@@ -250,7 +251,6 @@
     "IA de Math & Physics.md",
     "assets/Pasted image 20230729114054.png",
     "Physics/Utilisation des aires.md",
-    "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Mouvement d'un projectile.md",
     "Physics/Déplacement et Distance parcouru.md",
