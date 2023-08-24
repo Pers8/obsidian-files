@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logarithmes.md"
+                "file": "Séries et Séquences.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithmes.md",
+                "file": "Séries et Séquences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,6 +227,7 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Logarithmes.md",
     "IB/Physics.md",
     "Accélération.md",
     "Physics/Vitesse.md",
@@ -240,7 +241,6 @@
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "Séries et Séquences.md",
-    "Logarithmes.md",
     "assets/Etude graphique des fonctions quadratiques 2023-08-23 09.51.54.excalidraw.md",
     "Théorème Binomial.md",
     "Article Micro.md",
