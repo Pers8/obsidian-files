@@ -19,7 +19,7 @@ $$\Large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\rightarrow2}=\fr
 
 ## Vitesse instantanée
 ?
-C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la tangente à la trajectoire a la date donnée**.
+C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la tangente à la trajectoire à la date donnée**.
 
 Formule:
 ?
