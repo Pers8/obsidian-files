@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorème Binomial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c09f18428cbdf768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radians.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorème Binomial.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -193,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorème Binomial.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,14 +214,16 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Uni.md",
+    "Radians.md",
     "IB/Maths.md",
+    "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
     "IB/Physics.md",
     "Accélération.md",
     "Physics/Vitesse.md",
     "Physics/Déplacement et Distance parcouru.md",
-    "Radians.md",
     "Fonctions quadratiques.md",
     "Lois des sinus et cosinus.md",
     "Position relative parabole et droite.md",
@@ -242,12 +232,10 @@
     "Fonctions linéaires.md",
     "Nombres complexes.md",
     "assets/Etude graphique des fonctions quadratiques 2023-08-23 09.51.54.excalidraw.md",
-    "Théorème Binomial.md",
     "Article Micro.md",
     "Excalidraw/Math Kognity hmwk.md",
     "IB/Economy.md",
     "Algorithme.md",
-    "Uni.md",
     "IB/📝Dashboard.md",
     "Commutation de paquets.md",
     "IA de Math & Physics.md",
