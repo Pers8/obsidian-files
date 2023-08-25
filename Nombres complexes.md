@@ -31,6 +31,7 @@ $$\Large{a^{2}-b^{2}-i2ab}$$
 $(a+ib)(a-ib)$=
 ?
 $$\Large{a^{2}+b^{2}}$$
+<!--SR:!2023-08-29,4,270-->
 
 ---
 
@@ -67,6 +68,7 @@ $$\Large{zz^{*}}$$
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[Pasted image 20230712084000.png]]
+<!--SR:!2023-08-29,4,270-->
 
 
 
