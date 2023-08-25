@@ -5,11 +5,13 @@ Created: 2023-04-28
 
 # Nombres complexes
 $\sqrt{-1}$=::$i$
+<!--SR:!2023-08-29,4,270-->
 
 $$\LARGE{z=a+bi}$$
 - Re($z$) =:: $a$
 <!--SR:!2023-08-29,4,270-->
 - Im($z$) =:: $b$
+<!--SR:!2023-08-29,4,270-->
 
 --- 
 $(a+bi)(c+di)$=
@@ -53,10 +55,12 @@ $$\Large{a^{2}+b^{2}}$$
 $|z|$=
 ?
 $$\Large{\sqrt{a^{2}+b^{2}}}$$
+<!--SR:!2023-08-29,4,270-->
 
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
+<!--SR:!2023-08-29,4,270-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
