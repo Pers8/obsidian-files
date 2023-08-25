@@ -6,6 +6,7 @@ tags: [math]
 $(a+b)^{n}$=
 ?
 $$\LARGE{\sum^n_{r=0}\binom{n}{r}a^{r}b^{n-r}}$$
+<!--SR:!2023-08-28,3,250-->
 
 $\binom{n}{r}$=
 ?
