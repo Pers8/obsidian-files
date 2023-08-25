@@ -5,6 +5,7 @@ tags: [math]
 Created: 2022-09-19
 
 Expression réduite::$$ax^2+bx+c\,,\;a\neq0$$
+<!--SR:!2023-08-29,4,270-->
 
 Expression sous la forme canonique::$$a(x-h)^2+k=0$$
 <!--SR:!2023-08-29,4,270-->

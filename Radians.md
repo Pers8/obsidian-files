@@ -6,6 +6,7 @@ tags: [math]
 - $\pi$ radians =:: 180 degrés
 <!--SR:!2023-08-29,4,270-->
 - $\frac{\pi}{2}$ radians =:: 90 degrés
+<!--SR:!2023-08-29,4,270-->
 - $\frac{\pi}{3}$ radians =:: 60 degrés
 <!--SR:!2023-08-29,4,270-->
 - $\frac{\pi}{4}$ radians =:: 45 degrés
