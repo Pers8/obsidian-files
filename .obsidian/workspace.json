@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "91a8906df06c2ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB/Comp Sci.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fda7cab3787f89b2",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,8 +225,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "922ee4c71a1445c1",
+  "active": "91a8906df06c2ee7",
   "lastOpenFiles": [
+    "Uni.md",
     "IB/Physics.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
@@ -228,7 +241,6 @@
     "Accélération.md",
     "Physics/Vitesse.md",
     "assets/Pasted image 20230826093405.png",
-    "Uni.md",
     "IB/Maths.md",
     "Logarithmes.md",
     "Radians.md",
