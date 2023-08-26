@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Chute libre.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Chute libre.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Chute libre.md"
+                "file": "Physics/Déplacement et Distance parcouru.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Chute libre.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,10 +214,10 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Physics/Chute libre.md",
     "assets/Pasted image 20230826093405.png",
     "Uni.md",
-    "Physics/Chute libre.md",
-    "IB/Physics.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
     "Accélération.md",
@@ -249,7 +249,6 @@
     "assets/Pasted image 20230712083056.png",
     "assets/Pasted image 20230712082842.png",
     "assets/Pasted Image 20230623032421_958.png",
-    "assets/Pasted Image 20230614231111_274.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
