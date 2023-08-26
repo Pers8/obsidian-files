@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Température.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,9 +214,11 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
-    "Physics/Energie cinétique.md",
-    "Physics/Température.md",
+    "Physics/Energie interne.md",
     "IB/Physics.md",
+    "Physics/Chaleur.md",
+    "Physics/Température.md",
+    "Physics/Energie cinétique.md",
     "Physics/Déplacement et Distance parcouru.md",
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
@@ -239,8 +241,6 @@
     "Nombres complexes.md",
     "assets/Etude graphique des fonctions quadratiques 2023-08-23 09.51.54.excalidraw.md",
     "Article Micro.md",
-    "Excalidraw/Math Kognity hmwk.md",
-    "IB/Economy.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
