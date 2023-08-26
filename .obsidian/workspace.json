@@ -78,7 +78,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,8 +224,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "91a8906df06c2ee7",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "IB/Comp Sci.md",
     "Uni.md",
     "IB/Physics.md",
     "Physics/Energie interne.md",
@@ -253,7 +253,6 @@
     "Etude graphique des fonctions quadratiques.md",
     "Fonctions linéaires.md",
     "Nombres complexes.md",
-    "assets/Etude graphique des fonctions quadratiques 2023-08-23 09.51.54.excalidraw.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
