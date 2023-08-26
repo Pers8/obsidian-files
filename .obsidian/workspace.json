@@ -78,7 +78,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,13 +224,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "922ee4c71a1445c1",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Physics/Chaleur.md",
     "IB/Physics.md",
+    "Uni.md",
     "Physics/Energie interne.md",
     "IB/Comp Sci.md",
-    "Uni.md",
-    "Physics/Chaleur.md",
     "Physics/molécules.md",
     "Physics/Température.md",
     "Physics/Energie cinétique.md",
