@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md",
+                "file": "Physics/Température.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md",
+                "file": "Physics/Température.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md"
+                "file": "Physics/Température.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Déplacement et Distance parcouru.md",
+                "file": "Physics/Température.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,13 +214,15 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Physics/Energie cinétique.md",
+    "Physics/Température.md",
     "IB/Physics.md",
+    "Physics/Déplacement et Distance parcouru.md",
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
     "Accélération.md",
     "Physics/Vitesse.md",
-    "Physics/Déplacement et Distance parcouru.md",
     "assets/Pasted image 20230826093405.png",
     "Uni.md",
     "IB/Maths.md",
@@ -239,7 +241,6 @@
     "Article Micro.md",
     "Excalidraw/Math Kognity hmwk.md",
     "IB/Economy.md",
-    "Algorithme.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
