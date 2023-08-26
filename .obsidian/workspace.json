@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Chaleur.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Chaleur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Chaleur.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Chaleur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,10 +214,10 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
-    "Physics/Energie interne.md",
     "IB/Physics.md",
-    "Physics/Chaleur.md",
     "Physics/Température.md",
+    "Physics/Energie interne.md",
+    "Physics/Chaleur.md",
     "Physics/Energie cinétique.md",
     "Physics/Déplacement et Distance parcouru.md",
     "Physics/Chute libre.md",
