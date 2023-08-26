@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accélération.md",
+                "file": "Physics/Mouvement rectiligne uniforme.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accélération.md",
+                "file": "Physics/Mouvement rectiligne uniforme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accélération.md"
+                "file": "Physics/Mouvement rectiligne uniforme.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accélération.md",
+                "file": "Physics/Mouvement rectiligne uniforme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +215,7 @@
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Utilisation des aires.md",
     "Accélération.md",
     "Physics/Vitesse.md",
     "Physics/Déplacement et Distance parcouru.md",
@@ -222,7 +223,6 @@
     "assets/Pasted image 20230826093405.png",
     "Uni.md",
     "Physics/Mouvement rectiligne uniforme.md",
-    "Physics/Utilisation des aires.md",
     "IB/Maths.md",
     "Logarithmes.md",
     "Radians.md",
