@@ -3,6 +3,8 @@ tags: [physics]
 ---
 
 # Mouvement rectiligne uniforme
+
+
 Les 5 variables SUVAT:
 ?
 - $\Delta$x = déplacement en $m$
