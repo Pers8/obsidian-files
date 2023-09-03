@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Vitesse.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni.md",
+                "file": "Physics/Vitesse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni.md"
+                "file": "Physics/Vitesse.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni.md",
+                "file": "Physics/Vitesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,9 +224,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "922ee4c71a1445c1",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Uni.md",
     "Physics/Température.md",
     "Mouvement d'un projectile.md",
     "Physics/Chute libre.md",
@@ -237,7 +237,6 @@
     "Physics/Vitesse.md",
     "Physics/Déplacement et Distance parcouru.md",
     "Physics/Chaleur massique.md",
-    "Uni.md",
     "Physics/Chaleur.md",
     "Physics/Energie interne.md",
     "IB/Comp Sci.md",
