@@ -11,4 +11,4 @@ Donc l'équation réduite de la parabole et la droite est:
 $$f(x)=g(x)$$
 $$ax^2+bx+c=mx+p$$
 $$ax^2+(b-m)x+c-p=0$$
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-10-08,35,290-->
