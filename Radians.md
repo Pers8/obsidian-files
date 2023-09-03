@@ -13,9 +13,9 @@ tags: [math]
 - $\frac{\pi}{4}$ radians =:: 45 degrés
 <!--SR:!2023-09-04,7,250-->
 - $\frac{\pi}{6}$ radians =:: 30 degrés
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-10-08,35,290-->
 
 - Longueur d'un arc=::$$\Large{l=\theta r}$$
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-10-07,34,290-->
 - Air d'un secteur=::$$\Large{A=\frac{\theta r^{2}}{2}}$$
 <!--SR:!2023-09-06,3,250-->
