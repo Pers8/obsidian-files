@@ -8,4 +8,4 @@ Les formules $S$ et $P$ sont
 $$S=p+q=\frac{-b}{a}$$
 $$P=pq=\frac{c}{a}$$
 $p$ et $q$ sont solutions de l'équation suivante:$$x^2-Sx+P=0$$
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-09-21,18,270-->

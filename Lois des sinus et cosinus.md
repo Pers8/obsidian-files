@@ -4,7 +4,7 @@ tags: [math]
 
 # Lois des sinus et cosinus
 - Loi des sinus=::$$\Large{\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}}$$
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-09-20,17,270-->
 - Loi des cosinus=::$$\Large{a^{2}=b^{2}+c^{2}-2bc\cos A}$$
 <!--SR:!2023-09-06,3,210-->
 
