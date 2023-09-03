@@ -44,7 +44,7 @@ $$\Large{a-ib}$$
 $z+z^*$=
 ?
 $$\Large{2a}$$
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-09-23,20,270-->
 
 $z-z^{*}$=
 ?
@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2023-08-29,4,270-->
+<!--SR:!2023-09-06,3,250-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
