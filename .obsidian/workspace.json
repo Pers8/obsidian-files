@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Excalidraw/MCUV Exo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement d'un projectile.md"
+                "file": "Excalidraw/MCUV Exo.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "Excalidraw/MCUV Exo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +175,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9ff0e49061cc2ccd",
+  "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "assets/Pasted Image 20230904162528_631.png",
+    "Mouvement d'un projectile.md",
     "IB/Physics.md",
     "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904151600_821.png",
@@ -188,7 +189,6 @@
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
     "Physics/Température.md",
-    "Mouvement d'un projectile.md",
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
