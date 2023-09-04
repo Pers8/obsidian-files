@@ -4,21 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4e68c55485b85c6c",
-        "type": "tabs",
+        "id": "d3bf923624bd4cac",
+        "type": "split",
         "children": [
           {
-            "id": "eec98f218d78351d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MCUV Exo.md"
+            "id": "4e68c55485b85c6c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eec98f218d78351d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/MCUV Exo.md"
+                  }
+                }
               }
-            }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "e403ce6fb05b2446",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "76464ad177a4ffec",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -92,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/MCUV Exo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/MCUV Exo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/MCUV Exo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,12 +181,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eec98f218d78351d",
+  "active": "76464ad177a4ffec",
   "lastOpenFiles": [
+    "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
     "Excalidraw/Math Kognity hmwk.md",
-    "Excalidraw/MCUV Exo.md",
     "Uni.md",
     "IB/Physics.md",
     "Physics/Chaleur massique.md",
@@ -201,7 +218,6 @@
     "assets/Pasted image 20230712083639.png",
     "assets/Pasted image 20230712083234.png",
     "assets/Pasted image 20230712083056.png",
-    "assets/Pasted image 20230712082842.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
