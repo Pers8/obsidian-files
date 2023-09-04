@@ -4,120 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b04c94a54b508699",
-        "type": "split",
-        "children": [
-          {
-            "id": "4e68c55485b85c6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eec98f218d78351d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/MCUV Exo.md"
-                  }
-                }
-              },
-              {
-                "id": "922ee4c71a1445c1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Uni.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "91a8906df06c2ee7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "IB/Comp Sci.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fda7cab3787f89b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Algorithme.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b45c2ea1bb1f2c7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "IB/Economy.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7edb1782e343a69f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Math Kognity hmwk.md"
-                  }
-                }
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "34d4723a83a36f86",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1d25c97ece944d0a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/MCUV Exo.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "c8f9263af16d17f6",
+        "id": "4e68c55485b85c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "596c36c342ac9a30",
+            "id": "eec98f218d78351d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Uni.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/MCUV Exo.md"
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -263,10 +164,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1d25c97ece944d0a",
+  "active": "eec98f218d78351d",
   "lastOpenFiles": [
-    "Uni.md",
+    "Excalidraw/Math Kognity hmwk.md",
     "Excalidraw/MCUV Exo.md",
+    "Uni.md",
     "IB/Physics.md",
     "Physics/Chaleur massique.md",
     "Physics/Energie interne.md",
@@ -291,7 +193,6 @@
     "Fonctions quadratiques.md",
     "Lois des sinus et cosinus.md",
     "Position relative parabole et droite.md",
-    "Formules de Viète.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
