@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Chaleur massique.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Chaleur massique.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Chaleur massique.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Chaleur massique.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,12 +226,12 @@
   },
   "active": "eec98f218d78351d",
   "lastOpenFiles": [
+    "Physics/Chaleur massique.md",
     "IB/Physics.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
     "Physics/Température.md",
     "Mouvement d'un projectile.md",
-    "Physics/Chaleur massique.md",
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
