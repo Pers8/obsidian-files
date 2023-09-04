@@ -4,42 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d3bf923624bd4cac",
-        "type": "split",
+        "id": "965b4a2da3172782",
+        "type": "tabs",
         "children": [
           {
-            "id": "4e68c55485b85c6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eec98f218d78351d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/MCUV Exo.md"
-                  }
-                }
+            "id": "85f343bdf186746d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MCUV Exo.md"
               }
-            ],
-            "stacked": true
+            }
           },
           {
-            "id": "e403ce6fb05b2446",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "76464ad177a4ffec",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
+            "id": "9ff0e49061cc2ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IB/Physics.md"
+              }
             }
           },
           {
@@ -151,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +176,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "76464ad177a4ffec",
+  "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
     "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904151600_821.png",
