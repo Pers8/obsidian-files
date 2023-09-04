@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Mouvement d'un projectile.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Mouvement d'un projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Mouvement d'un projectile.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Mouvement d'un projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,12 +178,12 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
     "Excalidraw/Math Kognity hmwk.md",
     "Uni.md",
-    "IB/Physics.md",
     "Physics/Chaleur massique.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
