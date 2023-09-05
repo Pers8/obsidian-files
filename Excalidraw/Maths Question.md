@@ -11,6 +11,7 @@ tags: [excalidraw]
 
 # Embedded files
 60a0b36edecb0c04893bbbda355d1409169ad223: [[Pasted Image 20230905131610_167.png]]
+3abc3c2fb315b2149511f627e67a21028cadfd8b: [[Pasted Image 20230905132319_943.png]]
 
 %%
 # Drawing
@@ -21384,6 +21385,38 @@ tags: [excalidraw]
 			"lastCommittedPoint": [
 				-0.7970853025456108,
 				1.5941706050912217
+			]
+		},
+		{
+			"id": "sv9zRbeEKP4ipuHHBlPgs",
+			"type": "image",
+			"x": -703.0024012471391,
+			"y": 1295.0828933797875,
+			"width": 1365,
+			"height": 263,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 801518919,
+			"version": 49,
+			"versionNonce": 1175649193,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1693916597281,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "3abc3c2fb315b2149511f627e67a21028cadfd8b",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
