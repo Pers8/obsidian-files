@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "Physics/Chaleur.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "Physics/Chaleur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Température.md"
+                "file": "Physics/Chaleur.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "Physics/Chaleur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Température.md",
     "Mouvement d'un projectile.md",
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
@@ -199,7 +200,6 @@
     "Physics/Chaleur massique.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
-    "Physics/Température.md",
     "IB/Comp Sci.md",
     "Physics/molécules.md",
     "Physics/Energie cinétique.md",
