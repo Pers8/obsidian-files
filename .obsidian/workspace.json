@@ -11,11 +11,9 @@
             "id": "85f343bdf186746d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IB/Maths.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-05 13.15.21.excalidraw.md"
               }
             }
           },
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Excalidraw/Drawing 2023-09-05 13.15.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Excalidraw/Drawing 2023-09-05 13.15.21.excalidraw.md"
               }
             }
           },
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Excalidraw/Drawing 2023-09-05 13.15.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +177,8 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Excalidraw/Drawing 2023-09-05 13.15.21.excalidraw.md",
     "IB/French.md",
     "IB/English.md",
     "IB/Physics.md",
@@ -197,7 +197,6 @@
     "Physics/Déplacement et Distance parcouru.md",
     "IB/TOK.md",
     "Excalidraw/MCUV Exo.md",
-    "IB/Maths.md",
     "assets/Pasted Image 20230904162528_631.png",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
@@ -208,7 +207,6 @@
     "Physics/Energie cinétique.md",
     "assets/Pasted image 20230826093405.png",
     "Logarithmes.md",
-    "Radians.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
