@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "Physics/Déplacement et Distance parcouru.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "Physics/Déplacement et Distance parcouru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,12 +179,13 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "IB/TOK.md",
     "Excalidraw/MCUV Exo.md",
     "IA de Math & Physics.md",
     "IB/Maths.md",
     "Mouvement d'un projectile.md",
     "assets/Pasted Image 20230904162528_631.png",
-    "IB/Physics.md",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
     "Excalidraw/Math Kognity hmwk.md",
@@ -208,7 +209,6 @@
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Fonctions quadratiques.md",
-    "Lois des sinus et cosinus.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
