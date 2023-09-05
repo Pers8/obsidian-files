@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Chaleur massique.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Chaleur massique.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Chaleur massique.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Chaleur massique.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +179,7 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "Physics/Chaleur massique.md",
     "IB/Physics.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
@@ -199,7 +200,6 @@
     "assets/Pasted Image 20230904151530_768.png",
     "Excalidraw/Math Kognity hmwk.md",
     "Uni.md",
-    "Physics/Chaleur massique.md",
     "IB/Comp Sci.md",
     "Physics/molécules.md",
     "Physics/Energie cinétique.md",
