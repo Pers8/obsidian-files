@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,8 +179,11 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
-    "Physics/Rappel d'électrostatique.md",
+    "IB/French.md",
+    "IB/English.md",
     "IB/Physics.md",
+    "IA de Math & Physics.md",
+    "Physics/Rappel d'électrostatique.md",
     "Physics/Chaleur massique.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
@@ -194,7 +197,6 @@
     "Physics/Déplacement et Distance parcouru.md",
     "IB/TOK.md",
     "Excalidraw/MCUV Exo.md",
-    "IA de Math & Physics.md",
     "IB/Maths.md",
     "assets/Pasted Image 20230904162528_631.png",
     "assets/Pasted Image 20230904151600_821.png",
@@ -207,8 +209,6 @@
     "assets/Pasted image 20230826093405.png",
     "Logarithmes.md",
     "Radians.md",
-    "Théorème Binomial.md",
-    "Séries et Séquences.md",
     "assets/Pasted image 20230729114054.png",
     "assets/Pasted image 20230726125551.png",
     "assets/Pasted image 20230712084528.png",
