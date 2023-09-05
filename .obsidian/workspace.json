@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "IA de Math & Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement d'un projectile.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement d'un projectile.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,9 +178,10 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Mouvement d'un projectile.md",
     "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904162528_631.png",
-    "Mouvement d'un projectile.md",
     "IB/Physics.md",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
@@ -200,7 +201,6 @@
     "Physics/molécules.md",
     "Physics/Energie cinétique.md",
     "assets/Pasted image 20230826093405.png",
-    "IB/Maths.md",
     "Logarithmes.md",
     "Radians.md",
     "Théorème Binomial.md",
