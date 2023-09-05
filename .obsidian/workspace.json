@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/MCUV Exo.md",
+                "file": "Mouvement d'un projectile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/MCUV Exo.md"
+                "file": "Mouvement d'un projectile.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/MCUV Exo.md",
+                "file": "Mouvement d'un projectile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,12 +176,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "85f343bdf186746d",
+  "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904162528_631.png",
     "Mouvement d'un projectile.md",
     "IB/Physics.md",
-    "Excalidraw/MCUV Exo.md",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
     "Excalidraw/Math Kognity hmwk.md",
@@ -212,7 +213,6 @@
     "assets/Pasted image 20230712084000.png",
     "assets/Pasted image 20230712083639.png",
     "assets/Pasted image 20230712083234.png",
-    "assets/Pasted image 20230712083056.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
