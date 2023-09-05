@@ -3,7 +3,7 @@
 
 **Maths Plan :** 
 
-### I. Introduction
+### I. Introductione
 A. Présentation du sujet et de l'importance des nombres imaginaires en ingénierie électronique. 
 B. Objectif de l'Internal Assessment. 
 C. Définition des termes clés : nombres imaginaires, circuits électroniques.

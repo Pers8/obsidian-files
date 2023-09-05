@@ -28,19 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "354590e12bc890d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -155,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +176,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "354590e12bc890d1",
+  "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
     "assets/Pasted Image 20230905132319_943.png",
     "assets/Pasted Image 20230905131610_167.png",
