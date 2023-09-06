@@ -14,3 +14,4 @@ Dans la nouvelle perspective classique, parce que les prix sont totalement flexi
 ## Augmentation de la demande globale (néo-classique)
 (Graphique qui représente les transformations)
 ?
+![[Pasted image 20230906082933.png]]
