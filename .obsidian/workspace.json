@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "Comp Sci/Equilibre à long terme.md",
     "IB/Economy.md",
     "Economy/Activité économique.md",
     "Comp Sci/Equilibre à court terme.md",
@@ -199,7 +200,6 @@
     "assets/Pasted image 20230906081900.png",
     "Déterminants des composantes de la demande globale.md",
     "Offre globale (court terme).md",
-    "Comp Sci/Equilibre à long terme.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "IA de Math & Physics.md",
     "assets/Pasted Image 20230905132319_943.png",
