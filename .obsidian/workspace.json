@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Economy/Croissance économique a court et a long terme.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,10 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "assets/Pasted image 20230906083923.png",
+    "IB/Economy.md",
     "Economy/Objectifs macro-économiques.md",
     "Economy/Croissance économique a court et a long terme.md",
-    "IB/Economy.md",
     "Economy/Chômage faible.md",
     "Comp Sci/Equilibre à long terme.md",
     "assets/Pasted image 20230906083059.png",
@@ -225,7 +226,6 @@
     "Mouvement d'un projectile.md",
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
-    "Physics/Utilisation des aires.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
