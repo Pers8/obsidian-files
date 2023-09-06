@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Equilibre à court terme.md",
+                "file": "Comp Sci/Equilibre à long terme.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Equilibre à court terme.md",
+                "file": "Comp Sci/Equilibre à long terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/Equilibre à court terme.md"
+                "file": "Comp Sci/Equilibre à long terme.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Equilibre à court terme.md",
+                "file": "Comp Sci/Equilibre à long terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,14 +190,15 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "assets/Pasted image 20230906082906.png",
+    "IB/Economy.md",
+    "Comp Sci/Equilibre à court terme.md",
     "assets/Pasted image 20230906082759.png",
     "assets/Pasted image 20230906082623.png",
     "assets/Pasted image 20230906082531.png",
     "assets/Pasted image 20230906082501.png",
-    "IB/Economy.md",
     "Comp Sci/Equilibre à long terme.md",
     "Economy/Activité économique.md",
-    "Comp Sci/Equilibre à court terme.md",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Economy/Changement dans les institutions.md",
     "assets/Pasted image 20230906081928.png",
@@ -225,7 +226,6 @@
     "Physics/Vitesse.md",
     "assets/Pasted Image 20230904162528_631.png",
     "assets/Pasted Image 20230904151600_821.png",
-    "assets/Pasted Image 20230904151530_768.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
