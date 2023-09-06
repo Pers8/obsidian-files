@@ -9,4 +9,4 @@ Alors que la courbe OGCT se déplace en raison de facteurs qui modifient les co�
 Qu'est-ce qui déplace la courbe OGLT ?
 ?
 Tout changement dans la quantité ou la qualité des facteurs de production.
-
+![[Pasted image 20230906081900.png]]
