@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identités trigonométriques.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identités trigonométriques.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identités trigonométriques.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identités trigonométriques.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,11 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "Théorème Binomial.md",
     "IB/Maths.md",
-    "Cercle trigonométrique.md",
+    "Fonctions linéaires.md",
     "Identités trigonométriques.md",
+    "Cercle trigonométrique.md",
     "IA de Math & Physics.md",
     "IB/Comp Sci.md",
     "IB/Economy.md",
@@ -224,8 +226,6 @@
     "Physics/Chaleur massique.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
-    "Physics/Température.md",
-    "Mouvement d'un projectile.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
