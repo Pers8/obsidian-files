@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Chômage faible.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Chômage faible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Chômage faible.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Chômage faible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,11 +190,14 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Chômage faible.md",
+    "Economy/Croissance économique a court et a long terme.md",
+    "Economy/Objectifs macro-économiques.md",
     "Comp Sci/Equilibre à long terme.md",
     "assets/Pasted image 20230906083059.png",
     "assets/Pasted image 20230906082933.png",
     "assets/Pasted image 20230906082906.png",
-    "IB/Economy.md",
     "Comp Sci/Equilibre à court terme.md",
     "assets/Pasted image 20230906082759.png",
     "assets/Pasted image 20230906082623.png",
@@ -223,8 +226,6 @@
     "Physics/Chute libre.md",
     "Physics/Mouvement rectiligne uniforme.md",
     "Physics/Utilisation des aires.md",
-    "Accélération.md",
-    "Physics/Vitesse.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
