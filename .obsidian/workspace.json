@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Offre globale (court terme).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Offre globale (court terme).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Offre globale (court terme).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Offre globale (court terme).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,13 +188,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "e461754297756704",
   "lastOpenFiles": [
-    "Offre globale (court terme).md",
     "IB/Economy.md",
-    "Equilibre à long terme.md",
-    "Equilibre à court terme.md",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
+    "Offre globale (court terme).md",
+    "Comp Sci/Equilibre à long terme.md",
+    "Comp Sci/Equilibre à court terme.md",
     "Déterminants des composantes de la demande globale.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "IA de Math & Physics.md",

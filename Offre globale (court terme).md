@@ -23,3 +23,8 @@ Les deux vues alternatives de l'offre globale:
 ?
 - [[Néo-classique (monétariste)]] (OGLT)
 - [[Keynésienne]] (OGLT)
+
+
+Qu'est-ce qui déplace la courbe OGCT ?
+?
+Le changement les coûts de production.
