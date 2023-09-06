@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Offre globale a long terme et facteurs de production.md",
+                "file": "Comp Sci/Equilibre à long terme.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Offre globale a long terme et facteurs de production.md",
+                "file": "Comp Sci/Equilibre à long terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/Offre globale a long terme et facteurs de production.md"
+                "file": "Comp Sci/Equilibre à long terme.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Offre globale a long terme et facteurs de production.md",
+                "file": "Comp Sci/Equilibre à long terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,16 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
-    "Economy/Changement dans les institutions.md",
+    "IB/Economy.md",
+    "Economy/Activité économique.md",
+    "Comp Sci/Equilibre à court terme.md",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
+    "Economy/Changement dans les institutions.md",
     "assets/Pasted image 20230906081928.png",
     "assets/Pasted image 20230906081900.png",
-    "IB/Economy.md",
     "Déterminants des composantes de la demande globale.md",
     "Offre globale (court terme).md",
     "Comp Sci/Equilibre à long terme.md",
-    "Comp Sci/Equilibre à court terme.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "IA de Math & Physics.md",
     "assets/Pasted Image 20230905132319_943.png",
@@ -219,7 +220,6 @@
     "Accélération.md",
     "Physics/Vitesse.md",
     "Physics/Déplacement et Distance parcouru.md",
-    "IB/TOK.md",
     "assets/Pasted Image 20230904162528_631.png",
     "assets/Pasted Image 20230904151600_821.png",
     "assets/Pasted Image 20230904151530_768.png",
