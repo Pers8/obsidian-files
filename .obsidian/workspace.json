@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Cercle trigonométrique.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Cercle trigonométrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Cercle trigonométrique.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Cercle trigonométrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,10 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Cercle trigonométrique.md",
+    "IA de Math & Physics.md",
+    "IB/Comp Sci.md",
     "IB/Economy.md",
     "Economy/Objectifs macro-économiques.md",
     "Economy/Croissance économique a court et a long terme.md",
@@ -212,8 +216,6 @@
     "Déterminants des composantes de la demande globale.md",
     "Offre globale (court terme).md",
     "Excalidraw/Maths Question nombre complexe.md",
-    "IA de Math & Physics.md",
-    "IB/Maths.md",
     "IB/French.md",
     "IB/English.md",
     "IB/Physics.md",
@@ -224,7 +226,6 @@
     "Physics/Température.md",
     "Mouvement d'un projectile.md",
     "Physics/Chute libre.md",
-    "Physics/Mouvement rectiligne uniforme.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }

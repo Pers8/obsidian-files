@@ -25,3 +25,5 @@ $$
 # Theme 3: Géométrie et Trigonométrie
 1. [[Radians]]
 2. [[Lois des sinus et cosinus]]
+3. [[Cercle trigonométrique]]
+4. [[Identités trigonométriques]]
