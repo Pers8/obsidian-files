@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "Economy/Objectifs macro-économiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "Economy/Objectifs macro-économiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md"
+                "file": "Economy/Objectifs macro-économiques.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "Economy/Objectifs macro-économiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,13 +190,13 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "Economy/Chômage faible.md",
+    "Economy/Objectifs macro-économiques.md",
+    "IB/Economy.md",
+    "Economy/Croissance économique a court et a long terme.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
-    "IB/Economy.md",
-    "Economy/Objectifs macro-économiques.md",
-    "Economy/Croissance économique a court et a long terme.md",
-    "Economy/Chômage faible.md",
     "Comp Sci/Equilibre à long terme.md",
     "assets/Pasted image 20230906083059.png",
     "assets/Pasted image 20230906082933.png",
@@ -209,7 +209,6 @@
     "Economy/Activité économique.md",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Economy/Changement dans les institutions.md",
-    "assets/Pasted image 20230906081928.png",
     "Déterminants des composantes de la demande globale.md",
     "Offre globale (court terme).md",
     "Excalidraw/Maths Question nombre complexe.md",
