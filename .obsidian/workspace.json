@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Identités trigonométriques.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Identités trigonométriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cercle trigonométrique.md"
+                "file": "Identités trigonométriques.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Identités trigonométriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,8 +191,8 @@
   "active": "e461754297756704",
   "lastOpenFiles": [
     "IB/Maths.md",
-    "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
+    "Identités trigonométriques.md",
     "IA de Math & Physics.md",
     "IB/Comp Sci.md",
     "IB/Economy.md",
