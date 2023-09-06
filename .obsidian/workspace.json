@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Chômage faible.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Chômage faible.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Chômage faible.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Chômage faible.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,9 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
-    "IB/Economy.md",
     "Economy/Objectifs macro-économiques.md",
     "Economy/Croissance économique a court et a long terme.md",
+    "IB/Economy.md",
     "Economy/Chômage faible.md",
     "Comp Sci/Equilibre à long terme.md",
     "assets/Pasted image 20230906083059.png",
