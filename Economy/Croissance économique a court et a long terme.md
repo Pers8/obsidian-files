@@ -13,3 +13,20 @@ Représentation du CPP avec noms:
 ?
 ![[Pasted image 20230906083923.png]]
 
+Quel type de croissance économique est préférable?:: Croissance économique a long terme
+
+## Croissance à court terme
+- La croissance économique à court terme est:: une augmentation de la production réelle causée par la réduction du chômage et des inefficacités de la production. 
+
+- La croissance économique à court terme est limité par:: les possibilités de production de l'économie.
+
+
+Représentation de la croissance a court terme avec le modèle AD/AS:
+?
+![[Pasted image 20230906083948.png]]
+
+## Croissance à long terme
+Représentation de la croissance a long terme avec le modèle AD/AS:
+?
+![[Pasted image 20230906084014.png]]
+
