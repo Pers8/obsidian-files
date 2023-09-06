@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/Equilibre à long terme.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "Comp Sci/Equilibre à long terme.md",
     "assets/Pasted image 20230906083059.png",
     "assets/Pasted image 20230906082933.png",
     "assets/Pasted image 20230906082906.png",
@@ -199,7 +200,6 @@
     "assets/Pasted image 20230906082623.png",
     "assets/Pasted image 20230906082531.png",
     "assets/Pasted image 20230906082501.png",
-    "Comp Sci/Equilibre à long terme.md",
     "Economy/Activité économique.md",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Economy/Changement dans les institutions.md",
@@ -210,7 +210,6 @@
     "Excalidraw/Maths Question nombre complexe.md",
     "IA de Math & Physics.md",
     "assets/Pasted Image 20230905132319_943.png",
-    "assets/Pasted Image 20230905131610_167.png",
     "IB/Maths.md",
     "IB/French.md",
     "IB/English.md",

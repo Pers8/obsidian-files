@@ -71,3 +71,8 @@ $$
 4. [[Offre globale a long terme et facteurs de production]]
 5. [[Equilibre à court terme]]
 6. [[Equilibre à long terme]]
+# Chapitre 3 - Objectifs macro-économiques
+
+1. [Objectifs macro-économiques](app
+2. [Croissance économique a court et a long terme]
+3. [Chômage faible]
