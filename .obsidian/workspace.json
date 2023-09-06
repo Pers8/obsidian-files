@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,8 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
-    "Théorème Binomial.md",
     "IB/Maths.md",
+    "Théorème Binomial.md",
     "Fonctions linéaires.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
