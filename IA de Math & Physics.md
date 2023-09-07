@@ -47,3 +47,6 @@ C. Perspectives pour de futures recherches dans ce domaine.
 
 ### VII. Bibliographie 
 A. Les sources en général  qui m'ont permit d'écrire mon IA.
+
+---
+
