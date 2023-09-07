@@ -1,7 +1,7 @@
 **Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
 **Physique :** Comment la température affecte la résistance interne d'une batterie ?
 
-**Maths Plan :** 
+# **Maths Plan :** 
 
 ### I. Introductione
 A. Présentation du sujet et de l'importance des nombres imaginaires en ingénierie électronique. 
