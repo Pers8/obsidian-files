@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Néo-classique (monétariste).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Néo-classique (monétariste).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9ff0e49061cc2ccd",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "Néo-classique (monétariste).md",
     "Mouvement d'un projectile.md",
     "Methods.md",
     "Mécanique.md",
@@ -215,7 +216,6 @@
     "Effet taux d'intérêt.md",
     "Effet solde net.md",
     "Effet richesse.md",
-    "Eco TD2.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
