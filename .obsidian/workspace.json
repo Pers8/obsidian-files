@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Néo-classique (monétariste).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Néo-classique (monétariste).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique.md"
+                "file": "Néo-classique (monétariste).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique.md",
+                "file": "Néo-classique (monétariste).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,42 +190,42 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
-    "IB/Physics.md",
-    "Physics/Loi de gravitation de Newton.md",
-    "Excalidraw/Econ small exo.md",
-    "IA de Math & Physics.md",
-    "IB/EE.md",
-    "Excalidraw/Maths Question nombre complexe.md",
-    "Déterminants des composantes de la demande globale.md",
-    "IB/Economy.md",
-    "Demande globale.md",
-    "Effet richesse.md",
-    "Economy/Activité économique.md",
-    "IB/English.md",
-    "Article Micro.md",
-    "Algorithme.md",
-    "IB/Comp Sci.md",
-    "IB/Maths.md",
-    "Théorème Binomial.md",
-    "Fonctions linéaires.md",
+    "Mouvement d'un projectile.md",
+    "Methods.md",
+    "Mécanique.md",
+    "Lois des sinus et cosinus.md",
+    "Logarithmes.md",
+    "Le Cid.md",
+    "Keynésienne.md",
+    "image-20230505092514830.png.md",
     "Identités trigonométriques.md",
-    "Cercle trigonométrique.md",
-    "Economy/Objectifs macro-économiques.md",
-    "Economy/Croissance économique a court et a long terme.md",
-    "Economy/Chômage faible.md",
+    "IA de Math & Physics.md",
+    "How to do an English High Level Essay.md",
+    "HouseBoy.md",
+    "Français Devoirs.md",
+    "Français devoir.md",
+    "Formules de Viète.md",
+    "Fonctions quadratiques.md",
+    "Fonctions linéaires.md",
+    "Flask.md",
+    "Exploration Computer Science.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "English extract homework.md",
+    "Electricité test.md",
+    "Effet taux d'intérêt.md",
+    "Effet solde net.md",
+    "Effet richesse.md",
+    "Eco TD2.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
-    "Comp Sci/Equilibre à long terme.md",
     "assets/Pasted image 20230906083059.png",
     "assets/Pasted image 20230906082933.png",
     "assets/Pasted image 20230906082906.png",
-    "Comp Sci/Equilibre à court terme.md",
     "assets/Pasted image 20230906082759.png",
     "assets/Pasted image 20230906082623.png",
     "assets/Pasted image 20230906082531.png",
     "assets/Pasted image 20230906082501.png",
-    "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
