@@ -34,8 +34,7 @@ Formule:
 
 Représentations 
 ? 
-
-
+![[Ressort]]
 
 Formule du travail d'un ressort  :
 ? $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
