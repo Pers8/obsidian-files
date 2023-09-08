@@ -18,4 +18,4 @@ tags: [math]
 - Longueur d'un arc=::$$\Large{l=\theta r}$$
 <!--SR:!2023-10-07,34,290-->
 - Air d'un secteur=::$$\Large{A=\frac{\theta r^{2}}{2}}$$
-<!--SR:!2023-09-06,3,250-->
+<!--SR:!2023-09-24,16,270-->
