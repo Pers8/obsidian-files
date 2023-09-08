@@ -6,4 +6,9 @@ tags:
 ?
 L'énergie cinétique est l'énergie que possède un objet du fait de son mouvement
 
-### Formule 
+### Formule
+?
+$E_C=\frac{1}{2}mv^2$
+
+- $E_c$ =:: Joule (J)
+- 
