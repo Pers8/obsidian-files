@@ -50,7 +50,7 @@ $$
 2. [Travail du poids d'un corps](app://obsidian.md/Travail%20du%20poids%20d'un%20corps)
 3. [Travail des force électriques](app://obsidian.md/Travail%20des%20force%20%C3%A9lectriques)
 4. [Puissance d'une force](app://obsidian.md/Puissance%20d'une%20force)
-5. [[Tra]]
+5. [[Travail d'une force variable (selon l'axe des x)]]
 
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques

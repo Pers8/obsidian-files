@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Travail d'une force variable (selon l'axe des x).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +188,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Travail d'une force variable (selon l'axe des x).md",
     "Néo-classique (monétariste).md",
     "Mouvement d'un projectile.md",
     "Methods.md",
@@ -214,8 +216,6 @@
     "English extract homework.md",
     "Electricité test.md",
     "Effet taux d'intérêt.md",
-    "Effet solde net.md",
-    "Effet richesse.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
