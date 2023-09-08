@@ -53,4 +53,5 @@ A. Les sources en général  qui m'ont permit d'écrire mon IA.
 ### I. Introduction
 Les nombres imaginaires, représentés mathématiquement par $i$, jouent un rôle fondamental dans le domaine de l'ingénierie électronique. Leur utilisation permet de décrire de manière précise et élégante le comportement complexe des circuits électroniques. En ingénierie électronique, où des signaux alternatifs sinusoidaux sont omniprésents, les nombres imaginaires deviennent des outils indispensables pour comprendre les phénomènes électriques et électroniques.
 Pour illustrer cette importance, considérons l'équation de base des circuits AC (courant alternatif) :
-$$V(t)=Vm​⋅cos(ωt+ϕ)$$
+$$V(t)=V_m​ \cdot cos(ωt+ϕ)$$
+Ici, $V(t)$ est la tension instantanée à un moment donné, $Vm​$ est l'amplitude de la tension, �ω est la fréquence angulaire, �t est le temps, et �ϕ est la phase initiale. Cependant, lorsqu'il s'agit d'analyser des circuits complexes avec des composants réactifs tels que les condensateurs et les bobines, l'utilisation de nombres imaginaires devient incontournable.
