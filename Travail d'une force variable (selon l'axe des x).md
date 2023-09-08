@@ -9,4 +9,4 @@ tags:
 
 **Formule de l'aire :**
 ?
-$Aire=\frac{b+B}{}$
+$Aire=\frac{b+B}{2} \cdot (x)$
