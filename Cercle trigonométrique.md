@@ -15,6 +15,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 0}=$::$0$
 
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
+<!--SR:!2023-09-09,1,230-->
 
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 
@@ -23,6 +24,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 90}=$::$1$
 
 - $\Large{\cos 0}=$::$\Large{1}$
+<!--SR:!2023-09-12,4,270-->
 
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 
@@ -31,6 +33,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 
 - $\Large{\cos 90}=$::$0$
+<!--SR:!2023-09-12,4,270-->
 
 
 ---
@@ -56,6 +59,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
+<!--SR:!2023-09-09,1,230-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 
@@ -73,6 +77,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(-\theta)=$::$-\sin(\theta)$
 
 - $\tan(-\theta)=$::$-\tan(\theta)$
+<!--SR:!2023-09-09,1,230-->
 
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
