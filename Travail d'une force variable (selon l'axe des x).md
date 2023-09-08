@@ -30,6 +30,12 @@ Formule:
 - $T$ = tension en Newton
 - $k$ = constante
 - $l$ = longueur finale
-- $l
+- $l_{0}$ = longueur initiale
 
-_{0}$ = longueur initiale <!--SR:!2024-01-04,148,250--> Représentations ? ![[image-20230604182649685.png|500|center]] <!--SR:!2023-12-03,101,224--> Formule du travail d'un ressort ? $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
+Représentations 
+? 
+
+
+
+Formule du travail d'un ressort  :
+? $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
