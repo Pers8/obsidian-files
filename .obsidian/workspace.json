@@ -33,13 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IA de Math & Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +186,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "85f343bdf186746d",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "IB/EE.md",
+    "Excalidraw/Maths Question nombre complexe.md",
     "Excalidraw/Econ small exo.md",
     "Déterminants des composantes de la demande globale.md",
     "IB/Economy.md",
@@ -194,7 +197,6 @@
     "Effet richesse.md",
     "Economy/Activité économique.md",
     "IA de Math & Physics.md",
-    "IB/EE.md",
     "IB/Physics.md",
     "IB/English.md",
     "Article Micro.md",
@@ -222,7 +224,6 @@
     "assets/Pasted image 20230906082501.png",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Economy/Changement dans les institutions.md",
-    "Offre globale (court terme).md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
