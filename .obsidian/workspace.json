@@ -21,11 +21,9 @@
             "id": "9ff0e49061cc2ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md"
+                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md"
               }
             }
           },
@@ -157,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +188,9 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
+    "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md",
+    "IB/Physics.md",
     "Excalidraw/Physic travail variable.md",
     "Néo-classique (monétariste).md",
     "Mouvement d'un projectile.md",
@@ -215,7 +214,6 @@
     "Exploration Computer Science.md",
     "Etude graphique des fonctions quadratiques.md",
     "English extract homework.md",
-    "Electricité test.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
