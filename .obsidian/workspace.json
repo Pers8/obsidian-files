@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Economy/Activité économique.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Economy/Activité économique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "Economy/Activité économique.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Economy/Activité économique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,19 +190,19 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "IA de Math & Physics.md",
     "IB/EE.md",
     "IB/Physics.md",
     "IB/English.md",
     "Article Micro.md",
     "Algorithme.md",
-    "IB/Economy.md",
     "IB/Comp Sci.md",
     "IB/Maths.md",
     "Théorème Binomial.md",
     "Fonctions linéaires.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
-    "IA de Math & Physics.md",
     "Economy/Objectifs macro-économiques.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Economy/Chômage faible.md",
