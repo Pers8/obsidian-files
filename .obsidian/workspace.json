@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demande globale.md"
+                "file": "Déterminants des composantes de la demande globale.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demande globale.md",
+                "file": "Déterminants des composantes de la demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,9 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
-    "Effet richesse.md",
-    "Demande globale.md",
     "IB/Economy.md",
+    "Demande globale.md",
+    "Effet richesse.md",
     "Déterminants des composantes de la demande globale.md",
     "Economy/Activité économique.md",
     "IA de Math & Physics.md",
