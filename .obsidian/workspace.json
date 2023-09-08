@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effet richesse.md"
+                "file": "Demande globale.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effet richesse.md",
+                "file": "Demande globale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "Effet richesse.md",
     "Demande globale.md",
     "IB/Economy.md",
     "Déterminants des composantes de la demande globale.md",
@@ -225,7 +226,6 @@
     "Economy/Changement dans les institutions.md",
     "Offre globale (court terme).md",
     "Excalidraw/Maths Question nombre complexe.md",
-    "IB/French.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
