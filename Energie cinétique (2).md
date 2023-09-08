@@ -19,4 +19,4 @@ Dans un référenciel gallilléin, la variation d'énergie cinétique d'un solid
 
 ### Variation d'énergie cinétique
 ?
-$\Delta E_c$
+$\Delta E_c = E_{c_{2}} - E_{c_{1}}$
