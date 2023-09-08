@@ -11,4 +11,4 @@ tags:
 ?
 $\large Aire=\frac{b+B}{2} \cdot (x_A - x_A)$
 
-Aire:: Joule
+$Aire$:: Joule
