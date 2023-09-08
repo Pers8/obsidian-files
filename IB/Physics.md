@@ -51,6 +51,7 @@ $$
 3. [Travail des force électriques](app://obsidian.md/Travail%20des%20force%20%C3%A9lectriques)
 4. [Puissance d'une force](app://obsidian.md/Puissance%20d'une%20force)
 5. [[Travail d'une force variable (selon l'axe des x)]]
+6. [[Energie cinétique (2)]]
 
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
