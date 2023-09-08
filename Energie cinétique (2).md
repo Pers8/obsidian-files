@@ -13,3 +13,6 @@ $E_C=\frac{1}{2}mv^2$
 - $E_c$ =:: Joule (J)
 - $m$ =:: Kilogramme (Kg)
 - $ms^{-1}$ =:: 
+
+
+Dans un référenciel gallilléin, la variation d'énergie cinétique d'un solide pendant une durée donnée est égale
