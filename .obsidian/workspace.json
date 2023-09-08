@@ -21,9 +21,11 @@
             "id": "9ff0e49061cc2ccd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md"
+                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md"
+                "file": "Travail d'une force variable (selon l'axe des x).md"
               }
             }
           },
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +190,8 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
-    "Travail d'une force variable (selon l'axe des x).md",
     "Excalidraw/Drawing 2023-09-08 10.55.57.excalidraw.md",
+    "Travail d'une force variable (selon l'axe des x).md",
     "IB/Physics.md",
     "Excalidraw/Physic travail variable.md",
     "Néo-classique (monétariste).md",
