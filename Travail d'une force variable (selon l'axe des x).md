@@ -7,3 +7,6 @@ tags:
 ?
 ![[Physic travail variable]]
 
+**Formule de l'aire :**
+?
+$Aire=\frac{b+B}{}$
