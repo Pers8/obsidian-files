@@ -21,11 +21,9 @@
             "id": "9ff0e49061cc2ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-08 08.35.33.excalidraw.md"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Excalidraw/Drawing 2023-09-08 08.35.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md"
+                "file": "Excalidraw/Drawing 2023-09-08 08.35.33.excalidraw.md"
               }
             }
           },
@@ -157,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Déterminants des composantes de la demande globale.md",
+                "file": "Excalidraw/Drawing 2023-09-08 08.35.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,10 +188,11 @@
   },
   "active": "9ff0e49061cc2ccd",
   "lastOpenFiles": [
+    "Déterminants des composantes de la demande globale.md",
+    "Excalidraw/Drawing 2023-09-08 08.35.33.excalidraw.md",
     "IB/Economy.md",
     "Demande globale.md",
     "Effet richesse.md",
-    "Déterminants des composantes de la demande globale.md",
     "Economy/Activité économique.md",
     "IA de Math & Physics.md",
     "IB/EE.md",
@@ -225,7 +224,6 @@
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Economy/Changement dans les institutions.md",
     "Offre globale (court terme).md",
-    "Excalidraw/Maths Question nombre complexe.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
