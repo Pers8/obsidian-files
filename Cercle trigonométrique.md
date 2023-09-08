@@ -56,12 +56,14 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
+<!--SR:!2023-09-09,1,230-->
 
 
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2023-09-09,1,230-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
+<!--SR:!2023-09-09,1,230-->
 
 
 ## Périodicité

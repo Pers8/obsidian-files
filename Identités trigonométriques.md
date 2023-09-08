@@ -17,6 +17,7 @@ Created: 2023-06-05
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 
 - $\sin(a+b)=$::$\sin a\cos b+\sin b\cos a$
+<!--SR:!2023-09-09,1,230-->
 
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
 
