@@ -51,6 +51,6 @@ A. Les sources en général  qui m'ont permit d'écrire mon IA.
 ---
 
 ### I. Introduction
-Les nombres imaginaires, représentés mathématiquement par �i, jouent un rôle fondamental dans le domaine de l'ingénierie électronique. Leur utilisation permet de décrire de manière précise et élégante le comportement complexe des circuits électroniques. En ingénierie électronique, où des signaux alternatifs sinusoidaux sont omniprésents, les nombres imaginaires deviennent des outils indispensables pour comprendre les phénomènes électriques et électroniques.
-
+Les nombres imaginaires, représentés mathématiquement par $i$, jouent un rôle fondamental dans le domaine de l'ingénierie électronique. Leur utilisation permet de décrire de manière précise et élégante le comportement complexe des circuits électroniques. En ingénierie électronique, où des signaux alternatifs sinusoidaux sont omniprésents, les nombres imaginaires deviennent des outils indispensables pour comprendre les phénomènes électriques et électroniques.
 Pour illustrer cette importance, considérons l'équation de base des circuits AC (courant alternatif) :
+$$V(t)=Vm​⋅cos(ωt+ϕ)$$
