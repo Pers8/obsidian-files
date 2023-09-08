@@ -12,4 +12,6 @@ tags:
 $\large Aire=\frac{F_A+F_B}{2} \times (x_A - x_A)$
 
 $Aire$:: Joule
-$\frac{F_+B}{2}$::
+$\large \frac{F_A+F_B}{2}$::Newton
+$(x_A - x_A)$:: Mètre
+
