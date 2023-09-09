@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,10 +188,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1030572bb5f4f24f",
+  "active": "e461754297756704",
   "lastOpenFiles": [
-    "Excalidraw/Ressort.md",
     "Travail d'une force variable (selon l'axe des x).md",
+    "Excalidraw/Ressort.md",
     "IB/Physics.md",
     "IB/Economy.md",
     "IB/📝Dashboard.md",
