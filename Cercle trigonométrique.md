@@ -15,7 +15,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 0}=$::$0$
 
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
-<!--SR:!2023-09-09,1,230-->
+<!--SR:!2023-09-22,11,250-->
 
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 
