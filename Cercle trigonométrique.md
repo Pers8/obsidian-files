@@ -56,14 +56,14 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-09-09,1,230-->
+<!--SR:!2023-09-12,1,210-->
 
 
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2023-09-09,1,230-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-09-09,1,230-->
+<!--SR:!2023-09-12,1,210-->
 
 
 ## Périodicité
@@ -79,7 +79,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(-\theta)=$::$-\sin(\theta)$
 
 - $\tan(-\theta)=$::$-\tan(\theta)$
-<!--SR:!2023-09-09,1,230-->
+<!--SR:!2023-09-21,10,250-->
 
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
