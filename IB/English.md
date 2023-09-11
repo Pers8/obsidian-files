@@ -120,7 +120,9 @@ $\star$ Explore cultural significance to gain deeper understanding
 - Understand the genre and purpose of the text is crucial for the context
 
 2. Contextualize the text 
-To contextualize the text explore the historical, social and cultural context in which the text was created. Consider the time period, location and relevant events and mouvement. For most of the time the authors
+To contextualize the text explore the historical, social and cultural context in which the text was created. Consider the time period, location and relevant events and movement. For most of the time the authors
+
+3. Analyse language choices
 
 
 ---
