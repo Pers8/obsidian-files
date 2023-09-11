@@ -141,7 +141,7 @@ Assess whether the text perpetuate stereotypes and biases relative to culture, e
 Identify and analyse cultural norms and values reflected in the text. And consider how the text promotes reinforce and challenge these norms.
 
 9. Analyse the impact
-Consider the impact 
+Consider the impact of the communication on the audience and society. Reflect on how the text 
 
 
 
