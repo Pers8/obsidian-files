@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/📝Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/📝Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "IB/📝Dashboard.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "IB/📝Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,12 +202,14 @@
   },
   "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
-    "IB/French.md",
+    "IB/Physics.md",
     "IB/📝Dashboard.md",
+    "IB/French.md",
+    "IB/EE.md",
+    "IB/English.md",
     "IA de Math & Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Excalidraw/Ressort.md",
-    "IB/Physics.md",
     "IB/Economy.md",
     "image-20230604182649685.png.md",
     "Excalidraw/Maths Question nombre complexe.md",
@@ -217,7 +219,6 @@
     "Excalidraw/Drawing 2023-02-09 03.37.16.excalidraw.md",
     "Néo-classique (monétariste).md",
     "Mouvement d'un projectile.md",
-    "IB/English.md",
     "IB/Maths.md",
     "Excalidraw/Physic travail variable.md",
     "Methods.md",
@@ -227,7 +228,6 @@
     "Le Cid.md",
     "Keynésienne.md",
     "image-20230505092514830.png.md",
-    "Identités trigonométriques.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
