@@ -135,7 +135,7 @@ Analyse the intended audience and purpose of the communication. Consider how lan
 If analysing visual texts, pay attention to the visual elements such as images, colors, layout and design. These can come with cultural meanings and messages.
 
 7. Evaluate stereotypes and bias
-Assess whether the text perpetuate stereotypes and biases relative to culture, ethnicity, gender or other social factors
+Assess whether the text perpetuate stereotypes and biases relative to culture, ethnicity, gender or other social factors.
 
 
 
