@@ -132,7 +132,11 @@ Look for cultural references, symbols or allusion within the text. These can inc
 Analyse the intended audience and purpose of the communication. Consider how language and content are tailored to resonate with specific audiences.
 
 6. Examine visual elements if applicable
-If analysing visual texts, pay attention to the visual elements such as images, colors, layout and design. These can come with cultural meanings and messages
+If analysing visual texts, pay attention to the visual elements such as images, colors, layout and design. These can come with cultural meanings and messages.
+
+7. Evaluate stereotypes and v
+
+
 
 
 
