@@ -118,10 +118,9 @@ $\star$ Explore cultural significance to gain deeper understanding
 - In identifying the text, we have to determine the type of communication you're analysing 
 *Ex : Advertisement, speech, social media, post, public signage* 
 - Understand the genre and purpose of the text is crucial for the context
-- Contextualize the text
 
-
-
+2. Contextualize the text 
+To contextualize the text epxlore the historoi
 
 
 ---
