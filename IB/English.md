@@ -123,6 +123,7 @@ $\star$ Explore cultural significance to gain deeper understanding
 To contextualize the text explore the historical, social and cultural context in which the text was created. Consider the time period, location and relevant events and movement. For most of the time the authors
 
 3. Analyse language choices
+Examine the language used in the text, 
 
 
 ---
