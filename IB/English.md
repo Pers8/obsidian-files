@@ -115,8 +115,9 @@ $\star$  [[The interactionist theory]]
 $\star$ Analysing various forms of literary and non literary texts
 $\star$ Explore cultural significance to gain deeper understanding
 
+In identifying the text, we have to determine the type of communication you're analysing 
 
-
+*Ex :*
 
 ---
 
