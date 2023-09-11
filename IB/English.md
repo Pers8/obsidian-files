@@ -2,7 +2,7 @@
 tags: [MOC,english]
 ---
 
-
+# 1er IB
 
 a) **guerrilla advertising :** is the creating use of novel or unconventional methods in order to boost sales or attract interest in a brand or business. These methods are often low- or no-cost and involve the widespread use of more personal interactions or through viral social media messaging.
 
@@ -109,6 +109,10 @@ $\star$  [[The innatism theory]]
 $\star$  [[The interactionist theory]]
 
 ---
+
+# Tle IB
+
+$\star$ Analyzing various forms of literary and non literary texts
 
 
 
