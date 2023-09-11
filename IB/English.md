@@ -112,8 +112,8 @@ $\star$  [[The interactionist theory]]
 
 # Tle IB
 
-$\star$ Analyzing various forms of literary and non literary texts
-
+$\star$ Analysing various forms of literary and non literary texts
+$\star$ Explore cultural significance to gain deeper understanding
 
 
 ---
