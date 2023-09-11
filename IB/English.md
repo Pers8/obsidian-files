@@ -126,7 +126,7 @@ To contextualize the text explore the historical, social and cultural context in
 Examine the language used in the text, including vocabulary, tones, style and rhetoric. Pay attention as well to any culturally specific words, phrases or expressions.
 
 4. Identify cultural references
-Look for cultural references, symbols or allusion within the text. These can include references to historii
+Look for cultural references, symbols or allusion within the text. These can include references to historical figures, myths, religious symbols or cultural icons
 
 
 ---
