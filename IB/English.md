@@ -143,6 +143,9 @@ Identify and analyse cultural norms and values reflected in the text. And consid
 9. Analyse the impact
 Consider the impact of the communication on the audience and society. Reflect on how the text attitude, behaviour or perception related to the culture 
 
+10. Draw a conclusion
+
+
 
 
 
