@@ -137,6 +137,9 @@ If analysing visual texts, pay attention to the visual elements such as images, 
 7. Evaluate stereotypes and bias
 Assess whether the text perpetuate stereotypes and biases relative to culture, ethnicity, gender or other social factors. Analyse how  these stereotypes reflect these cultural norms
 
+8. Explore cultural norms and values
+
+
 
 
 
