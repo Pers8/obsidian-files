@@ -1687,6 +1687,18 @@ h1 .bold {
 
     height: auto;
 
-    width: 300px;
+    width: 350px;
+
+    top: -37px;
+
+    left: -330px;
+
+    box-shadow:
+
+    0 0 10px #13C608,
+
+    0 0 40px #13C608,
+
+    0 0 70px #13C608;
 
 }
