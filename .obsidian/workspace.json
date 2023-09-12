@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "43d319cf5195081b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ed135ebd6005cce",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +212,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e461754297756704",
+  "active": "43d319cf5195081b",
   "lastOpenFiles": [
+    "IA de Math & Physics.md",
+    "Untitled 1.md",
     "IB/Comp Sci.md",
     "Comp Sci/ROM.md",
     "Comp Sci/Mémoire Primaire.md",
@@ -214,7 +228,6 @@
     "IB/French.md",
     "IB/EE.md",
     "IB/English.md",
-    "IA de Math & Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Excalidraw/Ressort.md",
     "image-20230604182649685.png.md",
@@ -227,7 +240,6 @@
     "Mouvement d'un projectile.md",
     "IB/Maths.md",
     "Excalidraw/Physic travail variable.md",
-    "Methods.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
