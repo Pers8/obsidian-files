@@ -1,5 +1,5 @@
   
-It doesn't work :/, here is the code and can you fix what I asked above
+It doesn't work :/, I want to move up the .CTR-front here is the code and can you fix what I asked above
 HTML :
 <!DOCTYPE html>
 
