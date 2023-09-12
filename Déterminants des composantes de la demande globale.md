@@ -38,7 +38,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 
 
 
-***Chacun d'entre nous porte seul la responsabilité de la forme éthique qu'il a donnée à sa propre vie.*
+
 
 
 
