@@ -150,11 +150,7 @@ To draw a conclusion, we generally talk about how the language and content of th
 
 
 What is a text :
-- When you think of a text, you might think of something written. However, in context of the Language A :Language and Literature course, a text is defined as anything from which information can be extracted, and includes the wildest range of oral, written and visual 
-
-
-
-
+- a **text** is any object that can be "read", whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing.
 
 
 
