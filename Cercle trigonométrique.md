@@ -56,6 +56,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
+<!--SR:!2023-09-16,3,263-->
 
 
 ### Autour de $\frac{\pi}{2}$
