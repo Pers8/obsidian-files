@@ -9,6 +9,7 @@ Created: 2023-06-05
 - $\cos^{2}x+\sin^{2}x=$::$1$
 
 - $1+\tan^{2}x=$::$\frac{1}{cos^{2}x}$
+<!--SR:!2023-09-14,1,226-->
 
 ## Formules d'addition
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
