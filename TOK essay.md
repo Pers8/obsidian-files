@@ -14,4 +14,5 @@ To explore a knowledge question, you need to :
 - Clarify the meaning of any key word or key terms in  the essay title.
 - Undercover hidden assumptions that are taken for granted.
 - Offer a thesis statement that answers the knowledge question.
-- Argue your case for your thesis with a clear argument or 
+- Argue your case for your thesis with a clear argument or a coherent sequence of ideas
+- Co
