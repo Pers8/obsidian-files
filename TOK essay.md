@@ -9,4 +9,4 @@ Writing a TOK essay is not so much about answering questions, rather it is about
 
 Because the TOK essay deals with open ended and contestable questions, there is an important personal element to it. 
 
-Why you may be ab
+While you may be able to learn form similar explorations made by others, it is important that your essay voices
