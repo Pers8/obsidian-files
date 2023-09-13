@@ -20,6 +20,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-22,11,250-->
 
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
+<!--SR:!2023-09-16,3,263-->
 
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-09-16,3,263-->
@@ -56,6 +57,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-16,3,263-->
 
 - $\sin(\pi+\theta)$=::$-\sin\theta$
+<!--SR:!2023-09-16,3,263-->
 
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-09-16,3,263-->
@@ -83,6 +85,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-14,1,223-->
 
 - $\sin(x+2k\pi)=$::$\sin(x)$
+<!--SR:!2023-09-16,3,263-->
 
 - $\tan(x+k\pi)=$::$\tan(x)$
 <!--SR:!2023-09-14,1,223-->
@@ -92,6 +95,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-16,3,263-->
 
 - $\sin(-\theta)=$::$-\sin(\theta)$
+<!--SR:!2023-09-14,1,223-->
 
 - $\tan(-\theta)=$::$-\tan(\theta)$
 <!--SR:!2023-09-21,10,250-->
