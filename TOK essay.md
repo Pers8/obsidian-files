@@ -18,5 +18,5 @@ To explore a knowledge question, you need to :
 - Consider different ways of thinking about the problem.
 - Investigate and evaluate different perspectives.
 - Identify, construct and evaluate both arguments and counter arguments.
-- Use specific examples or evidences.
+- Use specific examples or evidences to make a point or support a discussion.
 - 
