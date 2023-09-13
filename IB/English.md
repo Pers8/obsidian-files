@@ -150,13 +150,8 @@ To draw a conclusion, we generally talk about how the language and content of th
 
 
 What is a text :
-- 1. a **text** is any object that can be "read" (extract information), whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing.
-    
-2. _[_1:28 PM_]_
-    
-    modification
+- a **text** is any object that can be "read" (extract information), whether this object is a work of literature, a street sign, an arrangement of buildings on a city block, or styles of clothing.
 - 
-
 
 
 
