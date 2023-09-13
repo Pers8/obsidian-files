@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "TOK essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "TOK essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "TOK essay.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "TOK essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +214,10 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
-    "Context of composition or production.md",
+    "IB/TOK.md",
+    "TOK essay.md",
     "IB/English.md",
+    "Context of composition or production.md",
     "Structure.md",
     "Style.md",
     "Context of Interpretation or reception.md",
@@ -238,8 +240,6 @@
     "Excalidraw/Ressort.md",
     "image-20230604182649685.png.md",
     "Excalidraw/Maths Question nombre complexe.md",
-    "Energie cinétique (2).md",
-    "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",

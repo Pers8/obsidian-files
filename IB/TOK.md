@@ -20,7 +20,7 @@ $$\huge{Theory \hspace{2mm} Of \hspace{2mm} Knowleadge}$$
 - The Arts
 ### **Part 4 :** Assessment
 1. TOK  Exhibition : 950 words, optimal introduction and no conclusion ; 35 prompts.
-2. TOK essay $\rightarrow$ 1600 words.
+2. [[TOK essay]] $\rightarrow$ 1600 words.
 3. 6 prescribed essay titles.
 ### **Part 5 :** Framework
 1. Scope
