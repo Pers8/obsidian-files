@@ -6,6 +6,7 @@ tags:
 ## Lignes trigonométriques
 
 $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
+<!--SR:!2023-09-14,1,223-->
 
 
 ---
@@ -40,6 +41,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ### Autour de $\pi$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
+<!--SR:!2023-09-14,1,223-->
 
 - $\sin(\pi-\theta)$=::$\sin\theta$
 
@@ -75,6 +77,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
+<!--SR:!2023-09-16,3,263-->
 
 - $\sin(-\theta)=$::$-\sin(\theta)$
 
@@ -83,7 +86,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
-<!--SR:!2023-09-12,1,226-->
+<!--SR:!2023-09-19,6,246-->
 
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
@@ -91,3 +94,4 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
+<!--SR:!2023-09-14,1,223-->
