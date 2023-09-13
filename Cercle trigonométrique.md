@@ -23,6 +23,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
 
 - $\Large{\sin 90}=$::$1$
+<!--SR:!2023-09-16,3,263-->
 
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2023-10-01,18,290-->
@@ -32,6 +33,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
+<!--SR:!2023-09-16,3,263-->
 
 - $\Large{\cos 90}=$::$0$
 <!--SR:!2023-09-30,17,290-->
