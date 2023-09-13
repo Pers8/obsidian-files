@@ -12,4 +12,5 @@ Because the TOK essay deals with open ended and contestable questions, there is 
 To explore a knowledge question, you need to :
 - Explain what the problem in the essay title is and why it matters.
 - Clarify the meaning of any key word or key terms in  the essay title.
-- Undercover hidden assumptions
+- Undercover hidden assumptions that are taken for granted
+- Offer a thesis statement that answers the knowledge question
