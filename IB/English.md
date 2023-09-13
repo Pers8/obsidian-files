@@ -162,8 +162,12 @@ To draw a conclusion, we generally talk about how the language and content of th
 - Style
 - Context of composition/production
 
-
-à
+#### KEY CONSIDERATIONS Analysing texts: 5 keys considerations ?
+- [[Content]]
+ - [[Context of Interpretation or reception]]
+- [[Structure]]
+ - [[Style]]
+ - [[Context of composition or production]]
 
 
 

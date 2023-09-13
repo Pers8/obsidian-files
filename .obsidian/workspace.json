@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "Context of composition or production.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Context of composition or production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Context of composition or production.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Context of composition or production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,12 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
+    "IB/English.md",
+    "Context of composition or production.md",
+    "Style.md",
+    "Structure.md",
+    "Context of Interpretation or reception.md",
+    "Content.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "IA de Math & Physics.md",
     "Economy/Croissance économique a court et a long terme.md",
@@ -229,17 +235,11 @@
     "IB/Physics.md",
     "IB/French.md",
     "IB/EE.md",
-    "IB/English.md",
     "Excalidraw/Ressort.md",
     "image-20230604182649685.png.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "Energie cinétique (2).md",
     "Excalidraw/Drawing 2022-10-18 16.28.00.excalidraw.md",
-    "Excalidraw/Drawing 2022-12-06 16.57.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-09 03.37.16.excalidraw.md",
-    "Néo-classique (monétariste).md",
-    "Mouvement d'un projectile.md",
-    "IB/Maths.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
