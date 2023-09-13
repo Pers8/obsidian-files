@@ -154,6 +154,14 @@ To draw a conclusion, we generally talk about how the language and content of th
 #### **What is textual analysis**
 - Textual analysis :: is the systematic exanimation of a text or aspects. Analysis :: means to break down in order to bring out the essential element or structure. To identify parts and relationships, and to interpret information to reach conclusions.
 
+#### **Analysing texts: 5 keys considerations ?**
+
+- Content
+- Context of Interpretation/reception
+- Structure
+- Style
+- Context of composition/production
+
 
 
 
