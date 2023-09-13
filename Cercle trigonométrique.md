@@ -31,6 +31,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-01,18,290-->
 
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
+<!--SR:!2023-09-16,3,263-->
 
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-09-14,1,223-->
@@ -79,10 +80,12 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
+<!--SR:!2023-09-14,1,223-->
 
 - $\sin(x+2k\pi)=$::$\sin(x)$
 
 - $\tan(x+k\pi)=$::$\tan(x)$
+<!--SR:!2023-09-14,1,223-->
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
@@ -99,6 +102,7 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
+<!--SR:!2023-09-14,1,223-->
 
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2023-09-14,1,223-->
