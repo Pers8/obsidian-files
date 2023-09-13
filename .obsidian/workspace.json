@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure.md",
+                "file": "IB/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,10 +214,10 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
+    "Structure.md",
     "IB/English.md",
     "Context of composition or production.md",
     "Style.md",
-    "Structure.md",
     "Context of Interpretation or reception.md",
     "Content.md",
     "Travail d'une force variable (selon l'axe des x).md",
