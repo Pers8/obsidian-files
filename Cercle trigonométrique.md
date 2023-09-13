@@ -14,6 +14,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
+<!--SR:!2023-09-16,3,263-->
 
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-09-22,11,250-->
@@ -21,6 +22,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
+<!--SR:!2023-09-16,3,263-->
 
 - $\Large{\sin 90}=$::$1$
 <!--SR:!2023-09-16,3,263-->
@@ -31,6 +33,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
+<!--SR:!2023-09-14,1,223-->
 
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-09-16,3,263-->
@@ -54,6 +57,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\pi+\theta)$=::$-\sin\theta$
 
 - $\cos(2\pi-\theta)$=::$\cos\theta$
+<!--SR:!2023-09-16,3,263-->
 
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
 <!--SR:!2023-09-16,3,263-->
@@ -97,6 +101,7 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
+<!--SR:!2023-09-14,1,223-->
 
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
 <!--SR:!2023-09-14,1,223-->
