@@ -20,4 +20,6 @@ To explore a knowledge question, you need to :
 - Identify, construct and evaluate both arguments and counter arguments.
 - Use specific examples or evidences to make a point or support a discussion.
 - Assess and evaluate supportive evidences.
-- Make relevant connections, explore links and comparisons between areas of knowledge
+- Make relevant connections, explore links and comparisons between areas of knowledge.
+- Apply the 12 TOK concepts and ideas as you see fit.
+- 
