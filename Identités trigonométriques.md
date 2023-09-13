@@ -22,6 +22,7 @@ Created: 2023-06-05
 <!--SR:!2023-09-23,12,250-->
 
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
+<!--SR:!2023-09-14,1,226-->
 
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$
 
