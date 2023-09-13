@@ -17,4 +17,4 @@ To explore a knowledge question, you need to :
 - Argue your case for your thesis with a clear argument or a coherent sequence of ideas.
 - Consider different ways of thinking about the problem.
 - Investigate and evaluate different perspectives.
-- 
+- Identify, construct and evaluate 
