@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Structure.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +214,12 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
-    "Style.md",
     "IB/English.md",
+    "Context of composition or production.md",
+    "Style.md",
     "Structure.md",
     "Context of Interpretation or reception.md",
     "Content.md",
-    "Context of composition or production.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "IA de Math & Physics.md",
     "Economy/Croissance économique a court et a long terme.md",
