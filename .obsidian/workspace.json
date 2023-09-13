@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,13 +212,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e461754297756704",
+  "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
+    "Travail d'une force variable (selon l'axe des x).md",
+    "IA de Math & Physics.md",
     "Economy/Croissance économique a court et a long terme.md",
     "IB/Economy.md",
     "IB/Comp Sci.md",
     "Untitled 1.md",
-    "IA de Math & Physics.md",
     "Comp Sci/ROM.md",
     "Comp Sci/Mémoire Primaire.md",
     "Comp Sci/RAM.md",
@@ -229,7 +230,6 @@
     "IB/French.md",
     "IB/EE.md",
     "IB/English.md",
-    "Travail d'une force variable (selon l'axe des x).md",
     "Excalidraw/Ressort.md",
     "image-20230604182649685.png.md",
     "Excalidraw/Maths Question nombre complexe.md",
