@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,11 +212,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "43d319cf5195081b",
+  "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
-    "IA de Math & Physics.md",
-    "Untitled 1.md",
     "IB/Comp Sci.md",
+    "Untitled 1.md",
+    "IA de Math & Physics.md",
     "Comp Sci/ROM.md",
     "Comp Sci/Mémoire Primaire.md",
     "Comp Sci/RAM.md",
