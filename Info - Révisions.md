@@ -25,7 +25,7 @@
 
 *d.*   ![[Exo 5 - Info - Révisions 3]]
 ### Exo 3 :
-| Search | Description |  
+| SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <=
 | ----------- | ----------- |  
 | Header | Title |  
 | Paragraph | Text |
