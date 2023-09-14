@@ -19,4 +19,4 @@
 
 ### Exo 5 :
 *a.*  $1\times2^0+0\times2^1+1\times2^2+1\times2^3+0\times2^4+1\times2^5=45$
-*b.*  $$
+*b.*  ![[Exo 5 - Info - Révisions]]
