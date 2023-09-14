@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info - Révisions.md"
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
               }
             }
           },
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,14 +211,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "210affff923d8825",
+  "active": "85f343bdf186746d",
   "lastOpenFiles": [
-    "Excalidraw/Exo 5 - Info - Révisions 3.md",
-    "Excalidraw/Exo 5 - Info - Révisions 2.md",
-    "Info - Révisions.md",
-    "Excalidraw/Exo 5 - Info - Révisions.md",
     "IA de Math & Physics.md",
     "Comp Sci/Personal Area Network (PAN).md",
+    "Info - Révisions.md",
+    "Excalidraw/Exo 5 - Info - Révisions 3.md",
+    "Excalidraw/Exo 5 - Info - Révisions 2.md",
+    "Excalidraw/Exo 5 - Info - Révisions.md",
     "Comp Sci/Réseaux(2).md",
     "Comp Sci/Wireless Local Area Network (WLAN).md",
     "Comp Sci/Storage Area Network (SAN).md",
