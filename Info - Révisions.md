@@ -23,5 +23,4 @@
 *b.*  ![[Exo 5 - Info - Révisions]]
 *c.*  ![[Exo 5 - Info - Révisions 2]]
 
-*d.*   
- $\LARGE 1\times2^0+0\times2^1+1\times2^2+0\times2^3+0\times2^4+1\times2^5+0\times2^6+1\times2^7=165_{(10)}$
+*d.*   ![[Exo 5 - Info - Révisions 3]]
