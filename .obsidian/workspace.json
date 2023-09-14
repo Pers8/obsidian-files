@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md"
+                "file": "Travail d'une force variable (selon l'axe des x).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Mouvement rectiligne uniforme.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +215,8 @@
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Energie cinétique (2).md",
+    "Physics/Mouvement rectiligne uniforme.md",
     "IB/English.md",
     "IB/TOK.md",
     "TOK essay.md",
@@ -238,8 +240,6 @@
     "IB/French.md",
     "IB/EE.md",
     "Excalidraw/Ressort.md",
-    "image-20230604182649685.png.md",
-    "Excalidraw/Maths Question nombre complexe.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",

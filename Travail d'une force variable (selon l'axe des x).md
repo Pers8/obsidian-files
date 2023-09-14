@@ -9,7 +9,7 @@ tags:
 
 **Formule de l'aire :**
 ?
-$\large Aire=\frac{F_A+F_B}{2} \times (x_A - x_B)$
+$$\large Aire=\frac{F_A+F_B}{2} \times (x_A - x_B)$$
 
 - $Aire$ =:: Joule
 - $\large \frac{F_A+F_B}{2}$ =::Newton
