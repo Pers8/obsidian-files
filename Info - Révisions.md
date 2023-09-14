@@ -24,4 +24,5 @@
 *c.*  ![[Exo 5 - Info - Révisions 2]]
 
 *d.*   
- $1\times2^0+0\times2^1+1\times2^2+1\times2^3+0\times2^4+1\times2^5=45_{(10)}$
+ $1\times2^0+0\times2^1+1\times2^2+0\times2^3+0\times2^4+1\times2^5=45_{(10)}$
+![[Pasted image 20230914164321.png]]
