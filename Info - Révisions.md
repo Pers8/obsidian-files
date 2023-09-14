@@ -19,6 +19,7 @@
 
 ### Exo 5 :
 *a.*  $1\times2^0+0\times2^1+1\times2^2+1\times2^3+0\times2^4+1\times2^5=45_{(10)}$
+
 *b.*  ![[Exo 5 - Info - Révisions]]
 *c.*  ![[Exo 5 - Info - Révisions 2]]
 
