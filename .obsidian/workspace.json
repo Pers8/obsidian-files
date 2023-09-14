@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +214,7 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
+    "Travail d'une force variable (selon l'axe des x).md",
     "IB/Physics.md",
     "Energie cinétique (2).md",
     "Physics/Mouvement rectiligne uniforme.md",
@@ -225,7 +226,6 @@
     "Style.md",
     "Context of Interpretation or reception.md",
     "Content.md",
-    "Travail d'une force variable (selon l'axe des x).md",
     "IA de Math & Physics.md",
     "Economy/Croissance économique a court et a long terme.md",
     "IB/Economy.md",
