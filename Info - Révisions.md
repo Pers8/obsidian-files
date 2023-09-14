@@ -25,7 +25,7 @@
 
 *d.*   ![[Exo 5 - Info - Révisions 3]]
 ### Exo 3 :
-| SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? | MIDPOS | ARR[MIDPOS] | Output |
+| **SEARCHVAL** | **FOUND** |  **MAXPOS** | **MINPOS** | **MINPOS <= MAXPOS and not FOUND?** | **MIDPOS** | **ARR[MIDPOS]** | **Output** |
 | ----------- | ----------- |  ----------- |  ----------- |  ----------- |  ----------- |  ----------- |  ----------- |  
 | Header | Title |  Title |  Title |  Title |  Title |  Title |  Title |  
 | Paragraph | Text | Title |  Title |  Title |  Title |  Title |  Title |  
