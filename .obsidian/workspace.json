@@ -21,11 +21,9 @@
             "id": "1030572bb5f4f24f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IB/Physics.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Econ.md"
               }
             }
           },
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Econ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Excalidraw/Econ.md"
               }
             }
           },
@@ -181,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Econ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +212,9 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
-    "Travail d'une force variable (selon l'axe des x).md",
     "IB/Physics.md",
+    "Excalidraw/Econ.md",
+    "Travail d'une force variable (selon l'axe des x).md",
     "Energie cinétique (2).md",
     "Physics/Mouvement rectiligne uniforme.md",
     "IB/English.md",
@@ -239,7 +238,6 @@
     "IB/📝Dashboard.md",
     "IB/French.md",
     "IB/EE.md",
-    "Excalidraw/Ressort.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
