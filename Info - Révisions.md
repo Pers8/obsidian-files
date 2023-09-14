@@ -18,3 +18,4 @@
 - **PAN :** Le PAN est un réseau qui interconnecte les périphériques centrés sur l'espace de travail d'une personne. 
 
 ### Exo 5 :
+a. 
