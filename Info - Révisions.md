@@ -24,3 +24,4 @@
 *c.*  ![[Exo 5 - Info - Révisions 2]]
 
 *d.*   ![[Exo 5 - Info - Révisions 3]]
+### Exo 3 :
