@@ -11,19 +11,11 @@
             "id": "85f343bdf186746d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Maths Question nombre complexe.md"
-              }
-            }
-          },
-          {
-            "id": "1030572bb5f4f24f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Info - Revisions.md"
+                "file": "Info - Révisions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -63,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Info - Revisions.md",
+                "file": "Info - Révisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Info - Revisions.md"
+                "file": "Info - Révisions.md"
               }
             }
           },
@@ -179,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Info - Revisions.md",
+                "file": "Info - Révisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,11 +201,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1030572bb5f4f24f",
+  "active": "85f343bdf186746d",
   "lastOpenFiles": [
-    "Excalidraw/Econ.md",
+    "Untitled 1.md",
+    "Excalidraw/Maths Question nombre complexe.md",
     "Excalidraw/Info - Revisions.md",
-    "Untitled 2.md",
+    "Excalidraw/Econ.md",
+    "Info - Révisions.md",
     "IB/Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Energie cinétique (2).md",
@@ -231,13 +224,11 @@
     "Economy/Croissance économique a court et a long terme.md",
     "IB/Economy.md",
     "IB/Comp Sci.md",
-    "Untitled 1.md",
     "Comp Sci/ROM.md",
     "Comp Sci/Mémoire Primaire.md",
     "Comp Sci/RAM.md",
     "Déterminants des composantes de la demande globale.md",
     "Demande globale.md",
-    "IB/📝Dashboard.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
