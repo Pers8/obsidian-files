@@ -10,13 +10,9 @@
 
 
 ### Exo 4 :
-- **LAN :** 
-- **WAN :**
+- **LAN :** Un réseau local est un réseau informatique qui relie des systèmes informatiques situés dans une zone géographique limitée, comme une pièce, une maison, un immeuble de bureaux ou une école.
+- **WAN :** 
 - **VLAN :**
 - **SAN :**
 - **WLAN :**
--  **Internet :**
-- **Intranet :**
-- **VPN :**
 - **PAN :**
-- **P2P :**
