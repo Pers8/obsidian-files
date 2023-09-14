@@ -10,13 +10,13 @@
 
 
 ### Exo 4 :
-**-   LAN :**
--   WAN :
--   VLAN :
--   SAN :
--   WLAN :
--   Internet :
--   Intranet :
--   VPN :
--   PAN :
--   P2P :
+- **LAN :**
+- **WAN :**
+- **VLAN :**
+- **SAN :**
+- **WLAN :**
+-  **Internet :**
+- **Intranet :**
+- **VPN :**
+- PAN :**
+- P2P :**
