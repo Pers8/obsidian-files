@@ -10,13 +10,13 @@
 
 
 ### Exo 4 :
--   [[Local Area Network (LAN)]]
--   [[Wide Area Network (WAN)]]
--   [[Virtual Local Area Network (VLAN)]]
--   [[Storage Area Network (SAN)]]
--   [[Wireless Local Area Network (WLAN)]]
--   [[Internet]]
--   [[Intranet]]
--   [[Virtual Private Network (VPN)]]
--   [[Personal Area Network (PAN)]]
--   [[Peer-to-Peer (P2P)]]
+-   LAN
+-   Wide Area Network (WAN
+-   Virtual Local Area Network (VLAN
+-   Storage Area Network (SAN
+-   Wireless Local Area Network (WLAN
+-   Internet
+-   Intranet
+-   Virtual Private Network (VPN
+-   Personal Area Network (PAN
+-   Peer-to-Peer (P2P)
