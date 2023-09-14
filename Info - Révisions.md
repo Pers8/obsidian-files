@@ -18,5 +18,6 @@
 - **PAN :** Le PAN est un réseau qui interconnecte les périphériques centrés sur l'espace de travail d'une personne. 
 
 ### Exo 5 :
-*a.*  $1\times2^0+0\times2^1+1\times2^2+1\times2^3+0\times2^4+1\times2^5=45$
+*a.*  $1\times2^0+0\times2^1+1\times2^2+1\times2^3+0\times2^4+1\times2^5=45_{(10)}$
 *b.*  ![[Exo 5 - Info - Révisions]]
+*c.*  
