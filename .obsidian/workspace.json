@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Econ.md"
+                "file": "Excalidraw/Info - Revisions.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Econ.md",
+                "file": "Excalidraw/Info - Revisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Econ.md"
+                "file": "Excalidraw/Info - Revisions.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Econ.md",
+                "file": "Excalidraw/Info - Revisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,8 +212,10 @@
   },
   "active": "1030572bb5f4f24f",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Excalidraw/Econ.md",
+    "Excalidraw/Info - Revisions.md",
+    "Untitled 2.md",
+    "IB/Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Energie cinétique (2).md",
     "Physics/Mouvement rectiligne uniforme.md",
@@ -236,8 +238,6 @@
     "Déterminants des composantes de la demande globale.md",
     "Demande globale.md",
     "IB/📝Dashboard.md",
-    "IB/French.md",
-    "IB/EE.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
