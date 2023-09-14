@@ -20,4 +20,4 @@
 ### Exo 5 :
 *a.*  $1\times2^0+0\times2^1+1\times2^2+1\times2^3+0\times2^4+1\times2^5=45_{(10)}$
 *b.*  ![[Exo 5 - Info - Révisions]]
-*c.*  
+*c.*  Convertissons $0101\hspace{1mm}1110$  en décil
