@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 2.md"
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
               }
             }
           },
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info - Révisions.md"
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
               }
             }
           },
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,9 +211,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "210affff923d8825",
+  "active": "85f343bdf186746d",
   "lastOpenFiles": [
     "Excalidraw/Exo 5 - Info - Révisions 2.md",
+    "Excalidraw/Exo 5 - Info - Révisions 3.md",
     "Info - Révisions.md",
     "Excalidraw/Exo 5 - Info - Révisions.md",
     "IA de Math & Physics.md",
@@ -239,7 +239,6 @@
     "Travail d'une force variable (selon l'axe des x).md",
     "Energie cinétique (2).md",
     "Physics/Mouvement rectiligne uniforme.md",
-    "IB/English.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
