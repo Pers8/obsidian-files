@@ -23,4 +23,4 @@
 *b.*  ![[Exo 5 - Info - Révisions]]
 *c.*  ![[Exo 5 - Info - Révisions 2]]
 
-*d.*  
+*d.*  *
