@@ -15,4 +15,5 @@
 - **VLAN :** Un réseau local virtue l (VLAN) est un groupe logique de stations de travail, de serveurs et de périphériques réseau qui semblent appartenir au même réseau local malgré leur répartition géographique. 
 - **SAN :** Un SAN est un réseau créé pour que les grands dispositifs de stockage puissent être accessibles depuis les serveurs de manière pratique et facile.
 - **WLAN :** Un WLAN relie deux ou plusieurs systèmes informatiques dans une zone géographique limitée, comme un réseau local. La différence avec un réseau local est que les périphériques WLAN sont connectés à l'aide d'une méthode de connexion sans fil.
-- **PAN :**
+- **PAN :** Le PAN est un réseau qui interconnecte les périphériques centrés sur l'espace de travail d'une personne. 
+

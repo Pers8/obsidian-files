@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Wireless Local Area Network (WLAN).md",
+                "file": "Comp Sci/Personal Area Network (PAN).md",
                 "mode": "source",
                 "source": false
               }
@@ -204,8 +204,9 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
-    "Comp Sci/Wireless Local Area Network (WLAN).md",
+    "Comp Sci/Personal Area Network (PAN).md",
     "Comp Sci/Réseaux(2).md",
+    "Comp Sci/Wireless Local Area Network (WLAN).md",
     "Info - Révisions.md",
     "Comp Sci/Storage Area Network (SAN).md",
     "Comp Sci/Virtual Local Area Network (VLAN).md",
@@ -229,7 +230,6 @@
     "IB/English.md",
     "IB/TOK.md",
     "TOK essay.md",
-    "Context of composition or production.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
