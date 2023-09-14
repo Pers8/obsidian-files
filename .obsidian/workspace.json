@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Comp Sci/Réseaux(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info - Révisions.md"
+                "file": "Comp Sci/Réseaux(2).md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Comp Sci/Réseaux(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +203,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "85f343bdf186746d",
+  "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
+    "Info - Révisions.md",
     "IA de Math & Physics.md",
     "Untitled 1.md",
     "Comp Sci/Réseaux(2).md",
@@ -213,7 +215,6 @@
     "Comp Sci/Transmission de données.md",
     "Comp Sci/Fondamentaux des réseaux.md",
     "Economy/Croissance économique a court et a long terme.md",
-    "Info - Révisions.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "Excalidraw/Info - Revisions.md",
     "Excalidraw/Econ.md",
