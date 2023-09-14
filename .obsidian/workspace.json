@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info - Révisions.md"
+                "file": "Economy/Croissance économique a court et a long terme.md"
               }
             }
           },
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info - Révisions.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,13 +202,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "85f343bdf186746d",
+  "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
     "Untitled 1.md",
+    "Info - Révisions.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "Excalidraw/Info - Revisions.md",
     "Excalidraw/Econ.md",
-    "Info - Révisions.md",
     "IB/Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Energie cinétique (2).md",
