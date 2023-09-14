@@ -24,5 +24,4 @@
 *c.*  ![[Exo 5 - Info - Révisions 2]]
 
 *d.*   
- $1\times2^0+0\times2^1+1\times2^2+0\times2^3+0\times2^4+1\times2^5+0\times2^6+1\times2^7=45_{(10)}$
-![[Pasted image 20230914164321.png]]
+ $\LARGE 1\times2^0+0\times2^1+1\times2^2+0\times2^3+0\times2^4+1\times2^5+0\times2^6+1\times2^7=165_{(10)}$
