@@ -30,7 +30,7 @@ $$\Large E_{pp}=mgz + \cancel c$$
 $$\Large E_{Pe}=\frac{1}{2}kx^2+ \cancel c$$
 $$\Large E_{P_{élect}}=qv + \cancel c$$
 
-c est une constante oiur no
+c est une constante pour notre cours  
 
 
 
