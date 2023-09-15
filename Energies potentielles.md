@@ -4,4 +4,4 @@ tags:
 ---
 # Energies potentielles
 
-A une force conservat
+A une force conservatrice, on peut associer une énergie potentielle
