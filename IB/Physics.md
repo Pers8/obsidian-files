@@ -55,7 +55,7 @@ $$
 
 ### 2. Energies potentielles et énergie mécanique
 
-
+1. [[Energies potentielles]]
 
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
