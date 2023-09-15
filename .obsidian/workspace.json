@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Energie mécanique (énergie totale).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,9 @@
   },
   "active": "210affff923d8825",
   "lastOpenFiles": [
-    "Energies potentielles.md",
     "IB/Physics.md",
+    "Energie mécanique (énergie totale).md",
+    "Energies potentielles.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Info - Révisions.md",
     "syntax/Obsidian Basic  and Extended Syntax.md",
@@ -252,7 +253,6 @@
     "Economy/Croissance économique a court et a long terme.md",
     "Excalidraw/Maths Question nombre complexe.md",
     "Excalidraw/Info - Revisions.md",
-    "Excalidraw/Econ.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",

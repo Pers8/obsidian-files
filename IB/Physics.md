@@ -56,7 +56,7 @@ $$
 ### 2. Energies potentielles et énergie mécanique
 
 1. [[Energies potentielles]]
-2. [[Energie mécanique (énergie totale) $E_M$]]
+2. [[Energie mécanique (énergie totale)]]
 
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
