@@ -27,11 +27,11 @@ $$\Large \Delta E_{P_{élec}}=E_{P_{élec_B}}-E_{P_{élec_A}}=q(v_B-v_A)$$
 Les expresusions des énergies potentielles seront :
 ?
 $$\Large E_{pp}=mgz + \cancel c$$
-$$\Large E_{Pe}=mgz + \cancel c$$
+$$\Large E_{Pe}=\frac{1}{}+ \cancel c$$
 
 
 
 
 C'est la somme de l'énergie cinétique et de ou des énergies potentielles
 
-L'énergie méchanique
+L'énergie méchanique d'un solide soumis qu'à des forces conservatives se conservent
