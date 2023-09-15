@@ -21,7 +21,11 @@ $$\Large \Delta E_{Pe}=E_{Pe_B}-E_{Pe_A}=\frac{1}{2}k\Delta (x^2)=\frac{1}{2}k({
 
 **Energie potentielle électrique**
 ?
-$$\Large \Delta E_{P_{élec}}=E_{P_{élec}}$$
+$$\Large \Delta E_{P_{élec}}=E_{P_{élec_B}}-E_{P_{élec_A}}=q(v_B-v_A)$$
+
+
+Les expresusions des énergie
+
 
 
 
