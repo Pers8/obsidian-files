@@ -14,6 +14,16 @@ $$\Large \Delta E_p = W_{A \rightarrow B} (\vec{F_{op}}) =-W_{A \rightarrow B}(F
 ?
 $$\Large \Delta E_{pp}=E_{pp_B}-E_{pp_A}=mg\Delta h=mg(z_B-z_A)$$
 
+
 **Energie potentielle élastique**
 ?
-$$\Large \Delta E_{Pe}=E_{Pe_B}-E_{Pe_A}=\frac{1}{2}k\Delta (x^2)=\frac{1}{2}k({x_B-x_A)$$
+$$\Large \Delta E_{Pe}=E_{Pe_B}-E_{Pe_A}=\frac{1}{2}k\Delta (x^2)=\frac{1}{2}k({x_B}^2-{x_A}^2)$$
+
+**Energie potentielle élastique**
+?
+
+
+
+
+
+C'est la somme de l'énergie cinétique et de ou 
