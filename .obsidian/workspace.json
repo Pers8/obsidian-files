@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Energie mécanique (énergie totale).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,8 @@
   },
   "active": "210affff923d8825",
   "lastOpenFiles": [
-    "Energie cinétique (2).md",
     "IB/Physics.md",
+    "Energie cinétique (2).md",
     "Energie mécanique (énergie totale).md",
     "Energies potentielles.md",
     "Travail d'une force variable (selon l'axe des x).md",
