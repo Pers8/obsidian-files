@@ -10,4 +10,10 @@ A une force conservatrice, on peut associer une énergie potentielle
 Ex: ($\vec{P}$, $\vec{T}$, $\vec{F_e}$, $\vec{F_{grav}}$ )*
 $$\Large \Delta E_p = W_{A \rightarrow B} (\vec{F_{op}}) =-W_{A \rightarrow B}(F_{conserv)}$$
 
-**Energie potentielle de pesanteur**::$$\Large \Delta E_{pp}=E_{pp_B}-E_{pp_A}=mg\Delta h=mg(z_B-z_A)$$
+**Energie potentielle de pesanteur**
+?
+$$\Large \Delta E_{pp}=E_{pp_B}-E_{pp_A}=mg\Delta h=mg(z_B-z_A)$$
+
+**Energie potentielle élastique**
+?
+$$\Large \Delta E_{Pe}=E_{pp_B}-E_{pp_A}=mg\Delta h=mg(z_B-z_A)$$
