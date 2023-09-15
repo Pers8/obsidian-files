@@ -30,11 +30,7 @@ $$\Large E_{pp}=mgz + \cancel c$$
 $$\Large E_{Pe}=\frac{1}{2}kx^2+ \cancel c$$
 $$\Large E_{P_{élect}}=qv + \cancel c$$
 
-c est une constante pour notre cours  
+c est une constante pour notre cours  c = 0 quand z = 0 ou x = 0 ou v = 0
 
 
 
-
-C'est la somme de l'énergie cinétique et de ou des énergies potentielles
-
-L'énergie méchanique d'un solide soumis qu'à des forces conservatives se conservent
