@@ -9,8 +9,6 @@ tags:
 L'énergie mécanique est:: la somme de l'énergie cinétique et de ou des énergies potentielles.
 $$\Large E_{M}=E_{C}+E_{P}$$
 
-L'énergie méchanique d'un solide soumis qu'à des forces conservatives se conservent
-
 ### Conservation de l'énergie mécanique
 L'énergie mécanique d'un solide sous mis qu'a des force conservative se conserve
 $$E_{M}=0$$
