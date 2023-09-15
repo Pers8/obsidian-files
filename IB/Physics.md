@@ -53,6 +53,8 @@ $$
 5. [[Travail d'une force variable (selon l'axe des x)]]
 6. [[Energie cinétique (2)]]
 
+### 2. Energies potentielles et énergie mécanique
+
 
 
 # Theme 3- Physique thermique
