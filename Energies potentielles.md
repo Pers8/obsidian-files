@@ -27,7 +27,10 @@ $$\Large \Delta E_{P_{élec}}=E_{P_{élec_B}}-E_{P_{élec_A}}=q(v_B-v_A)$$
 Les expresusions des énergies potentielles seront :
 ?
 $$\Large E_{pp}=mgz + \cancel c$$
-$$\Large E_{Pe}=\frac{1}{}+ \cancel c$$
+$$\Large E_{Pe}=\frac{1}{2}kx^2+ \cancel c$$
+$$\Large E_{P_{élect}}=qv + \cancel c$$
+
+c est une constante oiur no
 
 
 
