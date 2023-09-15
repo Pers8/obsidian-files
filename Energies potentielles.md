@@ -26,9 +26,12 @@ $$\Large \Delta E_{P_{élec}}=E_{P_{élec_B}}-E_{P_{élec_A}}=q(v_B-v_A)$$
 
 Les expresusions des énergies potentielles seront :
 ?
-$$\Large E_p$$
+$$\Large E_{pp}=mgz + \cancel c$$
+$$\Large E_{Pe}=mgz + \cancel c$$
 
 
 
 
 C'est la somme de l'énergie cinétique et de ou des énergies potentielles
+
+L'énergie méchanique
