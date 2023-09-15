@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energies potentielles.md"
+                "file": "Energie mécanique (énergie totale).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,9 +225,9 @@
   "active": "210affff923d8825",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
     "Energie cinétique (2).md",
-    "Energies potentielles.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Info - Révisions.md",
     "syntax/Obsidian Basic  and Extended Syntax.md",
