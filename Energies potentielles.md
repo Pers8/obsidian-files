@@ -16,4 +16,4 @@ $$\Large \Delta E_{pp}=E_{pp_B}-E_{pp_A}=mg\Delta h=mg(z_B-z_A)$$
 
 **Energie potentielle élastique**
 ?
-$$\Large \Delta E_{Pe}=E_{Pe_B}-E_{Pe_A}=\frac{}{}\Delta h=mg(z_B-z_A)$$
+$$\Large \Delta E_{Pe}=E_{Pe_B}-E_{Pe_A}=\frac{1}{2}k\Delta (x^2)=\frac{1}{2}k({x_B-x_A)$$
