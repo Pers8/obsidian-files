@@ -6,7 +6,8 @@ tags:
 
 ### a ) Définition
 
-C'est la somme de l'énergie cinétique et de ou des énergies potentielles.
+L'énergie mécanique est:: la somme de l'énergie cinétique et de ou des énergies potentielles.
+$$E_{M}=E_{C}+E_{P}$$
 
 L'énergie méchanique d'un solide soumis qu'à des forces conservatives se conservent
 
