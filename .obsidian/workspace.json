@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Travail d'une force variable (selon l'axe des x).md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force variable (selon l'axe des x).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,8 @@
   },
   "active": "210affff923d8825",
   "lastOpenFiles": [
-    "Energies potentielles.md",
     "IB/Physics.md",
+    "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
     "Energie cinétique (2).md",
     "Travail d'une force variable (selon l'axe des x).md",
