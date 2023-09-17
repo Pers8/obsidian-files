@@ -32,7 +32,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-01,18,290-->
 
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
-<!--SR:!2023-09-16,3,263-->
+<!--SR:!2023-10-02,15,283-->
 
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-09-14,1,223-->
