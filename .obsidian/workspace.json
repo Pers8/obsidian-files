@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,11 +224,11 @@
   },
   "active": "210affff923d8825",
   "lastOpenFiles": [
+    "Travail d'une force variable (selon l'axe des x).md",
     "IB/Physics.md",
     "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
     "Energie cinétique (2).md",
-    "Travail d'une force variable (selon l'axe des x).md",
     "Info - Révisions.md",
     "syntax/Obsidian Basic  and Extended Syntax.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
