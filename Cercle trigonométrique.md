@@ -93,7 +93,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
-<!--SR:!2023-09-16,3,263-->
+<!--SR:!2023-09-19,2,243-->
 
 - $\sin(-\theta)=$::$-\sin(\theta)$
 <!--SR:!2023-09-18,1,203-->
