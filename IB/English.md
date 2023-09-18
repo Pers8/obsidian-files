@@ -178,7 +178,7 @@ To draw a conclusion, we generally talk about how the language and content of th
 - Mood - The feeling that is evoked in the reader (or audiences) as a result of the tone that is set.
 
 
-
+[[Approaches to non-literary texts]]
 
 
 

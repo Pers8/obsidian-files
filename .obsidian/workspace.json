@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "Approaches to non-literary texts.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Approaches to non-literary texts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Approaches to non-literary texts.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Approaches to non-literary texts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +224,8 @@
   },
   "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
+    "IB/English.md",
+    "Approaches to non-literary texts.md",
     "IB/French.md",
     "IB/Maths.md",
     "Comp Sci/Personal Area Network (PAN).md",
@@ -251,8 +253,6 @@
     "IB/Comp Sci.md",
     "Réseaux sans fil.md",
     "Composants matériels et logiciels d'un réseau sans fil..md",
-    "Comp Sci/Transmission de données.md",
-    "Comp Sci/Fondamentaux des réseaux.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
