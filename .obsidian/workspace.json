@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Personal Area Network (PAN).md",
+                "file": "IB/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +222,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "43d319cf5195081b",
+  "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
+    "IB/French.md",
+    "IB/Maths.md",
+    "Comp Sci/Personal Area Network (PAN).md",
+    "Untitled 1.md",
     "IB/Physics.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Energies potentielles.md",
@@ -236,7 +240,6 @@
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
     "IA de Math & Physics.md",
-    "Comp Sci/Personal Area Network (PAN).md",
     "Excalidraw/Exo 5 - Info - Révisions 2.md",
     "Excalidraw/Exo 5 - Info - Révisions.md",
     "Comp Sci/Réseaux(2).md",
@@ -245,14 +248,11 @@
     "Comp Sci/Virtual Local Area Network (VLAN).md",
     "Comp Sci/Wide Area Network (WAN).md",
     "Comp Sci/Local Area Network (LAN).md",
-    "Untitled 1.md",
     "IB/Comp Sci.md",
     "Réseaux sans fil.md",
     "Composants matériels et logiciels d'un réseau sans fil..md",
     "Comp Sci/Transmission de données.md",
     "Comp Sci/Fondamentaux des réseaux.md",
-    "Economy/Croissance économique a court et a long terme.md",
-    "Excalidraw/Maths Question nombre complexe.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
