@@ -31,3 +31,7 @@ Literary works can generally be grouped into four main forms:
 
 - An initial reading of any text should focus on content. Only once you have grasped the literal meaning of the text can you begin to consider other layers of meaning. If you start by developing a solid understanding of the content of the text (the what), then you will be able to work towards a more nuanced understanding of the style of the text (the how and why). Jumping in to an analysis of style first will only demonstrate a lack of foundational knowledge.
 
+## Author's message 
+
+- As you examine the content of a text, you need to ask yourself what the author's message is. This is not necessarily the same thing as the purpose of the text. The central message is related to larger themes that the text reflects. 
+- The following extract from Elizabeth Gilbert's travel memoir Eat Pray Love is a good example of a text with a central message that is distinct from its purpose.
