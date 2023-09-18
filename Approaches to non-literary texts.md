@@ -27,3 +27,7 @@ Literary works can generally be grouped into four main forms:
 - Additionally, we do not want to suggest that you should adopt a linear approach to analysing a text; you may find that tone is the first thing that jumps out at you, or you may be attuned to picking up on o figurative language as you read.
 - The purpose « these exercises is to give you the tools to analyse with more confidence.
 
+## Content 
+
+- An initial reading of any text should focus on content. Only once you have grasped the literal meaning of the text can you begin to consider other layers of meaning. If you start by developing a solid understanding of the content of the text (the what), then you will be able to work towards a more nuanced understanding of the style of the text (the how and why). Jumping in to an analysis of style first will only demonstrate a lack of foundational knowledge.
+
