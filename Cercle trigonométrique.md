@@ -113,4 +113,4 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 <!--SR:!2023-09-18,1,203-->
 
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
-<!--SR:!2023-09-14,1,223-->
+<!--SR:!2023-09-20,1,203-->
