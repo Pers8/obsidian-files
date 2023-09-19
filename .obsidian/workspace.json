@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "Poussée d'Archimede.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "Poussée d'Archimede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tension d'un ressort.md"
+                "file": "Poussée d'Archimede.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tension d'un ressort.md",
+                "file": "Poussée d'Archimede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,9 @@
   "active": "43d319cf5195081b",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Poussée d'Archimede.md",
     "Tension d'un ressort.md",
+    "assets/Pasted image 20230919145746.png",
     "Tension d'un fil.md",
     "assets/Pasted image 20230919145526.png",
     "Réaction d'un support.md",
@@ -274,14 +276,12 @@
     "Travail d'une force variable (selon l'axe des x).md",
     "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
-    "Energie cinétique (2).md",
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
-    "assets/Pasted image 20230906083059.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
