@@ -42,6 +42,9 @@ To draw a conclusion, we generally talk about how the language and content of th
 - A **text** is:: defined as anything from which information can be extracted, and includes the widest range of oral, written and visual materials present in society (image, literary and non-literary written text and extracts, media texts, radio and television programs,...)
 #### **What is textual analysis**
 ?
+- Textual analysis is a systematic examination of a text or aspects.
+
+#### ****
 - To break down in order to bring out essential elements or structure.
 
 #### **Analysing texts: 5 keys considerations**
