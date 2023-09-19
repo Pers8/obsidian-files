@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approaches to non-literary texts.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Approaches to non-literary texts.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Approaches to non-literary texts.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Approaches to non-literary texts.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,6 +246,7 @@
   },
   "active": "2481481153b13751",
   "lastOpenFiles": [
+    "Approaches to non-literary texts.md",
     "Tle IB English.md",
     "IB/English.md",
     "IA de Math & Physics.md",
@@ -256,7 +257,6 @@
     "Excalidraw/Physic projectile motion exercice.md",
     "assets/Pasted Image 20230919121204_431.png",
     "Travel Writing.md",
-    "Approaches to non-literary texts.md",
     "IB/French.md",
     "IB/Maths.md",
     "Comp Sci/Personal Area Network (PAN).md",
