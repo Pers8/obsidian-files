@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content.md",
+                "file": "Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content.md",
+                "file": "Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content.md"
+                "file": "Structure.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content.md",
+                "file": "Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,6 +247,8 @@
   "active": "2481481153b13751",
   "lastOpenFiles": [
     "Tle IB English.md",
+    "Context of Interpretation or reception.md",
+    "Content.md",
     "Approaches to non-literary texts.md",
     "IB/English.md",
     "IA de Math & Physics.md",
@@ -274,8 +276,6 @@
     "Excalidraw/Exo 5 - Info - Révisions.md",
     "Comp Sci/Réseaux(2).md",
     "Comp Sci/Wireless Local Area Network (WLAN).md",
-    "Comp Sci/Storage Area Network (SAN).md",
-    "Comp Sci/Virtual Local Area Network (VLAN).md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
