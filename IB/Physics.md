@@ -25,11 +25,11 @@ $$
 
 ### 1. Exemple de forces
 
-1. [Force a distance](app://obsidian.md/Force%20a%20distance)
-2. [Réaction d'un support](app://obsidian.md/R%C3%A9action%20d'un%20support)
+1. [Force a distance]
+2. [Réaction d'un support]
 3. [Tension d'un fil](app://obsidian.md/Tension%20d'un%20fil)
-4. [Tension d'un ressort](app://obsidian.md/Tension%20d'un%20ressort)
-5. [Poussée d'Archimede](app://obsidian.md/Pouss%C3%A9e%20d'Archimede)
+4. [Tension d'un ressort](app
+5. [Poussée d'Archimede]
 
 ### 2. Lois de Newton
 
