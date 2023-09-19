@@ -74,9 +74,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2481481153b13751",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IA de Math & Physics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,7 +196,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,11 +236,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e461754297756704",
+  "active": "2481481153b13751",
   "lastOpenFiles": [
+    "IB/English.md",
+    "IA de Math & Physics.md",
     "IB/Physics.md",
     "Tle IB English.md",
-    "IB/English.md",
     "Mouvement d'un projectile.md",
     "Excalidraw/Drawing 2023-09-19 12.20.53.excalidraw.md",
     "IB/EE.md",
@@ -257,7 +262,6 @@
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
-    "IA de Math & Physics.md",
     "Excalidraw/Exo 5 - Info - Révisions 2.md",
     "Excalidraw/Exo 5 - Info - Révisions.md",
     "Comp Sci/Réseaux(2).md",
