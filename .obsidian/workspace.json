@@ -45,11 +45,9 @@
             "id": "1ed135ebd6005cce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IB/English.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-19 12.11.19.excalidraw.md"
               }
             }
           },
@@ -152,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Excalidraw/Drawing 2023-09-19 12.11.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Excalidraw/Drawing 2023-09-19 12.11.19.excalidraw.md"
               }
             }
           },
@@ -193,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Excalidraw/Drawing 2023-09-19 12.11.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,10 +234,11 @@
   },
   "active": "1ed135ebd6005cce",
   "lastOpenFiles": [
+    "IB/English.md",
+    "Excalidraw/Drawing 2023-09-19 12.11.19.excalidraw.md",
     "IB/Physics.md",
     "Mouvement d'un projectile.md",
     "IB/EE.md",
-    "IB/English.md",
     "Travel Writing.md",
     "Approaches to non-literary texts.md",
     "IB/French.md",
@@ -264,7 +263,6 @@
     "Comp Sci/Storage Area Network (SAN).md",
     "Comp Sci/Virtual Local Area Network (VLAN).md",
     "Comp Sci/Wide Area Network (WAN).md",
-    "Comp Sci/Local Area Network (LAN).md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
