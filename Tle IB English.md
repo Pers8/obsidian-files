@@ -60,7 +60,7 @@ To draw a conclusion, we generally talk about how the language and content of th
  - [[Context of composition or production]]
 
 #### Key terms
-
+?
 - Stylistic
 - Devices - tools that an author uses to achieve an intended effect, for example, metaphor or rhetoric.
 - Audiences - The intended readership of a text.
