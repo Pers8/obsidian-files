@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Tension d'un fil.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Tension d'un fil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réaction d'un support.md"
+                "file": "Tension d'un fil.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réaction d'un support.md",
+                "file": "Tension d'un fil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,9 @@
   "active": "43d319cf5195081b",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Tension d'un fil.md",
     "Réaction d'un support.md",
+    "assets/Pasted image 20230919145356.png",
     "Force a distance.md",
     "Tle IB English.md",
     "Travel Writing.md",
@@ -272,7 +274,6 @@
     "Energie mécanique (énergie totale).md",
     "Energie cinétique (2).md",
     "Info - Révisions.md",
-    "syntax/Obsidian Basic  and Extended Syntax.md",
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
@@ -281,7 +282,6 @@
     "assets/Pasted image 20230906083923.png",
     "assets/Pasted image 20230906083059.png",
     "assets/Pasted image 20230906082933.png",
-    "assets/Pasted image 20230906082906.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
