@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,8 +234,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4ab3884da65770b3",
+  "active": "210affff923d8825",
   "lastOpenFiles": [
+    "IB/EE.md",
     "IB/Physics.md",
     "IB/English.md",
     "Travel Writing.md",
@@ -264,7 +265,6 @@
     "Comp Sci/Wide Area Network (WAN).md",
     "Comp Sci/Local Area Network (LAN).md",
     "IB/Comp Sci.md",
-    "Réseaux sans fil.md",
     "assets/Pasted image 20230906084014.png",
     "assets/Pasted image 20230906083948.png",
     "assets/Pasted image 20230906083923.png",
