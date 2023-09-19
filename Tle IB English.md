@@ -45,6 +45,7 @@ To draw a conclusion, we generally talk about how the language and content of th
 - Textual analysis is a systematic examination of a text or aspects.
 
 #### **What is to analyse**
+?
 - Analyse is to break down in order to bring out essential elements or structure.
 
 #### **Analysing texts: 5 keys considerations**
