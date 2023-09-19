@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Context.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,6 +246,8 @@
   },
   "active": "2481481153b13751",
   "lastOpenFiles": [
+    "Tle IB English.md",
+    "Context.md",
     "Première loi de Newton.md",
     "IB/Physics.md",
     "Poussée d'Archimede.md",
@@ -257,7 +259,6 @@
     "Réaction d'un support.md",
     "assets/Pasted image 20230919145356.png",
     "Force a distance.md",
-    "Tle IB English.md",
     "Travel Writing.md",
     "Approaches to non-literary texts.md",
     "Context of composition or production.md",
@@ -276,7 +277,6 @@
     "IB/Maths.md",
     "Comp Sci/Personal Area Network (PAN).md",
     "Travail d'une force variable (selon l'axe des x).md",
-    "Energies potentielles.md",
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
