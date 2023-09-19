@@ -27,29 +27,29 @@ $$
 
 1. [Force a distance]
 2. [Réaction d'un support]
-3. [Tension d'un fil](app://obsidian.md/Tension%20d'un%20fil)
-4. [Tension d'un ressort](app
+3. [Tension d'un fil]
+4. [Tension d'un ressort]
 5. [Poussée d'Archimede]
 
 ### 2. Lois de Newton
 
-1. [Première loi de Newton](app://obsidian.md/Premi%C3%A8re%20loi%20de%20Newton)
-2. [Deuxième loi de Newton](app://obsidian.md/Deuxi%C3%A8me%20loi%20de%20Newton)
-3. [Troisième loi de Newton](app://obsidian.md/Troisi%C3%A8me%20loi%20de%20Newton)
+1. [Première loi de Newton]
+2. [Deuxième loi de Newton]
+3. [Troisième loi de Newton]
 
 ### 3. Application des Lois de Newton
 
-1. [Méthode de résolution de problème de dynamique](app://obsidian.md/M%C3%A9thode%20de%20r%C3%A9solution%20de%20probl%C3%A8me%20de%20dynamique)
-2. [Frottement](app://obsidian.md/Frottement)
+1. [Méthode de résolution de problème de dynamique]
+2. [Frottement]
 
 ## 3 - Travail, Puissance et Energie
 
 ### 1. Travail d'une force
 
-1. [Travail d'une force constante](app://obsidian.md/Travail%20d'une%20force%20constante)
-2. [Travail du poids d'un corps](app://obsidian.md/Travail%20du%20poids%20d'un%20corps)
-3. [Travail des force électriques](app://obsidian.md/Travail%20des%20force%20%C3%A9lectriques)
-4. [Puissance d'une force](app://obsidian.md/Puissance%20d'une%20force)
+1. [Travail d'une force constante]
+2. [Travail du poids d'un corps]
+3. [Travail des force électriques]
+4. [Puissance d'une force]
 5. [[Travail d'une force variable (selon l'axe des x)]]
 6. [[Energie cinétique (2)]]
 
