@@ -24,4 +24,4 @@ To explore a knowledge question, you need to :
 - Apply the 12 TOK concepts and ideas as you see fit.
 - Think to the indication of an argument or a conclusion
 
-Ecrire une définiti
+Ecrire une définition de notre sujet 
