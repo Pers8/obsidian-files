@@ -146,3 +146,19 @@ Features:
 ## Context of Interpretation or reception 
 ?
 What are your circumstances (time and place)? How do these factors influence your reading of the text?
+
+## Structure
+
+Structure refers to:: the form of the text what kind of text is it? what features indicate this? What structural conventions for the text type are used? Does this text conform to the standard conventions?
+
+## Style
+
+Style is:: how the text. How do writers create meaning? What tools (stylistic devices) do they use and to what effect?
+
+## Context of composition or production
+?
+Consider the time and place the text was produced in, who wrote the text? Why was the text produced the purpose. Who was the text aimed at (the intended audience)? How does the language reflect the target audience
+
+# Context
+?
+Context refers to the circumstances that surround a text - all of the external factors which are needed to fully understand the text itself.
