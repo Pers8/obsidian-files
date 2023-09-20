@@ -79,14 +79,16 @@
             "id": "9824d2fb76ff0c06",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Inflation exo.md"
+                "file": "TOK essay.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "TOK essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "TOK essay.md"
               }
             }
           },
@@ -201,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "TOK essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,17 +244,18 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "98b9447076898f03",
+  "active": "9824d2fb76ff0c06",
   "lastOpenFiles": [
-    "IB/EE.md",
+    "IB/TOK.md",
+    "Excalidraw/Inflation exo.md",
     "Tle IB English.md",
+    "IB/EE.md",
     "Context.md",
     "Context of composition or production.md",
     "Style.md",
     "Structure.md",
     "Context of Interpretation or reception.md",
     "Content.md",
-    "Excalidraw/Inflation exo.md",
     "IB/English.md",
     "Mouvement d'un projectile.md",
     "Approaches to non-literary texts.md",
@@ -274,7 +277,6 @@
     "assets/Pasted Image 20230919121204_431.png",
     "IB/French.md",
     "IB/Maths.md",
-    "Comp Sci/Personal Area Network (PAN).md",
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
