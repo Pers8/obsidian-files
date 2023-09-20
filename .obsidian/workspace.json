@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Travel Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Travel Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Travel Writing.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Travel Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,9 +246,9 @@
   },
   "active": "2481481153b13751",
   "lastOpenFiles": [
-    "Travel Writing.md",
     "Tle IB English.md",
     "Approaches to non-literary texts.md",
+    "Travel Writing.md",
     "Content.md",
     "Context.md",
     "Première loi de Newton.md",
