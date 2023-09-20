@@ -24,4 +24,6 @@ To explore a knowledge question, you need to :
 - Apply the 12 TOK concepts and ideas as you see fit.
 - Think to the indication of an argument or a conclusion
 
-Ecrire une définition de notre sujet 
+*Is subjectivity overly celebrated in the arts but unfairly condemned in history? Discuss with reference to the arts and history.*
+
+**Introduction**
