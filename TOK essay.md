@@ -33,5 +33,5 @@ import time
 import random
 
 time.sleep(1)
-print('Hello World!')
+print('TOK Essay')
 ```
