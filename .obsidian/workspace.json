@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,10 +242,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "98b9447076898f03",
+  "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "Context.md",
     "Tle IB English.md",
+    "Context.md",
     "Context of composition or production.md",
     "Style.md",
     "Structure.md",
