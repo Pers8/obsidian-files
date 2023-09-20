@@ -71,7 +71,7 @@ To draw a conclusion, we generally talk about how the language and content of th
 - Devices -:: tools that an author uses to achieve an intended effect, for example, metaphor or rhetoric.
 - Audiences -:: The intended readership of a text.
 - Purpose -:: what the text sets out to achieve, why the text is created.
-- Mood - ::The feeling that is evoked in the reader (or audiences) as a result of the tone that is set.
+- Mood -:: The feeling that is evoked in the reader (or audiences) as a result of the tone that is set.
 
 
 [[Approaches to non-literary texts]]
