@@ -82,9 +82,9 @@ To draw a conclusion, we generally talk about how the language and content of th
 Literary works can generally be grouped into four main forms: 
 ?
 1. poetry
-2. [[prose fiction
-3prose non-fiction
-4. [[drama
+2. prose fiction
+3. prose non-fiction
+4. drama
 
 - You will examine a wide variety of texts, both literary and non-literary, throughout your Language and Literature course. 
 -  Literary works can generally be grouped into four main forms: poetry prose fiction, prose non-fiction and drama 
