@@ -28,5 +28,10 @@ To explore a knowledge question, you need to :
 
 **Introduction**
 
-```css
+```python
+import time
+import random
+
+time.sleep(1)
+print('Hello World!')
 ```
