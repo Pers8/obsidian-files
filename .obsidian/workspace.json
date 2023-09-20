@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Inflation exo.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Inflation exo.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Inflation exo.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,12 +242,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9824d2fb76ff0c06",
+  "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "Excalidraw/Inflation exo.md",
     "Tle IB English.md",
     "IB/English.md",
     "Mouvement d'un projectile.md",
-    "Excalidraw/Inflation exo.md",
     "Context of Interpretation or reception.md",
     "Style.md",
     "Approaches to non-literary texts.md",
