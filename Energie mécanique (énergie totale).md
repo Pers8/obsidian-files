@@ -14,3 +14,4 @@ L'énergie mécanique d'un solide soumis qu'a des force conservative se conserve
 
 
 Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
+### Non conservation de l'énergie mécanique
