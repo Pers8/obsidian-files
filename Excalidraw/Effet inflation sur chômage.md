@@ -10,7 +10,9 @@ tags: [excalidraw]
 # Text Elements
 Effet du chômage sur l'inflation ^Qy31zJXw
 
-Effet du chômage sur l'inflation ^miwbvrzD
+Effet de l'inflation sur le chômage ^miwbvrzD
+
+Effet du chômage sur l'inflation ^TgB3iK8f
 
 %%
 # Drawing
@@ -24,7 +26,7 @@ Effet du chômage sur l'inflation ^miwbvrzD
 			"id": "Qy31zJXw",
 			"type": "text",
 			"x": -207,
-			"y": -283.2421875,
+			"y": -282.2421875,
 			"width": 317,
 			"height": 25,
 			"angle": 0,
@@ -38,11 +40,11 @@ Effet du chômage sur l'inflation ^miwbvrzD
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1024859790,
-			"version": 68,
-			"versionNonce": 879597330,
+			"version": 69,
+			"versionNonce": 1457353362,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1695307205894,
+			"updated": 1695307285386,
 			"link": null,
 			"locked": false,
 			"text": "Effet du chômage sur l'inflation",
@@ -98,8 +100,8 @@ Effet du chômage sur l'inflation ^miwbvrzD
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 879597330,
+			"version": 266,
+			"versionNonce": 276393106,
 			"isDeleted": false,
 			"id": "miwbvrzD",
 			"fillStyle": "hachure",
@@ -108,17 +110,93 @@ Effet du chômage sur l'inflation ^miwbvrzD
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 376.5,
-			"y": -170.7421875,
+			"x": 183.5,
+			"y": -292.7421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 317,
+			"width": 343,
 			"height": 25,
 			"seed": 920311826,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1695307228139,
+			"updated": 1695307271965,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Effet de l'inflation sur le chômage",
+			"rawText": "Effet de l'inflation sur le chômage",
+			"baseline": 18,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Effet de l'inflation sur le chômage"
+		},
+		{
+			"type": "line",
+			"version": 262,
+			"versionNonce": 390076114,
+			"isDeleted": false,
+			"id": "BygEWNRV0tOWX9ht0VyWQ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 547,
+			"y": -292.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6,
+			"height": 507,
+			"seed": 1317386574,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1695307270678,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6,
+					507
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 69,
+			"versionNonce": 1457353362,
+			"isDeleted": false,
+			"id": "TgB3iK8f",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 411.5,
+			"y": -266.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 317,
+			"height": 25,
+			"seed": 634795918,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1695307286826,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -132,206 +210,39 @@ Effet du chômage sur l'inflation ^miwbvrzD
 			"originalText": "Effet du chômage sur l'inflation"
 		},
 		{
-			"id": "QMGP773GU43bu6tgo2vd6",
-			"type": "freedraw",
-			"x": 392,
-			"y": -244.2421875,
-			"width": 1103,
-			"height": 78,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"type": "text",
+			"version": 337,
+			"versionNonce": 1551180558,
+			"isDeleted": true,
+			"id": "uaGlQWxi",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 563.5,
+			"y": -287.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 343,
+			"height": 25,
+			"seed": 1603198350,
 			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2028838158,
-			"version": 44,
-			"versionNonce": 1300274066,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1695307175785,
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1695307283048,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					-2,
-					-1
-				],
-				[
-					-4,
-					-1
-				],
-				[
-					-9,
-					-2
-				],
-				[
-					-19,
-					-2
-				],
-				[
-					-32,
-					-3
-				],
-				[
-					-45,
-					-4
-				],
-				[
-					-70,
-					-6
-				],
-				[
-					-111,
-					-9
-				],
-				[
-					-168,
-					-11
-				],
-				[
-					-223,
-					-15
-				],
-				[
-					-292,
-					-21
-				],
-				[
-					-368,
-					-30
-				],
-				[
-					-434,
-					-36
-				],
-				[
-					-503,
-					-42
-				],
-				[
-					-569,
-					-49
-				],
-				[
-					-637,
-					-55
-				],
-				[
-					-763,
-					-65
-				],
-				[
-					-818,
-					-69
-				],
-				[
-					-919,
-					-75
-				],
-				[
-					-963,
-					-76
-				],
-				[
-					-998,
-					-76
-				],
-				[
-					-1050,
-					-76
-				],
-				[
-					-1075,
-					-76
-				],
-				[
-					-1089,
-					-74
-				],
-				[
-					-1094,
-					-74
-				],
-				[
-					-1097,
-					-76
-				],
-				[
-					-1097,
-					-78
-				],
-				[
-					-1096,
-					-78
-				],
-				[
-					-1097,
-					-78
-				],
-				[
-					-1098,
-					-78
-				],
-				[
-					-1099,
-					-77
-				],
-				[
-					-1099,
-					-76
-				],
-				[
-					-1100,
-					-75
-				],
-				[
-					-1101,
-					-74
-				],
-				[
-					-1102,
-					-74
-				],
-				[
-					-1103,
-					-71
-				],
-				[
-					-1103,
-					-70
-				],
-				[
-					-1103,
-					-69
-				],
-				[
-					-1103,
-					-68
-				],
-				[
-					-1103,
-					-68
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-1103,
-				-68
-			]
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Effet de l'inflation sur le chômage",
+			"rawText": "Effet de l'inflation sur le chômage",
+			"baseline": 18,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Effet de l'inflation sur le chômage"
 		}
 	],
 	"appState": {
