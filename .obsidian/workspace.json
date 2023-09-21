@@ -67,11 +67,9 @@
             "id": "98b9447076898f03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Economy/Objectifs macro-économiques.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-21 14.38.30.excalidraw.md"
               }
             }
           },
@@ -162,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Objectifs macro-économiques.md",
+                "file": "Excalidraw/Drawing 2023-09-21 14.38.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Objectifs macro-économiques.md"
+                "file": "Excalidraw/Drawing 2023-09-21 14.38.30.excalidraw.md"
               }
             }
           },
@@ -203,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Objectifs macro-économiques.md",
+                "file": "Excalidraw/Drawing 2023-09-21 14.38.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Economy/Objectifs macro-économiques.md"
+                "file": "Excalidraw/Drawing 2023-09-21 14.38.30.excalidraw.md"
               }
             }
           }
@@ -257,6 +255,8 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "Economy/Objectifs macro-économiques.md",
+    "Excalidraw/Drawing 2023-09-21 14.38.30.excalidraw.md",
     "IB/Economy.md",
     "Inflation et ces causes.md",
     "TOK essay.md",
@@ -285,8 +285,6 @@
     "Frottement statique.md",
     "Méthode de résolution de problème de dynamique.md",
     "assets/Pasted image 20230921080411.png",
-    "Troisième loi de Newton.md",
-    "Deuxième loi de Newton.md",
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",
