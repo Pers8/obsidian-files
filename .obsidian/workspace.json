@@ -223,13 +223,23 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "73f5365277eae41a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Energie mécanique (énergie totale).md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +254,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "98b9447076898f03",
+  "active": "73f5365277eae41a",
   "lastOpenFiles": [
     "IB/Physics.md",
     "Energie mécanique (énergie totale).md",
