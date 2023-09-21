@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflation et ces causes.md",
+                "file": "Economy/Objectifs macro-économiques.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation et ces causes.md",
+                "file": "Economy/Objectifs macro-économiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inflation et ces causes.md"
+                "file": "Economy/Objectifs macro-économiques.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation et ces causes.md",
+                "file": "Economy/Objectifs macro-économiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inflation et ces causes.md"
+                "file": "Economy/Objectifs macro-économiques.md"
               }
             }
           }
@@ -257,10 +257,10 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Inflation et ces causes.md",
     "TOK essay.md",
     "Excalidraw/Physic projectile motion exercice.md",
-    "Inflation et ces causes.md",
-    "IB/Economy.md",
     "IB/Physics.md",
     "Excalidraw/Inflation exo.md",
     "Physics/Loi des gaz parfait.md",
