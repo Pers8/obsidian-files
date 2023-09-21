@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force constante.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force constante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Travail d'une force constante.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Travail d'une force constante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,8 +246,8 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
-    "Travail du poids d'un corps.md",
     "IB/Physics.md",
+    "Travail du poids d'un corps.md",
     "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
     "Travail d'une force constante.md",
