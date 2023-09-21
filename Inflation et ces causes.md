@@ -33,49 +33,27 @@ Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas
 
 IPP veut dire:: Indice prix de la production
 
-  
-
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
-
-  
 
 ## Causes de l'inflation
 
 Les deux principaux types d’inflation sont:
-
 ?
-
 - Inflation attisée par la demande (augmentation)
-
 - Inflation par les coûts de production
 
-  
-
 ### Inflation attisée par la demande
-
 ?
-
 L’inflation tirée par la demande se produit lorsqu’il y a une augmentation de la demande globale dans l’économie. Afin de fournir le nombre croissant de biens et de services désormais requis, des prix plus élevés sont nécessaires.
 
-  
-
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
-
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
-
-  
-  
-
 - Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter. 
 
 - Selon la théorie keynésienne, ce n’est que lorsque les ressources sont pleinement utilisées ou presque, et doivent être réparties entre des utilisations concurrentes, que les prix:: augmentent.
 
-  
-
 ### Inflation par les coûts de production
-
 ?
-
 L’inflation poussée par les coûts se produit lorsque l’offre globale diminue. Cela sera toujours dû à une augmentation des coûts de production ou à une forte perturbation de la disponibilité des facteurs de production.
 
   
