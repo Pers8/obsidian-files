@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "Travail du poids d'un corps.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "Travail du poids d'un corps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energies potentielles.md"
+                "file": "Travail du poids d'un corps.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "Travail du poids d'un corps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,11 +247,11 @@
   "active": "98b9447076898f03",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
     "Travail du poids d'un corps.md",
     "Travail d'une force constante.md",
     "IB/Maths.md",
-    "Energies potentielles.md",
     "Force conservatrice.md",
     "Puissance d'une force.md",
     "Travail des force électriques.md",
