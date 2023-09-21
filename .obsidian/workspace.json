@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Puissance d'une force.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Puissance d'une force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail des force électriques.md"
+                "file": "Puissance d'une force.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Puissance d'une force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,9 @@
   "active": "98b9447076898f03",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Puissance d'une force.md",
     "Travail des force électriques.md",
+    "assets/Pasted image 20230921080918.png",
     "Travail du poids d'un corps.md",
     "assets/Pasted image 20230921080817.png",
     "Travail d'une force constante.md",
@@ -274,14 +276,12 @@
     "Context of Interpretation or reception.md",
     "Content.md",
     "IB/English.md",
-    "Mouvement d'un projectile.md",
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",
     "assets/Pasted image 20230919145356.png",
     "assets/Pasted Image 20230919121204_431.png",
     "assets/Pasted Image 20230914164623_945.png",
-    "assets/Pasted image 20230914164321.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
