@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail du poids d'un corps.md",
+                "file": "Puissance d'une force.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail du poids d'un corps.md",
+                "file": "Puissance d'une force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail du poids d'un corps.md"
+                "file": "Puissance d'une force.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail du poids d'un corps.md",
+                "file": "Puissance d'une force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,8 +248,8 @@
   "lastOpenFiles": [
     "IB/Physics.md",
     "Travail des force électriques.md",
-    "Travail d'une force constante.md",
     "Travail du poids d'un corps.md",
+    "Travail d'une force constante.md",
     "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
     "IB/Maths.md",
