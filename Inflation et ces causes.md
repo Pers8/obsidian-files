@@ -18,41 +18,18 @@ Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des 
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants).
 
-<!--SR:!2023-09-23,4,210-->
-
-  
-
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
-
-<!--SR:!2023-09-27,9,250-->
-
-  
-
 Formule du taux d'inflation avec IPC::$$\large{T_{i}=\frac{\text{IPC}_{f}-\text{IPC}_{d}}{\text{IPC}_{d}}\times100}$$
-
-<!--SR:!2023-09-27,9,250-->
-
-  
-
 ## Limites de l’IPC pour mesurer l’inflation
 
 Ils sont (4):
-
 ?
-
 - Sélection de biens
-
 - Différences dans la répartition des revenus
-
 - Changements dans les modes de consommation
-
 - Changements de qualité au fil du temps
 
-  
-
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
-
-  
 
 IPP veut dire:: Indice prix de la production
 
