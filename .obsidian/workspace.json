@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail d'une force variable (selon l'axe des x).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,6 +246,7 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "Travail d'une force variable (selon l'axe des x).md",
     "IB/Physics.md",
     "Puissance d'une force.md",
     "Travail des force électriques.md",
@@ -275,7 +276,6 @@
     "Context.md",
     "Context of composition or production.md",
     "Style.md",
-    "Structure.md",
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",
