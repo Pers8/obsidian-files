@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md",
+                "file": "Frottement.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md",
+                "file": "Frottement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md"
+                "file": "Frottement.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md",
+                "file": "Frottement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,9 @@
   "active": "98b9447076898f03",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Frottement.md",
     "Méthode de résolution de problème de dynamique.md",
+    "assets/Pasted image 20230921080411.png",
     "Troisième loi de Newton.md",
     "Deuxième loi de Newton.md",
     "Référentiel galiléen.md",
@@ -273,7 +275,6 @@
     "assets/Pasted image 20230919145944.png",
     "Tension d'un ressort.md",
     "assets/Pasted image 20230919145746.png",
-    "Tension d'un fil.md",
     "assets/Pasted image 20230919145526.png",
     "assets/Pasted image 20230919145356.png",
     "assets/Pasted Image 20230919121204_431.png",
@@ -281,7 +282,6 @@
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
     "assets/Pasted image 20230906084014.png",
-    "assets/Pasted image 20230906083948.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }

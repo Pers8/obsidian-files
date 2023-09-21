@@ -14,3 +14,4 @@ tags:
 
 Tableau pour résoudre problème de dynamique:
 ?
+![[Pasted image 20230921080411.png]]
