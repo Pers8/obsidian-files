@@ -50,7 +50,7 @@ $$
 2. [[Travail du poids d'un corps]]
 3. [[Travail des force électriques]]
 4. [[Puissance d'une force]]
-5. [[Travail d'une force variable (selon l'axe des x)]]
+5. [[Travail d'une Force variable (selon l'axe des x)]]
 6. [[Energie cinétique (2)]]
 
 ### 2. Energies potentielles et énergie mécanique

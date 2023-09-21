@@ -3,7 +3,7 @@ tags:
   - physics
 ---
 
-##  Graphe force-déplacement
+##  Graphe Force-déplacement
 ?
 ![[Physic travail variable]]
 
@@ -11,7 +11,6 @@ tags:
 ?
 $$\large Aire=\frac{F_A+F_B}{2} \times (x_A - x_B)$$
 
-- $Aire$ =:: =Travail = Joule
 - $\large \frac{F_A+F_B}{2}$ =::Newton
 - $(x_A - x_A)$ =:: Mètre
 
