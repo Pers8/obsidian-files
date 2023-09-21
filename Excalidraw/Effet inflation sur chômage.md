@@ -8,6 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
+Effet du chômage sur l'inflation ^Qy31zJXw
+
+Effet du chômage sur l'inflation ^miwbvrzD
+
 %%
 # Drawing
 ```json
@@ -16,6 +20,117 @@ tags: [excalidraw]
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "Qy31zJXw",
+			"type": "text",
+			"x": -207,
+			"y": -283.2421875,
+			"width": 317,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1024859790,
+			"version": 68,
+			"versionNonce": 879597330,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695307205894,
+			"link": null,
+			"locked": false,
+			"text": "Effet du chômage sur l'inflation",
+			"rawText": "Effet du chômage sur l'inflation",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Effet du chômage sur l'inflation"
+		},
+		{
+			"id": "gYIjHqv92gOJhnK3730AN",
+			"type": "line",
+			"x": 147,
+			"y": -292.2421875,
+			"width": 6,
+			"height": 507,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 582879566,
+			"version": 152,
+			"versionNonce": 1554049490,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1695307221281,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6,
+					507
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "text",
+			"version": 68,
+			"versionNonce": 879597330,
+			"isDeleted": false,
+			"id": "miwbvrzD",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 376.5,
+			"y": -170.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 317,
+			"height": 25,
+			"seed": 920311826,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1695307228139,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Effet du chômage sur l'inflation",
+			"rawText": "Effet du chômage sur l'inflation",
+			"baseline": 18,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Effet du chômage sur l'inflation"
+		},
 		{
 			"id": "QMGP773GU43bu6tgo2vd6",
 			"type": "freedraw",
