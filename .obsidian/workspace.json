@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Deuxième loi de Newton.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK essay.md",
+                "file": "Deuxième loi de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK essay.md"
+                "file": "Deuxième loi de Newton.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK essay.md",
+                "file": "Deuxième loi de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,11 +244,16 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9824d2fb76ff0c06",
+  "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Deuxième loi de Newton.md",
+    "IB/Maths.md",
+    "IB/French.md",
+    "Tle IB English.md",
+    "TOK essay.md",
     "IB/TOK.md",
     "Excalidraw/Inflation exo.md",
-    "Tle IB English.md",
     "IB/EE.md",
     "Context.md",
     "Context of composition or production.md",
@@ -261,7 +266,6 @@
     "Approaches to non-literary texts.md",
     "Travel Writing.md",
     "Première loi de Newton.md",
-    "IB/Physics.md",
     "Poussée d'Archimede.md",
     "assets/Pasted image 20230919145944.png",
     "Tension d'un ressort.md",
@@ -272,11 +276,7 @@
     "assets/Pasted image 20230919145356.png",
     "Force a distance.md",
     "IA de Math & Physics.md",
-    "Excalidraw/Drawing 2023-09-19 12.20.53.excalidraw.md",
-    "Excalidraw/Physic projectile motion exercice.md",
     "assets/Pasted Image 20230919121204_431.png",
-    "IB/French.md",
-    "IB/Maths.md",
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
     "assets/Pasted image 20230914164318.png",
