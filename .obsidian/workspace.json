@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energies potentielles.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energies potentielles.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,16 +246,16 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
-    "Force conservatrice.md",
-    "Energies potentielles.md",
-    "IB/Physics.md",
-    "Energie cinétique (2).md",
-    "Travail d'une force variable (selon l'axe des x).md",
-    "Puissance d'une force.md",
-    "Travail des force électriques.md",
-    "Travail du poids d'un corps.md",
-    "Travail d'une force constante.md",
     "Energie mécanique (énergie totale).md",
+    "IB/Physics.md",
+    "Energies potentielles.md",
+    "Travail d'une force constante.md",
+    "Travail du poids d'un corps.md",
+    "Travail des force électriques.md",
+    "Puissance d'une force.md",
+    "Travail d'une force variable (selon l'axe des x).md",
+    "Force conservatrice.md",
+    "Energie cinétique (2).md",
     "IB/Maths.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
