@@ -16,5 +16,5 @@ Trois formules (vecteurs, normes et coordonnées):
 $$\Large{W_{A\rightarrow B}(\vec{F})=\vec{F}\cdot\vec{AB}=F\times AB\times \cos\theta=x_{A}x_{B}+y_{A}y_{B}}$$
 
 - Si $W>0$ alors le travail est:: un travail moteur.
-- Si $W<0$ alors le travail est un travail résistant.
+- Si $W<0$ alors le travail est:: un travail résistant.
 - Si $W=0$ alors forcément:: $F=0$ ou $\theta=90$
