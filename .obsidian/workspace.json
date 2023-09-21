@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail du poids d'un corps.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail du poids d'un corps.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail du poids d'un corps.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail du poids d'un corps.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,10 +246,10 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "Travail du poids d'un corps.md",
     "IB/Physics.md",
     "Energies potentielles.md",
     "Energie mécanique (énergie totale).md",
-    "Travail du poids d'un corps.md",
     "Travail d'une force constante.md",
     "IB/Maths.md",
     "Force conservatrice.md",
