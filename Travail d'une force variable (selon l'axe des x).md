@@ -23,7 +23,7 @@ Aire entre la courbe représentant la force en fonction de la position et l'axe 
 
 - La tension d'un ressort s'oppose a:: sa déformation.
 
-Formule: 
+Formule Tension d'un ressort: 
 ? $$\Large{T=-kx=-k|l_{0}-l|}$$
 
 - $T$ = tension en Newton
