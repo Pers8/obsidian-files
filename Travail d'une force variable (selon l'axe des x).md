@@ -3,7 +3,7 @@ tags:
   - physics
 ---
 
-## - Graphe force-déplacement
+##  Graphe force-déplacement
 ?
 ![[Physic travail variable]]
 
