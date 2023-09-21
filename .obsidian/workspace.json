@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deuxième loi de Newton.md",
+                "file": "Troisième loi de Newton.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deuxième loi de Newton.md",
+                "file": "Troisième loi de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deuxième loi de Newton.md"
+                "file": "Troisième loi de Newton.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deuxième loi de Newton.md",
+                "file": "Troisième loi de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,9 @@
   "active": "98b9447076898f03",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Troisième loi de Newton.md",
     "Deuxième loi de Newton.md",
+    "Référentiel galiléen.md",
     "IB/Maths.md",
     "IB/French.md",
     "Tle IB English.md",
@@ -274,8 +276,6 @@
     "assets/Pasted image 20230919145526.png",
     "Réaction d'un support.md",
     "assets/Pasted image 20230919145356.png",
-    "Force a distance.md",
-    "IA de Math & Physics.md",
     "assets/Pasted Image 20230919121204_431.png",
     "assets/Pasted Image 20230914164623_945.png",
     "assets/Pasted image 20230914164321.png",
