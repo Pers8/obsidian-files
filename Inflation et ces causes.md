@@ -56,47 +56,27 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 ?
 L’inflation poussée par les coûts se produit lorsque l’offre globale diminue. Cela sera toujours dû à une augmentation des coûts de production ou à une forte perturbation de la disponibilité des facteurs de production.
 
-  
-
 De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tels que (5):
-
 ?
-
 - la guerre
-
 - les catastrophes naturelles
-
 - les modifications des lois sur le salaire minimum
-
 - l'augmentation du coût des matières premières importées
-
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
 
-  
-
 Graphique avec explications
-
 ?
-
 ![[image-20230921082031502.png]]
-
-  
 
 ### Spirale inflationniste salaires-prix
 
-- Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
-
+- Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs
 - Étant donné que des salaires plus élevés entraînent des coûts de production plus élevés pour les entreprises, il en résulte:: une baisse de l’offre globale à court terme.
 
-  
-
 Graphique
-
 ?
-
 ![[image-20230921082320448.png]]
 
-  
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
 
