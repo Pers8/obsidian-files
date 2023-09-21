@@ -31,7 +31,7 @@ Formule Tension d'un ressort:
 - $l$ = longueur finale
 - $l_{0}$ = longueur initiale
 
-Représentations 
+Représentation tension d'un ressort
 ? 
 ![[Ressort]]
 
