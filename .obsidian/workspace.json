@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie cinétique (2).md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie cinétique (2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Energie cinétique (2).md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Energie cinétique (2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,8 +246,9 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
-    "Travail d'une force variable (selon l'axe des x).md",
     "IB/Physics.md",
+    "Travail d'une force variable (selon l'axe des x).md",
+    "Energie cinétique (2).md",
     "Puissance d'une force.md",
     "Travail des force électriques.md",
     "Travail du poids d'un corps.md",
@@ -275,7 +276,6 @@
     "IB/EE.md",
     "Context.md",
     "Context of composition or production.md",
-    "Style.md",
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",
