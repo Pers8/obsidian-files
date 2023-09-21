@@ -67,11 +67,9 @@
             "id": "98b9447076898f03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IB/Physics.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Inflation exo.md"
               }
             }
           },
@@ -162,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Inflation exo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Excalidraw/Inflation exo.md"
               }
             }
           },
@@ -203,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Inflation exo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Excalidraw/Inflation exo.md"
               }
             }
           }
@@ -257,8 +255,8 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
-    "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
+    "Physics/Loi des gaz parfait.md",
     "Physics/Mole.md",
     "Energie mécanique (énergie totale).md",
     "IB/Economy.md",
