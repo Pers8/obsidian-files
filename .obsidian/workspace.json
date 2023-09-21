@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Puissance d'une force.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Puissance d'une force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail des force électriques.md"
+                "file": "Puissance d'une force.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Puissance d'une force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,11 +247,11 @@
   "active": "98b9447076898f03",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Travail des force électriques.md",
     "Travail du poids d'un corps.md",
     "Energie mécanique (énergie totale).md",
     "Energies potentielles.md",
     "Travail d'une force constante.md",
-    "Travail des force électriques.md",
     "Puissance d'une force.md",
     "Travail d'une force variable (selon l'axe des x).md",
     "Force conservatrice.md",
