@@ -46,10 +46,10 @@ $$
 
 ### 1. Travail d'une force
 
-1. [Travail d'une force constante]
-2. [Travail du poids d'un corps]
-3. [Travail des force électriques]
-4. [Puissance d'une force]
+1. [[Travail d'une force constante]]
+2. [[Travail du poids d'un corps]]
+3. [[Travail des force électriques]]
+4. [[Puissance d'une force]]
 5. [[Travail d'une force variable (selon l'axe des x)]]
 6. [[Energie cinétique (2)]]
 
