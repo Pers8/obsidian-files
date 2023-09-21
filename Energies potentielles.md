@@ -4,7 +4,7 @@ tags:
 ---
 # Energies potentielles
 
-A une force conservatrice, on peut associer une énergie potentielle.
+A une[[Force conservatrice]], on peut associer une énergie potentielle.
 
 Les trois types d'énergie potentielles sont:
 ?
