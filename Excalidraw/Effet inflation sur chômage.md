@@ -16,7 +16,9 @@ Effet de la croissance sur l'inflation ^TgB3iK8f
 
 Effet l'inflation sur la croissance ^WsfwdHys
 
-Effet de la croissance sur l'inflation ^9h8OCLNl
+Effet de la croissance sur l'environnement ^9h8OCLNl
+
+Effet de la croissance sur l'équité ^BWNRTGam
 
 %%
 # Drawing
@@ -332,8 +334,8 @@ Effet de la croissance sur l'inflation ^9h8OCLNl
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 500062482,
+			"version": 251,
+			"versionNonce": 686857102,
 			"isDeleted": false,
 			"id": "9h8OCLNl",
 			"fillStyle": "hachure",
@@ -342,28 +344,104 @@ Effet de la croissance sur l'inflation ^9h8OCLNl
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1299.5,
-			"y": -232.7421875,
+			"x": 1399.5,
+			"y": -271.7421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 367,
+			"width": 418,
 			"height": 25,
 			"seed": 783577678,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1695307412485,
+			"updated": 1695307426349,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Effet de la croissance sur l'inflation",
-			"rawText": "Effet de la croissance sur l'inflation",
+			"text": "Effet de la croissance sur l'environnement",
+			"rawText": "Effet de la croissance sur l'environnement",
 			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Effet de la croissance sur l'inflation"
+			"originalText": "Effet de la croissance sur l'environnement"
+		},
+		{
+			"type": "line",
+			"version": 591,
+			"versionNonce": 32576654,
+			"isDeleted": false,
+			"id": "EEWA1DVJ0FFxbbOSgoXMs",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1833.25,
+			"y": -275.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6,
+			"height": 507,
+			"seed": 1923911374,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1695307446729,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					6,
+					507
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 403,
+			"versionNonce": 924737614,
+			"isDeleted": false,
+			"id": "BWNRTGam",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1855.75,
+			"y": -268.7421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 352,
+			"height": 25,
+			"seed": 1195576594,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1695307459721,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Effet de la croissance sur l'équité",
+			"rawText": "Effet de la croissance sur l'équité",
+			"baseline": 18,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Effet de la croissance sur l'équité"
 		}
 	],
 	"appState": {
