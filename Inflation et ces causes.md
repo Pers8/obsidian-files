@@ -77,27 +77,17 @@ Graphique
 ?
 ![[image-20230921082320448.png]]
 
-
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
 
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
 
-  
-
 ## Coûts d’un taux d’inflation élevé
 
 Un taux d’inflation élevé crée un environnement incertain pour l’activité économique et érode la confiance de tous les acteurs de l’économie. Il existe six coûts principaux liés à un taux d’inflation élevé (6):
-
 ?
-
 - Plus grande incertitude (pour les entreprises)
-
 - Effets redistributifs (Impacte plus fort pour les ménages a faible revenu)
-
 - Effets sur l'épargne
-
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
-
 - Impact sur la croissance économique
-
 - Allocation inefficace des ressources (pour les producteurs)
