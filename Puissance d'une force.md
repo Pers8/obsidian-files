@@ -5,9 +5,7 @@ tags:
 
 # Puissance d'une force
 ## Puissance moyenne
-Formule:
-?
-$$\Large{P=\frac{|W_{A\rightarrow B}(\vec{F})|}{\Delta t}}$$
+Formule::$$\Large{P=\frac{|W_{A\rightarrow B}(\vec{F})|}{\Delta t}}$$
 - $\Delta t$ = durée du déplacement
 - $P$ équivaut au:: travail par unité de temps
 
