@@ -6,8 +6,7 @@ tags:
 
 ### a ) Définition
 
-L'énergie mécanique est:: la somme de l'énergie cinétique et de ou des énergies potentielles.
-$$\Large E_{M}=E_{C}+E_{P}$$
+L'énergie mécanique est:: la somme de l'énergie cinétique et de ou des énergies potentielles.$$\Large E_{M}=E_{C}+E_{P}$$
 
 ### Conservation de l'énergie mécanique
 ?
