@@ -19,4 +19,4 @@ Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
 La variation de l'énergie mécanique entre deux  instants d'un soldie soumi à des forces non conservatives est égale à la somme travaux des forces non-conservatives$$\Large \Delta E_m=E_{M_2}-E_{M_1}=\sum W_{1 \rightarrow 2} \hspace{1mm} \vec{f_{nc}}$$
 
 $nc =$ non-conservative
-La résistance est toujours 
+*Important! :*La résistance est:: toujours  opposé au mouvement
