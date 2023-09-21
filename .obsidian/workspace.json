@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "Travail d'une force constante.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "Travail d'une force constante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie mécanique (énergie totale).md"
+                "file": "Travail d'une force constante.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "Travail d'une force constante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,6 +247,7 @@
   "active": "98b9447076898f03",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Energie mécanique (énergie totale).md",
     "IB/Maths.md",
     "Energies potentielles.md",
     "Force conservatrice.md",
@@ -275,7 +276,6 @@
     "Context of composition or production.md",
     "Style.md",
     "Structure.md",
-    "Context of Interpretation or reception.md",
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",

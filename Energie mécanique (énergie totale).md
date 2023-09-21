@@ -10,7 +10,8 @@ L'énergie mécanique est:: la somme de l'énergie cinétique et de ou des éner
 $$\Large E_{M}=E_{C}+E_{P}$$
 
 ### Conservation de l'énergie mécanique
+?
 L'énergie mécanique d'un solide sous mis qu'a des force conservative se conserve
-$$E_{M}=0$$
-$$E_{M_{B}}-E_{M_{A}}=0$$
-$$E_{M_{B}}=E_{M_{A}}$$
+
+
+Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
