@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frottement.md",
+                "file": "Frottement cinétique.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frottement.md",
+                "file": "Frottement cinétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frottement.md"
+                "file": "Frottement cinétique.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frottement.md",
+                "file": "Frottement cinétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,8 +246,10 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Frottement.md",
+    "Frottement cinétique.md",
+    "Frottement statique.md",
+    "IB/Physics.md",
     "Méthode de résolution de problème de dynamique.md",
     "assets/Pasted image 20230921080411.png",
     "Troisième loi de Newton.md",
@@ -271,9 +273,7 @@
     "Approaches to non-literary texts.md",
     "Travel Writing.md",
     "Première loi de Newton.md",
-    "Poussée d'Archimede.md",
     "assets/Pasted image 20230919145944.png",
-    "Tension d'un ressort.md",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",
     "assets/Pasted image 20230919145356.png",
