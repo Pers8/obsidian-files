@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md"
+                "file": "IB/EE.md"
               }
             }
           }
@@ -253,10 +253,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "98b9447076898f03",
+  "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "Economy/Objectifs macro-économiques.md",
     "Excalidraw/Effet inflation sur chômage.md",
+    "Economy/Objectifs macro-économiques.md",
     "IB/Economy.md",
     "Inflation et ces causes.md",
     "TOK essay.md",
