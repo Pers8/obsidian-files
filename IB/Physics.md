@@ -104,4 +104,6 @@ $$
 [[Electricité test]]
 [[Important]]
 
-Co
+Comment marche :
+- Les centrales thermiques 
+- Les centrales hydroélectriques 
