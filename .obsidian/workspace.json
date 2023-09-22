@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85f343bdf186746d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
-              }
-            }
-          },
-          {
             "id": "e461754297756704",
             "type": "leaf",
             "state": {
@@ -84,9 +74,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85f343bdf186746d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
