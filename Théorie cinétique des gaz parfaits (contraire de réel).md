@@ -26,4 +26,8 @@ Formule de l'énergie interne :
 ?
 $$\Large U=somme\hspace{2mm}de\hspace{2mm}la\hspace{2mm}chaleur\hspace{2mm}(E_C)+ énergie \hspace{2mm}potentielle$$
 
-Pour 1 gaz parfait, $E_$
+Pour 1 gaz parfait, $E_P$ =::0
+
+Formule de l'énergie interne pour les gaz parfaits :
+?
+$$\Large U=E_C$$
