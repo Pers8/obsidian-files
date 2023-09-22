@@ -30,4 +30,4 @@ Pour 1 gaz parfait, $E_P$ =::0
 
 Formule de l'énergie interne pour les gaz parfaits :
 ?
-$$\Large U=E_C=N\bar E_C=\frac{3}{2}NK_BT=\frac{3}{2}\frac{N}{N}$$
+$$\Large U=E_C=N\bar E_C=\frac{3}{2}NK_BT=\frac{3}{2}\frac{N}{N_A}RT=\frac{3}{2}nRT$$
