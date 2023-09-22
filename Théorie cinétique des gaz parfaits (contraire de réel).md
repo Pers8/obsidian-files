@@ -18,3 +18,4 @@ $P$ = Pression en $N.m^{-2}=Pa$
 
 Rappel [[Température]]
 
+$$\Large \bar E_c=$$
