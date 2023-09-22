@@ -9,4 +9,6 @@ Un gaz parfait est un modèle simplifié du gaz réel où les  atomes ou les mol
 
 La pression est:: la force par unité de surface qu'exercent les molécules sur la paroi
 
-**Forule **
+**Formule de la pression :**
+?
+$$\Large P=\frac{F}{A}$$
