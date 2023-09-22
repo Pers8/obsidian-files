@@ -106,4 +106,6 @@ $$
 
 Comment marche :
 - Les centrales thermiques 
-- Les centrales hydroélectriques 
+- Les centrales hydroélectriques
+- Les éoliennes
+- 
