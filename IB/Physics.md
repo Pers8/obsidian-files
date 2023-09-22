@@ -69,7 +69,7 @@ $$
 ## 3. Modélisation d'un gaz parfait
 1. [[Mole]]
 2. [[Loi des gaz parfait]], isotherme, isobare, iso-volumique
-3. Théorie cinétique des gaz parfaits ($\cancel = réel$ réel)
+3. Théorie cinétique des gaz parfaits ($\cancel =$ réel)
 # Theme 5: Electricité et Magnétisme
 ## 1. Champ électrique
 0. [[Rappel d'électrostatique]]
@@ -105,7 +105,7 @@ $$
 [[Important]]
 
 Comment marche :
-- Les centrales thermiques 
+- Les centrales thermiques (combustion fossiles)
 - Les centrales hydroélectriques
 - Les éoliennes
-- 
+- Les centrales solaires the
