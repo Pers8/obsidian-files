@@ -14,4 +14,4 @@ La pression est:: la force par unité de surface qu'exercent les molécules sur 
 $$\Large P=\frac{F}{A}$$
 $F$ = Force en $N$
 A = Aire en $m^2$
-$P$ = Pression en $$
+$P$ = Pression en $N.$
