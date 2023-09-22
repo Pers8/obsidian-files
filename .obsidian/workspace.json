@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Température.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Température.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics/Température.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -255,8 +255,8 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Physics/Température.md",
+    "IB/Physics.md",
     "IB/EE.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Economy/Objectifs macro-économiques.md",
