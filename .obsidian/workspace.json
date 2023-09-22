@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Chaleur massique.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Chaleur massique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Chaleur massique.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Physics/Chaleur massique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Physics/Chaleur massique.md"
               }
             }
           }
@@ -255,8 +255,10 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "Physics/Température.md",
     "IB/Physics.md",
+    "Physics/Energie interne.md",
+    "Physics/Chaleur.md",
+    "Physics/Température.md",
     "IB/EE.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Economy/Objectifs macro-économiques.md",
@@ -282,8 +284,6 @@
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
-    "Frottement.md",
-    "Frottement cinétique.md",
     "assets/Pasted image 20230921080411.png",
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
