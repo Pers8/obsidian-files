@@ -20,7 +20,7 @@ Rappel [[Température]]
 
 Formule de l'énergie cinétique moyenne des molécules :
 ?
-$$\Large \bar E_c=\frac{3}{2}k_aT=\frac{3}{2}\frac{R}{N_A}T$$
+$$\Large \bar E_c=\frac{3}{2}k_BT=\frac{3}{2}\frac{R}{N_A}T$$
 
 Formule de l'énergie interne :
 ?
