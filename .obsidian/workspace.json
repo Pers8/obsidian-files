@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Loi des gaz parfait.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Loi des gaz parfait.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Loi des gaz parfait.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Loi des gaz parfait.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics/Loi des gaz parfait.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -255,6 +255,7 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
+    "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
     "Physics/Mole.md",
     "Physics/Chaleur latente.md",
@@ -272,7 +273,6 @@
     "TOK essay.md",
     "Excalidraw/Physic projectile motion exercice.md",
     "Excalidraw/Inflation exo.md",
-    "Physics/Loi des gaz parfait.md",
     "Energie mécanique (énergie totale).md",
     "Puissance d'une force.md",
     "Physics/Mouvement rectiligne uniforme.md",
