@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
               }
             }
           }
@@ -255,8 +255,9 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
+    "Théorie cinétique des gaz parfaits (contraire de réel).md",
+    "Physics/Loi des gaz parfait.md",
     "Physics/Mole.md",
     "Physics/Chaleur latente.md",
     "Economy/Changements d'états.md",
@@ -280,7 +281,6 @@
     "Energies potentielles.md",
     "Energie cinétique (2).md",
     "Travail d'une Force variable (selon l'axe des x).md",
-    "Travail des force électriques.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
