@@ -18,4 +18,4 @@ $P$ = Pression en $N.m^{-2}=Pa$
 
 Rappel [[Température]]
 
-$$\Large \bar E_c=$$
+$$\Large \bar E_c=\frac{3}{2}k_aT=\frac{3}{2}\frac{R}{N_A}$$
