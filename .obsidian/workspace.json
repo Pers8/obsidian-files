@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
+                "file": "IB/Economy.md"
               }
             }
           }
@@ -255,8 +255,8 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
+    "IB/Physics.md",
     "Physics/Loi des gaz parfait.md",
     "Physics/Mole.md",
     "Physics/Chaleur latente.md",
