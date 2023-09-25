@@ -173,4 +173,5 @@ Context refers to the circumstances that surround a text - all of the external f
 6. Irony:: A contrast between expectation and reality. 
 7. Simile:: A figure of speech that represent ideas or qualities beyond their literal meaning.
 8. Symbolism:: The use of symbols to represent ideas or qualities beyond their literal meaning.
-9. Theme:: The central idea or message of a literary work, often ref
+9. Theme:: The central idea or message of a literary work, often reflecting universal human experiences or moral lessons.
+10. Motif:: A recuring element 
