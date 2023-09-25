@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Economy/Croissance économique a court et a long terme.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Economy/Croissance économique a court et a long terme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Economy/Croissance économique a court et a long terme.md"
               }
             }
           }
@@ -254,11 +254,12 @@
   },
   "active": "e461754297756704",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Tle IB English.md",
     "IB/English.md",
     "IB/Maths.md",
     "IA de Math & Physics.md",
     "Première loi de Newton.md",
-    "IB/Economy.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "IB/Physics.md",
     "Physics/Loi des gaz parfait.md",
@@ -279,7 +280,6 @@
     "Excalidraw/Inflation exo.md",
     "Energie mécanique (énergie totale).md",
     "Puissance d'une force.md",
-    "Physics/Mouvement rectiligne uniforme.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
