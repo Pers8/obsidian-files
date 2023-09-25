@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Probabilité discrètes.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           }
@@ -257,6 +257,8 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Probabilité discrètes.md",
     "IB/EE.md",
     "IB/English.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
@@ -264,7 +266,6 @@
     "TOK essay.md",
     "IB/Economy.md",
     "Tle IB English.md",
-    "IB/Maths.md",
     "IA de Math & Physics.md",
     "Première loi de Newton.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
@@ -282,7 +283,6 @@
     "Economy/Objectifs macro-économiques.md",
     "Inflation et ces causes.md",
     "Excalidraw/Physic projectile motion exercice.md",
-    "Excalidraw/Inflation exo.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",

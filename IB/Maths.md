@@ -27,3 +27,7 @@ $$
 2. [[Lois des sinus et cosinus]]
 3. [[Cercle trigonométrique]]
 4. [[Identités trigonométriques]]
+
+# Theme 4: Statistique et Probabilité
+
+1. [[Probabilité discrètes]]
