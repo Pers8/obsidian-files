@@ -169,4 +169,5 @@ Context refers to the circumstances that surround a text - all of the external f
 2. Alliteration:: The repetition of consonants sounds at the beginning of words in a sentence or phrase.
 3. Allusion:: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance.
 4. Antagonist:: The character or force that opposes the protagonist (main character) in  a story.
-5. Foreshadowing:: A literary devic
+5. Foreshadowing:: A literary device in which a writer hints at future events in the plot.
+6. Irony:: A contrast between expectation and reality. 
