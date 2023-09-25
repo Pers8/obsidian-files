@@ -175,4 +175,4 @@ Context refers to the circumstances that surround a text - all of the external f
 8. Symbolism:: The use of symbols to represent ideas or qualities beyond their literal meaning.
 9. Theme:: The central idea or message of a literary work, often reflecting universal human experiences or moral lessons.
 10. Motif:: A recuring element, theme, or idea in a work of literature.
-11. 
+11. Foils:: Characters who contrast with 
