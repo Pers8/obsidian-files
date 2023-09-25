@@ -176,4 +176,4 @@ Context refers to the circumstances that surround a text - all of the external f
 9. Theme:: The central idea or message of a literary work, often reflecting universal human experiences or moral lessons.
 10. Motif:: A recuring element, theme, or idea in a work of literature.
 11. Foils:: Characters who contrast with each other to highlight their differences or similarities, often used to develop character traits
-12. Imagery:: Vivid and descriptive language that appeals the senses, creating ml
+12. Imagery:: Vivid and descriptive language that appeals the senses, creating mental 
