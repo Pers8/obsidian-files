@@ -168,4 +168,5 @@ Context refers to the circumstances that surround a text - all of the external f
 1. Allegory:: A narrative in which characters, events, and settings represent abstract ideas or moral qualities. 
 2. Alliteration:: The repetition of consonants sounds at the beginning of words in a sentence or phrase.
 3. Allusion:: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance.
-4. Antagonist:: The charactzers
+4. Antagonist:: The character or force that opposes the protagonist (main character) in  a story.
+5. Foreshadowing:: A literary devic
