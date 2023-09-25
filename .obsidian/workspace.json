@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Première loi de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Première loi de Newton.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Première loi de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Première loi de Newton.md"
               }
             }
           }
@@ -253,8 +253,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4ab3884da65770b3",
+  "active": "43d319cf5195081b",
   "lastOpenFiles": [
+    "IB/Economy.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "IB/Physics.md",
     "Physics/Loi des gaz parfait.md",
@@ -269,7 +270,6 @@
     "IB/EE.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Economy/Objectifs macro-économiques.md",
-    "IB/Economy.md",
     "Inflation et ces causes.md",
     "TOK essay.md",
     "Excalidraw/Physic projectile motion exercice.md",
