@@ -163,4 +163,6 @@ Consider the time and place the text was produced in, who wrote the text? Why wa
 ?
 Context refers to the circumstances that surround a text - all of the external factors which are needed to fully understand the text itself.
 
-# Common literary terms and concepts used when Analysingf
+# Common literary terms and concepts used when Analysing Literary and non Literary texts 
+
+	1. Allegory:: A narrative in which characters 
