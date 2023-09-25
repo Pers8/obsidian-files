@@ -79,9 +79,11 @@
             "id": "85f343bdf186746d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
+                "file": "IB/EE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md",
+                "file": "IB/EE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
+                "file": "IB/EE.md"
               }
             }
           },
@@ -201,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md",
+                "file": "IB/EE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Exo 5 - Info - Révisions 3.md"
+                "file": "IB/EE.md"
               }
             }
           }
@@ -253,11 +255,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "85f343bdf186746d",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "Excalidraw/Exo 5 - Info - Révisions 3.md",
     "Economy/Croissance économique a court et a long terme.md",
     "TOK essay.md",
-    "Excalidraw/Exo 5 - Info - Révisions 3.md",
     "IB/Economy.md",
     "Tle IB English.md",
     "IB/English.md",
