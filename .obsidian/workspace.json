@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Première loi de Newton.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Première loi de Newton.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Première loi de Newton.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Première loi de Newton.md"
+                "file": "Tle IB English.md"
               }
             }
           }
@@ -253,8 +252,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "43d319cf5195081b",
+  "active": "e461754297756704",
   "lastOpenFiles": [
+    "IB/English.md",
+    "IB/Maths.md",
+    "IA de Math & Physics.md",
+    "Première loi de Newton.md",
     "IB/Economy.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "IB/Physics.md",
@@ -277,10 +280,6 @@
     "Energie mécanique (énergie totale).md",
     "Puissance d'une force.md",
     "Physics/Mouvement rectiligne uniforme.md",
-    "Physics/Utilisation des aires.md",
-    "Energies potentielles.md",
-    "Energie cinétique (2).md",
-    "Travail d'une Force variable (selon l'axe des x).md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
