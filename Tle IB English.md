@@ -165,4 +165,5 @@ Context refers to the circumstances that surround a text - all of the external f
 
 # Common literary terms and concepts used when Analysing Literary and non Literary texts 
 
-	1. Allegory:: A narrative in which characters 
+1. Allegory:: A narrative in which characters, events, and settings represent abstract ideas or moral qualities. 
+2. Alliteration:: 
