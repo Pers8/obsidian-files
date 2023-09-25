@@ -171,4 +171,5 @@ Context refers to the circumstances that surround a text - all of the external f
 4. Antagonist:: The character or force that opposes the protagonist (main character) in  a story.
 5. Foreshadowing:: A literary device in which a writer hints at future events in the plot.
 6. Irony:: A contrast between expectation and reality. 
-	1. Simile:: A figure of speech that represent ide
+7. Simile:: A figure of speech that represent ideas or qualities beyond their literal meaning.
+8. Symbolism:: The use of symbols to represent ideras or que
