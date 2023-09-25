@@ -166,4 +166,5 @@ Context refers to the circumstances that surround a text - all of the external f
 # Common literary terms and concepts used when Analysing Literary and non Literary texts 
 
 1. Allegory:: A narrative in which characters, events, and settings represent abstract ideas or moral qualities. 
-2. Alliteration:: The repetition of consonants sounds at the beginning of words in a sentence or phrase, 
+2. Alliteration:: The repetition of consonants sounds at the beginning of words in a sentence or phrase.
+3. Allusion:: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary 
