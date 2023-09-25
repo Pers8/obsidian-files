@@ -27,6 +27,6 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(0)$=::0
 - $P(A)+P(A')$=::1 
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
-- $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}
+- $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
 - $P(A\cap B)$=::$P(A)\times P(B/A)$ ou $P(B)\times P(A/B)$
 - Si deux événements sont indépendants alors $P(A/B)$=::$P(A)$
