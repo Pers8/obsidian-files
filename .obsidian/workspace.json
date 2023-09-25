@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "TOK essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md"
+                "file": "TOK essay.md"
               }
             }
           },
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "TOK essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +228,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md"
+                "file": "TOK essay.md"
               }
             }
           }
@@ -252,8 +253,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e461754297756704",
+  "active": "9824d2fb76ff0c06",
   "lastOpenFiles": [
+    "Excalidraw/Exo 5 - Info - Révisions 3.md",
+    "Economy/Croissance économique a court et a long terme.md",
     "IB/Economy.md",
     "Tle IB English.md",
     "IB/English.md",
@@ -278,8 +281,6 @@
     "TOK essay.md",
     "Excalidraw/Physic projectile motion exercice.md",
     "Excalidraw/Inflation exo.md",
-    "Energie mécanique (énergie totale).md",
-    "Puissance d'une force.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
