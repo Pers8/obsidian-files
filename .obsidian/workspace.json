@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/Economy.md"
               }
             }
           }
@@ -257,8 +257,8 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
-    "IB/Maths.md",
     "Probabilité discrètes.md",
+    "IB/Maths.md",
     "IB/EE.md",
     "IB/English.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
