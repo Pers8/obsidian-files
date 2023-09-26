@@ -23,7 +23,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-16,3,263-->
 
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
-<!--SR:!2023-09-16,3,263-->
+<!--SR:!2023-11-12,47,283-->
 
 - $\Large{\sin 90}=$::$1$
 <!--SR:!2023-09-16,3,263-->
@@ -89,17 +89,17 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-16,3,263-->
 
 - $\tan(x+k\pi)=$::$\tan(x)$
-<!--SR:!2023-09-19,1,203-->
+<!--SR:!2023-09-27,1,183-->
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
-<!--SR:!2023-09-19,2,243-->
+<!--SR:!2023-10-27,31,263-->
 
 - $\sin(-\theta)=$::$-\sin(\theta)$
 <!--SR:!2023-09-18,1,203-->
 
 - $\tan(-\theta)=$::$-\tan(\theta)$
-<!--SR:!2023-09-21,10,250-->
+<!--SR:!2023-10-03,7,230-->
 
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
