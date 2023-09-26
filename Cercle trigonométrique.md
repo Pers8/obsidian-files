@@ -14,7 +14,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2023-09-19,2,243-->
+<!--SR:!2023-10-28,32,263-->
 
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-11-18,53,270-->
@@ -57,7 +57,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-11-15,50,283-->
 
 - $\sin(\pi+\theta)$=::$-\sin\theta$
-<!--SR:!2023-09-16,3,263-->
+<!--SR:!2023-11-09,44,283-->
 
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-14,49,283-->
@@ -113,4 +113,4 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 <!--SR:!2023-09-28,2,183-->
 
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
-<!--SR:!2023-09-20,1,203-->
+<!--SR:!2023-09-27,1,183-->
