@@ -20,7 +20,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-22,11,250-->
 
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
-<!--SR:!2023-09-16,3,263-->
+<!--SR:!2023-11-11,46,283-->
 
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-11-12,47,283-->
@@ -71,14 +71,14 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-28,2,203-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-09-18,5,230-->
+<!--SR:!2023-10-17,21,230-->
 
 
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2023-09-28,11,210-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-09-18,5,230-->
+<!--SR:!2023-10-17,21,230-->
 
 
 ## Périodicité
@@ -107,7 +107,7 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
-<!--SR:!2023-09-14,1,223-->
+<!--SR:!2023-10-12,16,223-->
 
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2023-09-18,1,203-->
