@@ -9,7 +9,7 @@ tags: [math]
 - $\frac{\pi}{2}$ radians =:: 90 degrés
 <!--SR:!2023-10-03,30,290-->
 - $\frac{\pi}{3}$ radians =:: 60 degrés
-<!--SR:!2023-09-21,18,270-->
+<!--SR:!2023-11-20,55,270-->
 - $\frac{\pi}{4}$ radians =:: 45 degrés
 <!--SR:!2023-09-29,25,270-->
 - $\frac{\pi}{6}$ radians =:: 30 degrés

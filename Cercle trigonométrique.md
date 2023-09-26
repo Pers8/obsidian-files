@@ -6,7 +6,7 @@ tags:
 ## Lignes trigonométriques
 
 $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
-<!--SR:!2023-09-14,1,223-->
+<!--SR:!2023-09-28,2,203-->
 
 
 ---
@@ -17,7 +17,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-19,2,243-->
 
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
-<!--SR:!2023-09-22,11,250-->
+<!--SR:!2023-11-18,53,270-->
 
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2023-11-11,46,283-->
@@ -38,7 +38,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-09-29,12,243-->
 
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
-<!--SR:!2023-09-16,3,263-->
+<!--SR:!2023-10-16,20,263-->
 
 - $\Large{\cos 90}=$::$0$
 <!--SR:!2023-09-30,17,290-->
@@ -63,7 +63,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-11-14,49,283-->
 
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-09-19,2,243-->
+<!--SR:!2023-10-26,30,263-->
 
 
 ### Autour de $\frac{\pi}{2}$
@@ -103,7 +103,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
-<!--SR:!2023-09-19,6,246-->
+<!--SR:!2023-11-10,45,266-->
 
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
