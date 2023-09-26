@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Economy/Croissance économique a court et a long terme.md"
+                "file": "IB/Economy.md"
               }
             }
           }
@@ -257,6 +257,7 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "Economy/Croissance économique a court et a long terme.md",
     "IB/Economy.md",
     "Déflation, désinflation et leurs coûts.md",
     "Economy/Objectifs macro-économiques.md",
@@ -265,7 +266,6 @@
     "IB/EE.md",
     "IB/English.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
-    "Economy/Croissance économique a court et a long terme.md",
     "TOK essay.md",
     "Tle IB English.md",
     "IA de Math & Physics.md",
