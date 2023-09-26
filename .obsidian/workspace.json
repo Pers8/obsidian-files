@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Déflation, désinflation et leurs coûts.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Déflation, désinflation et leurs coûts.md"
               }
             }
           }
@@ -257,6 +257,8 @@
   },
   "active": "85f343bdf186746d",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Déflation, désinflation et leurs coûts.md",
     "Probabilité discrètes.md",
     "IB/Maths.md",
     "IB/EE.md",
@@ -264,7 +266,6 @@
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
     "Economy/Croissance économique a court et a long terme.md",
     "TOK essay.md",
-    "IB/Economy.md",
     "Tle IB English.md",
     "IA de Math & Physics.md",
     "Première loi de Newton.md",
@@ -282,7 +283,6 @@
     "Excalidraw/Effet inflation sur chômage.md",
     "Economy/Objectifs macro-économiques.md",
     "Inflation et ces causes.md",
-    "Excalidraw/Physic projectile motion exercice.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
