@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflation et ces causes.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation et ces causes.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inflation et ces causes.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation et ces causes.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inflation et ces causes.md"
+                "file": "IB/Economy.md"
               }
             }
           }
@@ -257,6 +257,7 @@
   },
   "active": "9824d2fb76ff0c06",
   "lastOpenFiles": [
+    "Inflation et ces causes.md",
     "IB/Economy.md",
     "Economy/Chômage faible.md",
     "IB/Maths.md",
@@ -282,7 +283,6 @@
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
     "Physics/Température.md",
-    "Excalidraw/Effet inflation sur chômage.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
