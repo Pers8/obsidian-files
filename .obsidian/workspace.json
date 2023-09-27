@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Economy/Chômage faible.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Economy/Chômage faible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Economy/Chômage faible.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Economy/Chômage faible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Economy/Chômage faible.md"
               }
             }
           }
@@ -257,13 +257,13 @@
   },
   "active": "9824d2fb76ff0c06",
   "lastOpenFiles": [
-    "TOK essay.md",
     "IB/Economy.md",
+    "IB/Maths.md",
+    "TOK essay.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Déflation, désinflation et leurs coûts.md",
     "Economy/Objectifs macro-économiques.md",
     "Probabilité discrètes.md",
-    "IB/Maths.md",
     "IB/EE.md",
     "IB/English.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
