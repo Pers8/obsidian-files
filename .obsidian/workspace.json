@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Chômage faible.md",
+                "file": "Inflation et ces causes.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Chômage faible.md",
+                "file": "Inflation et ces causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Chômage faible.md"
+                "file": "Inflation et ces causes.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Chômage faible.md",
+                "file": "Inflation et ces causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Economy/Chômage faible.md"
+                "file": "Inflation et ces causes.md"
               }
             }
           }
@@ -258,6 +258,7 @@
   "active": "9824d2fb76ff0c06",
   "lastOpenFiles": [
     "IB/Economy.md",
+    "Economy/Chômage faible.md",
     "IB/Maths.md",
     "TOK essay.md",
     "Economy/Croissance économique a court et a long terme.md",
@@ -282,7 +283,6 @@
     "Physics/Chaleur.md",
     "Physics/Température.md",
     "Excalidraw/Effet inflation sur chômage.md",
-    "Inflation et ces causes.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
