@@ -76,19 +76,27 @@
             }
           },
           {
-            "id": "85f343bdf186746d",
+            "id": "abd992925d55b771",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c6b47297ec7bd99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -203,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +238,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -255,10 +263,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9824d2fb76ff0c06",
+  "active": "6c6b47297ec7bd99",
   "lastOpenFiles": [
-    "Inflation et ces causes.md",
+    "Untitled 1.md",
     "IB/Economy.md",
+    "Inflation et ces causes.md",
     "Economy/Chômage faible.md",
     "IB/Maths.md",
     "TOK essay.md",
@@ -282,7 +291,6 @@
     "Physics/Chaleur massique.md",
     "Physics/Energie interne.md",
     "Physics/Chaleur.md",
-    "Physics/Température.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
