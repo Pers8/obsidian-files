@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Intro.md",
+                "file": "roorzkpg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Intro.md"
+                "file": "roorzkpg.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Intro.md",
+                "file": "roorzkpg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TOK Intro.md"
+                "file": "roorzkpg.md"
               }
             }
           }
@@ -275,10 +275,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "700a4e1b321c5e96",
+  "active": "29fa7bbe796ca2f6",
   "lastOpenFiles": [
-    "roorzkpg.md",
     "TOK Intro.md",
+    "roorzkpg.md",
     "IB/TOK.md",
     "IB/Economy.md",
     "Inflation et ces causes.md",
