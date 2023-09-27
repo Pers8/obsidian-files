@@ -19,7 +19,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2023-09-30,4,270-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
-<!--SR:!2023-09-27,1,230-->
+<!--SR:!2023-09-29,2,230-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-09-30,4,270-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
