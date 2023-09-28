@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economy/Offre.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economy/Offre.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economy/Offre.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economy/Offre.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Economy/Offre.md"
+                "file": "IB/Economy.md"
               }
             }
           }
@@ -281,6 +281,7 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
+    "Economy/Offre.md",
     "IB/Economy.md",
     "Méthode de résolution de problème de dynamique.md",
     "IB/Physics.md",
@@ -306,7 +307,6 @@
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Physics/Loi des gaz parfait.md",
     "Physics/Mole.md",
-    "Physics/Chaleur latente.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
