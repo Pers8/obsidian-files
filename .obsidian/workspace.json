@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Economy/Offre.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md",
+                "file": "Economy/Offre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md"
+                "file": "Economy/Offre.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md",
+                "file": "Economy/Offre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Méthode de résolution de problème de dynamique.md"
+                "file": "Economy/Offre.md"
               }
             }
           }
@@ -279,8 +279,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "abd992925d55b771",
+  "active": "4ab3884da65770b3",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Méthode de résolution de problème de dynamique.md",
     "IB/Physics.md",
     "Deuxième loi de Newton.md",
     "Première loi de Newton.md",
@@ -288,7 +290,6 @@
     "roorzkpg.md",
     "TOK Intro.md",
     "IB/TOK.md",
-    "IB/Economy.md",
     "Inflation et ces causes.md",
     "Economy/Chômage faible.md",
     "IB/Maths.md",
@@ -306,7 +307,6 @@
     "Physics/Loi des gaz parfait.md",
     "Physics/Mole.md",
     "Physics/Chaleur latente.md",
-    "Economy/Changements d'états.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
