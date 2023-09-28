@@ -14,7 +14,7 @@ Created: 2023-06-05
 
 ## Formules d'addition
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
-<!--SR:!2023-09-28,2,170-->
+<!--SR:!2023-09-29,1,150-->
 
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 <!--SR:!2023-11-16,51,286-->
@@ -37,7 +37,7 @@ Pour $\cos(2a)$, les 3 formules sont:
 - $\cos(2a)=\cos^{2}a-\sin^{2}a$
 - $\cos(2a)=2\cos^{2}a-1$
 - $\cos(2a)=1-2\sin^{2}a$
-<!--SR:!2023-09-28,2,206-->
+<!--SR:!2023-10-02,4,206-->
 
 
 ---
