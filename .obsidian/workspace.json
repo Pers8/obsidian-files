@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Déflation, désinflation et leurs coûts.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Economy.md"
+                "file": "Déflation, désinflation et leurs coûts.md"
               }
             }
           }
@@ -281,8 +281,8 @@
   },
   "active": "4ab3884da65770b3",
   "lastOpenFiles": [
-    "Economy/Offre.md",
     "IB/Economy.md",
+    "Economy/Offre.md",
     "Méthode de résolution de problème de dynamique.md",
     "IB/Physics.md",
     "Deuxième loi de Newton.md",
