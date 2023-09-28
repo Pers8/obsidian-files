@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Première loi de Newton.md"
+                "file": "Méthode de résolution de problème de dynamique.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Première loi de Newton.md",
+                "file": "Méthode de résolution de problème de dynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Première loi de Newton.md"
+                "file": "Méthode de résolution de problème de dynamique.md"
               }
             }
           }
@@ -282,6 +282,8 @@
   "active": "abd992925d55b771",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Deuxième loi de Newton.md",
+    "Première loi de Newton.md",
     "Troisième loi de Newton.md",
     "roorzkpg.md",
     "TOK Intro.md",
@@ -300,13 +302,11 @@
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
     "Tle IB English.md",
     "IA de Math & Physics.md",
-    "Première loi de Newton.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Physics/Loi des gaz parfait.md",
     "Physics/Mole.md",
     "Physics/Chaleur latente.md",
     "Economy/Changements d'états.md",
-    "Physics/Capacité calorifique.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
