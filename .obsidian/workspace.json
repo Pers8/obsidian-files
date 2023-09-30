@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "roorzkpg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "roorzkpg.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "roorzkpg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "roorzkpg.md"
               }
             }
           }
@@ -279,10 +279,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4ab3884da65770b3",
+  "active": "29fa7bbe796ca2f6",
   "lastOpenFiles": [
-    "Raisonnement abstrait.md",
+    "Méthode de résolution de problème de dynamique.md",
     "IB/Comp Sci.md",
+    "Raisonnement abstrait.md",
     "Notion de problème.md",
     "IB/Physics.md",
     "Puissance d'une force.md",
@@ -292,7 +293,6 @@
     "Déflation, désinflation et leurs coûts.md",
     "IB/Economy.md",
     "Economy/Offre.md",
-    "Méthode de résolution de problème de dynamique.md",
     "roorzkpg.md",
     "TOK Intro.md",
     "IB/TOK.md",
