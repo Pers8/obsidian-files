@@ -1,4 +1,5 @@
-
+  
+Idk why when I wanna move the .radial-line by changing the margin, it moves the line and the whole cut-part. Could you tell me where is the proble mand how to fix it ?
 
 <!DOCTYPE html>
 
