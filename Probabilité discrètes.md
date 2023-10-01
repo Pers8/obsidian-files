@@ -25,13 +25,13 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
 <!--SR:!2023-09-30,4,270-->
 - Evénement certain:: toutes les issues
-<!--SR:!2023-09-30,4,270-->
+<!--SR:!2023-10-20,19,290-->
 - Evénement impossible:: aucune issue
-<!--SR:!2023-09-30,4,270-->
+<!--SR:!2023-10-18,17,290-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-09-30,4,270-->
+<!--SR:!2023-10-21,20,290-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
 <!--SR:!2023-09-30,4,270-->
 
@@ -51,4 +51,4 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Si deux événements sont indépendants alors $P(A/B)$=::$P(A)$
 <!--SR:!2023-09-30,4,270-->
 - $P(A')$=:: $1-P(A)$
-<!--SR:!2023-09-30,4,270-->
+<!--SR:!2023-10-19,18,290-->
