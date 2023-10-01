@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roorzkpg.md",
+                "file": "Probabilité discrètes.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roorzkpg.md",
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roorzkpg.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roorzkpg.md",
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "roorzkpg.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           }
@@ -281,6 +281,8 @@
   },
   "active": "29fa7bbe796ca2f6",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "roorzkpg.md",
     "Méthode de résolution de problème de dynamique.md",
     "IB/Comp Sci.md",
     "Raisonnement abstrait.md",
@@ -293,12 +295,10 @@
     "Déflation, désinflation et leurs coûts.md",
     "IB/Economy.md",
     "Economy/Offre.md",
-    "roorzkpg.md",
     "TOK Intro.md",
     "IB/TOK.md",
     "Inflation et ces causes.md",
     "Economy/Chômage faible.md",
-    "IB/Maths.md",
     "TOK essay.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Economy/Objectifs macro-économiques.md",
