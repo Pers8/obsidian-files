@@ -33,7 +33,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
 <!--SR:!2023-10-21,20,290-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
-<!--SR:!2023-09-30,4,270-->
+<!--SR:!2023-10-18,17,290-->
 
 ### Propriété
 - $P(U)$=::1 
