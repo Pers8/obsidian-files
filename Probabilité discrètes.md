@@ -39,7 +39,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(U)$=::1 
 <!--SR:!2023-09-30,4,270-->
 - $P(0)$=::0
-<!--SR:!2023-09-30,4,270-->
+<!--SR:!2023-10-21,20,290-->
 - $P(A)+P(A')$=::1 
 <!--SR:!2023-09-30,4,270-->
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$

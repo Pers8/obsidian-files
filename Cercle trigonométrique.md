@@ -29,7 +29,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-11,12,263-->
 
 - $\Large{\cos 0}=$::$\Large{1}$
-<!--SR:!2023-10-01,18,290-->
+<!--SR:!2023-12-13,73,310-->
 
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-10-02,15,283-->
@@ -68,7 +68,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
-<!--SR:!2023-10-01,2,183-->
+<!--SR:!2023-10-06,5,203-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-10-17,21,230-->
