@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Economy.md",
+                "file": "IB/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/English.md"
               }
             }
           }
@@ -279,8 +279,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "29fa7bbe796ca2f6",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "TOK Intro.md",
+    "Probabilité discrètes.md",
     "IB/Maths.md",
     "roorzkpg.md",
     "Méthode de résolution de problème de dynamique.md",
@@ -293,16 +296,13 @@
     "Deuxième loi de Newton.md",
     "Première loi de Newton.md",
     "Déflation, désinflation et leurs coûts.md",
-    "IB/Economy.md",
     "Economy/Offre.md",
-    "TOK Intro.md",
     "IB/TOK.md",
     "Inflation et ces causes.md",
     "Economy/Chômage faible.md",
     "TOK essay.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Economy/Objectifs macro-économiques.md",
-    "Probabilité discrètes.md",
     "IB/EE.md",
     "IB/English.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
