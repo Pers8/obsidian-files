@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38755acd61108fa5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "493c2b034b1dad58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -134,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -186,8 +207,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "98b9447076898f03",
+  "active": "493c2b034b1dad58",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Tle IB English.md",
     "IB/Maths.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Méthode de résolution de problème de dynamique.md",
@@ -198,7 +221,6 @@
     "IB/Economy.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Excalidraw/Drawing 2023-10-02 08.49.52.excalidraw.md",
-    "Tle IB English.md",
     "TOK Intro.md",
     "roorzkpg.md",
     "IB/Comp Sci.md",
@@ -213,7 +235,6 @@
     "Economy/Offre.md",
     "Inflation et ces causes.md",
     "Economy/Chômage faible.md",
-    "TOK essay.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
