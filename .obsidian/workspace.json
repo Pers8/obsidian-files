@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Proba Math training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Excalidraw/Proba Math training.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Proba Math training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Excalidraw/Proba Math training.md"
               }
             }
           }
@@ -209,13 +209,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "493c2b034b1dad58",
+  "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Excalidraw/Proba Math training.md",
     "assets/Pasted Image 20231002215807_302.png",
     "assets/Pasted Image 20231002210601_381.png",
     "assets/Pasted Image 20231002202813_279.png",
-    "Untitled 1.md",
     "Tle IB English.md",
     "IB/Maths.md",
     "Economy/Croissance économique a court et a long terme.md",
