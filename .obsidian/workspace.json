@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Proba Math training.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Proba Math training.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Proba Math training.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Proba Math training.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -209,12 +209,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "493c2b034b1dad58",
   "lastOpenFiles": [
+    "Excalidraw/Proba Math training.md",
     "assets/Pasted Image 20231002215807_302.png",
     "assets/Pasted Image 20231002210601_381.png",
     "assets/Pasted Image 20231002202813_279.png",
-    "Excalidraw/Proba Math training.md",
     "Untitled 1.md",
     "Tle IB English.md",
     "IB/Maths.md",
@@ -246,7 +246,6 @@
     "assets/Pasted image 20230919145944.png",
     "assets/Pasted image 20230919145746.png",
     "assets/Pasted image 20230919145526.png",
-    "assets/Pasted image 20230919145356.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
