@@ -2,5 +2,5 @@ Do not forgive someone because they deserve forgiveness, but because you deserve
 
 
 
-$$\LARGE S \hspace{2mm}O\hspace{2mm}S$$
+$$\LARGE \sqrt{S \hspace{2mm}O\hspace{2mm}S}$$
 
