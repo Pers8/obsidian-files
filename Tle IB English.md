@@ -195,7 +195,7 @@ S = Summarize your points
 
 
 S = An article from from the magazine High Country  News, the title is "The Silence of the Bees" and it was published 2007
-P = 3
+P = 
 E =
 C =
 S =
