@@ -23,8 +23,10 @@
             "id": "38755acd61108fa5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Proba Math training.md"
+              }
             }
           },
           {
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Excalidraw/Proba Math training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Excalidraw/Proba Math training.md"
               }
             }
           },
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Excalidraw/Proba Math training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "Excalidraw/Proba Math training.md"
               }
             }
           }
@@ -209,6 +211,7 @@
   },
   "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "Excalidraw/Proba Math training.md",
     "Untitled 1.md",
     "Tle IB English.md",
     "IB/Maths.md",
@@ -234,7 +237,6 @@
     "Déflation, désinflation et leurs coûts.md",
     "Economy/Offre.md",
     "Inflation et ces causes.md",
-    "Economy/Chômage faible.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
