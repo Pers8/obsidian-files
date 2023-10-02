@@ -187,4 +187,4 @@ E = Examine the evidence
 C = Contextualize the content
 S = Summarize your points
 
-Begin your essay by introducing the source material you are analysing. Provide a brief overview of the text title, author if known, gnere
+Begin your essay by introducing the source material you are analysing. Provide a brief overview of the text title, author if known, genre and any relevant contextual information that is provided. Offer a 
