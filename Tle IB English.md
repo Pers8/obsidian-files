@@ -181,4 +181,7 @@ Context refers to the circumstances that surround a text - all of the external f
 
 ## SPECS Acronym 
 ?
-S = Start woth the s
+S = Start with the source
+P = Point to the passage
+E= Examine the evidence
+C = 
