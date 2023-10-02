@@ -186,3 +186,5 @@ P = Point to the passage
 E = Examine the evidence
 C = Contextualize the content
 S = Summarize your points
+
+Begin your essay by introducing the soru
