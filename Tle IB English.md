@@ -179,7 +179,7 @@ Context refers to the circumstances that surround a text - all of the external f
 12. Imagery:: Vivid and descriptive language that appeals the senses, creating mental
 
 
-## SPECS Acronym 
+## SPEX Acronym 
 ?
 S = Start with the source
 P = Point to the passage
@@ -191,4 +191,4 @@ S = Summarize your points
 - Select a specific passage or quotation from the text that is central to your analysis. These passages should be particularly rich in literary elements that you plan to discuss. Clearly and accurately quote the passage providing line numbers if applicable. 
 - Dive into a detailed analysis of the chosen passage. Explore the literary techniques used by the author such as imagery, symbolism, figurative devices, and stylistic choices. Explain how these elements contribute to the overall meaning of the text or illuminate specific themes or ideas.
 - Place the passage and your analysis within the broader context of the entire text. Discuss how these specific passages fit into the narrative themes or characters.  Consider the historical culture or societal context in which the text was written and how it might influence the interpretation
-- In  your conclusion summarize the key points of your analysis and reiterate the significance of the chosen passage and its contribution to the text as a whole.
+- In  your conclusion summarize the key points of your analysis and reiterate the significance of the chosen passage and its contribution to the text as a whole. 
