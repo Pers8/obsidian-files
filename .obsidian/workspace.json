@@ -57,22 +57,8 @@
             "id": "98b9447076898f03",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Effet inflation sur chômage.md"
-              }
-            }
-          },
-          {
-            "id": "9824d2fb76ff0c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tle IB English.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -112,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tle IB English.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,7 +210,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Tle IB English.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -279,8 +259,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9824d2fb76ff0c06",
+  "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "Excalidraw/Effet inflation sur chômage.md",
+    "Excalidraw/Drawing 2023-10-02 08.49.52.excalidraw.md",
+    "Tle IB English.md",
     "IB/English.md",
     "IB/Economy.md",
     "TOK Intro.md",
@@ -304,9 +287,6 @@
     "TOK essay.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Economy/Objectifs macro-économiques.md",
-    "IB/EE.md",
-    "Excalidraw/Exo 5 - Info - Révisions 3.md",
-    "Tle IB English.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
