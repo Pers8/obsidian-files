@@ -179,7 +179,7 @@ Context refers to the circumstances that surround a text - all of the external f
 12. Imagery:: Vivid and descriptive language that appeals the senses, creating mental
 
 
-## SPEX Acronym 
+## SPECS Acronym 
 ?
 S = Start with the source
 P = Point to the passage
