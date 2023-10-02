@@ -57,8 +57,12 @@
             "id": "98b9447076898f03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IB/Maths.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -172,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IB/Maths.md"
+              }
             }
           },
           {
@@ -210,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "IB/Maths.md"
+              }
             }
           }
         ],
@@ -261,11 +271,13 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
+    "IB/French.md",
+    "IB/English.md",
+    "IB/TOK.md",
+    "IB/Economy.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Excalidraw/Drawing 2023-10-02 08.49.52.excalidraw.md",
     "Tle IB English.md",
-    "IB/English.md",
-    "IB/Economy.md",
     "TOK Intro.md",
     "Probabilité discrètes.md",
     "IB/Maths.md",
@@ -281,12 +293,10 @@
     "Première loi de Newton.md",
     "Déflation, désinflation et leurs coûts.md",
     "Economy/Offre.md",
-    "IB/TOK.md",
     "Inflation et ces causes.md",
     "Economy/Chômage faible.md",
     "TOK essay.md",
     "Economy/Croissance économique a court et a long terme.md",
-    "Economy/Objectifs macro-économiques.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
