@@ -183,5 +183,6 @@ Context refers to the circumstances that surround a text - all of the external f
 ?
 S = Start with the source
 P = Point to the passage
-E= Examine the evidence
-C = 
+E = Examine the evidence
+C = Contextualize the content
+S = Summarize your points
