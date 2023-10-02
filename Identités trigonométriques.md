@@ -7,10 +7,10 @@ Created: 2023-06-05
 # Identités trigonométriques
 ## Identité fondamentale
 - $\cos^{2}x+\sin^{2}x=$::$1$
-<!--SR:!2023-10-02,15,286-->
+<!--SR:!2023-12-01,60,306-->
 
 - $1+\tan^{2}x=$::$\frac{1}{cos^{2}x}$
-<!--SR:!2023-10-02,4,186-->
+<!--SR:!2023-10-10,8,186-->
 
 ## Formules d'addition
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
@@ -37,7 +37,7 @@ Pour $\cos(2a)$, les 3 formules sont:
 - $\cos(2a)=\cos^{2}a-\sin^{2}a$
 - $\cos(2a)=2\cos^{2}a-1$
 - $\cos(2a)=1-2\sin^{2}a$
-<!--SR:!2023-10-02,4,206-->
+<!--SR:!2023-10-14,12,226-->
 
 
 ---
