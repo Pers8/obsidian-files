@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Tle IB English.md"
               }
             }
           }
@@ -188,8 +188,8 @@
   },
   "active": "98b9447076898f03",
   "lastOpenFiles": [
-    "Economy/Croissance économique a court et a long terme.md",
     "IB/Maths.md",
+    "Economy/Croissance économique a court et a long terme.md",
     "Méthode de résolution de problème de dynamique.md",
     "Probabilité discrètes.md",
     "IB/French.md",
