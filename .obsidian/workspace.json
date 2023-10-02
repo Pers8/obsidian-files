@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/English.md"
+                "file": "Tle IB English.md"
               }
             }
           }
@@ -279,8 +279,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "9824d2fb76ff0c06",
   "lastOpenFiles": [
+    "IB/English.md",
     "IB/Economy.md",
     "TOK Intro.md",
     "Probabilité discrètes.md",
@@ -304,7 +305,6 @@
     "Economy/Croissance économique a court et a long terme.md",
     "Economy/Objectifs macro-économiques.md",
     "IB/EE.md",
-    "IB/English.md",
     "Excalidraw/Exo 5 - Info - Révisions 3.md",
     "Tle IB English.md",
     "assets/Pasted image 20230921080918.png",
