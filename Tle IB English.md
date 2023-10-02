@@ -189,3 +189,4 @@ S = Summarize your points
 
 Begin your essay by introducing the source material you are analysing. Provide a brief overview of the text title, author if known, genre and any relevant contextual information that is provided. Offer a brief summary of the content or theme of the text to establish the context for your analysis.
 Select a specific passage or quotation from the text that is central to your analysis. These passages should be particularly rich in literary elements that you plan to discuss. Clearly and accurately quote the passage providing line numbers if applicable. 
+Dive into a detailed analysis of the chosen passage. Explore the literary techniques used by the author such as
