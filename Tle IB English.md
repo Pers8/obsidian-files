@@ -188,4 +188,4 @@ C = Contextualize the content
 S = Summarize your points
 
 Begin your essay by introducing the source material you are analysing. Provide a brief overview of the text title, author if known, genre and any relevant contextual information that is provided. Offer a brief summary of the content or theme of the text to establish the context for your analysis.
-Select a specific passage or qotation 
+Select a specific passage or quotation from the text that is central to your analysis. These passages should be paticulary rich in 
