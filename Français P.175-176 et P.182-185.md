@@ -19,5 +19,5 @@ P.182-183
 | d) le produit sur lequel il est apposé | il | *Le logo* |
 | e) Cela n’a (presque) rien à voir | rien à voir |  *Ce logo ne signifie pas que le produit sur lequel il est apposé sera recyclé* |
 
-3.  a) , b) , c) , d) , e
+3.  a) , b) , c) , d) , e) , f)
 
