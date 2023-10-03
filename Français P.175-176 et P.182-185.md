@@ -2,5 +2,5 @@
 
 P.175
 
-1. Pour être honnête, je n'en ai pas. Le fait que je ne m'en suis pas vraiment p
+1. Pour être honnête, je n'en ai pas. Le fait que je ne m'en suis pas vraiment préocupé.
 2. 
