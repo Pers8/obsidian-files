@@ -18,8 +18,8 @@ P.182-183
 | c) le produit sur lequel il est apposé | sur lequel |  *Le produit* |
 | d) le produit sur lequel il est apposé | il | *Le logo* |
 | e) Cela n’a (presque) rien à voir | rien à voir |  *Ce logo ne signifie pas que le produit sur lequel il est apposé sera recyclé* |
-
-3.  a) ce type de matériau., b) en particulier, c) ce sigle, d) sensibiliser, e) Les industries de l’acier, f) indubitablement
+<br>
+3.  a) ce type de matériau, b) en particulier, c) ce sigle, d) sensibiliser, e) Les industries de l’acier, f) indubitablement
 
 
 
