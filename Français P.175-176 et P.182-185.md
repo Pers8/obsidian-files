@@ -2,4 +2,5 @@
 
 P.175
 
-1. Pour être honnête, je n'ai pas de problème qui problèmes de l’environnement vous concernent personnellement ?
+1. Pour être honnête, je n'en ai pas. Le fait que je ne m'en suis pas vraiment p
+2. 
