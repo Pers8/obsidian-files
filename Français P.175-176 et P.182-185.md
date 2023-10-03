@@ -11,8 +11,8 @@ P.175
 P.182-183
 
 1. b
-2. | Syntax | Description |  Syntax | 
-| ----------- | ----------- |  
+2. | Dans la phrase.. | le(s) mot(s) |  se réfère(nt) à... | 
+| ----------- | ----------- |  ----------- |  
 | Header | Title |  
 | Paragraph | Text |
 
