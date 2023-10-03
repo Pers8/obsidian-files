@@ -13,7 +13,7 @@ P.182-183
 1. b
 2. | Dans la phrase.. | le(s) mot(s) |  se réfère(nt) à... | 
 | ----------- | ----------- |  ----------- |  
-| a) le logo attestant de leur présence l’est beaucoup plus | l' |  *ee* |
+| a) le logo attestant de leur présence l’est beaucoup plus | l' |  *Éco-Emballage, Adelphe ou Cyclamed* |
 | b) lorsqu’on le voit sur les produits de consommation courante | le | *ee* |
 | c) le produit sur lequel il est apposé | sur lequel |  *ee* |
 | d) le produit sur lequel il est apposé | il | *ee* |
