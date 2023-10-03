@@ -7,4 +7,6 @@ P.175
 3. Pour moi, un éco-citoyen est un citoyen qui a un train de vie écologique et ce préocupe de comment sa consomation ou son activité pourrait influencer la nature en limitant les riques. Non. Oui, je ne vais pas changer mes habitudes car je n'en éprouve pas le besoin.
 4. (Besoin d'internet)
 5. (Besoin d'internet ou d'un dictionnaire)
-6. 
+
+P.182
+
