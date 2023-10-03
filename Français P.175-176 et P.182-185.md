@@ -13,6 +13,6 @@ P.182-183
 1. b
 2. | Dans la phrase.. | le(s) mot(s) |  se réfère(nt) à... | 
 | ----------- | ----------- |  ----------- |  
-| Header | Title |  
-| Paragraph | Text |
+| a) le logo attestant de leur présence l’est beaucoup plus | l' |  ee |
+| b) lorsqu’on le voit sur les produits de consommation courante | le |
 
