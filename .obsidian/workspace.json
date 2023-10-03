@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français P.175-176 et P.182-185.md",
+                "file": "Excalidraw/Proba Math training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français P.175-176 et P.182-185.md"
+                "file": "Excalidraw/Proba Math training.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français P.175-176 et P.182-185.md",
+                "file": "Excalidraw/Proba Math training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Français P.175-176 et P.182-185.md"
+                "file": "Excalidraw/Proba Math training.md"
               }
             }
           }
@@ -209,10 +209,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "493c2b034b1dad58",
+  "active": "38755acd61108fa5",
   "lastOpenFiles": [
-    "syntax/Obsidian Basic  and Extended Syntax.md",
     "Français P.175-176 et P.182-185.md",
+    "syntax/Obsidian Basic  and Extended Syntax.md",
     "Excalidraw/Proba Math training.md",
     "assets/Pasted Image 20231002215807_302.png",
     "assets/Pasted Image 20231002210601_381.png",
