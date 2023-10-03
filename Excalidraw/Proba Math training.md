@@ -13,6 +13,7 @@ tags: [excalidraw]
 801c23eb9ef378574485e27c5c389ada5367a20d: [[Pasted Image 20231002202813_279.png]]
 a1fb848f785399e6d10406710c3cdac62b66c652: [[Pasted Image 20231002210601_381.png]]
 9cdb4233f402fc74746de2d41eae9fb53ff653a2: [[Pasted Image 20231002215807_302.png]]
+15cd0aaf9fb07254d7c80fd9637cb9a130a5b9f7: [[Pasted Image 20231003135915_276.png]]
 
 %%
 # Drawing
@@ -91801,6 +91802,38 @@ a1fb848f785399e6d10406710c3cdac62b66c652: [[Pasted Image 20231002210601_381.png]
 			"lastCommittedPoint": [
 				-71.57429233380526,
 				-1.6645184263688861
+			]
+		},
+		{
+			"id": "KWOhRZAyT6OLjND4T0fRk",
+			"type": "image",
+			"x": -168.36873717817093,
+			"y": 9444.192895282104,
+			"width": 1706.2973602663806,
+			"height": 218.34971380085778,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 858460336,
+			"version": 89,
+			"versionNonce": 1728601264,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696341562467,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "15cd0aaf9fb07254d7c80fd9637cb9a130a5b9f7",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
