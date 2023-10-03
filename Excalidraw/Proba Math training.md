@@ -120717,6 +120717,48 @@ a0f56055026fb6995f39a06114d5a145e0d18027: [[Pasted Image 20231003141659_310.png]
 			]
 		},
 		{
+			"id": "_eUdGeuz3L-XYO1kjXV0f",
+			"type": "freedraw",
+			"x": 1127.250091968923,
+			"y": 14973.877901278844,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1712656560,
+			"version": 3,
+			"versionNonce": 2089777840,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696359474408,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
 			"id": "QyVf3UFuGxhJnW_XfEBa6",
 			"type": "freedraw",
 			"x": 1337.5493640965756,
