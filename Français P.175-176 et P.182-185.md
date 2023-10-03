@@ -17,5 +17,5 @@ P.182-183
 | b) lorsqu’on le voit sur les produits de consommation courante | le | *ee* |
 | c) le produit sur lequel il est apposé | sur lequel |  *ee* |
 | d) le produit sur lequel il est apposé | il | *ee* |
-| e) Cela n’a (presque) rien à voir | rien à voir |  ee |
+| e) Cela n’a (presque) rien à voir | rien à voir |  *ee* |
 
