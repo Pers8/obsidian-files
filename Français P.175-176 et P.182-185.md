@@ -14,5 +14,9 @@ P.182-183
 2. | Dans la phrase.. | le(s) mot(s) |  se réfère(nt) à... | 
 | ----------- | ----------- |  ----------- |  
 | a) le logo attestant de leur présence l’est beaucoup plus | l' |  ee |
-| b) lorsqu’on le voit sur les produits de consommation courante | le |
+| b) lorsqu’on le voit sur les produits de consommation courante | le | ee |
+| c) le produit sur lequel il est apposé | l' |  ee |
+| d) le produit sur lequel il est apposé | le | ee |
+| a) le logo attestant de leur présence l’est beaucoup plus | l' |  ee |
+| b) lorsqu’on le voit sur les produits de consommation courante | le | ee |
 
