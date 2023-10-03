@@ -8,5 +8,7 @@ P.175
 4. (Besoin d'internet)
 5. (Besoin d'internet ou d'un dictionnaire)
 
-P.182
+P.182-183
+
+
 
