@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Déflation, désinflation et leurs coûts.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Déflation, désinflation et leurs coûts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Déflation, désinflation et leurs coûts.md"
               }
             }
           }
@@ -188,6 +188,8 @@
   },
   "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "IB/Maths.md",
     "IB/French.md",
     "Excalidraw/Proba Math training.md",
     "assets/Pasted Image 20231003141800_271.png",
@@ -199,13 +201,11 @@
     "assets/Pasted Image 20231002210601_381.png",
     "assets/Pasted Image 20231002202813_279.png",
     "Tle IB English.md",
-    "IB/Maths.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Méthode de résolution de problème de dynamique.md",
     "Probabilité discrètes.md",
     "IB/English.md",
     "IB/TOK.md",
-    "IB/Economy.md",
     "Excalidraw/Effet inflation sur chômage.md",
     "Excalidraw/Drawing 2023-10-02 08.49.52.excalidraw.md",
     "TOK Intro.md",
