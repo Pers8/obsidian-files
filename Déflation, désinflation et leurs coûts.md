@@ -5,7 +5,7 @@ tags:
 
 # Déflation, désinflation leurs ses coûts
 
-Définition de l'déflation
+Définition de la déflation
 ?
 La déflation est la baisse du niveau des prix dans le temps.
 <!--SR:!2023-09-25,3,250-->
