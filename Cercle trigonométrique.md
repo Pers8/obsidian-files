@@ -89,7 +89,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-08,7,243-->
 
 - $\tan(x+k\pi)=$::$\tan(x)$
-<!--SR:!2023-10-04,2,163-->
+<!--SR:!2023-10-07,3,163-->
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
