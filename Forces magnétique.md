@@ -32,6 +32,6 @@ Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  (
 
 $$
 \Large \begin{cases}
-a & \text{for }1\le i<1\\ c(a_1) = a_1
+\vec a \perp \vec v \\ a \hspace{2mm}est\hspace{2mm}constant
 \end{cases}
 $$
