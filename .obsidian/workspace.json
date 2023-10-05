@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -209,10 +209,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eefe5febf43bc505",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
-    "Comp Sci/Objectif des prototypes pour présenter un système au client.md",
     "IB/Comp Sci.md",
+    "Comp Sci/Objectif des prototypes pour présenter un système au client.md",
     "Comp Sci/Importance de l'itération pendant le processus de conception.md",
     "Comp Sci/Fondamentaux des réseaux.md",
     "Info - Révisions.md",
