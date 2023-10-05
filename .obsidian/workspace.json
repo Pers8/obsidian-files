@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f76c55268727d75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travail des force électriques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "Travail des force électriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "Travail des force électriques.md"
               }
             }
           },
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "Travail des force électriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "Travail des force électriques.md"
               }
             }
           }
@@ -197,11 +209,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eefe5febf43bc505",
+  "active": "f76c55268727d75c",
   "lastOpenFiles": [
     "IB/Physics.md",
-    "Champ Magnétique.md",
+    "Energie mécanique (énergie totale).md",
+    "Energies potentielles.md",
     "Forces magnétique.md",
+    "Champ Magnétique.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Frottement.md",
     "Méthode de résolution de problème de dynamique.md",
@@ -228,8 +242,6 @@
     "assets/Pasted Image 20231003141800_271.png",
     "assets/Pasted Image 20231003141659_310.png",
     "assets/Pasted Image 20231003135915_276.png",
-    "Français P.175-176 et P.182-185.md",
-    "syntax/Obsidian Basic  and Extended Syntax.md",
     "assets/Pasted Image 20231002215807_302.png",
     "assets/Pasted Image 20231002210601_381.png",
     "assets/Pasted Image 20231002202813_279.png",
