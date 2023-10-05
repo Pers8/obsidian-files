@@ -24,3 +24,5 @@ $$\Large \boxed{F=|q|vB\sin\theta}, \hspace{2mm} \theta=\vec V, \vec B$$
 Le sens et la direction de la force est donné  par la règle:: de la paume de la main droite.
 
 ## b) Mouvement d'une particule chargée dans un  champ magnétique (Application du Thème 6)
+
+Une
