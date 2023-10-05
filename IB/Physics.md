@@ -95,6 +95,8 @@ $$
 2. [[Tension ou différence de potentiel électrique]]
 3. [[Résistance électrique]]
 4. [[Piles électriques]]
+## 3. Magnétisme
+
 # Theme 6: Mouvement circulaire uniforme et Gravitation
 ## 1. Gravitation (universelle)
 1. [[Loi de gravitation de Newton]], [[Champ de gravitation]]
