@@ -14,15 +14,15 @@ $$
 # Theme 1-Mesures et incertitudes
 
 ### Chapitre 1 - Analyse dimensionnelle
-1. [Grandeurs physiques fondamentales](app://obsidian.md/Grandeurs%20physiques%20fondamentales)
-2. [Chiffres significatifs](app://obsidian.md/Chiffres%20significatifs)
+1. [Grandeurs physiques fondamentales](app:
+2. [[Chiffres significatifs]]
 
 ### Chapitre 2 - Incertitudes et erreurs
 
-1. [Précision et exactitude]
-2. [Erreurs et incertitudes]
-3. [Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage]
-4. [Techniques graphiques
+1. [[Précision et exactitude]]
+2. [[Erreurs et incertitudes]]
+3. [[Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage]]
+4. [[Techniques graphiques]]
 
 
 # Theme 2-Mécanique
