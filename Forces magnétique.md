@@ -10,4 +10,4 @@ Une particule chargée $q$ se déplaçant à la vitesse $\vec v$ dans un champ m
 
 ### Formule
 ?
-$$\Large \boxed{F=||}$$
+$$\Large \boxed{F=|q|vB\sin\theta}, \hspace{2mm} \theta=\vec v, $$
