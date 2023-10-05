@@ -14,7 +14,7 @@ $$
 # Theme 1-Mesures et incertitudes
 
 ### Chapitre 1 - Analyse dimensionnelle
-1. [Grandeurs physiques fondamentales](app:
+1. [[Grandeurs physiques fondamentales]]
 2. [[Chiffres significatifs]]
 
 ### Chapitre 2 - Incertitudes et erreurs
