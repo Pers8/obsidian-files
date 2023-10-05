@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Forces magnétique.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
-    "Physics/Piles électriques.md",
     "IB/Physics.md",
+    "Physics/Piles électriques.md",
     "Forces magnétique.md",
     "Excalidraw/Paume de la main droite.md",
     "Travail des force électriques.md",
