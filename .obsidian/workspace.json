@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/exercices info 1.md",
+                "file": "Info - Révisions.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci/exercices info 1.md",
+                "file": "Info - Révisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci/exercices info 1.md"
+                "file": "Info - Révisions.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci/exercices info 1.md",
+                "file": "Info - Révisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Comp Sci/exercices info 1.md"
+                "file": "Info - Révisions.md"
               }
             }
           }
@@ -212,6 +212,7 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Comp Sci.md",
+    "Comp Sci/exercices info 1.md",
     "Comp Sci/questions infos 1.md",
     "Comp Sci/exercices info 2.md",
     "Comp Sci/exercices info 3.md",
@@ -236,7 +237,6 @@
     "Troisième loi de Newton.md",
     "Poussée d'Archimede.md",
     "Physics/Déplacement et Distance parcouru.md",
-    "Techniques graphiques.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/Pasted Image 20231003141800_271.png",
