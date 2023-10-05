@@ -8,6 +8,10 @@ tags:
 ?
 Une particule chargée $q$ se déplaçant à la vitesse $\vec v$ dans un champ magnétique $\vec B$ est soumise à la force magnétique $\vec F$ dont l'intensité est donnée  par la loi de Lorentz.
 
+### Représentation
+?
+![[Paume de la main droite]]
+
 ### Formule
 ?
 $$\Large \boxed{F=|q|vB\sin\theta}, \hspace{2mm} \theta=\vec V, \vec B$$

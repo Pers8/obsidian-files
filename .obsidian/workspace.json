@@ -21,9 +21,11 @@
             "id": "eefe5febf43bc505",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md"
+                "file": "Forces magnétique.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -197,8 +199,8 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
-    "Forces magnétique.md",
     "Excalidraw/Paume de la main droite.md",
+    "Forces magnétique.md",
     "Travail des force électriques.md",
     "IB/Physics.md",
     "Energie mécanique (énergie totale).md",
