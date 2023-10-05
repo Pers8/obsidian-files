@@ -25,4 +25,4 @@ Le sens et la direction de la force est donné  par la règle:: de la paume de l
 
 ## b) Mouvement d'une particule chargée dans un  champ magnétique (Application du Thème 6)
 
-Une particule chargée  $q$ se déplace à la vitesse $\vec v$ 
+Une particule chargée  $q$ se déplace à la vitesse $\vec v$ dans un champ magnétique ($\vec v$  $\vec B$)
