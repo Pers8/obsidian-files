@@ -14,7 +14,7 @@ Created: 2023-06-05
 
 ## Formules d'addition
 - $\cos(a+b)=$::$\cos a\cos b-\sin a\sin b$
-<!--SR:!2023-10-05,4,170-->
+<!--SR:!2023-10-15,10,190-->
 
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 <!--SR:!2023-11-16,51,286-->
