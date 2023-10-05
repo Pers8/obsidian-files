@@ -38,5 +38,6 @@ $$
 
 Donc le mouvement de la particule sera MCU :
 $$
-\Large a=\frac{}{m}
+\Large a=\frac{|q|vB\sin\theta}{m}
 $$
+En utilisant les fomules du Thème 6, on peut exprimer le rayon $R$ de la trajectoire 
