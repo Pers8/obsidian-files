@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md",
+                "file": "Chiffres significatifs.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md",
+                "file": "Chiffres significatifs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md"
+                "file": "Chiffres significatifs.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md",
+                "file": "Chiffres significatifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md"
+                "file": "Chiffres significatifs.md"
               }
             }
           }
@@ -200,8 +200,9 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
-    "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
+    "assets/Pasted image 20231005083834.png",
+    "Chiffres significatifs.md",
     "Techniques graphiques.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "Erreurs et incertitudes.md",
@@ -231,10 +232,8 @@
     "Excalidraw/Drawing 2023-10-02 08.49.52.excalidraw.md",
     "TOK Intro.md",
     "roorzkpg.md",
-    "IB/Comp Sci.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
-    "assets/Pasted image 20230921080705.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
