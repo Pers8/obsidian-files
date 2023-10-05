@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Grandeurs physiques fondamentales.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Grandeurs physiques fondamentales.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
-    "Chiffres significatifs.md",
     "IB/Physics.md",
+    "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "Techniques graphiques.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
