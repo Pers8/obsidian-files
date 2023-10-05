@@ -30,4 +30,4 @@ Une particule chargée  $q$ se déplace à la vitesse $\vec v$ dans un champ mag
 
 Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  ($\vec{F_m} \perp \vec v$) or $\vec F = m\vec a$ 
 
-$\$
+$\left\$
