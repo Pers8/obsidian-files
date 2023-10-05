@@ -58,5 +58,17 @@ Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affect
 
 Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
 
+## Événements dépendants
+Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
+<!--SR:!2023-10-13,10,252-->
 
+Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 
+## Probabilité conditionnelle
+Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
+
+Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
+
+Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
+
+$P(A\cap B')$=::$P(A)-P(A\cap B)$
