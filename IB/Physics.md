@@ -84,7 +84,7 @@ $$
 ## 3. Modélisation d'un gaz parfait
 1. [[Mole]]
 2. [[Loi des gaz parfait]], isotherme, isobare, iso-volumique
-3.[[ Théorie cinétique des gaz parfaits (contraire de réel)]]
+3. [[ Théorie cinétique des gaz parfaits (contraire de réel)]]
 # Theme 5: Electricité et Magnétisme
 ## 1. Champ électrique
 0. [[Rappel d'électrostatique]]
