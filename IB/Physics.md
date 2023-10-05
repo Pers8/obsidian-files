@@ -17,18 +17,13 @@ $$
 1. [Grandeurs physiques fondamentales](app://obsidian.md/Grandeurs%20physiques%20fondamentales)
 2. [Chiffres significatifs](app://obsidian.md/Chiffres%20significatifs)
 
-  
+### Chapitre 2 - Incertitudes et erreurs
 
-Chapitre 2 - Incertitudes et erreurs
+1. [Précision et exactitude]
+2. [Erreurs et incertitudes]
+3. [Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage]
+4. [Techniques graphiques
 
-### 
-
-Chapitre 2 - Incertitudes et erreurs
-
-1. [Précision et exactitude](app://obsidian.md/Pr%C3%A9cision%20et%20exactitude)
-2. [Erreurs et incertitudes](app://obsidian.md/Erreurs%20et%20incertitudes)
-3. [Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage](app://obsidian.md/Incertitudes%20absolues,%20incertitudes%20fractionnaires%20et%20incertitudes%20en%20pourcentage)
-4. [Techniques graphiques](app://obsidian.md/Techniques%20graphiques)
 
 # Theme 2-Mécanique
 ## I-Cinématique
