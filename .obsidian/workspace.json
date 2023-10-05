@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -199,10 +199,11 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
-    "Excalidraw/Paume de la main droite.md",
-    "Forces magnétique.md",
-    "Travail des force électriques.md",
+    "Physics/Piles électriques.md",
     "IB/Physics.md",
+    "Forces magnétique.md",
+    "Excalidraw/Paume de la main droite.md",
+    "Travail des force électriques.md",
     "Energie mécanique (énergie totale).md",
     "Energies potentielles.md",
     "Champ Magnétique.md",
@@ -226,7 +227,6 @@
     "Excalidraw/Math training proba.md",
     "assets/Pasted Image 20231005081535_970.png",
     "Déflation, désinflation et leurs coûts.md",
-    "IB/Economy.md",
     "assets/Pasted Image 20231003141800_271.png",
     "assets/Pasted Image 20231003141659_310.png",
     "assets/Pasted Image 20231003135915_276.png",
