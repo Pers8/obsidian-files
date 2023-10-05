@@ -33,5 +33,7 @@ Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  (
 $$
 \sigma(s,i) = \left\{
 	\begin{array{ll}}
-		\tau_{si} & \mbox{si }
+		\tau_{si} & \mbox{si } \{s,i\} \in E \\
+		\infty & \mbox{sinon.}
+	\end{array}
 $$
