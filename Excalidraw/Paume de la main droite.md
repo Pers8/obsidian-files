@@ -14,6 +14,8 @@ le sens de B ^qYeCzONX
 
 q, v ^7QnLKKD1
 
+En mouvement (Loi de Lorentz) dans un champ magnétique ^HxdMnD2m
+
 %%
 # Drawing
 ```json
@@ -2092,8 +2094,8 @@ q, v ^7QnLKKD1
 		{
 			"id": "7QnLKKD1",
 			"type": "text",
-			"x": 408,
-			"y": -21.2421875,
+			"x": 388,
+			"y": 80.7578125,
 			"width": 39,
 			"height": 25,
 			"angle": 0,
@@ -2107,11 +2109,11 @@ q, v ^7QnLKKD1
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1170820850,
-			"version": 16,
-			"versionNonce": 2066387182,
+			"version": 44,
+			"versionNonce": 572226222,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696502442892,
+			"updated": 1696502447975,
 			"link": null,
 			"locked": false,
 			"text": "q, v",
@@ -2123,6 +2125,82 @@ q, v ^7QnLKKD1
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "q, v"
+		},
+		{
+			"id": "PbD1Zp3z0miVnogTuNba3",
+			"type": "arrow",
+			"x": 411,
+			"y": 83.7578125,
+			"width": 14,
+			"height": 1,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 997281586,
+			"version": 7,
+			"versionNonce": 1862567026,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696502456898,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					14,
+					-1
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "HxdMnD2m",
+			"type": "text",
+			"x": -202.87959113558054,
+			"y": 250.41402580123992,
+			"width": 588.7591822711611,
+			"height": 25.687573397520122,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2090804786,
+			"version": 92,
+			"versionNonce": 1659639922,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696502507667,
+			"link": null,
+			"locked": false,
+			"text": "En mouvement (Loi de Lorentz) dans un champ magnétique",
+			"rawText": "En mouvement (Loi de Lorentz) dans un champ magnétique",
+			"fontSize": 20.550058718016086,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 17.687573397520122,
+			"containerId": null,
+			"originalText": "En mouvement (Loi de Lorentz) dans un champ magnétique"
 		},
 		{
 			"id": "XGpCUNLdalpmVuYohhb0_",
