@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f4466db6b3e9b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Loi de gravitation de Newton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "Physics/Loi de gravitation de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "Physics/Loi de gravitation de Newton.md"
               }
             }
           },
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "Physics/Loi de gravitation de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "Physics/Loi de gravitation de Newton.md"
               }
             }
           }
@@ -197,11 +209,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eefe5febf43bc505",
+  "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
     "IB/Physics.md",
-    "Physics/Piles électriques.md",
     "Forces magnétique.md",
+    "Physics/Piles électriques.md",
     "Excalidraw/Paume de la main droite.md",
     "Travail des force électriques.md",
     "Energie mécanique (énergie totale).md",
