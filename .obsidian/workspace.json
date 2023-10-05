@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Techniques graphiques.md",
+                "file": "Frottement.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Techniques graphiques.md",
+                "file": "Frottement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Techniques graphiques.md"
+                "file": "Frottement.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Techniques graphiques.md",
+                "file": "Frottement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Techniques graphiques.md"
+                "file": "Frottement.md"
               }
             }
           }
@@ -200,13 +200,19 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Méthode de résolution de problème de dynamique.md",
+    "Première loi de Newton.md",
+    "Deuxième loi de Newton.md",
+    "Troisième loi de Newton.md",
+    "Poussée d'Archimede.md",
+    "Physics/Déplacement et Distance parcouru.md",
+    "Techniques graphiques.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "Erreurs et incertitudes.md",
     "Précision et exactitude.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "assets/Pasted image 20231005083834.png",
-    "Techniques graphiques.md",
     "Probabilité discrètes.md",
     "IB/Maths.md",
     "Excalidraw/Math training proba.md",
@@ -225,13 +231,8 @@
     "assets/Pasted Image 20231002202813_279.png",
     "Tle IB English.md",
     "Economy/Croissance économique a court et a long terme.md",
-    "Méthode de résolution de problème de dynamique.md",
     "IB/English.md",
     "IB/TOK.md",
-    "Excalidraw/Effet inflation sur chômage.md",
-    "Excalidraw/Drawing 2023-10-02 08.49.52.excalidraw.md",
-    "TOK Intro.md",
-    "roorzkpg.md",
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/~$ectres atomiquescours2021.docx"
