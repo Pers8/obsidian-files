@@ -35,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -209,9 +209,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0f4466db6b3e9b0f",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Champ de gravitation.md",
+    "Physics/Loi de gravitation de Newton.md",
     "Forces magnétique.md",
     "Physics/Piles électriques.md",
     "Excalidraw/Paume de la main droite.md",
@@ -236,9 +238,7 @@
     "assets/Pasted image 20231005083834.png",
     "Probabilité discrètes.md",
     "IB/Maths.md",
-    "Excalidraw/Math training proba.md",
     "assets/Pasted Image 20231005081535_970.png",
-    "Déflation, désinflation et leurs coûts.md",
     "assets/Pasted Image 20231003141800_271.png",
     "assets/Pasted Image 20231003141659_310.png",
     "assets/Pasted Image 20231003135915_276.png",
