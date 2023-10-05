@@ -28,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f76c55268727d75c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travail des force électriques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travail des force électriques.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -157,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Travail des force électriques.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Travail des force électriques.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -209,8 +197,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f76c55268727d75c",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Travail des force électriques.md",
     "IB/Physics.md",
     "Energie mécanique (énergie totale).md",
     "Energies potentielles.md",
@@ -238,7 +227,6 @@
     "Déflation, désinflation et leurs coûts.md",
     "IB/Economy.md",
     "IB/French.md",
-    "Excalidraw/Proba Math training.md",
     "assets/Pasted Image 20231003141800_271.png",
     "assets/Pasted Image 20231003141659_310.png",
     "assets/Pasted Image 20231003135915_276.png",
