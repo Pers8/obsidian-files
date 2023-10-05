@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Probabilité discrètes.md",
     "IB/Maths.md",
     "Excalidraw/Math training proba.md",
     "assets/Pasted Image 20231005081535_970.png",
@@ -217,7 +218,6 @@
     "Tle IB English.md",
     "Economy/Croissance économique a court et a long terme.md",
     "Méthode de résolution de problème de dynamique.md",
-    "Probabilité discrètes.md",
     "IB/English.md",
     "IB/TOK.md",
     "Excalidraw/Effet inflation sur chômage.md",
