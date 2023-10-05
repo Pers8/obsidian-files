@@ -31,7 +31,5 @@ Une particule chargée  $q$ se déplace à la vitesse $\vec v$ dans un champ mag
 Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  ($\vec{F_m} \perp \vec v$) or $\vec F = m\vec a$ 
 
 $$
-\begin{cases}
-c(a_i) = a_{i+1} & \text{for }1\le i<1\\ c(a_1) = a_1
-\end{cases}
+\sigma(s,)
 $$
