@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "IB/Economy.md"
               }
             }
           }
@@ -211,10 +211,12 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Comp Sci/Offre globale a long terme et facteurs de production.md",
+    "IB/Economy.md",
+    "Forces magnétique.md",
     "IB/Physics.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
-    "Forces magnétique.md",
     "Physics/Piles électriques.md",
     "Excalidraw/Paume de la main droite.md",
     "Travail des force électriques.md",
@@ -236,8 +238,6 @@
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "assets/Pasted image 20231005083834.png",
-    "Probabilité discrètes.md",
-    "IB/Maths.md",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/Pasted Image 20231003141800_271.png",
     "assets/Pasted Image 20231003141659_310.png",
