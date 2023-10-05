@@ -32,6 +32,6 @@ Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  (
 
 $$
 \Large \begin{cases}
-\vec a \perp \vec v \\ a \hspace{2mm}est\hspace{2mm}constant
+\vec a \perp \vec v \\ donc\hspace{2mm}le\hspace{2mm}mouvement\hspace{2mm}de\hspace{2mm}la\hspace{2mm}particule\hspace{2mm}sera\hspace{2mm}MCU\\a \hspace{2mm}est\hspace{2mm}constant
 \end{cases}
 $$
