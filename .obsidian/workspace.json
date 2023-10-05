@@ -21,9 +21,11 @@
             "id": "eefe5febf43bc505",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 19.09.00.excalidraw.md"
+                "file": "Forces magnétique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 19.09.00.excalidraw.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 19.09.00.excalidraw.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 19.09.00.excalidraw.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 19.09.00.excalidraw.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -209,8 +211,8 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Excalidraw/Diagramme d'une particule chargée dans un champ magnétique.md",
     "Forces magnétique.md",
-    "Excalidraw/Drawing 2023-10-05 19.09.00.excalidraw.md",
     "IB/Physics.md",
     "Méthode de résolution de problème de dynamique.md",
     "Excalidraw/Math training proba.md",
