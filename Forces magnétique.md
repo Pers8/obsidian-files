@@ -21,4 +21,6 @@ $$\Large \boxed{F=|q|vB\sin\theta}, \hspace{2mm} \theta=\vec V, \vec B$$
 - $B$ = B en Tesla $T$
 
 
-Le sens et la direction de la force est donné  par la règle:: de la paume de la main droite
+Le sens et la direction de la force est donné  par la règle:: de la paume de la main droite.
+
+##
