@@ -2,7 +2,7 @@
 tags:
   - math
 ---
-# Probabilité discrètes
+	# Probabilité discrètes
 ## Experience aléatoire-événements
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 <!--SR:!2023-10-22,21,290-->

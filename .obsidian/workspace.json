@@ -16,8 +16,21 @@
                 "file": "Excalidraw/Math training proba.md"
               }
             }
+          },
+          {
+            "id": "eefe5febf43bc505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probabilité discrètes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Math training proba.md",
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Math training proba.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           },
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Math training proba.md",
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Math training proba.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           }
@@ -184,13 +197,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Excalidraw/Math training proba.md",
     "assets/Pasted Image 20231005081535_970.png",
     "Déflation, désinflation et leurs coûts.md",
-    "Excalidraw/Math training proba.md",
     "IB/Economy.md",
-    "IB/Maths.md",
     "IB/French.md",
     "Excalidraw/Proba Math training.md",
     "assets/Pasted Image 20231003141800_271.png",
@@ -221,7 +234,6 @@
     "assets/Pasted image 20230921080918.png",
     "assets/Pasted image 20230921080817.png",
     "assets/Pasted image 20230921080705.png",
-    "assets/Pasted image 20230921080411.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
