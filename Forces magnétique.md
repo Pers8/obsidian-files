@@ -11,8 +11,10 @@ Une particule chargée $q$ se déplaçant à la vitesse $\vec v$ dans un champ m
 ### Formule
 ?
 $$\Large \boxed{F=|q|vB\sin\theta}, \hspace{2mm} \theta=\vec V, \vec B$$
-- $B$ = Intensité du champ électrique en $NC^{-1}$
 - $F$ = Force en Newton 
 - $q$ = Charge électrique en Coulomb
+- $v$ = Charge électrique en Coulomb
+- $B$ = B en Tesla $T$
+
 
 Le sens et la direction de la force est donné  par la règle:: de la paume de la main droite
