@@ -13,7 +13,7 @@ Une particule chargée $q$ se déplaçant à la vitesse $\vec v$ dans un champ m
 $$\Large \boxed{F=|q|vB\sin\theta}, \hspace{2mm} \theta=\vec V, \vec B$$
 - $F$ = Force en Newton 
 - $q$ = Charge électrique en Coulomb
-- $v$ = Charge électrique en Coulomb
+- $v$ = Vitesse en $m \cdot s^{-1}$
 - $B$ = B en Tesla $T$
 
 
