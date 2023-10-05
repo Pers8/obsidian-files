@@ -32,5 +32,5 @@ Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  (
 
 $$
 \begin{cases}
-c(a_i) = 
+c(a_i) = a_{i+1} & \text{for }1\le i<1\\ c(a_1)
 $$
