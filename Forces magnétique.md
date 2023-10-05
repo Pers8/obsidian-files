@@ -28,4 +28,4 @@ Le sens et la direction de la force est donné  par la règle:: de la paume de l
 Une particule chargée  $q$ se déplace à la vitesse $\vec v$ dans un champ magnétique ($\vec v$  $\perp$ $\vec B$)
 ![[Diagramme d'une particule chargée dans un champ magnétique]]
 
-Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  
+Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  ($\vec{F_m} \perp \vec v$) or $\vec F$
