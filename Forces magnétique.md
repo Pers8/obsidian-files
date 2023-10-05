@@ -31,9 +31,7 @@ Une particule chargée  $q$ se déplace à la vitesse $\vec v$ dans un champ mag
 Si on néglige le poid $\vec P$, la particule n'est soumie qu'à  $\vec{F_m}$  ($\vec{F_m} \perp \vec v$) or $\vec F = m\vec a$ 
 
 $$
-\sigma(s,i) = \left\{
-	\begin{array{ll}}
-		\tau_{si} & \mbox{si } \{s,i\} \in E \\
-		\infty & \mbox{sinon.}
-	\end{array}
+\Large \begin{cases}
+a & \text{for }1\le i<1\\ c(a_1) = a_1
+\end{cases}
 $$
