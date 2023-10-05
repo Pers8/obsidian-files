@@ -8,6 +8,12 @@ tags: [excalidraw]
 
 
 # Text Elements
+Paume est 
+dirigé dans 
+le sens de B ^qYeCzONX
+
+q, v ^7QnLKKD1
+
 %%
 # Drawing
 ```json
@@ -34,11 +40,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 208651950,
-			"version": 389,
-			"versionNonce": 129966894,
+			"version": 390,
+			"versionNonce": 1297700910,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696502341274,
+			"updated": 1696502431624,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1620,11 +1626,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 832204466,
-			"version": 57,
-			"versionNonce": 1837076402,
+			"version": 58,
+			"versionNonce": 1370098098,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696502343750,
+			"updated": 1696502431624,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1878,11 +1884,11 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1472724078,
-			"version": 19,
-			"versionNonce": 1755197614,
+			"version": 20,
+			"versionNonce": 2098864750,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696502344920,
+			"updated": 1696502431624,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1964,6 +1970,208 @@ tags: [excalidraw]
 			"lastCommittedPoint": [
 				-53,
 				-1
+			]
+		},
+		{
+			"id": "qYeCzONX",
+			"type": "text",
+			"x": -285,
+			"y": 37.7578125,
+			"width": 127,
+			"height": 75,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 471660850,
+			"version": 58,
+			"versionNonce": 316801906,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696502431624,
+			"link": null,
+			"locked": false,
+			"text": "Paume est \ndirigé dans \nle sens de B",
+			"rawText": "Paume est \ndirigé dans \nle sens de B",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 68,
+			"containerId": null,
+			"originalText": "Paume est \ndirigé dans \nle sens de B"
+		},
+		{
+			"id": "lg-z-e1-D5ozs-bfJ1yDT",
+			"type": "arrow",
+			"x": -181,
+			"y": 86.7578125,
+			"width": 21,
+			"height": 2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 336636974,
+			"version": 54,
+			"versionNonce": 113747118,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696502431625,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					21,
+					2
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "kZsMggvsZ4087nlJ6vE_C",
+			"type": "arrow",
+			"x": 318,
+			"y": 131.7578125,
+			"width": 181,
+			"height": 11,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 200571694,
+			"version": 35,
+			"versionNonce": 1718928690,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696502431625,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					181,
+					11
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "7QnLKKD1",
+			"type": "text",
+			"x": 408,
+			"y": -21.2421875,
+			"width": 39,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1170820850,
+			"version": 16,
+			"versionNonce": 2066387182,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696502442892,
+			"link": null,
+			"locked": false,
+			"text": "q, v",
+			"rawText": "q, v",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "q, v"
+		},
+		{
+			"id": "XGpCUNLdalpmVuYohhb0_",
+			"type": "freedraw",
+			"x": 402,
+			"y": 111.7578125,
+			"width": 0,
+			"height": 2,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2705774,
+			"version": 7,
+			"versionNonce": 2081087214,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696502431625,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1
+				],
+				[
+					0,
+					-2
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0,
+				-2
 			]
 		}
 	],
