@@ -25,4 +25,4 @@ Le sens et la direction de la force est donné  par la règle:: de la paume de l
 
 ## b) Mouvement d'une particule chargée dans un  champ magnétique (Application du Thème 6)
 
-Une
+Une particule chargée  $q$ 
