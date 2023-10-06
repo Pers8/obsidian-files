@@ -31,11 +31,9 @@
             "id": "0f4466db6b3e9b0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Probabilité discrètes.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Exo classe Math.md"
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Excalidraw/Exo classe Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "Excalidraw/Exo classe Math.md"
               }
             }
           },
@@ -155,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Excalidraw/Exo classe Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "Excalidraw/Exo classe Math.md"
               }
             }
           }
@@ -209,6 +207,8 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "Probabilité discrètes.md",
+    "Excalidraw/Exo classe Math.md",
     "IB/Maths.md",
     "IB/Physics.md",
     "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
@@ -235,8 +235,6 @@
     "Physics/Piles électriques.md",
     "Excalidraw/Paume de la main droite.md",
     "Travail des force électriques.md",
-    "Energie mécanique (énergie totale).md",
-    "Energies potentielles.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/Pasted Image 20231003141800_271.png",
