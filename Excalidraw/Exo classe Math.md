@@ -81924,6 +81924,48 @@ babfe27aff623e7b8fd257eab5965dfd6444fb02: [[Pasted Image 20231006105612_076.png]
 			]
 		},
 		{
+			"id": "S1zpJgWhWWUUAVjCH7An2",
+			"type": "freedraw",
+			"x": -950.7335919167867,
+			"y": 7420.479091487448,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1371188530,
+			"version": 3,
+			"versionNonce": 538064626,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696610782921,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
 			"id": "6ghSIRAWzLINPs4ix_eey",
 			"type": "image",
 			"x": -1358.6546711883325,
