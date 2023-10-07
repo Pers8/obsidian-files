@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Grandeurs physiques fondamentales.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Grandeurs physiques fondamentales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Grandeurs physiques fondamentales.md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
     "Excalidraw/Exo classe Math.md",
     "assets/Pasted Image 20231006110629_500.png",
@@ -219,7 +220,6 @@
     "assets/Pasted Image 20231006103138_159.png",
     "Probabilité discrètes.md",
     "IB/Maths.md",
-    "IB/Physics.md",
     "assets/Pasted Image 20231006082217_994.png",
     "assets/Pasted Image 20231006080611_168.png",
     "Forces magnétique.md",
