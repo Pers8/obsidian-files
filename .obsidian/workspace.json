@@ -21,9 +21,11 @@
             "id": "eefe5febf43bc505",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md"
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -38,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -205,8 +207,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0f4466db6b3e9b0f",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
+    "Excalidraw/Exo classe Math.md",
     "assets/Pasted Image 20231006110629_500.png",
     "assets/Pasted Image 20231006110528_270.png",
     "assets/Pasted Image 20231006105612_076.png",
@@ -214,10 +218,8 @@
     "assets/Pasted Image 20231006103721_963.png",
     "assets/Pasted Image 20231006103138_159.png",
     "Probabilité discrètes.md",
-    "Excalidraw/Exo classe Math.md",
     "IB/Maths.md",
     "IB/Physics.md",
-    "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
     "assets/Pasted Image 20231006082217_994.png",
     "assets/Pasted Image 20231006080611_168.png",
     "Forces magnétique.md",
@@ -242,7 +244,6 @@
     "Excalidraw/Paume de la main droite.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
-    "assets/Pasted Image 20231003141800_271.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
