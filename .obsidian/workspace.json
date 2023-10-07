@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md",
+                "file": "Chiffres significatifs.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md",
+                "file": "Chiffres significatifs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md"
+                "file": "Chiffres significatifs.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md",
+                "file": "Chiffres significatifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Grandeurs physiques fondamentales.md"
+                "file": "Chiffres significatifs.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Grandeurs physiques fondamentales.md",
     "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
     "Excalidraw/Exo classe Math.md",
     "assets/Pasted Image 20231006110629_500.png",
