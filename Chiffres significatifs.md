@@ -3,7 +3,7 @@ tags:
   - physics
 ---
 # Chiffres significatifs
-Les chiffres significatifs d'un nombre indiquent la précision d'une mesure. Pour déterminer le nombre de chiffres significatifs d'un nombre, utilisez les 4 règles suivantes
+Les chiffres significatifs d'un nombre indiquent:: la précision d'une mesure. Pour déterminer le nombre de chiffres significatifs d'un nombre, utilisez les 4 règles suivantes
 le nombre de chiffres significatifs d'un nombre, utilisez les règles suivantes :
 ?
 - Les chiffres non nuls sont toujours significatifs.
