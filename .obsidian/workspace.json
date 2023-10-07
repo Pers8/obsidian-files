@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Précision et exactitude.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
@@ -242,7 +243,6 @@
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
-    "Physics/Piles électriques.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/~$ectres atomiquescours2021.docx"
