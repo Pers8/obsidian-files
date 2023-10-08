@@ -59,4 +59,6 @@ Pour bien comprendre notre sujet, commençons par définir deux concepts essenti
 Dans notre exploration, nous découvrirons comment les nombres imaginaires sont utilisés dans les circuits électroniques pour représenter les grandeurs variables dans le temps, telles que les tensions et les courants alternatifs. Cette utilisation des nombres imaginaires simplifie les calculs, améliore la précision des résultats et permet une compréhension plus aprofondie des comportements électriques complexes dans les circuits.
 
 - Refaire l'introduction :
-  - BrI
+  - Brièvement introduire et décrire les éléments du sujet 
+  - Aim --) quel est l'objectif de mon exploration
+  - 
