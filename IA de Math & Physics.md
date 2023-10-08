@@ -60,5 +60,6 @@ Dans notre exploration, nous découvrirons comment les nombres imaginaires sont 
 
 - Refaire l'introduction :
   - Brièvement introduire et décrire les éléments du sujet 
-  - Aim --) quel est l'objectif de mon exploration
-  - 
+  - Aim --) Quel est l'objectif de mon exploration ?
+  - Rationale --) Pourquoi j'ai choisi ce sujet? 
+  - Plan --) 
