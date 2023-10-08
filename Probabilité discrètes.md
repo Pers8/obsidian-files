@@ -57,19 +57,23 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
 
 Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
+<!--SR:!2023-10-09,1,253-->
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
 <!--SR:!2023-10-13,10,252-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
+<!--SR:!2023-10-11,3,273-->
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
+<!--SR:!2023-10-11,3,273-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-10-09,1,253-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
+<!--SR:!2023-10-09,1,253-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
