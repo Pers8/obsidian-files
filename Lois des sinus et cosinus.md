@@ -9,4 +9,4 @@ tags: [math]
 <!--SR:!2023-10-11,7,190-->
 
 - Aire d'un triangle avec sinus=::$$\Large{\text{aire}=\frac{1}{2}bc\sin A}$$
-<!--SR:!2023-10-06,2,190-->
+<!--SR:!2023-10-14,6,190-->
