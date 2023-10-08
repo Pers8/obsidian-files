@@ -68,7 +68,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
-<!--SR:!2023-10-06,5,203-->
+<!--SR:!2023-10-29,21,223-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-10-17,21,230-->
@@ -89,7 +89,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-08,7,243-->
 
 - $\tan(x+k\pi)=$::$\tan(x)$
-<!--SR:!2023-10-07,3,163-->
+<!--SR:!2023-10-16,8,183-->
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
