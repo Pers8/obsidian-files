@@ -23,7 +23,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-10-15,14,270-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
-<!--SR:!2023-10-08,5,250-->
+<!--SR:!2023-10-23,15,250-->
 - Evénement certain:: toutes les issues
 <!--SR:!2023-10-20,19,290-->
 - Evénement impossible:: aucune issue
