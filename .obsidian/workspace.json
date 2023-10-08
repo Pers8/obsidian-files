@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+                "file": "IA de Math & Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           }
@@ -209,12 +209,13 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+    "Excalidraw/Exo classe Math.md",
     "IB/Physics.md",
     "Précision et exactitude.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
-    "Excalidraw/Exo classe Math.md",
     "assets/Pasted Image 20231006110629_500.png",
     "assets/Pasted Image 20231006110528_270.png",
     "assets/Pasted Image 20231006105612_076.png",
@@ -242,7 +243,6 @@
     "Comp Sci/INFO EXO.md",
     "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "Physics/Champ de gravitation.md",
-    "Physics/Loi de gravitation de Newton.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/~$ectres atomiquescours2021.docx"
