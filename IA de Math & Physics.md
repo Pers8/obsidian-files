@@ -58,8 +58,9 @@ Ici, $V(t)$ est la tension instantanée à un moment donné, $V_m​$ est l'ampl
 Pour bien comprendre notre sujet, commençons par définir deux concepts essentiels : Les nombres imaginaires et circuits électriques.Les nombres imaginaires (notés $i$) sont une composante cruciale des mathématiques. Ils sont définis comme des multiples de l'unité imaginaire, où $i$ est défini comme étant la racine carrée de moins un, soit $i^2=-1$. Ils sont utilisés pour représenter des quantités qui ont une composante imaginaire, souvent liée à des oscillations ou des phénomènes de phase. Les circuits électroniques, d'autre part, sont des systèmes électriques composés de composants tels que résistances, condensateurs, inductances, diodes, et plus encore. Ils sont utilisés pour contrôler et manipuler les signaux électriques, convertissant ces signaux en informations utiles dans diverses applications. Ces circuits jouent un rôle essentiel dans la technologie moderne, des télécommunications aux dispositifs électroniques grand public.
 Dans notre exploration, nous découvrirons comment les nombres imaginaires sont utilisés dans les circuits électroniques pour représenter les grandeurs variables dans le temps, telles que les tensions et les courants alternatifs. Cette utilisation des nombres imaginaires simplifie les calculs, améliore la précision des résultats et permet une compréhension plus aprofondie des comportements électriques complexes dans les circuits.
 
-- Refaire l'introduction :
+- $\large Refaire l'introduction$ :
   - Brièvement introduire et décrire les éléments du sujet 
   - Aim --) Quel est l'objectif de mon exploration ?
   - Rationale --) Pourquoi j'ai choisi ce sujet? 
-  - Plan --) 
+  - Plan --) Comment je compte m'y prendre pour structurer mon exploration ?
+
