@@ -19,7 +19,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2023-10-09,6,250-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
-<!--SR:!2023-10-07,8,250-->
+<!--SR:!2023-10-12,4,230-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-10-15,14,270-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
@@ -68,6 +68,7 @@ Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
+<!--SR:!2023-10-09,1,253-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
 
