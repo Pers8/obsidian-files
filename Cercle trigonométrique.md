@@ -99,7 +99,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-22,26,223-->
 
 - $\tan(-\theta)=$::$-\tan(\theta)$
-<!--SR:!2023-10-07,4,210-->
+<!--SR:!2023-10-15,7,210-->
 
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
