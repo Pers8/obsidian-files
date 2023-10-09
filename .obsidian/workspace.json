@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "dfeae65431b7aa4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French 189-193.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eefe5febf43bc505",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "French 189-193.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "French 189-193.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "French 189-193.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "French 189-193.md"
               }
             }
           }
@@ -208,8 +221,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
+    "Tle IB English.md",
+    "French 189-193.md",
     "IB/English.md",
     "Probabilité discrètes.md",
     "IB/Maths.md",
@@ -242,8 +257,6 @@
     "Comp Sci/exercices info 1.md",
     "Comp Sci/questions infos 1.md",
     "Comp Sci/exercices info 2.md",
-    "Comp Sci/exercices info 3.md",
-    "Comp Sci/INFO EXO.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/~$ectres atomiquescours2021.docx"
