@@ -194,8 +194,3 @@ S = Summarize your points
 - In  your conclusion summarize the key points of your analysis and reiterate the significance of the chosen passage and its contribution to the text as a whole. Reflect on the broader implications of your analysis including any thematic that emerge from your examination.
 
 
-S = An article from from the magazine High Country  News, the title is "The Silence of the Bees" and it was published 2007
-P = 
-E =
-C =
-S =
