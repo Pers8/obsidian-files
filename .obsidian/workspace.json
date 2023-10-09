@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "Tle IB English.md"
               }
             }
           }
@@ -208,8 +208,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "IB/English.md",
+    "Probabilité discrètes.md",
     "IB/Maths.md",
     "Excalidraw/Math training proba.md",
     "IA de Math & Physics.md",
@@ -226,7 +228,6 @@
     "assets/Pasted Image 20231006104234_004.png",
     "assets/Pasted Image 20231006103721_963.png",
     "assets/Pasted Image 20231006103138_159.png",
-    "Probabilité discrètes.md",
     "assets/Pasted Image 20231006082217_994.png",
     "assets/Pasted Image 20231006080611_168.png",
     "Forces magnétique.md",
@@ -243,7 +244,6 @@
     "Comp Sci/exercices info 2.md",
     "Comp Sci/exercices info 3.md",
     "Comp Sci/INFO EXO.md",
-    "Comp Sci/Offre globale a long terme et facteurs de production.md",
     "assets/Pasted image 20231005083834.png",
     "assets/Pasted Image 20231005081535_970.png",
     "assets/~$ectres atomiquescours2021.docx"
