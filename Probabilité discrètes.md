@@ -77,4 +77,4 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 <!--SR:!2023-10-09,1,253-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
-<!--SR:!2023-10-09,1,253-->
+<!--SR:!2023-10-14,4,253-->
