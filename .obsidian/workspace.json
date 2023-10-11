@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -220,6 +220,7 @@
   },
   "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "Précision et exactitude.md",
     "IB/Physics.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
@@ -236,7 +237,6 @@
     "Excalidraw/Math training proba.md",
     "IA de Math & Physics.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
-    "Précision et exactitude.md",
     "Excalidraw/Drawing 2023-10-06 08.06.03.excalidraw.md",
     "assets/Pasted Image 20231006110629_500.png",
     "assets/Pasted Image 20231006110528_270.png",
