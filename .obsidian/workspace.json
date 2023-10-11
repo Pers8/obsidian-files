@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -219,24 +218,24 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dfeae65431b7aa4e",
+  "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "Techniques graphiques.md",
+    "IB/Physics.md",
+    "Précision et exactitude.md",
+    "Excalidraw/Physics DST training.md",
     "assets/Pasted Image 20231011204832_978.png",
     "assets/Pasted Image 20231011203830_962.png",
     "assets/Pasted Image 20231011185653_953.png",
     "assets/Pasted Image 20231011185607_949.png",
     "assets/Pasted Image 20231011185536_970.png",
-    "Précision et exactitude.md",
-    "IB/Physics.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
-    "Techniques graphiques.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "IB/French.md",
     "IB/Comp Sci.md",
     "Tle IB English.md",
     "Excalidraw/Exo classe Math.md",
-    "Excalidraw/Physics DST training.md",
     "assets/Pasted Image 20231010133902_376.png",
     "French 189-193.md",
     "IB/English.md",
@@ -249,7 +248,6 @@
     "assets/Pasted Image 20231006110528_270.png",
     "assets/Pasted Image 20231006105612_076.png",
     "assets/Pasted Image 20231006104234_004.png",
-    "assets/Pasted Image 20231006103721_963.png",
     "Forces magnétique.md",
     "Excalidraw/Diagramme d'une particule chargée dans un champ magnétique.md",
     "Méthode de résolution de problème de dynamique.md",
