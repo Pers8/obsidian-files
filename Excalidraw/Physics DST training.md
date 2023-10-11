@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Embedded files
 fdea17bb43898d8f72994165a9b2e14f3c3eebd3: [[Pasted Image 20231011185607_949.png]]
 cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]]
+2572d9beb0b49612e44b68e70c98f681dbd0db7f: [[Pasted Image 20231011203830_962.png]]
 
 %%
 # Drawing
@@ -1035,6 +1036,38 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 			"lastCommittedPoint": [
 				2.457822424554763,
 				2.457822424554763
+			]
+		},
+		{
+			"id": "9Uam34XuJePmWQGFiT7Ou",
+			"type": "image",
+			"x": -391.95639359233024,
+			"y": 196.07870578657418,
+			"width": 640.473722829758,
+			"height": 706.6955429371558,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 429611058,
+			"version": 57,
+			"versionNonce": 1235098926,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1697056710027,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "2572d9beb0b49612e44b68e70c98f681dbd0db7f",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
