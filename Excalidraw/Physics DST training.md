@@ -1071,6 +1071,50 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 			]
 		},
 		{
+			"id": "AKNWYyuz5AZaVCT6sK8cN",
+			"type": "line",
+			"x": -295.10914851019203,
+			"y": 547.5712417222943,
+			"width": 471.56606297616105,
+			"height": 240.53784944216972,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2122205038,
+			"version": 391,
+			"versionNonce": 1425389362,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1697057143272,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					471.56606297616105,
+					-240.53784944216972
+				]
+			],
+			"lastCommittedPoint": [
+				471.006672628621,
+				-250.60687569788854
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "y4dzfQc0e2ZV6qgnknTik",
 			"type": "image",
 			"x": -366.13000579861466,
