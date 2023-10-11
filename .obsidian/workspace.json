@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Précision et exactitude.md",
+                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Précision et exactitude.md"
+                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md"
               }
             }
           }
@@ -218,14 +219,14 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
+    "Précision et exactitude.md",
     "IB/Physics.md",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "Techniques graphiques.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
-    "Précision et exactitude.md",
     "IB/French.md",
     "IB/Comp Sci.md",
     "Tle IB English.md",
