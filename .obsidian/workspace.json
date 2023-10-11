@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Physics DST training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Excalidraw/Physics DST training.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Excalidraw/Physics DST training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Excalidraw/Physics DST training.md"
               }
             }
           }
@@ -218,10 +219,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
-    "Techniques graphiques.md",
     "IB/Physics.md",
+    "Techniques graphiques.md",
     "Précision et exactitude.md",
     "Excalidraw/Physics DST training.md",
     "assets/Pasted Image 20231011204832_978.png",
