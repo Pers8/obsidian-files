@@ -8,11 +8,14 @@ tags: [excalidraw]
 
 
 # Text Elements
+Ce n'est pas  une droite linéaire ^YerifuYy
+
 
 # Embedded files
 fdea17bb43898d8f72994165a9b2e14f3c3eebd3: [[Pasted Image 20231011185607_949.png]]
 cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]]
 2572d9beb0b49612e44b68e70c98f681dbd0db7f: [[Pasted Image 20231011203830_962.png]]
+308c75d8f2320ba700121c7e0581b486f0382986: [[Pasted Image 20231011204832_978.png]]
 
 %%
 # Drawing
@@ -1117,6 +1120,73 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "YerifuYy",
+			"type": "text",
+			"x": -320.29072955654675,
+			"y": 707.6862205868907,
+			"width": 326,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1476234350,
+			"version": 71,
+			"versionNonce": 712593074,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1697057267123,
+			"link": null,
+			"locked": false,
+			"text": "Ce n'est pas  une droite linéaire",
+			"rawText": "Ce n'est pas  une droite linéaire",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Ce n'est pas  une droite linéaire"
+		},
+		{
+			"id": "nSsFRrMcf-Yk4H9YUREbS",
+			"type": "image",
+			"x": -384.05321726707336,
+			"y": 931.994176385673,
+			"width": 617.5851672891109,
+			"height": 706.811352931447,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1334685038,
+			"version": 206,
+			"versionNonce": 1364901490,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1697057311585,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "308c75d8f2320ba700121c7e0581b486f0382986",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"id": "y4dzfQc0e2ZV6qgnknTik",
