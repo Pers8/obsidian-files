@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -219,19 +218,21 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dfeae65431b7aa4e",
+  "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "IB/French.md",
+    "IB/Comp Sci.md",
+    "Tle IB English.md",
+    "Excalidraw/Exo classe Math.md",
+    "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md",
     "assets/Pasted Image 20231010133902_376.png",
     "French 189-193.md",
-    "Excalidraw/Drawing 2023-10-10 13.38.47.excalidraw.md",
-    "Tle IB English.md",
     "IB/English.md",
     "Probabilité discrètes.md",
     "IB/Maths.md",
     "Excalidraw/Math training proba.md",
     "IA de Math & Physics.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
-    "Excalidraw/Exo classe Math.md",
     "IB/Physics.md",
     "Précision et exactitude.md",
     "Chiffres significatifs.md",
@@ -248,7 +249,6 @@
     "Forces magnétique.md",
     "Excalidraw/Diagramme d'une particule chargée dans un champ magnétique.md",
     "Méthode de résolution de problème de dynamique.md",
-    "IB/Comp Sci.md",
     "Comp Sci/Objectif des prototypes pour présenter un système au client.md",
     "Comp Sci/Importance de l'itération pendant le processus de conception.md",
     "Comp Sci/Fondamentaux des réseaux.md",
@@ -256,7 +256,6 @@
     "IB/Economy.md",
     "Comp Sci/exercices info 1.md",
     "assets/Pasted image 20231005083834.png",
-    "assets/Pasted Image 20231005081535_970.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
