@@ -1073,10 +1073,10 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 		{
 			"id": "AKNWYyuz5AZaVCT6sK8cN",
 			"type": "line",
-			"x": -295.10914851019203,
-			"y": 547.5712417222943,
-			"width": 471.56606297616105,
-			"height": 240.53784944216972,
+			"x": -275.5304863462945,
+			"y": 531.3489216436365,
+			"width": 471.0066726286211,
+			"height": 246.69114326510902,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1088,11 +1088,11 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2122205038,
-			"version": 391,
-			"versionNonce": 1425389362,
+			"version": 517,
+			"versionNonce": 737093426,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1697057143272,
+			"updated": 1697057179104,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1101,8 +1101,8 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 					0
 				],
 				[
-					471.56606297616105,
-					-240.53784944216972
+					471.0066726286211,
+					-246.69114326510902
 				]
 			],
 			"lastCommittedPoint": [
