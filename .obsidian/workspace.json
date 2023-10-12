@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Définition.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Définition.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Définition.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Définition.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Définition.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -220,8 +220,8 @@
   },
   "active": "38755acd61108fa5",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Définition.md",
+    "IB/Physics.md",
     "Forces magnétique.md",
     "Excalidraw/Physics DST training.md",
     "assets/Pasted Image 20231012095159_806.png",
