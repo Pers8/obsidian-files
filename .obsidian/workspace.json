@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nouvelle expréssion de la deuxième loi de Newton.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nouvelle expréssion de la deuxième loi de Newton.md",
+                "file": "Excalidraw/armes à feu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nouvelle expréssion de la deuxième loi de Newton.md"
+                "file": "Excalidraw/armes à feu.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nouvelle expréssion de la deuxième loi de Newton.md",
+                "file": "Excalidraw/armes à feu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Nouvelle expréssion de la deuxième loi de Newton.md"
+                "file": "Excalidraw/armes à feu.md"
               }
             }
           }
@@ -229,16 +228,16 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2b5e3c13b7f8912f",
+  "active": "38755acd61108fa5",
   "lastOpenFiles": [
-    "IB/Physics.md",
     "Untitled 1.md",
+    "IB/Physics.md",
+    "Nouvelle expréssion de la deuxième loi de Newton.md",
     "Excalidraw/Physics DST training.md",
     "IA de Math & Physics.md",
     "Excalidraw/armes à feu.md",
     "Applications de la conservation de p.md",
     "Conservation de la quantité de mouvement.md",
-    "Nouvelle expréssion de la deuxième loi de Newton.md",
     "Définition.md",
     "Forces magnétique.md",
     "assets/Pasted Image 20231012095159_806.png",
