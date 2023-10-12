@@ -11,9 +11,11 @@
             "id": "38755acd61108fa5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md"
+                "file": "Forces magnétique.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Paume de la main droite.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -218,6 +220,7 @@
   },
   "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "Excalidraw/Paume de la main droite.md",
     "Forces magnétique.md",
     "IB/Physics.md",
     "Champ Magnétique.md",
@@ -253,7 +256,6 @@
     "assets/Pasted Image 20231006105612_076.png",
     "assets/Pasted Image 20231006104234_004.png",
     "Excalidraw/Diagramme d'une particule chargée dans un champ magnétique.md",
-    "Méthode de résolution de problème de dynamique.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
