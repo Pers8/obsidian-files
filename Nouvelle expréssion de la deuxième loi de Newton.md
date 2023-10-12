@@ -8,8 +8,10 @@ $$\Large\sum\limits \vec{F}_{ext}=m\frac{d\vec{v}}{dt}=\frac{d}{dt}(m\vec{v})$$ 
 
 
 $$
+
 \begin{flalign}
-& \Large\sum\limits \vec{F}_{ext}=m\vec{a}
-& 
+f(u) & =\sum_{j=1}^{n} x_jf(u_j)&\\
+     & =\sum_{j=1}^{n} x_j \sum_{i=1}^{m} a_{ij}v_i&\\
+     & =\sum_{j=1}^{n} \sum_{i=1}^{m} a_{ij}x_jv_i
 \end{flalign}
 $$
