@@ -4,4 +4,4 @@ tags:
 ---
 
 ## Nouvelle expréssion de la deuxième loi de Newton
-$$\Large$$
+$$\Large \sum F_{} = $$
