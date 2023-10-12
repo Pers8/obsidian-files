@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -219,16 +218,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dfeae65431b7aa4e",
+  "active": "38755acd61108fa5",
   "lastOpenFiles": [
+    "Frottement.md",
+    "IB/Physics.md",
+    "Excalidraw/Physics DST training.md",
     "IA de Math & Physics.md",
     "Excalidraw/Exo classe Math.md",
     "Accélération.md",
-    "IB/Physics.md",
     "IB/French.md",
     "IB/English.md",
     "IB/Economy.md",
-    "Excalidraw/Physics DST training.md",
     "Techniques graphiques.md",
     "Précision et exactitude.md",
     "assets/Pasted Image 20231011204832_978.png",
@@ -256,7 +256,6 @@
     "Méthode de résolution de problème de dynamique.md",
     "Comp Sci/Objectif des prototypes pour présenter un système au client.md",
     "Comp Sci/Importance de l'itération pendant le processus de conception.md",
-    "Comp Sci/Fondamentaux des réseaux.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
