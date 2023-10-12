@@ -11,7 +11,8 @@ $$
 
 \begin{flalign}
 & \sum\limits \vec{F}_{ext}=m\vec{a}&\\
-& =\sum_{j=1}^{n} x_j \sum_{i=1}^{m} a_{ij}v_i&\\
-& =\sum_{j=1}^{n} \sum_{i=1}^{m} a_{ij}x_jv_i
+& \sum\limits \vec{F}_{ext}=m\frac{d\vec{v}}{dt}=\frac{d}{dt}(m\vec{v})&\\
+& \sum\limits \vec{F}_{ext}=\frac{d\vec{p}}{dt}&\\
+& \sum\limits \vec{F}_{ext}=\frac{d\vec{p}}{dt}&\\
 \end{flalign}
 $$
