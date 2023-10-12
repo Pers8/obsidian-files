@@ -73,7 +73,8 @@ $$
 1. [[Energies potentielles]]
 2. [[Energie mécanique (énergie totale)]]
 
-## 4- Quantité de mouvezme
+## 4- Quantité de mouvement
+1. [[Définition]]
 
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques
