@@ -4,4 +4,5 @@ tags:
 ---
 
 ## Nouvelle expréssion de la deuxième loi de Newton
-$$\Large \sum F_{} = $$
+$$\Large \sum F_{extérieur} = m\vec a 
+$$
