@@ -12,7 +12,9 @@ m ^6NBVz6mm
 
 M ^MPTHCRyG
 
-m ^NYuJwQ8k
+Canon ^NYuJwQ8k
+
+Obus ^f1yas5zh
 
 %%
 # Drawing
@@ -2974,8 +2976,8 @@ m ^NYuJwQ8k
 		},
 		{
 			"type": "text",
-			"version": 47,
-			"versionNonce": 798523506,
+			"version": 181,
+			"versionNonce": 1836495790,
 			"isDeleted": false,
 			"id": "NYuJwQ8k",
 			"fillStyle": "hachure",
@@ -2983,29 +2985,105 @@ m ^NYuJwQ8k
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -226,
-			"y": -422.2421875,
+			"angle": 0.11205966773112763,
+			"x": -199.3994298230723,
+			"y": -334.1462454588766,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 36,
-			"height": 59.99999999999998,
+			"width": 108,
+			"height": 47,
 			"seed": 1762756658,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1697112437602,
+			"updated": 1697112456366,
 			"link": null,
 			"locked": false,
-			"fontSize": 47.999999999999986,
+			"fontSize": 37.71424063604959,
 			"fontFamily": 1,
-			"text": "m",
-			"rawText": "m",
-			"baseline": 41.99999999999998,
+			"text": "Canon",
+			"rawText": "Canon",
+			"baseline": 33,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "m"
+			"originalText": "Canon"
+		},
+		{
+			"type": "text",
+			"version": 221,
+			"versionNonce": 1194688302,
+			"isDeleted": false,
+			"id": "f1yas5zh",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0.06534688644785103,
+			"x": 84,
+			"y": -368.55523097826085,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 75.99999999999999,
+			"height": 40.31304347826087,
+			"seed": 306352114,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1697112487741,
+			"link": null,
+			"locked": false,
+			"fontSize": 31.72173913043478,
+			"fontFamily": 1,
+			"text": "Obus",
+			"rawText": "Obus",
+			"baseline": 28.313043478260873,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Obus"
+		},
+		{
+			"id": "R6a6Wf1TBaKs-9posVXme",
+			"type": "line",
+			"x": 111,
+			"y": -239.2421875,
+			"width": 11,
+			"height": 87,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 273142450,
+			"version": 40,
+			"versionNonce": 91571634,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1697112495582,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					11,
+					-87
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
