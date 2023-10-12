@@ -15,7 +15,7 @@ $$
 \begin{align}
 & \Large \vec{P_{i}} = \vec{0}=m\vec{v}+M\vec{v}_{recul}&\\
 & \Large m\vec{v}+M\vec{v}_{recul} = \vec{0}&\\
-& \Large \sum\limits \vec{F}_{ext}=\frac{d\vec{p}}{dt}&\\
-& \Large d\vec{p}=\sum\limits \vec{F}_{ext} \hspace 2mm dt&\\
-& \Large \boxed{\Delta\vec{P}=\sum\limits \vec{F} \hspace 2mm \Delta t}
+& \Large \vec{v}_{recul}=m\vec{v}&\\
+& \Large \boxed{v_{recul}=\frac{m}{M}v}
 \end{align}
+$$
