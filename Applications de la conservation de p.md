@@ -11,10 +11,10 @@ tags:
 ![[Pasted image 20231012123839.png]]
 Le système n'est soumis a aucune force extérieur $\vec{P_{i}} = \vec{P_{f}} \hspace 2mm \rightarrow$ la quantité de mouvement se conserve. $$\vec{P_{i}} = \vec{0}=m\vec{v}+M\vec{v}_{recul}$$ $$m\vec{v}+M\vec{v}_{recul} = \vec{0}$$ $$M\vec{v}_{recul}=m\vec{v}$$ $$v_{recul}=\frac{m}{M}v$$
 
-
+$$
 \begin{align}
-& \Large \sum\limits \vec{F}_{ext}=m\vec{a}&\\
-& \Large\sum\limits \vec{F}_{ext}=m\frac{d\vec{v}}{dt}=\frac{d}{dt}(m\vec{v})&\\
+& \Large \vec{P_{i}} = \vec{0}=m\vec{v}+M\vec{v}_{recul}&\\
+& \Large m\vec{v}+M\vec{v}_{recul} = \vec{0}&\\
 & \Large \sum\limits \vec{F}_{ext}=\frac{d\vec{p}}{dt}&\\
 & \Large d\vec{p}=\sum\limits \vec{F}_{ext} \hspace 2mm dt&\\
 & \Large \boxed{\Delta\vec{P}=\sum\limits \vec{F} \hspace 2mm \Delta t}
