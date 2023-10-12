@@ -17,6 +17,7 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 2572d9beb0b49612e44b68e70c98f681dbd0db7f: [[Pasted Image 20231011203830_962.png]]
 308c75d8f2320ba700121c7e0581b486f0382986: [[Pasted Image 20231011204832_978.png]]
 073dd0cf76297951952cd83f5ebdc50f08759017: [[Pasted Image 20231012092954_773.png]]
+a7f79033bddfcf74c6adbb7000e112f78d4cb7c5: [[Pasted Image 20231012093259_787.png]]
 
 %%
 # Drawing
@@ -79025,6 +79026,38 @@ cb3eedde529e7e972f510cf21de70a58c4ffca12: [[Pasted Image 20231011185653_953.png]
 			"lastCommittedPoint": [
 				3.5109679089753456,
 				2.106580745385145
+			]
+		},
+		{
+			"id": "mzRg7ZSvBN2hR_4iU4_wA",
+			"type": "image",
+			"x": -85.69158838429195,
+			"y": 6781.96517944898,
+			"width": 568.507689631745,
+			"height": 479.5982163660285,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 550974898,
+			"version": 97,
+			"versionNonce": 1716861806,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1697103184257,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "a7f79033bddfcf74c6adbb7000e112f78d4cb7c5",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
