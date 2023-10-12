@@ -8,3 +8,4 @@ tags:
 ?
 La quantité de mouvement d'un point matériel de masse m se déplaçant à la vitesse $\vec{v}$ est :$$\Large \vec p=m\vec v$$ 
 - Quantité de mouvement d'un système
+- Soit $m_1$, $m_2$, $m_3$ de vitesse $\vec{v}$, 
