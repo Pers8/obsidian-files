@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           }
@@ -230,15 +231,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "IA de Math & Physics.md",
+    "Excalidraw/Physics DST training.md",
+    "Excalidraw/Exo classe Math.md",
+    "Applications de la conservation de p.md",
+    "assets/Pasted image 20231012123839.png",
     "Excalidraw/armes à feu.md",
     "Untitled 1.md",
-    "IB/Physics.md",
     "Nouvelle expréssion de la deuxième loi de Newton.md",
-    "Excalidraw/Physics DST training.md",
-    "IA de Math & Physics.md",
-    "Applications de la conservation de p.md",
     "Conservation de la quantité de mouvement.md",
     "Définition.md",
     "Forces magnétique.md",
@@ -251,7 +254,6 @@
     "Champ Magnétique.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Frottement.md",
-    "Excalidraw/Exo classe Math.md",
     "Accélération.md",
     "IB/French.md",
     "IB/English.md",
@@ -262,12 +264,10 @@
     "assets/Pasted Image 20231011203830_962.png",
     "assets/Pasted Image 20231011185653_953.png",
     "assets/Pasted Image 20231011185607_949.png",
-    "assets/Pasted Image 20231011185536_970.png",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "IB/Comp Sci.md",
-    "Tle IB English.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
