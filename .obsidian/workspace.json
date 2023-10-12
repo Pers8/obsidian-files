@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "Excalidraw/Physics DST training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "Excalidraw/Physics DST training.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forces magnétique.md",
+                "file": "Excalidraw/Physics DST training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Forces magnétique.md"
+                "file": "Excalidraw/Physics DST training.md"
               }
             }
           }
@@ -218,10 +219,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
-    "Excalidraw/Paume de la main droite.md",
     "Forces magnétique.md",
+    "Excalidraw/Paume de la main droite.md",
     "IB/Physics.md",
     "Champ Magnétique.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
