@@ -8,3 +8,4 @@ tags:
 (Recul des armes à feu, collision, fusée, explosion...)
 
 ### Recul des armes à feu
+![[
