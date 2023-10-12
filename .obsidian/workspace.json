@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Forces magnétique.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -220,8 +220,11 @@
   },
   "active": "38755acd61108fa5",
   "lastOpenFiles": [
-    "Frottement.md",
     "IB/Physics.md",
+    "Champ Magnétique.md",
+    "Forces magnétique.md",
+    "Théorie cinétique des gaz parfaits (contraire de réel).md",
+    "Frottement.md",
     "Excalidraw/Physics DST training.md",
     "IA de Math & Physics.md",
     "Excalidraw/Exo classe Math.md",
@@ -251,11 +254,8 @@
     "assets/Pasted Image 20231006110528_270.png",
     "assets/Pasted Image 20231006105612_076.png",
     "assets/Pasted Image 20231006104234_004.png",
-    "Forces magnétique.md",
     "Excalidraw/Diagramme d'une particule chargée dans un champ magnétique.md",
     "Méthode de résolution de problème de dynamique.md",
-    "Comp Sci/Objectif des prototypes pour présenter un système au client.md",
-    "Comp Sci/Importance de l'itération pendant le processus de conception.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
