@@ -1,3 +1,4 @@
+$$\underline{Text}
 $$
 
-$$
+$\textrm{Text}$
