@@ -100,8 +100,12 @@ $$
 \begin{table}[!th]
 \begin{tabular}{|l|c|r|}
 \hline
-first & row & data 
+first & row & data \\
+second & row & data \\
+\hline
 \end{tabular}
+\caption{This is the caption}
+
 \end{table}
 $$
 
