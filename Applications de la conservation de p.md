@@ -23,4 +23,4 @@ $$
 ### Collision ou chocs
 #### Choc parfait inélastique
 
-U
+Un object de ma masse $m_a$ se déplace 
