@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -229,8 +229,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eefe5febf43bc505",
+  "active": "2b5e3c13b7f8912f",
   "lastOpenFiles": [
+    "Physics/Loi de décroissance radioactive.md",
     "IB/Physics.md",
     "Physics/Désintégration radioactive.md",
     "Applications de la conservation de p.md",
@@ -266,7 +267,6 @@
     "Précision et exactitude.md",
     "assets/Pasted Image 20231011204832_978.png",
     "assets/Pasted Image 20231011203830_962.png",
-    "Chiffres significatifs.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
