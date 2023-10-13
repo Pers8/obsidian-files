@@ -97,9 +97,10 @@ https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-v
 
 
 $$
-\be
+\begin{table}[!th]
+\begin{tabular}
 $$
-
+t
 
 
 
