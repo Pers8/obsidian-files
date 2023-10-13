@@ -97,15 +97,15 @@ https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-v
 
 
 $$
-\begin{table}[!th]
-\begin{tabular}{|l|c|r|}
+\begin{table}
+\begin{tabular}
 \hline
 first & row & data \\
 second & row & data \\
 \hline
 \end{tabular}
 \caption{This is the caption}
-
+\label{ex:table}
 \end{table}
 $$
 
