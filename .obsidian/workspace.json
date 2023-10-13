@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -231,6 +231,7 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "IB/Physics.md",
     "Travail d'une force constante.md",
     "IA de Math & Physics.md",
@@ -254,7 +255,6 @@
     "assets/Pasted Image 20231012092954_773.png",
     "Excalidraw/Paume de la main droite.md",
     "Champ Magnétique.md",
-    "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Frottement.md",
     "Accélération.md",
     "IB/French.md",
