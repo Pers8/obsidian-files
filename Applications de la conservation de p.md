@@ -21,3 +21,6 @@ Le système n'est soumis a aucune force extérieur $\vec{P_{i}} = \vec{P_{f}} \h
 \end{align}
 $$
 ### Collision ou chocs
+#### Choc parfait inélastique
+
+U
