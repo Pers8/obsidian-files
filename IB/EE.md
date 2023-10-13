@@ -88,7 +88,7 @@ https://www.intel.fr/content/www/fr/fr/internet-of-things/computer-vision/convol
 https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5082166-quest-ce-quun-reseau-de-neurones-convolutif-ou-cnn
 
 ---
-Problèmes à rectifier : 
+Problèmes à rectifier : Enlever la numérotation pour l'introduction, 
 
 
 
