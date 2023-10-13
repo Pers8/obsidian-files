@@ -87,12 +87,8 @@ https://datascience.eu/fr/apprentissage-automatique/un-apercu-de-resnet-et-de-se
 https://www.intel.fr/content/www/fr/fr/internet-of-things/computer-vision/convolutional-neural-networks.html (phrase 1)
 https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5082166-quest-ce-quun-reseau-de-neurones-convolutif-ou-cnn
 
-
-
-
-
-
-
+---
+Problèmes à rectifier : 
 
 
 
