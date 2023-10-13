@@ -96,7 +96,7 @@ https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-v
 
 
 
-$\today$
+$\Large \psi$
 
 
 
