@@ -30,7 +30,7 @@ Le système $A$ et $B$ était isolé, appliquons la conservation de la quantité
 
 $$
 \begin{align}
-& trtt \\
-rtrt
+& \Large \vec{P_i} = \vec P_f \\
+
 \end{align}
 $$
