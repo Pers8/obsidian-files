@@ -30,8 +30,8 @@ Le système $A$ et $B$ était isolé, appliquons la conservation de la quantité
 
 $$
 \begin{align}
- \Large{\vec{P_i}} &= \vec{P_f} \\
- \Large{m_{a}\vec v_{a0} &=(m_{A}+m_{B})\vec{v}
+ \Large{\vec{P_i}}&\Large{=\vec{P_f}} \\
+ \Large{m_{a}\vec v_{a}}&\Large{=(m_{A}+m_{B})\vec{v}}
 
 \end{align}
 $$
