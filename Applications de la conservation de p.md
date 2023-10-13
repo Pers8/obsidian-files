@@ -20,3 +20,4 @@ Le système n'est soumis a aucune force extérieur $\vec{P_{i}} = \vec{P_{f}} \h
 & \Large \boxed{v_{recul}=\frac{m}{M}v}
 \end{align}
 $$
+### Collision ou chocs
