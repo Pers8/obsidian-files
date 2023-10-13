@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Travail d'une force constante.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
+                "file": "Travail d'une force constante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md"
+                "file": "Travail d'une force constante.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
+                "file": "Travail d'une force constante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md"
+                "file": "Travail d'une force constante.md"
               }
             }
           }
@@ -228,17 +229,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "38755acd61108fa5",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "IA de Math & Physics.md",
+    "Untitled 1.md",
+    "Excalidraw/Exo classe Math.md",
+    "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
-    "IB/Physics.md",
-    "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "Applications de la conservation de p.md",
-    "Untitled 1.md",
-    "IA de Math & Physics.md",
     "Excalidraw/Physics DST training.md",
-    "Excalidraw/Exo classe Math.md",
     "Nouvelle expréssion de la deuxième loi de Newton.md",
     "assets/Pasted image 20231012123839.png",
     "Excalidraw/armes à feu.md",
@@ -262,7 +263,6 @@
     "Précision et exactitude.md",
     "assets/Pasted Image 20231011204832_978.png",
     "assets/Pasted Image 20231011203830_962.png",
-    "assets/Pasted Image 20231011185653_953.png",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
