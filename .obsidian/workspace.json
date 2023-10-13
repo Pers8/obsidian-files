@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Désintégration radioactive.md",
+                "file": "Physics/Loi de décroissance radioactive.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Désintégration radioactive.md",
+                "file": "Physics/Loi de décroissance radioactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Désintégration radioactive.md"
+                "file": "Physics/Loi de décroissance radioactive.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Désintégration radioactive.md",
+                "file": "Physics/Loi de décroissance radioactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics/Désintégration radioactive.md"
+                "file": "Physics/Loi de décroissance radioactive.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Physics/Désintégration radioactive.md",
     "Applications de la conservation de p.md",
     "Forces magnétique.md",
     "IB/EE.md",
@@ -266,7 +267,6 @@
     "assets/Pasted Image 20231011204832_978.png",
     "assets/Pasted Image 20231011203830_962.png",
     "Chiffres significatifs.md",
-    "Grandeurs physiques fondamentales.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
