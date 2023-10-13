@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Applications de la conservation de p.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Applications de la conservation de p.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "Applications de la conservation de p.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "Applications de la conservation de p.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/EE.md"
+                "file": "Applications de la conservation de p.md"
               }
             }
           }
@@ -232,6 +232,9 @@
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Applications de la conservation de p.md",
+    "Forces magnétique.md",
+    "IB/EE.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Travail d'une force constante.md",
     "IA de Math & Physics.md",
@@ -240,14 +243,12 @@
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
-    "Applications de la conservation de p.md",
     "Excalidraw/Physics DST training.md",
     "Nouvelle expréssion de la deuxième loi de Newton.md",
     "assets/Pasted image 20231012123839.png",
     "Excalidraw/armes à feu.md",
     "Conservation de la quantité de mouvement.md",
     "Définition.md",
-    "Forces magnétique.md",
     "assets/Pasted Image 20231012095159_806.png",
     "assets/Pasted Image 20231012094928_782.png",
     "assets/Pasted Image 20231012093832_743.png",
@@ -266,7 +267,6 @@
     "assets/Pasted Image 20231011203830_962.png",
     "Chiffres significatifs.md",
     "Grandeurs physiques fondamentales.md",
-    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
