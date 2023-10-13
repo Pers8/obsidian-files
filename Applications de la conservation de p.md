@@ -26,4 +26,8 @@ $$
 Un object de ma masse $m_a$ se déplaçant à la vitesse $\vec v_a$ heurte un objet de masse $m_B$ (Immobile) puis les 2 objets se réunissent et se déplacent à la vitesse $\vec v$ 
 ![[Pasted image 20231013154033.png]]
 
-Le système $A$ et $B$ était isolé, appliquons la conservation
+Le système $A$ et $B$ était isolé, appliquons la conservation de la quantité de mouvement
+
+$$
+dzez //
+$$
