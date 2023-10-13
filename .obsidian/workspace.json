@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Loi de décroissance radioactive.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -229,18 +229,18 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2b5e3c13b7f8912f",
+  "active": "eefe5febf43bc505",
   "lastOpenFiles": [
-    "Physics/Loi de décroissance radioactive.md",
-    "IB/Physics.md",
-    "Physics/Désintégration radioactive.md",
     "Applications de la conservation de p.md",
+    "IB/Physics.md",
+    "Physics/Loi de décroissance radioactive.md",
+    "Untitled 1.md",
+    "Physics/Désintégration radioactive.md",
     "Forces magnétique.md",
     "IB/EE.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Travail d'une force constante.md",
     "IA de Math & Physics.md",
-    "Untitled 1.md",
     "Excalidraw/Exo classe Math.md",
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "assets/Pasted Image 20231012212940_888.png",
