@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Conservation de la quantité de mouvement.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -231,6 +231,7 @@
   },
   "active": "eefe5febf43bc505",
   "lastOpenFiles": [
+    "Conservation de la quantité de mouvement.md",
     "IB/Physics.md",
     "Applications de la conservation de p.md",
     "Physics/Réactions nucléaires.md",
@@ -253,7 +254,6 @@
     "Nouvelle expréssion de la deuxième loi de Newton.md",
     "assets/Pasted image 20231012123839.png",
     "Excalidraw/armes à feu.md",
-    "Conservation de la quantité de mouvement.md",
     "Définition.md",
     "assets/Pasted Image 20231012095159_806.png",
     "assets/Pasted Image 20231012094928_782.png",
