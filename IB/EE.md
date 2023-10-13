@@ -99,9 +99,12 @@ https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-v
 $$
 \begin{table}[!th]
 \begin{tabular}{|l|c|r|}
-\
+\hline
+first & row & data 
+\end{tabular}
+\end{table}
 $$
-t
+
 
 
 
