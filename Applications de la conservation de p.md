@@ -23,4 +23,4 @@ $$
 ### Collision ou chocs
 #### Choc parfait inélastique
 
-Un object de ma masse $m_a$ se déplace 
+Un object de ma masse $m_a$ se déplaçant à la vitesse $\vec v_a$ heurte un objet de masse $m_B$ 
