@@ -29,5 +29,8 @@ Un object de ma masse $m_a$ se déplaçant à la vitesse $\vec v_a$ heurte un ob
 Le système $A$ et $B$ était isolé, appliquons la conservation de la quantité de mouvement
 
 $$
-dzez //
+
+& dzez \\
+rtth
+
 $$
