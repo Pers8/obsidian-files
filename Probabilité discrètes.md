@@ -61,7 +61,7 @@ Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
-<!--SR:!2023-10-13,10,252-->
+<!--SR:!2023-10-20,5,232-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 <!--SR:!2023-10-11,3,273-->
