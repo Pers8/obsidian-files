@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md",
+                "file": "Excalidraw/Physics DST training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md"
+                "file": "Excalidraw/Physics DST training.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md",
+                "file": "Excalidraw/Physics DST training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Exo classe Math.md"
+                "file": "Excalidraw/Physics DST training.md"
               }
             }
           }
@@ -227,8 +227,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0f4466db6b3e9b0f",
+  "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Excalidraw/Exo classe Math.md",
     "Excalidraw/Physics DST training.md",
     "Excalidraw/Drawing 2023-10-14 14.50.49.excalidraw.md",
     "Applications de la conservation de p.md",
@@ -241,14 +243,12 @@
     "Physics/Energie de liaison du noyau.md",
     "Physics/Fission et fusion nucléaire.md",
     "Physics/Loi de décroissance radioactive.md",
-    "Untitled 1.md",
     "Physics/Désintégration radioactive.md",
     "Forces magnétique.md",
     "IB/EE.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Travail d'une force constante.md",
     "IA de Math & Physics.md",
-    "Excalidraw/Exo classe Math.md",
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
