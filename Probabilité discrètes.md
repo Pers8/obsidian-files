@@ -47,7 +47,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
 <!--SR:!2023-10-18,17,290-->
 - $P(A\cap B)$=::$P(A)\times P(B/A)$ ou $P(B)\times P(A/B)$
-<!--SR:!2023-10-13,12,270-->
+<!--SR:!2023-11-21,37,270-->
 - Si deux événements sont indépendants alors $P(A/B)$=::$P(A)$
 <!--SR:!2023-10-21,20,290-->
 - $P(A')$=:: $1-P(A)$
@@ -74,7 +74,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-10-09,1,253-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-10-09,1,253-->
+<!--SR:!2023-10-26,11,253-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2023-10-14,4,253-->
