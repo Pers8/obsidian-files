@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -227,11 +227,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dfeae65431b7aa4e",
+  "active": "2b5e3c13b7f8912f",
   "lastOpenFiles": [
+    "IB/English.md",
+    "IB/French.md",
+    "IB/EE.md",
     "Untitled 1.md",
-    "Excalidraw/Exo classe Math.md",
+    "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "Excalidraw/Physics DST training.md",
+    "Excalidraw/Exo classe Math.md",
     "Excalidraw/Drawing 2023-10-14 14.50.49.excalidraw.md",
     "Applications de la conservation de p.md",
     "IB/Physics.md",
@@ -245,11 +249,9 @@
     "Physics/Loi de décroissance radioactive.md",
     "Physics/Désintégration radioactive.md",
     "Forces magnétique.md",
-    "IB/EE.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Travail d'une force constante.md",
     "IA de Math & Physics.md",
-    "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
     "Nouvelle expréssion de la deuxième loi de Newton.md",
@@ -262,8 +264,6 @@
     "assets/Pasted Image 20231012093259_787.png",
     "assets/Pasted Image 20231012092954_773.png",
     "Excalidraw/Paume de la main droite.md",
-    "Champ Magnétique.md",
-    "Frottement.md",
     "assets/Pasted Image 20231011204832_978.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
