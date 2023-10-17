@@ -32,4 +32,5 @@ end else
 2. Il faudra changer par ```FOUND = FALSE```
 
 ## Exercice 5 :
-1. 
+1. f
+2
