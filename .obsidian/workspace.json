@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test d'info.md",
+                "file": "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test d'info.md"
+                "file": "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test d'info.md",
+                "file": "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Test d'info.md"
+                "file": "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md"
               }
             }
           }
@@ -249,10 +249,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dd3ea664ad816f52",
+  "active": "bd3235a4d72f1156",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md",
     "Test d'info.md",
+    "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md",
     "Excalidraw/Exo classe Math.md",
     "assets/Pasted image 20231017110244.png",
     "Excalidraw/Drawing 2023-10-17 10.58.30.excalidraw.md",

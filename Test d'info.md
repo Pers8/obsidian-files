@@ -69,6 +69,7 @@ $$\Large \text{ T = (NOT A) AND C AND (A OR B)}$$
 
 2. 
 
+$$\Large \text{ Z = A AND B OR NOT C }$$
 
 
 
