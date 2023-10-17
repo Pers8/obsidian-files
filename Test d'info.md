@@ -74,6 +74,7 @@ $$\Large \text{ Z = A AND B OR NOT C }$$
 
 
 $$\Large \text{ T = (NOT A) AND C AND (A OR B)}$$
+![[Pasted image 20231017113410.png]]
 
 
 
