@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test d'info.md",
+                "file": "Test d'informatique.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test d'info.md",
+                "file": "Test d'informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test d'info.md"
+                "file": "Test d'informatique.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test d'info.md",
+                "file": "Test d'informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Test d'info.md"
+                "file": "Test d'informatique.md"
               }
             }
           }
@@ -252,7 +252,7 @@
   "active": "9fc0da23fa6f95a2",
   "lastOpenFiles": [
     "Français P.175-176 et P.182-185.md",
-    "Test d'info.md",
+    "Test d'informatique.md",
     "assets/Pasted image 20231017113410.png",
     "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md",
     "assets/Pasted image 20231017112712.png",
