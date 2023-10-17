@@ -19,7 +19,7 @@ end else
 ```
 
 ## Exercice 2 :
-1. Le diagramme de GANTT est utilisé lors de la réalisa
+1. Le diagramme de GANTT est utilisé lors de la réalisation de projets et cela sert à programmer la durée 
 
 
 ## Exercice 3 :
