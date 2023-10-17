@@ -6,5 +6,6 @@
 INPUT A
 INPUT B
 
-IF 
+if A > B then
+	OUTPUT "Le plu"
 ```
