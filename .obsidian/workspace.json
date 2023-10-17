@@ -62,6 +62,16 @@
             }
           },
           {
+            "id": "bd3235a4d72f1156",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0f4466db6b3e9b0f",
             "type": "leaf",
             "state": {
@@ -241,11 +251,12 @@
   },
   "active": "dd3ea664ad816f52",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md",
+    "Test d'info.md",
+    "Excalidraw/Exo classe Math.md",
     "assets/Pasted image 20231017110244.png",
     "Excalidraw/Drawing 2023-10-17 10.58.30.excalidraw.md",
     "Français P.175-176 et P.182-185.md",
-    "Test d'info.md",
-    "Excalidraw/Exo classe Math.md",
     "French 189-193.md",
     "IB/Comp Sci.md",
     "IB/EE.md",
@@ -276,7 +287,6 @@
     "assets/Pasted Image 20231012093832_743.png",
     "assets/Pasted Image 20231012093259_787.png",
     "assets/Pasted Image 20231012092954_773.png",
-    "assets/Pasted Image 20231011204832_978.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
