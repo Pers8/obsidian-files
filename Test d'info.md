@@ -20,7 +20,7 @@ end else
 
 ## Exercice 2 :
 1. Le diagramme de GANTT est utilisé lors de la réalisation de projets et cela sert à programmer la durée qu'une tâche doit prendre et ainsi déterminer la durée totale du projet
-3. Ils doivent être traduits en code exécutable par la machine pour que la machine puisse comprendre le programme en son language qui est le 
+3. Ils doivent être traduits en code exécutable par la machine pour que la machine puisse comprendre le programme en son language qui est le binaire alors qu'un langage de haut niveau est plus proch
 
 
 ## Exercice 3 :
