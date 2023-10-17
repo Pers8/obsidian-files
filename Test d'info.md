@@ -73,6 +73,7 @@ $$\Large \text{ Z = A AND B OR NOT C }$$
 ![[Pasted image 20231017112712.png]]
 
 
+$$\Large \text{ T = (NOT A) AND C AND (A OR B)}$$
 
 
 
