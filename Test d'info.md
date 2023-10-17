@@ -36,3 +36,4 @@ end else
 $$ 10\hspace{2mm} 1101_{(2)} = 1\times 2^0 + 0\times 2^1 + 1\times 2^2 + 1\times 2^3 + 0\times 2^4 + 1\times 2^5 =\boxed{45_{(10)}} $$
 2. 
 ![[Pasted image 20231017110244.png]]
+$$\Large \boxed{55_{(10)}=110\hspace{2mm}111_{(2)}}$$
