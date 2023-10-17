@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IB/Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IB/Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/EE.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/EE.md",
+                "file": "IB/Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/EE.md"
+                "file": "IB/Comp Sci.md"
               }
             }
           }
@@ -227,12 +227,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "2b5e3c13b7f8912f",
   "lastOpenFiles": [
+    "IB/EE.md",
     "IB/Physics.md",
     "IB/English.md",
     "IB/French.md",
-    "IB/EE.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "Excalidraw/Physics DST training.md",
