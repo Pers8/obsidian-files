@@ -33,4 +33,4 @@ end else
 
 ## Exercice 5 :
 1. 
-$$10 1101 = 1\times 2^0 + \times 2^1 + 1\times 2^0 + 1\times 2^0 + 1\times 2^0 + 1\times 2^0 + 1\times 2^0  $$
+$$10\hspace{2mm} 1101 = 1\times 2^0 + 0\times 2^1 + 1\times 2^2 + 1\times 2^3 + 0\times 2^4 + 1\times 2^0 + 1\times 2^0  $$
