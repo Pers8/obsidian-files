@@ -21,7 +21,7 @@ end else
 
 ## Exercice 3 :
 
-| SEARCHVAL | le(s) mot(s) |  se réfère(nt) à... | 
+| SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND |  MAXPOS | 
 | ----------- | ----------- |  ----------- |  
 | a) le logo attestant de leur présence l’est beaucoup plus | l' |  *Éco-Emballage, Adelphe ou Cyclamed* |
 | b) lorsqu’on le voit sur les produits de consommation courante | le | *Le logo* |
