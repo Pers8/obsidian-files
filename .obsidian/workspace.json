@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "dd3ea664ad816f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test d'info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f4466db6b3e9b0f",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Test d'info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Test d'info.md"
               }
             }
           },
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Comp Sci.md",
+                "file": "Test d'info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Comp Sci.md"
+                "file": "Test d'info.md"
               }
             }
           }
@@ -227,8 +239,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "2b5e3c13b7f8912f",
+  "active": "dd3ea664ad816f52",
   "lastOpenFiles": [
+    "IB/Comp Sci.md",
+    "Test d'info.md",
     "IB/EE.md",
     "IB/Physics.md",
     "IB/English.md",
@@ -257,13 +271,11 @@
     "Nouvelle expréssion de la deuxième loi de Newton.md",
     "assets/Pasted image 20231012123839.png",
     "Excalidraw/armes à feu.md",
-    "Définition.md",
     "assets/Pasted Image 20231012095159_806.png",
     "assets/Pasted Image 20231012094928_782.png",
     "assets/Pasted Image 20231012093832_743.png",
     "assets/Pasted Image 20231012093259_787.png",
     "assets/Pasted Image 20231012092954_773.png",
-    "Excalidraw/Paume de la main droite.md",
     "assets/Pasted Image 20231011204832_978.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
