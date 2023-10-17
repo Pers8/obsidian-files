@@ -81,9 +81,15 @@ $$\Large \text{ T = (NOT A) AND C AND (A OR B)}$$
 
 
 ## Exercice 7 :
-NOTES = new(Collection) 
-NOTES.resetnext() MAX = NOTES.getNext() MIN = MAX TOTAL = 0 B = 0 MEAN = 0 VAL = 0 mq reset.next() loop while NOTES.hasNext() VAL = NOTES.getNext() B = B + 1 TOTAL = TOTAL + VAL if VAL > MAX then MAX = VAL end if if VAL < MIN then MIN = VAL end if end loop MEAN = TOTAL/B output MEAN output MAX output MIN
-
+```python
+NOTES = new(Collection)
+NOTES.resetnext() 
+MAX = NOTES.getNext() 
+MIN = MAX TOTAL = 0 
+B = 0 
+MEAN = 0 
+VAL = 0 mq reset.next() loop while NOTES.hasNext() VAL = NOTES.getNext() B = B + 1 TOTAL = TOTAL + VAL if VAL > MAX then MAX = VAL end if if VAL < MIN then MIN = VAL end if end loop MEAN = TOTAL/B output MEAN output MAX output MIN
+```
 
 
 
