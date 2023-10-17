@@ -80,4 +80,4 @@ $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2023-10-14,4,253-->
 
 
-$P(A \le X \le B)=P(X \le 7) $
+$P(A \le X \le B)=P(X \le A) - P(X \le B-1)$
