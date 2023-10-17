@@ -29,8 +29,8 @@ end else
 | SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? |  MIDPOS | ARR[MIDPOS] |  Output | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- |  ----------- | ----------- |  ----------- |  
 | 11 | FALSE | 12 | 0 | TRUE | 6 | 13 | - |
-| 11 | FALSE | 6 | 0 | TRUE | 3 | 5 | |
-| 11 |  | | |  | |  | |
+| 11 | FALSE | 6 | 0 | TRUE | 3 | 5 | - |
+| 11 | TRUE | 6 | 3 |  | |  | |
 
 ## Exercice 4 :
 1. L'algorithme n'est pas correcte
