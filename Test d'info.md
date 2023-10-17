@@ -19,7 +19,8 @@ end else
 ```
 
 ## Exercice 2 :
-1. Le diagramme de GANTT est utilisé lors de la réalisation de projets et cela sert à programmer la durée qu'une tâche doit prendre et ainsi déterminer
+1. Le diagramme de GANTT est utilisé lors de la réalisation de projets et cela sert à programmer la durée qu'une tâche doit prendre et ainsi déterminer la durée totale du projet
+2. 
 
 
 ## Exercice 3 :
@@ -83,13 +84,30 @@ $$\Large \text{ T = (NOT A) AND C AND (A OR B)}$$
 ## Exercice 7 :
 ```python
 NOTES = new(Collection)
-NOTES.resetnext() 
-MAX = NOTES.getNext() 
-MIN = MAX TOTAL = 0 
-B = 0 
-MEAN = 0 
-VAL = 0 
-mq reset.next() loop while NOTES.hasNext() VAL = NOTES.getNext() B = B + 1 TOTAL = TOTAL + VAL if VAL > MAX then MAX = VAL end if if VAL < MIN then MIN = VAL end if end loop MEAN = TOTAL/B output MEAN output MAX output MIN
+NOTES.resetnext()
+MAX = NOTES.getNext()
+MIN = MAX
+TOTAL = 0
+B = 0
+MEAN = 0
+VAL = 0
+mq
+reset.next()
+loop while NOTES.hasNext()
+ VAL = NOTES.getNext()
+ B = B + 1
+ TOTAL = TOTAL + VAL
+ if VAL > MAX then
+  MAX = VAL
+ end if
+ if VAL < MIN then
+  MIN = VAL
+ end if
+end loop
+MEAN = TOTAL/B
+output MEAN
+output MAX
+output MIN
 ```
 
 
