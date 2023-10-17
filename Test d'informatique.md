@@ -1,6 +1,7 @@
 
 
 ## Exercice 1 :
+
 ```python
 INPUT A
 INPUT B
@@ -50,6 +51,8 @@ $$ 10\hspace{2mm} 1101_{(2)} = 1\times 2^0 + 0\times 2^1 + 1\times 2^2 + 1\times
 2. 
 ![[Pasted image 20231017110244.png]]
 $$\Large \boxed{55_{(10)}=110\hspace{2mm}111_{(2)}}$$
+<br>
+<br>
 ## Exercice 6 :
 1. 
 
@@ -88,9 +91,11 @@ $$\Large \text{ Z = A AND B OR NOT C }$$
 
 $$\Large \text{ T = (NOT A) AND C AND (A OR B)}$$
 ![[Pasted image 20231017113410.png]]
-
+<br>
+<br>
 
 ## Exercice 7 :
+<br>
 ```python
 NOTES = new(Collection)
 NOTES.resetnext()
