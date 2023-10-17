@@ -28,7 +28,7 @@ end else
 
 | SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? |  MIDPOS | ARR[MIDPOS] |  Output | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- |  ----------- | ----------- |  ----------- |  
-| 11 | FALSE |  | |  | |  | |
+| 11 | FALSE | 12 | 0 |  | |  | |
 | |  | | |  | |  | |
 | |  | | |  | |  | |
 
