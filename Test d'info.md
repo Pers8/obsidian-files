@@ -18,6 +18,9 @@ else
 end else
 ```
 
+## Exercice 2 :
+1. Le diagramme de GANTT est utilisé lors de la réalisa
+
 
 ## Exercice 3 :
 
