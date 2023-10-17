@@ -17,15 +17,17 @@ else
 end else
 ```
 
-
+<br>
+<br>
 ## Exercice 2 :
 1. Le diagramme de GANTT est utilisé lors de la réalisation de projets et cela sert à programmer la durée qu'une tâche doit prendre et ainsi déterminer la durée totale du projet
 3. Ils doivent être traduits en code exécutable par la machine pour que la machine puisse comprendre le programme en son language qui est le binaire alors qu'un langage de haut niveau est plus proche du langage humain
 4. Le langage sera interprété en langage compréhensible par l'ordinateur 
 
-
-
+<br>
+<br>
 ## Exercice 3 :
+<br>
 
 | SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? |  MIDPOS | ARR[MIDPOS] |  Output | 
 | ----------- | ----------- |  ----------- | ----------- | ----------- |  ----------- | ----------- |  ----------- |  
@@ -33,12 +35,15 @@ end else
 | 11 | FALSE | 6 | 0 | TRUE | 3 | 5 | - |
 | 11 | TRUE | 6 | 3 | FALSE | 5 | 11 | FOUND |
 
-
+<br>
+<br>
 ## Exercice 4 :
+<br>
 1. L'algorithme n'est pas correcte
 2. Il faudra changer par ```FOUND = FALSE```
 
-
+<br>
+<br>
 ## Exercice 5 :
 1. 
 $$ 10\hspace{2mm} 1101_{(2)} = 1\times 2^0 + 0\times 2^1 + 1\times 2^2 + 1\times 2^3 + 0\times 2^4 + 1\times 2^5 =\boxed{45_{(10)}} $$
