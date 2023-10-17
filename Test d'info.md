@@ -21,8 +21,8 @@ end else
 
 ## Exercice 3 :
 
-| SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND |  MAXPOS | 
-| ----------- | ----------- |  ----------- |  
+| SEARCHVAL | FOUND |  MAXPOS | MINPOS | MINPOS <= MAXPOS and not FOUND? |  MIDPOS | ARR[MIDPOS] |  Output | 
+| ----------- | ----------- |  ----------- | ----------- | ----------- |  ----------- |  
 | a) le logo attestant de leur présence l’est beaucoup plus | l' |  *Éco-Emballage, Adelphe ou Cyclamed* |
 | b) lorsqu’on le voit sur les produits de consommation courante | le | *Le logo* |
 | c) le produit sur lequel il est apposé | sur lequel |  *Le produit* |
