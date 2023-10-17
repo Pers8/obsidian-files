@@ -19,4 +19,5 @@ end else
 ```
 
 ## Exercice 4 :
-1. L'algor
+1. L'algorithme n'est pas correcte
+2. Il faudrea 
