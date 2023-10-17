@@ -78,3 +78,6 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2023-10-14,4,253-->
+
+
+$P(3)$
