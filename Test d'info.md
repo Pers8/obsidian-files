@@ -14,5 +14,9 @@ if A < B then
 end if
 
 else
-	OUTPUT "Le plus petit nombre est"
+	OUTPUT "Ils sont égaux"
+end else
 ```
+
+## Exercice 4 :
+1. L'algor
