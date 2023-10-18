@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
   "textFontFamily": "CMU Serif",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "CMU Serif",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 19,
+  "baseFontSize": 21,
   "accentColor": ""
 }
