@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ds.md",
+                "file": "TOK Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ds.md"
+                "file": "TOK Intro.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ds.md",
+                "file": "TOK Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ds.md"
+                "file": "TOK Intro.md"
               }
             }
           }
@@ -271,10 +271,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9b7702396db480e1",
+  "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
-    "TOK Intro.md",
     "ds.md",
+    "TOK Intro.md",
     "Test d'informatique.md",
     "TOK Exhibition.md",
     "TOK essay.md",
