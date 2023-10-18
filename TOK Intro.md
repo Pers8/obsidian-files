@@ -9,6 +9,6 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 
 | Indicateurs uniques | **Contenu** |
 | ----------- | ----------- |  
-| - Seuil de pauvreté international| FALSE |
+| - Seuil de pauvreté international <br> - Taux de natalité et de dépendance <br> - Dépendance  | FALSE |
 | 11 | FALSE | 
 | 11 | TRUE |
