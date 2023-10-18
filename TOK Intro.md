@@ -7,8 +7,8 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 
 
 
-|  | **Contenu** |
+| Indicateurs uniques | **Contenu** |
 | ----------- | ----------- |  
-| 11 | FALSE |
+| - Seuil de pauvreté international| FALSE |
 | 11 | FALSE | 
 | 11 | TRUE |
