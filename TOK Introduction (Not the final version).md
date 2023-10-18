@@ -1,6 +1,6 @@
+<br>
 
 **Is subjectivity overly celebrated in the arts but unfairly condemned in history? Discuss with reference to the arts and history.**
-
 <br>
 
 This question invites us to explore the contrasting treatment of subjectivity in two distinct realms of human understanding: the arts and history. In the pursuit of knowledge, disputes and controversies often arise, shaped by the unique characteristics and demands of each area of knowledge. The celebration and condemnation of subjectivity within these domains serve as a compelling entry point for our investigation. The human quest for knowledge is marked by the pursuit of different forms of understanding, each subject to its own set of epistemological principles and expectations. In this essay, we will delve into the realms of the Arts and History, examining the role of subjectivity in shaping the way we perceive, interpret, and critique these two areas of human expression. 
