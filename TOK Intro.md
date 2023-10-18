@@ -13,4 +13,5 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 | **2- Indicateurs composites (Synthétiques)** | **Contenu** | 
 | - IDH <br> - IPM | - Savoir, avoir et longévité ( varie entre 0 et 1 ), l'éducation et la santé |
 | **Difficultés à mesurer la pauvreté** | **Contenu** |
+| - Imperfection des données <br> - On n'est pas de la même manière dans les ménages <br> Les  |  |
 |  |  |
