@@ -14,5 +14,5 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 | - IDH <br> - IPM | - Savoir, avoir et longévité ( varie entre 0 et 1 ), l'éducation et la santé |
 | **Difficultés à mesurer la pauvreté** | **Contenu** |
 | - Imperfection des données <br> - On n'est pas de la même manière dans les ménages <br> - Les données occultent certains aspects de la pauvreté urbaine <br> - Les données sur la pauvreté ne tiennent pas compte des différences entre les différentes couches de la société  |  |
-| **Cause des inégalités** <br> - Inégalité des chances <br> - DIfférents niveaux de propriété et des ressources <br> - Les différents niveaux de capital humain <br> - Discrimination <br>-  |  |
+| **Cause des inégalités** <br> - Inégalité des chances <br> - DIfférents niveaux de propriété et des ressources <br> - Les différents niveaux de capital humain <br> - Discrimination <br>- Statut ou pouvoir <br> Politiques sociales et fiscales <br> - Moondialisation et changement technologiques <br>-  |  |
 
