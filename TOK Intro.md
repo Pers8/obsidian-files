@@ -7,7 +7,7 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 
 
 
-| SEARCHVAL | FOUND |
+| SEARCHVAL | **Contenu** |
 | ----------- | ----------- |  
 | 11 | FALSE |
 | 11 | FALSE | 
