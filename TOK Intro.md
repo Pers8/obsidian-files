@@ -15,3 +15,4 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 | **Difficultés à mesurer la pauvreté** | **Contenu** |
 | - Imperfection des données <br> - On n'est pas de la même manière dans les ménages <br> - Les données occultent certains aspects de la pauvreté urbaine <br> - Les données sur la pauvreté ne tiennent pas compte des différences entre les différentes couches de la société  |  |
 | **Cause des inégalités** <br> - Inégalité des chances <br> - DIfférents niveaux de propriété et des ressources <br> - Les différents niveaux de capital humain <br> - Discrimination <br>-  |  |
+
