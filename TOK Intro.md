@@ -9,6 +9,6 @@ Sustained focus on Knowledge issues & questions connected to the prompt; develop
 
 | Indicateurs uniques | **Contenu** |
 | ----------- | ----------- |  
-| - Seuil de pauvreté international <br> - Taux de natalité et de dépendance <br> - Dépendance à l'égard du secteur primaire <br> - La grande économie informelle <br> - Normes de revenu minimum | - 1,90$/J qu ipermet de garantir 2 repas par jour <br> - Population nombreuse et besoins pluis |
+| - Seuil de pauvreté international <br> - Taux de natalité et de dépendance <br> - Dépendance à l'égard du secteur primaire <br> - La grande économie informelle <br> - Normes de revenu minimum | - 1,90$/J qu ipermet de garantir 2 repas par jour <br> - Population nombreuse et besoins plus d'enfants en charge <br> - Des revenus |
 | 11 | FALSE | 
 | 11 | TRUE |
