@@ -6,3 +6,5 @@
 | **Difficultés à mesurer la pauvreté** | **Contenu** |
 | $\LARGE \cdot$ Imperfection des données <br> $\LARGE \cdot$ On n'est pas de la même manière dans les ménages <br> $\LARGE \cdot$ Les données occultent certains aspects de la pauvreté urbaine <br> $\LARGE \cdot$ Les données sur la pauvreté ne tiennent pas compte des différences entre les différentes couches de la société  |  |
 | **Cause des inégalités** <br> <br> $\LARGE \cdot$ Inégalité des chances <br> $\LARGE \cdot$ DIfférents niveaux de propriété et des ressources <br> $\LARGE \cdot$ Les différents niveaux de capital humain <br> $\LARGE \cdot$ Discrimination <br>$\LARGE \cdot$ Statut ou pouvoir <br> $\LARGE \cdot$ Politiques sociales et fiscales <br> $\LARGE \cdot$ Mondialisation et changement technologiques <br> $\LARGE \cdot$ Politiques d'offres fondées sur le marché <br> $\LARGE \cdot$ Inégalités de revenus et de richesse <br> $\LARGE \cdot$ Croissance économique <br>$\LARGE \cdot$ Niveau de vie <br> $\LARGE \cdot$ Stabilité sociale | $\LARGE \cdot$ Ne pas avoir les même opportunités <br> $\LARGE \cdot$  |
+
+11.020 
