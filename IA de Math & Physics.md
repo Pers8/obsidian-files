@@ -1,5 +1,5 @@
 **Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
-**Physique :** Comment attraper une balle 
+**Physique :** Comment attraper une balle de Baseball? (ou pas)
 # **Maths Plan :** 
 
 ### I. Introduction
