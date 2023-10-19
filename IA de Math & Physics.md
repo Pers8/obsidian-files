@@ -1,6 +1,5 @@
 **Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
-**Physique :** Comment la température affecte la résistance interne d'une batterie ?
-
+**Physique :** Comment attraper une balle 
 # **Maths Plan :** 
 
 ### I. Introduction
