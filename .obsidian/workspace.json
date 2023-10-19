@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Physics DST training.md",
+                "file": "Forces magnétique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,8 +313,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dfeae65431b7aa4e",
+  "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
+    "Excalidraw/Physics DST training.md",
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
     "Excalidraw/Drawing 2023-10-19 11.08.15.excalidraw.md",
     "Forces magnétique.md",
@@ -343,7 +344,6 @@
     "Excalidraw/Drawing 2023-10-17 10.58.30.excalidraw.md",
     "French 189-193.md",
     "IB/EE.md",
-    "IB/French.md",
     "assets/Pasted image 20231013154033.png",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",

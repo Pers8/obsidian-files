@@ -43,3 +43,6 @@ $$
 En utilisant les fomules du Thème 6, on peut exprimer le rayon $R$ de la trajectoire ainsi que la période $T$ du mouvement.
 
 ## c) Force magnétique s'excerçant sur un courant électrique placé dans un champ magnétique (Loi de Laplace)
+
+
+
