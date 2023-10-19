@@ -61,4 +61,4 @@ $$F_{\frac{1}{2}}=2\times10^{-7}\frac{I_{1}I_{2}}{d}l$$$M_{0}$ perméabilité ma
 
 ![[Pasted image 20231019120424.png]]
 
-2 fils infinis parallèlement distant de 1 m exe
+2 fils infinis parallèlement distant de 1 m exerçant l'un
