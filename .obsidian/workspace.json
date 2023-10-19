@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+                "file": "TOK Introduction (Not the final version).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+                "file": "ds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
+                "file": "ds.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+                "file": "ds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
+                "file": "ds.md"
               }
             }
           }
@@ -271,17 +271,20 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0f4466db6b3e9b0f",
+  "active": "9b7702396db480e1",
   "lastOpenFiles": [
-    "IB/Physics.md",
-    "Raisonnement simultané.md",
     "TOK Introduction (Not the final version).md",
+    "Raisonnement simultané.md",
+    "IB/Physics.md",
+    "IB/Maths.md",
+    "IB/English.md",
+    "IB/TOK.md",
+    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
     "ds.md",
     "Test d'informatique.md",
     "TOK Exhibition.md",
     "TOK essay.md",
     "Probabilité discrètes.md",
-    "IB/Maths.md",
     "Excalidraw/Exo classe Math.md",
     "Français P.175-176 et P.182-185.md",
     "assets/Pasted image 20231017113410.png",
@@ -292,7 +295,6 @@
     "French 189-193.md",
     "IB/Comp Sci.md",
     "IB/EE.md",
-    "IB/English.md",
     "IB/French.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
@@ -301,8 +303,6 @@
     "Applications de la conservation de p.md",
     "assets/Pasted image 20231013154033.png",
     "Excalidraw/Drawing 2023-10-13 15.36.45.excalidraw.md",
-    "Conservation de la quantité de mouvement.md",
-    "Physics/Réactions nucléaires.md",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
     "assets/Pasted image 20231012123839.png",
