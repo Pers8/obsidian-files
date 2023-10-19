@@ -46,3 +46,6 @@ En utilisant les fomules du Thème 6, on peut exprimer le rayon $R$ de la trajec
 
 
 
+### c) Action mutuelle de deux courants rectiligne parallèle
+
+Deux figures rectilignes de longueur $l$ distant de $d$ et parcourue par les courants d'intensite $I_1$ et $I_{2}$ exercent des forces opposées
