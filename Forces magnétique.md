@@ -48,11 +48,13 @@ $$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}*\frac{I_{1}I_{2}}{d}l$$ $$F_{\frac{1}{2}}=2
  
 ## Forces magnétique s'exercant sur un courant électrique placer dans un champs magnétique (loi de Laplace)
  
-  ![[image-20231019111840540.png]] Le sens de la force varie avec $\vec{B}$ la tige est soumise a un force magnétique. $$F_{mg} = BIl\sin{\theta}$$ le sens de $F_{mg}$ est donne par la règle de la paume.  
+  ![[image-20231019111840540.png]] Le sens de la force varie avec $\vec{B}$ la tige est soumise a un force magnétique. $$F_{mg} = BIl\sin{\theta}$$ le sens de $F_{mg}$ est donne par la règle de la paume.
+  
   - les doigts indiquant le sens et la direction de I
   - la paume indique le sens d $\vec B$
   - le pouce $\rightarrow \vec{F}_{mg}$
 
- ## Action mutuelle de deux courants rectiligne parallèle
-   
-  Deux figures rectilignes de longueur $l$ distant de $d$ et parcourue par les courants d'intensite $I_1$ et $I_{2}$ exercent des forces opposées $$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}*\frac{I_{1}I_{2}}{d}l$$ $$F_{\frac{1}{2}}=2_10^{-7}_\frac{I_{1}I_{2}}{d}l$$ $M_{0}$ perméabilité magnétique du vide
+### Action mutuelle de deux courants rectiligne parallèle
+
+Deux figures rectilignes de longueur $l$ distant de $d$ et parcourue par les courants d'intensite $I_1$ et $I_{2}$ exercent des forces opposées $$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}*\frac{I_{1}I_{2}}{d}l$$
+$$F_{\frac{1}{2}}=2_10^{-7}_\frac{I_{1}I_{2}}{d}l$$$M_{0}$ perméabilité magnétique du vide
