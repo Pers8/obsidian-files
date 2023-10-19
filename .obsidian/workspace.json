@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Forces magnétique.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Forces magnétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "Forces magnétique.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Forces magnétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "Forces magnétique.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Forces magnétique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,9 +315,9 @@
   },
   "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
-    "IB/Economy.md",
-    "Applications de la conservation de p.md",
     "IB/Physics.md",
+    "Applications de la conservation de p.md",
+    "IB/Economy.md",
     "Forces magnétique.md",
     "Excalidraw/Drawing 2023-10-19 11.08.15.excalidraw.md",
     "ds.md",
