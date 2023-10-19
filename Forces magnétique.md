@@ -58,3 +58,7 @@ $$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}*\frac{I_{1}I_{2}}{d}l$$ $$F_{\frac{1}{2}}=2
 
 Deux figures rectilignes de longueur $l$ distant de $d$ et parcourue par les courants d'intensite $I_1$ et $I_{2}$ exercent des forces opposées $$F_{1/2}=F_{2/1}=\frac{M_{0}}{2\pi}\times\frac{I_{1}I_{2}}{d}l$$
 $$F_{\frac{1}{2}}=2\times10^{-7}\frac{I_{1}I_{2}}{d}l$$$M_{0}$ perméabilité magnétique du vide
+
+![[Pasted image 20231019120424.png]]
+
+2 fils infin
