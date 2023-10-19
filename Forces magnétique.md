@@ -61,4 +61,5 @@ $$F_{\frac{1}{2}}=2\times10^{-7}\frac{I_{1}I_{2}}{d}l$$$M_{0}$ perméabilité ma
 
 ![[Pasted image 20231019120424.png]]
 
-2 fils infinis parallèlement distant de 1 m exerçant l'un sur l'autre une force par unité de longeur de $2 \times 10^{-7} Nm^{-1}$ s'ils sont parcourus par un courant de 1A. Les fils sont infinis pour 
+2 fils infinis parallèlement distant de 1 m exerçant l'un sur l'autre une force par unité de longeur de $2 \times 10^{-7} Nm^{-1}$ s'ils sont parcourus par un courant de 1A. 
+*NB : Les fils sont infinis pour éviter les problèmes liés aux courbes des forces magnétiques à leur bord.*
