@@ -298,7 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,7 +313,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9bec9f55dbefcaa6",
+  "active": "4531cef53cefbdda",
   "lastOpenFiles": [
     "assets/Pasted image 20231019115519.png",
     "Excalidraw/Physics DST training.md",
