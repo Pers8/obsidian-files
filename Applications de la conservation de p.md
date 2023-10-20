@@ -36,8 +36,9 @@ $$
 \end{align}
 $$
 
-#### $\beta$ ) Choc parfait inélastique
+#### $\beta$ ) Choc parfait élastique
 
 On a conservation de la quiantité de mvt et de l'énergie cinétique (voir exo)
 
-#### $\beta$ ) Choc parfait inélastique
+#### $\gamma$ ) Choc parfait inélastique
+
