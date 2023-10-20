@@ -42,4 +42,7 @@ On a conservation de la quantité de mvt et de l'énergie cinétique (voir exo)
 
 #### $\gamma$ ) Choc parfait inélastique
 
-On a consevation de la quantité de mouvement mais pas de l'$$
+On a consevation de la quantité de mouvement mais pas de l' $E_c$ (voir exo)
+
+$\underline{\text{Voir fusée}}$
+
