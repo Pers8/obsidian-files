@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "Energie mécanique (énergie totale).md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "Energie mécanique (énergie totale).md"
               }
             }
           }
@@ -267,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "Energie mécanique (énergie totale).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,6 +318,8 @@
   "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
     "IB/Physics.md",
+    "Energie cinétique (2).md",
+    "Applications de la conservation de p.md",
     "Forces magnétique.md",
     "ds.md",
     "Excalidraw/Drawing 2023-10-19 11.08.15.excalidraw.md",
@@ -325,7 +327,6 @@
     "assets/Pasted image 20231019115519.png",
     "Excalidraw/Physics DST training.md",
     "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md",
-    "Applications de la conservation de p.md",
     "IB/Economy.md",
     "IB/Comp Sci.md",
     "IB/Maths.md",
