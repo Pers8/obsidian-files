@@ -38,8 +38,8 @@ $$
 
 #### $\beta$ ) Choc parfait élastique
 
-On a conservation de la quiantité de mvt et de l'énergie cinétique (voir exo)
+On a conservation de la quantité de mvt et de l'énergie cinétique (voir exo)
 
 #### $\gamma$ ) Choc parfait inélastique
 
-On a consevation de la qauntité
+On a consevation de la quantité de mouvement mais pas de l'$$
