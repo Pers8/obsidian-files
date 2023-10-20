@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+                "file": "Applications de la conservation de p.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md"
+                "file": "Applications de la conservation de p.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+                "file": "Applications de la conservation de p.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md"
+                "file": "Applications de la conservation de p.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+                "file": "Applications de la conservation de p.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,10 +313,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9b7702396db480e1",
+  "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
-    "ds.md",
+    "assets/Pasted image 20231020145239.png",
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+    "ds.md",
     "Applications de la conservation de p.md",
     "IB/Physics.md",
     "Energie mécanique (énergie totale).md",
@@ -342,7 +343,6 @@
     "TOK essay.md",
     "Probabilité discrètes.md",
     "Excalidraw/Exo classe Math.md",
-    "Français P.175-176 et P.182-185.md",
     "assets/Pasted image 20231017113410.png",
     "assets/Pasted image 20231017112712.png",
     "assets/Pasted image 20231017110244.png",

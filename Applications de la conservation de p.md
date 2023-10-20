@@ -46,3 +46,4 @@ On a consevation de la quantité de mouvement mais pas de l' $E_c$ (voir exo)
 
 $\underline{\text{Voir fusée}}$
 
+![[Pasted image 20231020145239.png]]
