@@ -21,7 +21,7 @@ Le système n'est soumis a aucune force extérieur $\vec{P_{i}} = \vec{P_{f}} \h
 \end{align}
 $$
 ### Collision ou chocs
-#### Choc parfait inélastique
+#### $\beta$ Choc parfait inélastique
 
 Un object de ma masse $m_a$ se déplaçant à la vitesse $\vec v_a$ heurte un objet de masse $m_B$ (Immobile) puis les 2 objets se réunissent et se déplacent à la vitesse $\vec v$ 
 ![[Pasted image 20231013154033.png]]
@@ -38,4 +38,4 @@ $$
 
 #### Choc parfait inélastique
 
-On a conservation de la quiantité de mvt et de l'énergie cin
+On a conservation de la quiantité de mvt et de l'énergie cinétique (voir exo)
