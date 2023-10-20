@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energie mécanique (énergie totale).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Energie mécanique (énergie totale).md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -267,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Energie mécanique (énergie totale).md",
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,6 +317,7 @@
   },
   "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
+    "Energie mécanique (énergie totale).md",
     "IB/Physics.md",
     "Energie cinétique (2).md",
     "Applications de la conservation de p.md",
@@ -347,7 +348,6 @@
     "assets/Pasted image 20231017112712.png",
     "assets/Pasted image 20231017110244.png",
     "Excalidraw/Drawing 2023-10-17 10.58.30.excalidraw.md",
-    "French 189-193.md",
     "assets/Pasted image 20231013154033.png",
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
