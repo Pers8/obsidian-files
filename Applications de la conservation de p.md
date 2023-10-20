@@ -38,4 +38,4 @@ $$
 
 #### Choc parfait inélastique
 
-On a conservation de la quiantité de mou
+On a conservation de la quiantité de mvt et de l'énergie cin
