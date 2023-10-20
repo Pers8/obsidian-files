@@ -42,3 +42,4 @@ On a conservation de la quiantité de mvt et de l'énergie cinétique (voir exo)
 
 #### $\gamma$ ) Choc parfait inélastique
 
+On a consevation de la qauntité
