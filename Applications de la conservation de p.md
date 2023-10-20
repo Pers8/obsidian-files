@@ -36,5 +36,6 @@ $$
 \end{align}
 $$
 
+#### Choc parfait inélastique
 
-
+On a conservation de la quiantité de mou
