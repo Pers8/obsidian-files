@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Introduction (Not the final version).md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Applications de la conservation de p.md"
+                "file": "IB/Maths.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IB/Maths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,13 +313,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9bec9f55dbefcaa6",
+  "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "IB/French.md",
+    "IB/Physics.md",
+    "TOK Introduction (Not the final version).md",
+    "Applications de la conservation de p.md",
     "assets/Pasted image 20231020145239.png",
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
     "ds.md",
-    "Applications de la conservation de p.md",
-    "IB/Physics.md",
     "Energie mécanique (énergie totale).md",
     "Mouvement d'un projectile.md",
     "Energie cinétique (2).md",
@@ -333,7 +335,6 @@
     "IB/Comp Sci.md",
     "IB/Maths.md",
     "IA de Math & Physics.md",
-    "TOK Introduction (Not the final version).md",
     "Raisonnement simultané.md",
     "IB/English.md",
     "IB/TOK.md",
@@ -350,7 +351,6 @@
     "assets/Pasted Image 20231012212940_888.png",
     "assets/Pasted Image 20231012205947_508.png",
     "assets/Pasted image 20231012123839.png",
-    "assets/Pasted Image 20231012095159_806.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
