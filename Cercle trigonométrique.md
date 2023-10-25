@@ -30,7 +30,6 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2023-12-13,73,310-->
-
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2023-11-30,59,303-->
 
