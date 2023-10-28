@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cercle trigonométrique.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cercle trigonométrique.md"
+                "file": "Nombres complexes.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cercle trigonométrique.md",
+                "file": "Nombres complexes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,9 +315,9 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
-    "Champ Magnétique.md",
-    "Cercle trigonométrique.md",
     "IB/Maths.md",
+    "Cercle trigonométrique.md",
+    "Champ Magnétique.md",
     "Probabilité discrètes.md",
     "IB/French.md",
     "IB/Physics.md",
