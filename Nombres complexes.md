@@ -70,7 +70,7 @@ $$\Large{zz^{*}}$$
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[Pasted image 20230712084000.png]]
-<!--SR:!2023-10-11,38,290-->
+<!--SR:!2024-03-13,136,290-->
 
 
 
