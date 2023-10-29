@@ -6,7 +6,7 @@ tags:
 ## Lignes trigonométriques
 
 $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
-<!--SR:!2023-10-16,8,203-->
+<!--SR:!2023-11-27,29,203-->
 
 
 ---
@@ -92,7 +92,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
-<!--SR:!2023-10-27,31,263-->
+<!--SR:!2024-01-23,86,263-->
 
 - $\sin(-\theta)=$::$-\sin(\theta)$
 <!--SR:!2023-10-22,26,223-->

@@ -43,7 +43,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A)+P(A')$=::1 
 <!--SR:!2023-10-22,21,290-->
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
-<!--SR:!2023-10-19,18,290-->
+<!--SR:!2023-11-09,11,270-->
 - $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
 <!--SR:!2023-10-18,17,290-->
 - $P(A\cap B)$=::$P(A)\times P(B/A)$ ou $P(B)\times P(A/B)$
