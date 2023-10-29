@@ -14,7 +14,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2023-10-28,32,263-->
+<!--SR:!2024-01-22,85,263-->
 
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2023-11-18,53,270-->
@@ -70,14 +70,14 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-10-29,21,223-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-10-17,21,230-->
+<!--SR:!2024-02-13,107,250-->
 
 
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2023-10-22,18,210-->
 
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-10-17,21,230-->
+<!--SR:!2024-02-13,107,250-->
 
 
 ## Périodicité
