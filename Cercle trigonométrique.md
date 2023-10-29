@@ -62,7 +62,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-11-14,49,283-->
 
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-10-26,30,263-->
+<!--SR:!2024-01-24,87,263-->
 
 
 ### Autour de $\frac{\pi}{2}$
