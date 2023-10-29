@@ -7,7 +7,7 @@ tags:
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 <!--SR:!2023-10-22,21,290-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
-<!--SR:!2023-10-21,20,290-->
+<!--SR:!2024-02-18,112,310-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
 <!--SR:!2023-10-12,9,270-->
 
@@ -37,7 +37,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ### Propriété
 - $P(U)$=::1 
-<!--SR:!2023-10-20,19,290-->
+<!--SR:!2024-02-19,113,310-->
 - $P(0)$=::0
 <!--SR:!2023-10-21,20,290-->
 - $P(A)+P(A')$=::1 
