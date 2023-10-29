@@ -23,7 +23,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-11-08,10,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
-<!--SR:!2023-10-23,15,250-->
+<!--SR:!2023-11-06,8,230-->
 - Evénement certain:: toutes les issues
 <!--SR:!2024-02-20,114,310-->
 - Evénement impossible:: aucune issue
@@ -31,7 +31,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-10-21,20,290-->
+<!--SR:!2023-11-11,13,270-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
 <!--SR:!2023-10-18,17,290-->
 
