@@ -51,7 +51,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Si deux événements sont indépendants alors $P(A/B)$=::$P(A)$
 <!--SR:!2024-01-07,70,290-->
 - $P(A')$=:: $1-P(A)$
-<!--SR:!2023-10-19,18,290-->
+<!--SR:!2024-01-04,67,290-->
 
 ## Événements indépendants
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
