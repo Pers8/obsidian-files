@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "IB/Maths.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,7 +315,9 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "Séries et Séquences.md",
     "IB/Maths.md",
+    "Nombres complexes.md",
     "Cercle trigonométrique.md",
     "Champ Magnétique.md",
     "Probabilité discrètes.md",
@@ -342,8 +344,6 @@
     "IB/English.md",
     "IB/TOK.md",
     "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
-    "Test d'informatique.md",
-    "TOK Exhibition.md",
     "assets/Pasted image 20231017113410.png",
     "assets/Pasted image 20231017112712.png",
     "assets/Pasted image 20231017110244.png",
