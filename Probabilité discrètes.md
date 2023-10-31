@@ -5,7 +5,7 @@ tags:
 # Probabilité discrètes
 ## Experience aléatoire-événements
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
-<!--SR:!2023-10-22,21,290-->
+<!--SR:!2024-01-13,74,290-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-02-18,112,310-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
@@ -13,7 +13,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
-<!--SR:!2023-10-19,18,290-->
+<!--SR:!2024-01-09,70,290-->
 - Evénement composé:: a plusieurs issues
 <!--SR:!2024-01-03,66,290-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
@@ -39,9 +39,9 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(U)$=::1 
 <!--SR:!2024-02-19,113,310-->
 - $P(0)$=::0
-<!--SR:!2023-10-21,20,290-->
+<!--SR:!2024-01-10,71,290-->
 - $P(A)+P(A')$=::1 
-<!--SR:!2023-10-22,21,290-->
+<!--SR:!2024-01-09,70,290-->
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-11-09,11,270-->
 - $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
