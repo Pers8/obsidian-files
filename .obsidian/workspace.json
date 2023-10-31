@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Logarithmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Logarithmes.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Logarithmes.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Logarithmes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,8 +315,8 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
-    "Lois des sinus et cosinus.md",
     "IB/Maths.md",
+    "Lois des sinus et cosinus.md",
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
     "Fonctions linéaires.md",
