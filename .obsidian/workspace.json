@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lois des sinus et cosinus.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lois des sinus et cosinus.md"
+                "file": "IB/Maths.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lois des sinus et cosinus.md",
+                "file": "IB/Maths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,6 +315,7 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "Lois des sinus et cosinus.md",
     "IB/Maths.md",
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
@@ -343,7 +344,6 @@
     "IB/Economy.md",
     "IB/Comp Sci.md",
     "IA de Math & Physics.md",
-    "Raisonnement simultané.md",
     "assets/Pasted image 20231017113410.png",
     "assets/Pasted image 20231017112712.png",
     "assets/Pasted image 20231017110244.png",
