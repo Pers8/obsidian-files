@@ -68,13 +68,13 @@ Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
-<!--SR:!2023-10-11,3,273-->
+<!--SR:!2023-12-04,34,273-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-11-01,3,233-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-10-26,11,253-->
+<!--SR:!2023-11-06,6,233-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2023-11-02,4,233-->
