@@ -81,3 +81,4 @@ $P(A\cap B')$=::$P(A)-P(A\cap B)$
 
 
 $P(A \le X \le B)$ =::$P(X \le A) - P(X \le B-1)$
+<!--SR:!2023-11-01,1,247-->
