@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Probabilité discrètes.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribution binomiale.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Distribution binomiale.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distribution binomiale.md",
+                "file": "Probabilité discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,8 +316,8 @@
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
     "IB/Maths.md",
-    "Distribution discrètes.md",
     "Distribution binomiale.md",
+    "Distribution discrètes.md",
     "Probabilité discrètes.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
