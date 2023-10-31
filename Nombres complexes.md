@@ -72,6 +72,3 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ![[Pasted image 20230712084000.png]]
 <!--SR:!2024-03-13,136,290-->
 
-
-
-( O - X - F - N - N - B - F - C - F ) -- ( X - F - N - .  ) -- ( . ) -- ( . ) -- ( , - J - ,  ) -- ( C - N - , ) -- ( O - O ) -- ( . ) -- ( , - M - , ) -- ( . ) -- ( , - M ) -- ( N - B - F - B - N - B - X - C )
