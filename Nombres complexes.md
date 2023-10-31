@@ -72,3 +72,26 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ![[Pasted image 20230712084000.png]]
 <!--SR:!2024-03-13,136,290-->
 
+## Forme polaire
+
+Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
+
+- $\cos\theta$=::$\frac{a}{|z|}$
+- $\sin\theta$=::$\frac{b}{|z|}$
+- $|zw|$=::$|z||w|$
+- $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
+- $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
+- $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
+- $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
+- $\theta$=::$\tan^{-1}(\frac{b}{a})$
+- $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
+- $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
+
+## Formules d'Euler (module=1)
+Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
+$e^{i\pi}$=::$-1$
+
+- $z^{n}+z^{-n}$=::$2\cos(n\theta)$
+- $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
+- $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
+- $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$

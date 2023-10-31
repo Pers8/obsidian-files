@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "IB/Maths.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "IB/Maths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,6 +315,7 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "Nombres complexes.md",
     "IB/Maths.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
@@ -323,7 +324,6 @@
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
     "Fonctions linéaires.md",
-    "Nombres complexes.md",
     "Cercle trigonométrique.md",
     "Champ Magnétique.md",
     "Probabilité discrètes.md",
