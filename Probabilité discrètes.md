@@ -27,7 +27,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement certain:: toutes les issues
 <!--SR:!2024-02-20,114,310-->
 - Evénement impossible:: aucune issue
-<!--SR:!2023-10-18,17,290-->
+<!--SR:!2024-01-07,68,290-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
@@ -45,7 +45,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-11-09,11,270-->
 - $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
-<!--SR:!2023-10-18,17,290-->
+<!--SR:!2024-01-06,67,290-->
 - $P(A\cap B)$=::$P(A)\times P(B/A)$ ou $P(B)\times P(A/B)$
 <!--SR:!2023-11-21,37,270-->
 - Si deux événements sont indépendants alors $P(A/B)$=::$P(A)$
