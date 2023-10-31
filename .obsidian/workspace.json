@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Distribution binomiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Distribution binomiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Distribution binomiale.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Distribution binomiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Distribution binomiale.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Distribution binomiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,8 +315,10 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
-    "Probabilité discrètes.md",
     "IB/Maths.md",
+    "Distribution discrètes.md",
+    "Distribution binomiale.md",
+    "Probabilité discrètes.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
@@ -340,8 +342,6 @@
     "Energie mécanique (énergie totale).md",
     "Mouvement d'un projectile.md",
     "Energie cinétique (2).md",
-    "Forces magnétique.md",
-    "Excalidraw/Drawing 2023-10-19 11.08.15.excalidraw.md",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
     "assets/Pasted image 20231017113410.png",

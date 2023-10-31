@@ -1,0 +1,5 @@
+---
+tags:
+  - math
+---
+# Distribution discrètes
