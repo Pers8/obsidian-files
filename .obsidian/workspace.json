@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/Maths.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "IB/Maths.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "IB/Maths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,10 +315,10 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "Probabilité discrètes.md",
     "IB/Maths.md",
     "Distribution binomiale.md",
     "Distribution discrètes.md",
-    "Probabilité discrètes.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
