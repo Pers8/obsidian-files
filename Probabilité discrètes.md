@@ -57,11 +57,11 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
 
 Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
-<!--SR:!2023-11-01,3,233-->
+<!--SR:!2023-11-04,2,213-->
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
-<!--SR:!2023-11-02,4,212-->
+<!--SR:!2023-11-04,2,192-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 <!--SR:!2023-11-29,31,273-->
@@ -81,4 +81,4 @@ $P(A\cap B')$=::$P(A)-P(A\cap B)$
 
 
 $P(A \le X \le B)$ =::$P(X \le A) - P(X \le B-1)$
-<!--SR:!2023-11-01,1,247-->
+<!--SR:!2023-11-06,4,247-->
