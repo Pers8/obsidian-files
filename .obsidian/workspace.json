@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physics/Loi de gravitation de Newton.md",
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,7 +315,9 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
+    "Physics/Champ de gravitation.md",
     "IB/Physics.md",
+    "Physics/Loi de gravitation de Newton.md",
     "IB/Maths.md",
     "Probabilité discrètes.md",
     "Distribution binomiale.md",
@@ -340,8 +342,6 @@
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
     "ds.md",
     "Energie mécanique (énergie totale).md",
-    "Mouvement d'un projectile.md",
-    "Energie cinétique (2).md",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
     "assets/Pasted image 20231017113410.png",
