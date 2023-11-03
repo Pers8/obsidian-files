@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Physics/Loi de gravitation de Newton.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Physics/Loi de gravitation de Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Physics/Loi de gravitation de Newton.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Physics/Loi de gravitation de Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Maths.md"
+                "file": "Physics/Loi de gravitation de Newton.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Maths.md",
+                "file": "Physics/Loi de gravitation de Newton.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,8 +315,9 @@
   },
   "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
-    "Probabilité discrètes.md",
+    "IB/Physics.md",
     "IB/Maths.md",
+    "Probabilité discrètes.md",
     "Distribution binomiale.md",
     "Distribution discrètes.md",
     "Identités trigonométriques.md",
@@ -333,7 +334,6 @@
     "Fonctions linéaires.md",
     "Champ Magnétique.md",
     "IB/French.md",
-    "IB/Physics.md",
     "TOK Introduction (Not the final version).md",
     "Applications de la conservation de p.md",
     "assets/Pasted image 20231020145239.png",
