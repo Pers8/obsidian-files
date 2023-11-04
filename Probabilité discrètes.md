@@ -71,7 +71,7 @@ Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et
 <!--SR:!2023-12-04,34,273-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
-<!--SR:!2023-11-01,3,233-->
+<!--SR:!2023-11-06,2,213-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
 <!--SR:!2023-11-06,6,233-->
