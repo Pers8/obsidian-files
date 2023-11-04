@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IA de Math & Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IA de Math & Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IA de Math & Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "IA de Math & Physics.md"
               }
             }
           }
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IA de Math & Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,10 +313,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4531cef53cefbdda",
+  "active": "0f4466db6b3e9b0f",
   "lastOpenFiles": [
-    "Physics/Champ de gravitation.md",
     "IB/Physics.md",
+    "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
     "IB/Maths.md",
     "Probabilité discrètes.md",
