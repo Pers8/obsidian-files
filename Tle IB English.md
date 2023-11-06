@@ -193,4 +193,7 @@ S = Summarize your points
 - Place the passage and your analysis within the broader context of the entire text. Discuss how these specific passages fit into the narrative themes or characters.  Consider the historical culture or societal context in which the text was written and how it might influence the interpretation
 - In  your conclusion summarize the key points of your analysis and reiterate the significance of the chosen passage and its contribution to the text as a whole. Reflect on the broader implications of your analysis including any thematic that emerge from your examination.
 
+
+
+
 ![[_Radioactiviteword.pdf]]
