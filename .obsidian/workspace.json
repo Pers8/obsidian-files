@@ -21,9 +21,11 @@
             "id": "dfeae65431b7aa4e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Physics DST training.md"
+                "file": "IB/English.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -221,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +250,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "IB/English.md"
               }
             }
           }
@@ -265,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "IB/English.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,8 +315,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0f4466db6b3e9b0f",
+  "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
+    "IB/French.md",
+    "Excalidraw/Physics DST training.md",
+    "IA de Math & Physics.md",
     "IB/Physics.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
@@ -335,13 +340,10 @@
     "Logarithmes.md",
     "Fonctions linéaires.md",
     "Champ Magnétique.md",
-    "IB/French.md",
     "TOK Introduction (Not the final version).md",
     "Applications de la conservation de p.md",
     "assets/Pasted image 20231020145239.png",
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
-    "ds.md",
-    "Energie mécanique (énergie totale).md",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
     "assets/Pasted image 20231017113410.png",
