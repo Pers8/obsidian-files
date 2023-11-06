@@ -198,6 +198,8 @@ S = Summarize your points
 
 ![[_Radioactiviteword.pdf]]
 
-Literary work :
+***Literary work :***
+
 **"My master hurried towards the Residence, his stubby legs working backwards and forwards busily. I came up behind him on my long legs, carrying his bag on my head. I felt sorry for this man, so anxiously running towards a wife who no longer cared for him alone. I wanted to see how Madame would behave with her husband home now she had deceived him. She was waiting for the Commandant on the veranda, wrapped in her bath-robe. She gave a pale smile and went towards him. My master kissed her on the mouth. This time she did not shut her eyes."** - P.66 
 
+***Non-Literary work :***
