@@ -101,12 +101,8 @@
             "id": "9b7702396db480e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IB/Physics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -184,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IB/Physics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,7 +218,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,9 +243,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "IB/Physics.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -269,7 +259,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,8 +308,8 @@
   },
   "active": "9b7702396db480e1",
   "lastOpenFiles": [
-    "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "IB/Physics.md",
+    "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
     "Tle IB English.md",
