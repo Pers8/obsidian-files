@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/English.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/English.md"
+                "file": "Tle IB English.md"
               }
             }
           }
@@ -267,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/English.md",
+                "file": "Tle IB English.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,6 +317,7 @@
   },
   "active": "dfeae65431b7aa4e",
   "lastOpenFiles": [
+    "IB/English.md",
     "IB/French.md",
     "Excalidraw/Physics DST training.md",
     "IA de Math & Physics.md",
@@ -343,7 +344,6 @@
     "TOK Introduction (Not the final version).md",
     "Applications de la conservation de p.md",
     "assets/Pasted image 20231020145239.png",
-    "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
     "assets/Pasted image 20231017113410.png",
