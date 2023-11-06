@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md"
               }
             }
           }
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Théorie cinétique des gaz parfaits (contraire de réel).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,6 +319,7 @@
   },
   "active": "9b7702396db480e1",
   "lastOpenFiles": [
+    "IB/Physics.md",
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
     "Tle IB English.md",
@@ -328,7 +329,6 @@
     "IB/French.md",
     "Excalidraw/Physics DST training.md",
     "IA de Math & Physics.md",
-    "IB/Physics.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
     "IB/Maths.md",
