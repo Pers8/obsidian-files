@@ -101,8 +101,12 @@
             "id": "9b7702396db480e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -180,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IB/Physics.md"
+              }
             }
           },
           {
@@ -218,6 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +251,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "IB/Physics.md"
+              }
             }
           }
         ],
@@ -259,6 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,6 +319,7 @@
   },
   "active": "9b7702396db480e1",
   "lastOpenFiles": [
+    "IB/📝Dashboard.md",
     "IB/Physics.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "2.3 Travail, Puissance et Energie.md",
@@ -335,7 +347,6 @@
     "Nombres complexes.md",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
-    "Logarithmes.md",
     "assets/Pasted image 20231020145239.png",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
