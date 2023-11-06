@@ -101,9 +101,11 @@
             "id": "9b7702396db480e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md"
+                "file": "IB/Physics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -223,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md"
+                "file": "IB/Physics.md"
               }
             }
           }
@@ -267,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,6 +319,8 @@
   },
   "active": "9b7702396db480e1",
   "lastOpenFiles": [
+    "2.3 Travail, Puissance et Energie.md",
+    "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
     "Tle IB English.md",
     "assets/Pasted image 20231106090223.png",
     "_Radioactiviteword.pdf",
@@ -343,8 +347,6 @@
     "Séries et Séquences.md",
     "Logarithmes.md",
     "Fonctions linéaires.md",
-    "Champ Magnétique.md",
-    "TOK Introduction (Not the final version).md",
     "assets/Pasted image 20231020145239.png",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
