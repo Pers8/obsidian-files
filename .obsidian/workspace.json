@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "zz.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "zz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "zz.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "zz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "zz.md"
               }
             }
           }
@@ -269,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "zz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,10 +317,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9b7702396db480e1",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
-    "IB/📝Dashboard.md",
     "IB/Physics.md",
+    "IB/📝Dashboard.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "2.3 Travail, Puissance et Energie.md",
     "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
