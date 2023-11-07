@@ -19,5 +19,30 @@ Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en
   
 
 
-<!DOCTYPE html>`
-<br><br>`<``html``>`<br><br>`<``head``>`<br><br>    `<``title``>How to set cursor style` <br><br>      `to pointer for links without href ?</``title``>`<br><br>    `<``style``>`<br><br>        `.pointer-link {`<br><br>            `cursor: pointer;`<br><br>        `}`<br><br>    `</``style``>`<br><br>`</``head``>`<br><br>`<``body``>`<br><br>    `<``h1` `style``=``"color: green"``>`<br><br>      `GeeksforGeeks`<br><br>  `</``h1``>`<br><br>    `<``b``>How to set cursor style to`<br><br>      `pointer for links without href ?</``b``>`<br><br>    `<``p``>The <``a``> link below`<br><br>      `has the cursor style set to pointer.</``p``>`<br><br>    `<``a` `class``=``"pointer-link"``>Example link</``a``>`<br><br>`</``body``>`<br><br>`</``html``>`|
+<html> 
+
+<head> 
+	<title>How to set cursor style 
+	to pointer for links without href ?</title> 
+	<style> 
+		.pointer-link { 
+			cursor: pointer; 
+		} 
+		.h
+	</style> 
+</head> 
+
+<body> 
+	<h1 style="color: green"> 
+	GeeksforGeeks 
+</h1> 
+	<b>How to set cursor style to 
+	pointer for links without href ?</b> 
+	
+	<p>The <a> link below 
+	has the cursor style set to pointer.</p> 
+	
+	<a class="pointer-link">Example link</a> 
+</body> 
+
+</html> 
