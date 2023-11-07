@@ -9,9 +9,6 @@
 Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en 1989. C'est un texte narratif dont le narrateur est personnage et c'est un registre du quotidien. Cet extrait est la transcription de bandes de cassettes enregistrés au centre hospitalier universitaire de Fann là où Mademba craignait de mourir et a du subir un intervention chirurgicale. Il raconte ce qu'il a eu à écouter lors de son hospitalisation et un rêve qu'il a eu à faire. Dans le texte, l'auteur met en évidence le fait qu'il y a du bruit dans un hopital à côté des malades ce qui est censé ne pas être le cas mettant en évidence un non respet envers les malades par les infirmiers. 
 
 
- <font style="color:white; font-weight:1000; font-family:Poppins; background: blue; padding: 15px 10px; border-radius : 10px; cursor : pointer; ">Text Color</font>
-
-
 
 
 
@@ -19,35 +16,4 @@ Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en
   
 
 
-<html> 
 
-<head> 
-	<title>How to set cursor style 
-	to pointer for links without href ?</title> 
-	<style> 
-		.pointer-link { 
-			cursor: pointer; 
-		} 
-		.h1 {
-			cursor: pointer;
-		}
-		.h1::hover{
-			font-size : 100px;
-		}
-	</style> 
-</head> 
-
-<body> 
-	<h1 style="color: green"> 
-	Test 123 
-</h1> 
-	<b>How to set cursor style to 
-	pointer for links without href ?</b> 
-	
-	<p>The <a> link below 
-	has the cursor style set to pointer.</p> 
-	
-	<a class="pointer-link">Example link</a> 
-</body> 
-
-</html> 
