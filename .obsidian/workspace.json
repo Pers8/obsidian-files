@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz.md",
+                "file": "Probabilité discrètes.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français extrait analyse.md",
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français extrait analyse.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français extrait analyse.md",
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Français extrait analyse.md"
+                "file": "Probabilité discrètes.md"
               }
             }
           }
@@ -281,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Français extrait analyse.md",
+                "file": "Probabilité discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,8 +329,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b7a3e9d93a717a37",
+  "active": "9b7702396db480e1",
   "lastOpenFiles": [
+    "IB/Maths.md",
     "zz.md",
     "Français extrait analyse.md",
     "IB/Physics.md",
@@ -347,7 +348,6 @@
     "IA de Math & Physics.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
-    "IB/Maths.md",
     "Probabilité discrètes.md",
     "Distribution binomiale.md",
     "Distribution discrètes.md",
