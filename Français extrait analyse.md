@@ -9,4 +9,4 @@
 Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en 1989. C'est un texte narratif dont le narrateur est personnage et c'est un registre du quotidien. Cet extrait est la transcription de bandes de cassettes enregistrés au centre hospitalier universitaire de Fann là où Mademba craignait de mourir et a du subir un intervention chirurgicale. Il raconte ce qu'il a eu à écouter lors de son hospitalisation et un rêve qu'il a eu à faire. Dans le texte, l'auteur met en évidence le fait qu'il y a du bruit dans un hopital à côté des malades ce qui est censé ne pas être le cas mettant en évidence un non respet envers les malades par les infirmiers. 
 
 
- <font style="color:red; font-weight:1000; font-family:Poppins; background: blue; padding: 30px 10px; border-radius : 10px ">Text Color</font>
+ <font style="color:red; font-weight:1000; font-family:Poppins; background: blue; padding: 15px 10px; border-radius : 10px; cursor-pointer :  ">Text Color</font>
