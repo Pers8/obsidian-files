@@ -6,4 +6,4 @@
 
 **Analyse :**
 
-Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en 1989. C'est un texte narratif dont l'auteur est le 
+Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en 1989. C'est un texte narratif dont le narrateur est personnage et c'est unn 
