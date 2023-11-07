@@ -6,4 +6,4 @@
 
 **Analyse :**
 
-Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en 1989. C'est un texte narratif dont le narrateur est personnage et c'est un registre du quotidien. Cet extrait est la transcription de bandes de cassettes enregistrés au centre hospitalier universitaire de Fann là où Mademba craignait de mourir et a du subir un intervention chirurgicale. Il raconte ce qu'il a eu à écouter lors de son hospitalisation 
+Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en 1989. C'est un texte narratif dont le narrateur est personnage et c'est un registre du quotidien. Cet extrait est la transcription de bandes de cassettes enregistrés au centre hospitalier universitaire de Fann là où Mademba craignait de mourir et a du subir un intervention chirurgicale. Il raconte ce qu'il a eu à écouter lors de son hospitalisation et un rêve qu'il a eu à fa 
