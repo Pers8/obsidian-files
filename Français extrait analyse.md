@@ -6,4 +6,4 @@ Il est près de quatorze heures. J'entends des voix provenant de la cour ou de l
 
 **Analyse :**
 
-Cette extrait 
+Cet extrait est tiré de la 9ème page du livre Mademba écrit par KH
