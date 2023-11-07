@@ -10,10 +10,10 @@ Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en
 
 
 - Parler de l'auteur et de la présenter brièvement
-- Parler du livre de manière général et du thème du livre
+- Parler du livre de manière général et des thèmes du livre
 - Parler de l'extrait et de le mettre en contexte avec le livre
 - Faire un commentaire du texte, du style d'écriture utilisé, de quoi ça parle de manière général 
-- Les thèmes évoqués par l'extrait
+- Les thèmes fait en classe évoqués par l'extrait fait 
 
 
 
