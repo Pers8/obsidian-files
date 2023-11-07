@@ -28,6 +28,9 @@ Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en
 		.pointer-link { 
 			cursor: pointer; 
 		} 
+		.h1 {
+			cursor: pointer;
+		}
 		.h1::hover{
 			font-size : 100px;
 		}
@@ -36,7 +39,7 @@ Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en
 
 <body> 
 	<h1 style="color: green"> 
-	GeeksforGeeks 
+	Test 123 
 </h1> 
 	<b>How to set cursor style to 
 	pointer for links without href ?</b> 
