@@ -67,10 +67,8 @@
             "id": "bd3235a4d72f1156",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-17 11.22.26.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -222,14 +220,6 @@
             }
           },
           {
-            "id": "ab6a77a21adb2bc7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "39913e568a72fb23",
             "type": "leaf",
             "state": {
@@ -264,6 +254,14 @@
               "state": {
                 "file": "Excalidraw/Proba petit exo.md"
               }
+            }
+          },
+          {
+            "id": "3f0c9fffd107fdc5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
@@ -322,9 +320,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "ava:Ava": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9b7702396db480e1",
