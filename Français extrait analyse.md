@@ -28,7 +28,9 @@ Cet extrait est tiré de la 9ème page du livre Mademba écrit par Khadi Fall en
 		.pointer-link { 
 			cursor: pointer; 
 		} 
-		.h
+		.h1::hover{
+			font-size : 100px;
+		}
 	</style> 
 </head> 
 
