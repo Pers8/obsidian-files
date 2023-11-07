@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Distribution discrètes.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Distribution discrètes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "Distribution discrètes.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Distribution discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "Distribution discrètes.md"
               }
             }
           }
@@ -281,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "Distribution discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -332,6 +332,7 @@
   "active": "9b7702396db480e1",
   "lastOpenFiles": [
     "IB/Maths.md",
+    "Probabilité discrètes.md",
     "zz.md",
     "Français extrait analyse.md",
     "IB/Physics.md",
@@ -348,7 +349,6 @@
     "IA de Math & Physics.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
-    "Probabilité discrètes.md",
     "Distribution binomiale.md",
     "Distribution discrètes.md",
     "Identités trigonométriques.md",
