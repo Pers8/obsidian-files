@@ -108,9 +108,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7a3e9d93a717a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Français extrait analyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz.md",
+                "file": "Français extrait analyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz.md"
+                "file": "Français extrait analyse.md"
               }
             }
           },
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz.md",
+                "file": "Français extrait analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +264,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zz.md"
+                "file": "Français extrait analyse.md"
               }
             }
           }
@@ -269,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zz.md",
+                "file": "Français extrait analyse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,8 +329,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "b7a3e9d93a717a37",
   "lastOpenFiles": [
+    "zz.md",
+    "Français extrait analyse.md",
     "IB/Physics.md",
     "IB/📝Dashboard.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
@@ -345,8 +359,6 @@
     "Position relative parabole et droite.md",
     "Formules de Viète.md",
     "Nombres complexes.md",
-    "Théorème Binomial.md",
-    "Séries et Séquences.md",
     "assets/Pasted image 20231020145239.png",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
