@@ -101,11 +101,9 @@
             "id": "9b7702396db480e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Distribution discrètes.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Proba petit exo.md"
               }
             }
           },
@@ -196,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribution discrètes.md",
+                "file": "Excalidraw/Proba petit exo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribution discrètes.md"
+                "file": "Excalidraw/Proba petit exo.md"
               }
             }
           },
@@ -237,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribution discrètes.md",
+                "file": "Excalidraw/Proba petit exo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +262,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Distribution discrètes.md"
+                "file": "Excalidraw/Proba petit exo.md"
               }
             }
           }
@@ -281,7 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distribution discrètes.md",
+                "file": "Excalidraw/Proba petit exo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,6 +329,9 @@
   },
   "active": "9b7702396db480e1",
   "lastOpenFiles": [
+    "assets/Pasted Image 20231107144009_332.png",
+    "Distribution discrètes.md",
+    "Excalidraw/Proba petit exo.md",
     "IB/Maths.md",
     "Probabilité discrètes.md",
     "zz.md",
@@ -350,15 +351,12 @@
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
     "Distribution binomiale.md",
-    "Distribution discrètes.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
     "Radians.md",
     "Polynômes.md",
     "Position relative parabole et droite.md",
-    "Formules de Viète.md",
-    "Nombres complexes.md",
     "assets/Pasted image 20231020145239.png",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
