@@ -23,4 +23,5 @@ Un MHS a les caractéristiques suivantes :
 - Il y a une position d'équilibre centrale
 - L'amplitude est constante
 - La période est constante
-- L'acc
+- L'accélération est proportionel à $-x$
+- Il y a une force de rappel dirigé vers la position d'équilibre
