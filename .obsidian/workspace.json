@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Proba petit exo.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Proba petit exo.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Proba petit exo.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Proba petit exo.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -277,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Proba petit exo.md",
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,11 +327,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b7702396db480e1",
+  "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
+    "Applications de la conservation de p.md",
+    "Excalidraw/Proba petit exo.md",
     "assets/Pasted Image 20231107144009_332.png",
     "Distribution discrètes.md",
-    "Excalidraw/Proba petit exo.md",
     "IB/Maths.md",
     "Probabilité discrètes.md",
     "zz.md",
@@ -365,7 +366,6 @@
     "assets/Pasted image 20231017110244.png",
     "assets/Pasted image 20231013154033.png",
     "assets/Pasted Image 20231012212940_888.png",
-    "assets/Pasted Image 20231012205947_508.png",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }
