@@ -104,7 +104,7 @@ $$
 ## 3. Magnétisme
 1. [[Champ Magnétique]]
 2. [[Forces magnétique]]
-# Theme 6: Mouvement circulaire uniforme et Gravitation
+# Theme 6- Mouvement circulaire uniforme et Gravitation
 ## 1. Gravitation (universelle)
 1. [[Loi de gravitation de Newton]], [[Champ de gravitation]]
 
