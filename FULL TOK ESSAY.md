@@ -2,4 +2,3 @@ The historian without his facts is rootless and futile; the facts without their 
 hold.
 
 
-Knowledge in history consists of the conclusions that historians draw based upon historical evidence. Historiography is the study of historians' approaches to a historical topic. Historiography determines the knowledge produced in history due to its changeable and subjective nature. Studying the way history has been previously understood demonstrates that different methods of studying history leads to different historical conclusions. For example, the historiography of the 1972 Watergate scandal drew historians to three different conclusions. The Watergate scandal consisted of the illegal wiretapping of the Democratic National Committee and the subsequent cover up of this crime by the Nixon administration. The initial historiographical approach was a structuralist one — viewing Watergate as the result of a larger pattern of presidential
