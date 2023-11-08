@@ -95,7 +95,7 @@ $$
 # Theme 4- Oscillations et ondes
 ## 1. Mouvement harmonique (oscillatoire) simple (MHS)
 1. [[Définition de quelques grandeurs]]
-2. [[]]
+2. [[Mouvement harmonique simple]]
 
 
 # Theme 5- Electricité et Magnétisme
