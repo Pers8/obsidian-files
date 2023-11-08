@@ -17,3 +17,6 @@ Dans un MHS, l'accélération est proportionnelle à l'opposé du déplacement
 $$\Large{a \propto (-x)}$$
 
 ![[Graphe a par rapport à x]]
+
+Un MHS a les caractéristiques suivantes :
+?
