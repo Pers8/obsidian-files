@@ -91,7 +91,12 @@ $$
 1. [[Mole]]
 2. [[Loi des gaz parfait]], isotherme, isobare, iso-volumique
 3. [[ Théorie cinétique des gaz parfaits (contraire de réel)]]
-# Theme 5: Electricité et Magnétisme
+
+# Theme 4- Oscillations et ondes
+1. [[Mouvement har]]
+
+
+# Theme 5- Electricité et Magnétisme
 ## 1. Champ électrique
 0. [[Rappel d'électrostatique]]
 1. [[Loi de Coulomb]]
@@ -108,7 +113,7 @@ $$
 ## 1. Gravitation (universelle)
 1. [[Loi de gravitation de Newton]], [[Champ de gravitation]]
 
-# Theme 7: Physique nucléaire, atomique et particules
+# Theme 7- Physique nucléaire, atomique et particules
 
 ## 1. Energie discrete et Radioactivité
 1. [[Energie discrète et Radioactivité]]
