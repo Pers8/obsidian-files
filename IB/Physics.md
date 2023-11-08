@@ -96,6 +96,7 @@ $$
 ## 1. Mouvement harmonique (oscillatoire) simple (MHS)
 1. [[Définition de quelques grandeurs]]
 2. [[Mouvement harmonique simple]]
+3. [[Changement d'énergie au cours d'un MHS]]
 
 
 # Theme 5- Electricité et Magnétisme
