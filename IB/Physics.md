@@ -93,7 +93,8 @@ $$
 3. [[ Théorie cinétique des gaz parfaits (contraire de réel)]]
 
 # Theme 4- Oscillations et ondes
-1. [[Mouvement harmonique (oscillatoire) simple (MHS)]]
+## 1. Mouvement harmonique (oscillatoire) simple (MHS)
+1. [[Définition de quelques grandeurs]]
 
 
 # Theme 5- Electricité et Magnétisme

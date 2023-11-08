@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mouvement harmonique (oscillatoire) simple (MHS).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement harmonique (oscillatoire) simple (MHS).md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement harmonique (oscillatoire) simple (MHS).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement harmonique (oscillatoire) simple (MHS).md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mouvement harmonique (oscillatoire) simple (MHS).md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -277,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement harmonique (oscillatoire) simple (MHS).md",
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -329,8 +329,8 @@
   },
   "active": "9bec9f55dbefcaa6",
   "lastOpenFiles": [
+    "Définition de quelques grandeurs.md",
     "IB/Physics.md",
-    "Mouvement harmonique (oscillatoire) simple (MHS).md",
     "Applications de la conservation de p.md",
     "Excalidraw/Proba petit exo.md",
     "assets/Pasted Image 20231107144009_332.png",
