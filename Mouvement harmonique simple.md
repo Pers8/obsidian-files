@@ -15,4 +15,5 @@ $$\Large{\boxed{a=-\omega^2x} \hspace{2mm} \hspace{2mm}\hspace{2mm}\hspace{2mm} 
 
 Dans un MHS, l'accélération est proportionnelle à l'opposé du déplacement
 $$\Large{a \propto (-x)}$$
+
 ![[Graphe a par rapport à x]]
