@@ -20,3 +20,7 @@ $$\Large{a \propto (-x)}$$
 
 Un MHS a les caractéristiques suivantes :
 ?
+- Il y a une position d'équilibre centrale
+- L'amplitude est constante
+- La période est constante
+- L'acc
