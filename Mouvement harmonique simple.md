@@ -13,4 +13,5 @@ $$\Large{-kx = ma \hspace{2mm} (\vec P \hspace{2mm} et \hspace{2mm} \vec N = 0)}
 $$\Large{a=-\frac{k}{m}x}$$
 $$\Large{\boxed{a=-\omega^2x} \hspace{2mm} \hspace{2mm}\hspace{2mm}\hspace{2mm} équation\hspace{2mm} \text{MHS} }$$
 
-Dans un MHS
+Dans un MHS, l'accélération est proportionnelle à l'opposé du déplacement
+$$\Large{a \propor}$$
