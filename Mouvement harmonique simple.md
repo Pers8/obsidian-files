@@ -8,5 +8,6 @@ $$Pendule \hspace{2mm} élastique$$
 
 Déplaçons la masse $x$, la masse est soumise à 3 forces :
 
-$$\Large{\vec P + \vec N + \vec T = m\vec a}$$
+$$\Large{\vec P + \vec N + \vec T = m\vec a} \hspace{2mm} (2^{ème} \hspace{2mm} loi \hspace{2mm} de \hspace{2mm}Newton)$$
+$$\Large{-kx = ma}$$
 
