@@ -84,6 +84,16 @@
             }
           },
           {
+            "id": "44f7967f7e7bc1b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "9bec9f55dbefcaa6",
             "type": "leaf",
             "state": {
@@ -192,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouvement harmonique simple.md"
+                "file": "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md"
               }
             }
           },
@@ -225,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +262,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mouvement harmonique simple.md"
+                "file": "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md"
               }
             }
           },
@@ -277,7 +287,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mouvement harmonique simple.md",
+                "file": "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,10 +337,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bec9f55dbefcaa6",
+  "active": "44f7967f7e7bc1b3",
   "lastOpenFiles": [
-    "IB/Physics.md",
+    "IA de Math & Physics.md",
+    "Excalidraw/Drawing 2023-11-08 10.50.23.excalidraw.md",
     "Mouvement harmonique simple.md",
+    "IB/Physics.md",
     "Définition de quelques grandeurs.md",
     "Applications de la conservation de p.md",
     "Excalidraw/Proba petit exo.md",
@@ -350,14 +362,12 @@
     "IB/English.md",
     "IB/French.md",
     "Excalidraw/Physics DST training.md",
-    "IA de Math & Physics.md",
     "Physics/Champ de gravitation.md",
     "Physics/Loi de gravitation de Newton.md",
     "Distribution binomiale.md",
     "Identités trigonométriques.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
-    "Radians.md",
     "assets/Pasted image 20231020145239.png",
     "assets/Pasted image 20231019120424.png",
     "assets/Pasted image 20231019115519.png",
