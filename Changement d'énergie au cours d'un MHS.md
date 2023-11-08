@@ -6,3 +6,4 @@ tags:
 
 ## a) Changement avec la position
 ![[Pasted image 20231108112229.png]]
+## a) Changement avec la position
