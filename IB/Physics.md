@@ -93,7 +93,7 @@ $$
 3. [[ Théorie cinétique des gaz parfaits (contraire de réel)]]
 
 # Theme 4- Oscillations et ondes
-1. [[Mouvement har]]
+1. [[Mouvement harmonique simple (MHS)]]
 
 
 # Theme 5- Electricité et Magnétisme
