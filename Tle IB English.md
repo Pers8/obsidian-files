@@ -194,14 +194,17 @@ S = Summarize your points
 - In  your conclusion summarize the key points of your analysis and reiterate the significance of the chosen passage and its contribution to the text as a whole. Reflect on the broader implications of your analysis including any thematic that emerge from your examination.
 
 
+## Songs of Sorrow
+
+1. The central themes resolves around cultural identity, the impact of colonization and the independence in post-colonial Africa.
+2. The author incorporates rhythmic patterns and imagery, drawing on the oral story telling tradition to create a powerful poetic
+3. The cathedral uses symbols to depict the clash between indigenous beliefs and Christianity, reflecting the broader cultural conflict faced by many African societies.
+4. The Weaverbird explores the impact of modernization on traditional skills, serving as a metaphor for the erosion of cultural practices
+5. The poem reflects on personal and collective griefs exploring themes of loss, displacement and mourning
+6. Nature and spirituality serve as significant themes with the author drawing on these elements to convey deeper cultural and philosophical meanings. 
+7. The poem addresses the destructive impact of the slave trade on African communities as well as reflecting on historical trauma.
+8.  Kofi Awoonor explores conflicts between traditional African values and the forces of modernization brought about by colonization.
+9. Rhythmic patterns reflect the influence of traditional African poems and enhance the oral story telling tradition in his written work.
+10. 
 
 
-![[_Radioactiviteword.pdf]]
-
-***Literary work :***
-
-**"My master hurried towards the Residence, his stubby legs working backwards and forwards busily. I came up behind him on my long legs, carrying his bag on my head. I felt sorry for this man, so anxiously running towards a wife who no longer cared for him alone. I wanted to see how Madame would behave with her husband home now she had deceived him. She was waiting for the Commandant on the veranda, wrapped in her bath-robe. She gave a pale smile and went towards him. My master kissed her on the mouth. This time she did not shut her eyes."** - P.66 
-
-***Non-Literary work :***
-
-![[Pasted image 20231106090223.png]]

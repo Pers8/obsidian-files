@@ -97,7 +97,16 @@ $$
 1. [[Définition de quelques grandeurs]]
 2. [[Mouvement harmonique simple]]
 3. [[Changement d'énergie au cours d'un MHS]]
-
+4. [[Variation avec le temps de la position, la vitesse et l'accélération]]
+5. [[Période d'un pendule simple et élastique]]
+## 2. Ondes progressives périodiques
+1. [[Définition d’une onde progressive]]
+## 3. Caractéristiques des ondes
+1. [[Fronts d'onde et rayons]]
+## 4. Comportement des ondes
+1. [[Reflexion]]
+2. [[Transmission et réfraction]]
+3. [[Polarisation par réflexion(angle de Brewster)]]
 
 # Theme 5- Electricité et Magnétisme
 ## 1. Champ électrique

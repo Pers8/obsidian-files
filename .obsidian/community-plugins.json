@@ -7,5 +7,10 @@
   "obsidian-discordrpc",
   "convert-url-to-iframe",
   "ava",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "notion-like-tables",
+  "canvas-mindmap",
+  "obsidian-pandoc",
+  "obsidian-latex",
+  "better-mathjax"
 ]

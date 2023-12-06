@@ -29,5 +29,5 @@ $\LARGE{SL}$
 
 $\LARGE{CORE \hspace{2mm} ITEMS}$
 -
-### 📑 [[EE]]
+### 📑 [[IB/EE]]
 ### 🧠 [[TOK]]

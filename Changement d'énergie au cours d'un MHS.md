@@ -8,3 +8,4 @@ tags:
 ![[Pasted image 20231108112229.png]]
 ## b) Variation avec le temps
 ![[Pasted image 20231108113009.png]]
+

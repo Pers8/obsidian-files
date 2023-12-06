@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"83510a1843b6ef0c","x":-300,"y":-229,"width":560,"height":208,"color":"#3bcecc","type":"text","text":"# Points forts de la politique budgétaire"},
+		{"id":"56798d7e58538c5d","x":-940,"y":-300,"width":380,"height":143,"color":"1","type":"text","text":"<font color=\"red\"><b> Capacité à cibler des secteurs spécifiques de l’économie</b></font>\n"},
+		{"id":"516b346d9989495f","x":440,"y":-160,"width":376,"height":139,"color":"1","type":"text","text":"<font color=\"red\"><b> Les dépenses publiques sont efficaces en période de profonde récession</b></font>"},
+		{"id":"5cc62a667c029a3d","x":-300,"y":-580,"width":500,"height":200,"color":"1","type":"text","text":"<font color=\"red\"><b> Forces et limites dans la promotion de la croissance, d’un faible chômage et d’un taux d’inflation faible et stable</b></font>"},
+		{"id":"05747f012a789990","x":-560,"y":-840,"width":443,"height":150,"color":"6","type":"text","text":"Faire recourir à une politique budgétaire expansionniste."},
+		{"id":"ec5ed3259b640751","x":-680,"y":-1320,"width":476,"height":374,"color":"6","type":"file","file":"assets/Pasted image 20231130143631.png"},
+		{"id":"ed7ed1e5b562d29e","x":-20,"y":-874,"width":600,"height":184,"color":"6","type":"text","text":"Même si les objectifs du gouvernement en matière de croissance et de faible taux de chômage sont atteints, l’objectif d’une faible inflation ne l’est pas."},
+		{"id":"9cb5451db09d3ee3","x":-1380,"y":-840,"width":400,"height":218,"color":"6","type":"file","file":"assets/Pasted image 20231130144056.png"},
+		{"id":"96cbcafdb552dbae","x":-1920,"y":-580,"width":486,"height":147,"color":"6","type":"text","text":"Les gouvernements peuvent influencer l'économie en ciblant des secteurs spécifiques."},
+		{"id":"021c667790f91b8c","x":-1840,"y":40,"width":487,"height":140,"color":"6","type":"text","text":"Le gouvernement peut choisir où dépenser son argent pour soutenir des industries ou des groupes particuliers."},
+		{"id":"73585f09f0c21670","x":-1677,"y":-365,"width":423,"height":137,"color":"6","type":"text","text":"Possibilité de réduire les impôts pour certaines catégories de contribuables."},
+		{"id":"2ef22f09c051d057","x":900,"y":-400,"width":367,"height":110,"color":"6","type":"text","text":"Politique budgétaire comme remède économique "},
+		{"id":"f8f4812be6779875","x":980,"y":-168,"width":375,"height":78,"color":"6","type":"text","text":"Cycle économique et phases"},
+		{"id":"b24ee78476aac6e3","x":1089,"y":50,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"8a90773436a65f9b","fromNode":"83510a1843b6ef0c","fromSide":"left","toNode":"56798d7e58538c5d","toSide":"right"},
+		{"id":"c05f5dc04f123846","fromNode":"83510a1843b6ef0c","fromSide":"right","toNode":"516b346d9989495f","toSide":"left"},
+		{"id":"0e975dc98cfb2aae","fromNode":"83510a1843b6ef0c","fromSide":"top","toNode":"5cc62a667c029a3d","toSide":"bottom"},
+		{"id":"b3edc18f1044481f","fromNode":"5cc62a667c029a3d","fromSide":"top","toNode":"05747f012a789990","toSide":"bottom"},
+		{"id":"30414fe79abd0248","fromNode":"05747f012a789990","fromSide":"top","toNode":"ec5ed3259b640751","toSide":"bottom"},
+		{"id":"e742e56f1a02bd1a","fromNode":"5cc62a667c029a3d","fromSide":"top","toNode":"ed7ed1e5b562d29e","toSide":"bottom"},
+		{"id":"292bb63ead79afd3","fromNode":"56798d7e58538c5d","fromSide":"left","toNode":"96cbcafdb552dbae","toSide":"right"},
+		{"id":"5614f92922d2afc6","fromNode":"9cb5451db09d3ee3","fromSide":"right","toNode":"56798d7e58538c5d","toSide":"left"},
+		{"id":"f429dc8c8e959533","fromNode":"56798d7e58538c5d","fromSide":"left","toNode":"021c667790f91b8c","toSide":"right"},
+		{"id":"0c21a8586161c326","fromNode":"56798d7e58538c5d","fromSide":"left","toNode":"73585f09f0c21670","toSide":"right"},
+		{"id":"2dd3f44658f3446f","fromNode":"516b346d9989495f","fromSide":"right","toNode":"2ef22f09c051d057","toSide":"left"},
+		{"id":"2d270092e2b78cdc","fromNode":"516b346d9989495f","fromSide":"right","toNode":"f8f4812be6779875","toSide":"left"},
+		{"id":"ba1c0c2232abf801","fromNode":"516b346d9989495f","fromSide":"right","toNode":"b24ee78476aac6e3","toSide":"left"}
+	]
+}

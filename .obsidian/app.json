@@ -7,10 +7,11 @@
   "promptDelete": false,
   "spellcheckLanguages": null,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 75
-  }
+    "downscalePercent": 76
+  },
+  "tabSize": 4
 }

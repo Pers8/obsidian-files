@@ -15,7 +15,7 @@ Le système n'est soumis a aucune force extérieur $\vec{P_{i}} = \vec{P_{f}} \h
 \\
 & \Large m\vec{v}+M\vec{v}_{recul} = \vec{0}&\\
 \\
-& \Large \vec{v}_{recul}=m\vec{v}&\\
+& \Large M\vec{v}_{recul}=m\vec{v}&\\
 \\
 & \Large \boxed{v_{recul}=\frac{m}{M}v}
 \end{align}
@@ -38,7 +38,7 @@ $$
 
 #### $\beta$ ) Choc parfait élastique
 
-On a conservation de la quantité de mvt et de l'énergie cinétique (voir exo)
+On a conservation de la quantité de mouvement et de l'énergie cinétique (voir exo)
 
 #### $\gamma$ ) Choc parfait inélastique
 
@@ -47,3 +47,22 @@ On a consevation de la quantité de mouvement mais pas de l' $E_c$ (voir exo)
 $\underline{\text{Voir fusée}}$
 
 ![[Pasted image 20231020145239.png]]
+
+
+
+Two objects are moving in the same line as shown:
+object 1 => m and 2v (vector from the right)
+object 2 => 2m and v (vector from the right)
+They collide and stick together.
+
+What fraction of the initial kinetic energy is lost in the collision?
+
+1) 1/9
+
+2)929
+
+0
+
+1313
+
+Report feedback

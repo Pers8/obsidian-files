@@ -8,139 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38755acd61108fa5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 20.59.43.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "dfeae65431b7aa4e",
+            "id": "27976b37d03b54ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "Essai.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eefe5febf43bc505",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-14 14.50.49.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2b5e3c13b7f8912f",
+            "id": "00124f7bf2dfb89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Français P.175-176 et P.182-185.md",
+                "file": "Polarisation par réflexion(angle de Brewster).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "600b4381e97fbd85",
+            "id": "a81ccfb6f2671ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FULL TOK ESSAY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc0da23fa6f95a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd3235a4d72f1156",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f4466db6b3e9b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IA de Math & Physics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f7967f7e7bc1b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Graphe a par rapport à x.md"
-              }
-            }
-          },
-          {
-            "id": "9bec9f55dbefcaa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Changement d'énergie au cours d'un MHS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b7702396db480e1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Proba petit exo.md"
-              }
-            }
-          },
-          {
-            "id": "b7a3e9d93a717a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français extrait analyse.md",
+                "file": "IA Physique.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK essay.md",
+                "file": "Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK essay.md"
+                "file": "Essai.md"
               }
             }
           },
@@ -247,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK essay.md",
+                "file": "Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TOK essay.md"
+                "file": "Essai.md"
               }
             }
           },
@@ -285,9 +188,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "c59c1a588b28b09b",
+            "type": "leaf",
+            "state": {
+              "type": "ava.write.sidebar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "08863bb6a1b0d74a",
@@ -299,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK essay.md",
+                "file": "Essai.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +233,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2775131574040581,
+                  "scale": 0.7086596884483012,
                   "close": true
                 }
               }
@@ -346,48 +257,51 @@
       "ava:Ava - Show Links": false,
       "ava:Ava - Open Rewrite Playground": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "9fc0da23fa6f95a2",
+  "active": "4531cef53cefbdda",
   "lastOpenFiles": [
-    "Test d'informatique.md",
-    "FULL TOK ESSAY.md",
-    "Français P.175-176 et P.182-185.md",
-    "Français extrait analyse.md",
-    "Changement d'énergie au cours d'un MHS.md",
-    "assets/Pasted image 20231108113009.png",
-    "assets/Pasted image 20231108112229.png",
-    "IB/Physics.md",
-    "Mouvement harmonique simple.md",
-    "Excalidraw/Graphe a par rapport à x.md",
-    "assets/Pasted image 20231108105437.png",
-    "assets/Pasted image 20231108105404.png",
-    "IA de Math & Physics.md",
-    "Définition de quelques grandeurs.md",
-    "Applications de la conservation de p.md",
-    "Excalidraw/Proba petit exo.md",
-    "assets/Pasted Image 20231107144009_332.png",
-    "Distribution discrètes.md",
-    "IB/Maths.md",
-    "Probabilité discrètes.md",
-    "zz.md",
-    "IB/📝Dashboard.md",
-    "Théorie cinétique des gaz parfaits (contraire de réel).md",
-    "2.3 Travail, Puissance et Energie.md",
-    "Excalidraw/Drawing 2023-10-20 14.46.54.excalidraw.md",
-    "Tle IB English.md",
-    "assets/Pasted image 20231106090223.png",
-    "_Radioactiviteword.pdf",
-    "IB/English.md",
     "IB/French.md",
-    "Excalidraw/Physics DST training.md",
-    "Physics/Champ de gravitation.md",
-    "Physics/Loi de gravitation de Newton.md",
-    "assets/Pasted image 20231020145239.png",
-    "assets/Pasted image 20231019120424.png",
-    "assets/Pasted image 20231019115519.png",
-    "assets/Pasted image 20231017113410.png",
+    "IB/English.md",
+    "Essai.md",
+    "Polarisation par réflexion(angle de Brewster).md",
+    "assets/Pasted image 20231204104529.png",
+    "assets/Pasted image 20231204104504.png",
+    "assets/Pasted image 20231204104447.png",
+    "IA Physique.md",
+    "Excalidraw/Drawing 2023-12-04 10.35.16.excalidraw.md",
+    "IB/Physics.md",
+    "Tle IB English.md",
+    "assets/Pasted image 20231204090838.png",
+    "Excalidraw/derive math.md",
+    "assets/Pasted Image 20231204080744_871.png",
+    "IA Physique.html",
+    "Untitled.md",
+    "IB/TOK.md",
+    "IB/Economy.md",
+    "IB/Maths.md",
+    "Lois des sinus et cosinus.md",
+    "IB/Comp Sci.md",
+    "Cercle trigonométrique.md",
+    "Identités trigonométriques.md",
+    "assets/Pasted image 20231203065632.png",
+    "Untitled.canvas",
+    "Excalidraw/Physics test.md",
+    "Probabilité discrètes.md",
+    "English presentation.md",
+    "Excalidraw/Proba petit exo.md",
+    "Excalidraw/Drawing 2023-11-22 21.39.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-20 12.26.22.excalidraw.md",
+    "IB/EE.md",
+    "Méthode de résolution de problème de dynamique.md",
+    "assets/Pasted image 20231130144056.png",
+    "assets/Pasted image 20231130143631.png",
+    "Untitled.loom",
+    "assets/Pasted Image 20231128083251_124.png",
+    "assets/Pasted Image 20231128083220_120.png",
+    "_Radioactiviteword.pdf",
     "assets/~$ectres atomiquescours2021.docx"
   ]
 }

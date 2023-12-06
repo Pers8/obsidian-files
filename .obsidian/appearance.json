@@ -3,6 +3,10 @@
   "textFontFamily": "CMU Serif",
   "interfaceFontFamily": "CMU Serif",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 21,
-  "accentColor": ""
+  "baseFontSize": 17,
+  "accentColor": "#ff42cd",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Margin"
+  ]
 }

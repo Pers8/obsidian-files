@@ -15,4 +15,4 @@ Les réseaux neuronaux convolutifs (CNN) sont des architectures de deep learning
 
 
 
-< [[EE]]                                                                                                                                                                                                           [[Contexte Théorique]]  >
+< [[IB/EE]]                                                                                                                                                                                                           [[Contexte Théorique]]  >
