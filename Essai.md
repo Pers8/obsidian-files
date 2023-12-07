@@ -130,7 +130,7 @@ $$\LARGE IA$$
 
 ## Problème
 
-Le client, un artiste freelance basé aux Philippines, travaille principalement avec des développeurs Roblox de premier plan aux États-Unis. En raison de la nature internationale de son travail, il est confronté à des problèmes de délai de réponse dus aux différences de fuseaux horaires, ce qui l’empêche de répondre rapidement à la moitié de ses clients. Cela a motivé le client à engager un développeur pour construire et automatiser son site web.
+Le client, un artiste freelance basé aux Philippines, travaille principalement avec des développeurs Roblox de premier plan aux États-Unis. En raison de la nature internationale de son travail, il est confronté à des problèmes de délai de réponse dus aux différences de fuseaux horaires, ce qui l’empêche de répondre rapidement à la plupart de ses clients. Cela a motivé le client à engager un développeur pour construire et automatiser son site web.
 
 Ce site web ne sera pas seulement un gain de temps, mais il servira également de vitrine pour son portefeuille d’œuvres d’art, augmentant ainsi ses chances d’obtenir plus de commandes. Le design attrayant du site est censé attirer de nouveaux clients, ce qui contribuera à élargir la présence du client sur le marché international.
 
@@ -139,7 +139,8 @@ Le site web vise à fournir une plateforme où les clients potentiels peuvent im
 
 ## Rationale
 
-
+My Client, Mr. RK is the CEO of R-Groups. The main operation of the establishment is it owns and manages multiple fuel terminals in different locations. As an essential service submitted to corporate; the accounting for these terminals must be extremely accurate. However, the Cashiers stationed at the terminals aren't always qualified in financial reponing. The terminals currently use manual labor who fill in details of transactions at the end of the shift to fill cashier data into forms and ledgers. This has led to my client's worry that manual systems are
+inefficient in supporting smooth operations. Due to their main problem caused by the manual financial reporting system, the corporation has had to hire a set of managers who enter the manual data from the cashier ledgers to excel sheets which is time-consuming and inaccurate. Further discussions with the management have made it clear that this issue also branches out to the pay check system which affects relations with employees, and thus the productivity and environment of the terminals and corporate. (Appendix A)
 
 
 
