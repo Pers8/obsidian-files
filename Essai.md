@@ -139,9 +139,39 @@ Le site web vise à fournir une plateforme où les clients potentiels peuvent im
 
 ## Rationale
 
-My Client, Mr. RK is the CEO of R-Groups. The main operation of the establishment is it owns and manages multiple fuel terminals in different locations. As an essential service submitted to corporate; the accounting for these terminals must be extremely accurate. However, the Cashiers stationed at the terminals aren't always qualified in financial reponing. The terminals currently use manual labor who fill in details of transactions at the end of the shift to fill cashier data into forms and ledgers. This has led to my client's worry that manual systems are
-inefficient in supporting smooth operations. Due to their main problem caused by the manual financial reporting system, the corporation has had to hire a set of managers who enter the manual data from the cashier ledgers to excel sheets which is time-consuming and inaccurate. Further discussions with the management have made it clear that this issue also branches out to the pay check system which affects relations with employees, and thus the productivity and environment of the terminals and corporate. (Appendix A)
+Continuant sur l’introduction fournie, nous allons approfondir notre compréhension des réseaux neuronaux et leur rôle crucial dans les architectures de CNN telles que ResNet et VGG16. Les réseaux neuronaux sont des modèles computationnels qui imitent le fonctionnement du cerveau humain pour traiter des données et reconnaître des motifs complexes, ce qui est essentiel dans la classification et la reconnaissance d’images.
 
+**Réseaux Neuronaux et Traitement de l’Information**
+
+Les réseaux neuronaux sont composés de couches de neurones interconnectés qui transforment les données d’entrée en sorties significatives. Chaque neurone calcule une somme pondérée de ses entrées et applique une fonction d’activation pour générer une sortie. Par exemple, si nous avons un vecteur d’entrée ( \mathbf{x} ) et un vecteur de poids ( \mathbf{w} ), la sortie ( y ) d’un neurone est donnée par: $y = f\left(\sum_{i}(w_i \cdot x_i) + b\right)$ où ( f ) est la fonction d’activation et ( b ) est le biais.
+
+**Apprentissage et Optimisation**
+
+L’apprentissage dans les réseaux neuronaux se fait par l’ajustement des poids synaptiques pour minimiser une fonction de perte, qui mesure l’écart entre les prédictions du réseau et les valeurs réelles. La rétropropagation est une méthode courante pour mettre à jour les poids, où l’erreur est propagée à travers le réseau pour ajuster les poids de manière à réduire l’erreur lors des futures prédictions.
+
+**Fonctions d’Activation**
+
+Les fonctions d’activation introduisent des non-linéarités dans le réseau, permettant de capturer des relations complexes entre les données. Des exemples courants incluent la fonction ReLU, définie par ( $f(x) = \max(0, x)$ ), et la fonction sigmoïde, ( $f(x) = \frac{1}{1 + e^{-x}}$ ).
+
+**Réseaux de Neurones Convolutifs (CNN)**
+
+Les CNN sont spécialement conçus pour traiter des données structurées comme les images. Ils utilisent des filtres convolutifs pour extraire des caractéristiques spatiales et des opérations de pooling pour réduire la dimensionnalité des données, tout en préservant les caractéristiques importantes.
+
+**Architectures ResNet et VGG16**
+
+ResNet se distingue par ses connexions résiduelles qui permettent de former des réseaux très profonds sans le problème de disparition du gradient. VGG16, avec ses couches convolutives empilées, est reconnu pour sa simplicité et son efficacité.
+
+**Performance et Précision**
+
+La performance et la précision des CNN dépendent de leur architecture et de leur capacité à apprendre des caractéristiques pertinentes. ResNet, grâce à ses connexions résiduelles, peut souvent atteindre une meilleure précision que VGG16, en particulier dans les tâches de classification d’images complexes.
+
+**Visualisation et Compréhension**
+
+Les graphiques de la fonction de perte et les matrices de confusion sont des outils essentiels pour évaluer la performance des réseaux neuronaux. Les graphiques de la fonction de perte montrent comment l’erreur diminue au fil de l’apprentissage, tandis que les matrices de confusion révèlent la précision de la classification.
+
+En conclusion, les réseaux neuronaux sont au cœur des avancées dans la classification et la reconnaissance d’images. Les architectures comme ResNet et VGG16 montrent comment des conceptions innovantes peuvent améliorer la performance et la précision, ce qui est crucial pour les applications pratiques de l’IA.
+
+[Pour une exploration plus approfondie des réseaux neuronaux et des architectures CNN, je vous recommande de consulter les ressources suivantes](https://www.ibm.com/fr-fr/topics/neural-networks)[1](https://www.ibm.com/fr-fr/topics/neural-networks)[2](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)[3](https://datascientest.com/fonctionnement-des-reseaux-neurones). Ces sources fournissent des informations détaillées sur le fonctionnement et l’optimisation des réseaux neuronaux, ainsi que sur les spécificités des architectures ResNet et VGG16.
 
 
 
