@@ -64,9 +64,7 @@ Ces concepts sont essentiels pour comprendre comment les architectures de RN tel
 
 ### 2.3 Réseaux de Neuronaux Convolutifs
 
-Les réseaux de neurones convolutifs (CNN) sont une classe spécifique de réseaux de neurones profonds qui ont révolutionné la vision par ordinateur et l’analyse d’images. [Ils sont conçus pour reconnaître automatiquement des motifs complexes dans les données visuelles, ce qui les rend particulièrement adaptés à la classification et à la reconnaissance d’images](https://en.wikipedia.org/wiki/Convolutional_neural_network)[1](https://en.wikipedia.org/wiki/Convolutional_neural_network).
-
-Un CNN se compose de plusieurs couches qui transforment progressivement l’image d’entrée en une représentation de plus en plus abstraite. La première couche, appelée couche convolutive, applique des filtres (ou noyaux) à l’image pour détecter des caractéristiques telles que les bords ou les textures. Ces filtres sont de petites matrices qui se déplacent sur l’image et effectuent une opération de convolution, qui est essentiellement un produit scalaire entre le filtre et une région locale de l’image. Par exemple, un filtre pourrait ressembler à ceci :
+Les réseaux de neurones convolutifs (CNN) sont une classe spécifique de réseaux de neurones profonds qui ont révolutionné la vision par ordinateur et l’analyse d’images. Ils sont conçus pour reconnaître automatiquement des motifs complexes dans les données visuelles, ce qui les rend particulièrement adaptés à la classification et à la reconnaissance d’images. Un CNN se compose de plusieurs couches qui transforment progressivement l’image d’entrée en une représentation de plus en plus abstraite. La première couche, appelée couche convolutive, applique des filtres (ou noyaux) à l’image pour détecter des caractéristiques telles que les bords ou les textures. Ces filtres sont de petites matrices qui se déplacent sur l’image et effectuent une opération de convolution, qui est essentiellement un produit scalaire entre le filtre et une région locale de l’image. Par exemple, un filtre pourrait ressembler à ceci :
 
 $F = \begin{bmatrix} 1 & 0 & -1 \\ 1 & 0 & -1 \\ 1 & 0 & -1 \end{bmatrix}$
 
