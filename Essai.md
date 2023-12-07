@@ -62,12 +62,23 @@ où ( $W$ ) est la matrice de poids, ( $w_{ij}$ ) est le poids entre le i-ème n
 
 Ces concepts sont essentiels pour comprendre comment les architectures de RN telles que ResNet et VGG16 fonctionnent et comment elles peuvent être utilisées pour la classification et la reconnaissance d’images avec une grande précision et performance. En analysant les opérations matricielles et les fonctions d’activation, nous pouvons saisir la complexité et la puissance de ces modèles d’apprentissage profond.
 
-### 2.3 Réseaux Neuronaux 
+### 2.3 Réseaux de Neuronaux Convolutifs
 
-L’un des principaux cas d’usage des CNN est la reconnaissance d’image. Les réseaux convolutifs apprennent plus rapidement et ont un meilleur taux d’erreur . Dans une moindre mesure, on les utilise aussi pour l’analyse vidéo. Ce type de réseau est aussi utilisé pour le traitement naturel du langage. Les modèles CNN sont très efficaces pour l’analyse sémantique, la modélisation de phrase, la classification ou la traduction.
+Les réseaux de neurones convolutifs (CNN) sont une classe spécifique de réseaux de neurones profonds qui ont révolutionné la vision par ordinateur et l’analyse d’images. [Ils sont conçus pour reconnaître automatiquement des motifs complexes dans les données visuelles, ce qui les rend particulièrement adaptés à la classification et à la reconnaissance d’images](https://en.wikipedia.org/wiki/Convolutional_neural_network)[1](https://en.wikipedia.org/wiki/Convolutional_neural_network).
 
-La classification d’images a connu une avancée majeure en termes de performance, grâce à l’essor des réseaux de neurones convolutifs. De la classification d’images, au transfert de style, en passant par la détection d’objets, les applications au sein des entreprises se multiplient. Les CNN peuvent apprendre à reconnaître des motifs et des caractéristiques dans les images grâce à l’utilisation de couches de convolution, qui appliquent un ensemble de filtres aux données d’entrée pour détecter des motifs spécifiques.
+Un CNN se compose de plusieurs couches qui transforment progressivement l’image d’entrée en une représentation de plus en plus abstraite. La première couche, appelée couche convolutive, applique des filtres (ou noyaux) à l’image pour détecter des caractéristiques telles que les bords ou les textures. Ces filtres sont de petites matrices qui se déplacent sur l’image et effectuent une opération de convolution, qui est essentiellement un produit scalaire entre le filtre et une région locale de l’image. Par exemple, un filtre pourrait ressembler à ceci :
 
+$F = \begin{bmatrix} 1 & 0 & -1 \\ 1 & 0 & -1 \\ 1 & 0 & -1 \end{bmatrix}$
+
+Ce filtre particulier est conçu pour détecter les bords verticaux dans une image. Lorsqu’il est appliqué à l’image, il produit une carte des caractéristiques qui met en évidence les régions où de tels bords sont présents.
+
+Après la convolution, les cartes des caractéristiques subissent souvent une opération de pooling, qui réduit leur dimensionnalité tout en préservant les caractéristiques les plus importantes. Le pooling le plus courant est le max pooling, qui sélectionne la valeur maximale d’une région de la carte des caractéristiques.
+
+Les couches suivantes du CNN répètent ce processus, mais avec des filtres qui détectent des caractéristiques de plus en plus complexes. Au fur et à mesure que l’image progresse à travers le réseau, elle est transformée en une représentation de plus en plus abstraite, jusqu’à ce que la couche finale, souvent une couche entièrement connectée, produise la sortie du réseau, comme une prédiction de classe pour la classification d’images.
+
+Les CNN sont entraînés en utilisant un ensemble de données d’images avec des étiquettes connues. Pendant l’entraînement, les poids des filtres sont ajustés pour minimiser une fonction de perte, qui mesure l’erreur entre les prédictions du réseau et les étiquettes réelles. Cette optimisation est généralement réalisée à l’aide d’algorithmes de descente de gradient, tels que l’algorithme de descente de gradient stochastique (SGD).
+
+Pour illustrer le processus d’apprentissage, on peut utiliser des graphiques qui montrent la diminution de la fonction de perte au fil des époques d’entraînement. Ces graphiques aident à visualiser l’amélioration des performances du réseau au fil du temps.
 
 
 Références :
