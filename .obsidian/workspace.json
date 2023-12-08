@@ -38,13 +38,12 @@
               "type": "markdown",
               "state": {
                 "file": "Accélération.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accélération.md",
+                "file": "Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accélération.md"
+                "file": "Essai.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accélération.md",
+                "file": "Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Accélération.md"
+                "file": "Essai.md"
               }
             }
           },
@@ -211,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Accélération.md",
+                "file": "Essai.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,8 +261,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a81ccfb6f2671ef5",
+  "active": "27976b37d03b54ba",
   "lastOpenFiles": [
+    "Accélération.md",
     "IB/Physics.md",
     "Physics/Déplacement et Distance parcouru.md",
     "Erreurs et incertitudes.md",
@@ -299,7 +299,6 @@
     "Probabilité discrètes.md",
     "English presentation.md",
     "Excalidraw/Proba petit exo.md",
-    "Excalidraw/Drawing 2023-11-22 21.39.26.excalidraw.md",
     "assets/Pasted image 20231130144056.png",
     "assets/Pasted image 20231130143631.png",
     "Untitled.loom",
