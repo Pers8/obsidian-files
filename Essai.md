@@ -34,10 +34,11 @@ Dans cet essai, nous explorerons en profondeur les architectures ResNet et VGG16
 
 ### 2.1 Réseau neuronaux
 
-Les réseaux neuronaux sont des systèmes informatiques conçus pour simuler le traitement de l’information par le cerveau humain. Ils sont composés de couches de neurones artificiels qui traitent les données d’entrée et les transforment en sorties utiles, telles que la classification d’images.
-Dans le domaine de la vision par ordinateur, la classification d’images est le processus d’attribution d’une étiquette à une image à partir d’un ensemble prédéfini de catégories. Cette tâche est fondamentale pour de nombreuses applications, y compris la recherche d’images et la récupération d’images basée sur le contenu.
-La reconnaissance d’images, en revanche, implique l’identification et la détection de caractéristiques visuelles spécifiques, telles que des objets, des personnes ou des lieux, à l’aide d’algorithmes sophistiqués. Elle est utilisée dans des domaines variés, allant de la sécurité avec la reconnaissance faciale à la santé pour la détection précoce de maladies à partir d’images médicales.
-Les réseaux neuronaux apprennent à partir de données d’entraînement pour améliorer leur précision au fil du temps. Une fois affinés, ils deviennent des outils puissants en science informatique et en intelligence artificielle, permettant de classer et de regrouper des données à grande vitesse.
+Les réseaux neuronaux (NN) sont des modèles d’apprentissage automatique qui s’inspirent du fonctionnement du cerveau humain pour traiter des informations et apprendre à partir de données. Ils sont constitués de plusieurs couches de nœuds interconnectés, qui propagent les données d’une couche d’entrée à une couche de sortie. Chaque nœud, ou neurone artificiel, est connecté à chaque nœud de la couche suivante, et chaque connexion entre les nœuds se voit attribuer une valeur de poids. [Ces poids déterminent l’importance relative de l’information transmise entre les nœuds connectés](https://www.ibm.com/topics/neural-networks)[1](https://www.ibm.com/topics/neural-networks)[2](https://en.wikipedia.org/wiki/Neural_network)[3](https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/).
+
+Dans un NN, les données d’entrée sont multipliées par les poids et sont sommées. Cette somme pondérée est ensuite ajustée par un biais, qui est relatif à la facilité avec laquelle un neurone peut être activé. La somme pondérée plus le biais est ensuite passée à travers une fonction d’activation, qui est une représentation mathématique du potentiel d’action d’un neurone. [Si la somme pondérée plus le biais est suffisamment grande, la fonction d’activation s’active, ce qui entraîne l’activation du nœud et la transmission des données à la couche suivante](https://www.ibm.com/topics/neural-networks)[1](https://www.ibm.com/topics/neural-networks)[2](https://en.wikipedia.org/wiki/Neural_network)[3](https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/).
+
+La couche de sortie d’un NN est également composée de nœuds, et chaque nœud peut être assigné pour représenter une classe différente. Lorsqu’un vecteur de données est introduit dans le réseau, les données se propagent à travers le réseau et arrivent finalement à la couche de sortie, où le nœud représentant la classe correcte s’active. [Si plusieurs nœuds s’activent ou si le bon nœud ne s’active pas du tout, le NN utilise le gradient négatif de la fonction d’erreur pour ajuster les variables internes, telles que les poids et les biais, pendant la période d’entraînement](https://www.ibm.com/topics/neural-networks)[1](https://www.ibm.com/topics/neural-networks)[2](https://en.wikipedia.org/wiki/Neural_network)[3](https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/)..
 
 ### 2.3 Réseaux de Neuronaux Convolutifs
 
@@ -67,7 +68,7 @@ Références :
 
 3 - [Understanding VGG16: Concepts, Architecture, and Performance (datagen.tech)](https://datagen.tech/guides/computer-vision/vgg16/)
 4 - [How to Choose Loss Functions When Training Deep Learning Neural Networks - MachineLearningMastery.com](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
-
+5 - [What are Neural Networks? | IBM](https://www.ibm.com/topics/neural-networks)
 
 
 
