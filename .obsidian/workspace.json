@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polarisation par réflexion(angle de Brewster).md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -233,7 +233,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7086596884483012,
+                  "scale": 0.25930932684383173,
                   "close": true
                 }
               }
@@ -261,18 +261,18 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4531cef53cefbdda",
+  "active": "27976b37d03b54ba",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Polarisation par réflexion(angle de Brewster).md",
+    "Essai.md",
     "IB/French.md",
     "IB/English.md",
-    "Essai.md",
-    "Polarisation par réflexion(angle de Brewster).md",
     "assets/Pasted image 20231204104529.png",
     "assets/Pasted image 20231204104504.png",
     "assets/Pasted image 20231204104447.png",
     "IA Physique.md",
     "Excalidraw/Drawing 2023-12-04 10.35.16.excalidraw.md",
-    "IB/Physics.md",
     "Tle IB English.md",
     "assets/Pasted image 20231204090838.png",
     "Excalidraw/derive math.md",
