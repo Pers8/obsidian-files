@@ -106,7 +106,8 @@ $$
 ## 4. Comportement des ondes
 1. [[Reflexion]]
 2. [[Transmission et réfraction]]
-3. [[Polarisation par réflexion(angle de Brewster)]]
+3. [[Polarisation par réflexion (angle de Brewster)]]
+4. [[Interférence]]
 
 # Theme 5- Electricité et Magnétisme
 ## 1. Champ électrique
