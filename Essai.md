@@ -70,10 +70,7 @@ Un CNN est structuré en plusieurs couches qui transforment progressivement l’
 
 $$F = \begin{bmatrix} 1 & 0 & -1 \\ 1 & 0 & -1 \\ 1 & 0 & -1 \end{bmatrix}$$
 
-Ce filtre, lorsqu’il est appliqué à l’image, produit une carte des caractéristiques qui met en évidence les régions où les bords verticaux sont présents.
-
-Après la convolution, les cartes des caractéristiques passent souvent par une opération de pooling, qui réduit leur dimensionnalité tout en préservant les caractéristiques les plus importantes. Le max pooling, qui sélectionne la valeur maximale d’une région de la carte des caractéristiques, est une forme courante de pooling.
-
+Ce filtre, lorsqu’il est appliqué à l’image, produit une carte des caractéristiques qui met en évidence les régions où les bords verticaux sont présents. Après la convolution, les cartes des caractéristiques passent souvent par une opération de pooling, qui réduit leur dimensionnalité tout en préservant les caractéristiques les plus importantes. Le max pooling, qui sélectionne la valeur maximale d’une région de la carte des caractéristiques, est une forme courante de pooling.
 Au fur et à mesure que l’image traverse les différentes couches du CNN, elle est transformée en une représentation de plus en plus abstraite. Les premières couches peuvent détecter des caractéristiques simples comme les bords et les textures, tandis que les couches plus profondes reconnaissent des motifs plus complexes.
 
 Les CNN sont entraînés en utilisant un ensemble de données d’images étiquetées. Pendant l’entraînement, les poids des filtres sont ajustés pour minimiser une fonction de perte, qui mesure l’erreur entre les prédictions du réseau et les étiquettes réelles. Les algorithmes de descente de gradient, tels que l’algorithme de descente de gradient stochastique (SGD), sont utilisés pour optimiser ces poids. Pendant l’entraînement, les filtres apprennent à reconnaître des caractéristiques qui sont importantes pour la tâche de classification.
