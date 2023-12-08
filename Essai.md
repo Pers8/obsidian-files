@@ -65,6 +65,7 @@ Ces concepts sont essentiels pour comprendre comment les architectures de RN tel
 ### 2.3 Réseaux de Neuronaux Convolutifs
 
 Les réseaux de neurones convolutifs (CNN) sont une classe de modèles d’apprentissage profond qui ont révolutionné la vision par ordinateur et l’analyse d’images. Ces réseaux imitent le traitement de l’information visuelle du cerveau humain et sont particulièrement efficaces pour la reconnaissance automatique de motifs complexes dans les données visuelles, ce qui les rend idéaux pour la classification et la reconnaissance d’images. Un CNN est structuré en plusieurs couches qui transforment progressivement l’image d’entrée en une représentation de plus en plus abstraite. 
+
 ![[Img 1.png]]
 La première couche, la couche convolutive, applique des filtres ou des noyaux à l’image pour détecter des caractéristiques telles que les bords ou les textures. Ces filtres sont des matrices de poids qui se déplacent sur l’image et effectuent une opération de convolution, qui est un produit scalaire entre le filtre et une région locale de l’image. Par exemple, un filtre conçu pour détecter les bords verticaux pourrait ressembler à la matrice suivante :
 
@@ -73,6 +74,9 @@ $$F = \begin{bmatrix} 1 & 0 & -1 \\ 1 & 0 & -1 \\ 1 & 0 & -1 \end{bmatrix}$$
 Ce filtre, lorsqu’il est appliqué à l’image, produit une carte des caractéristiques qui met en évidence les régions où les bords verticaux sont présents. Après la convolution, les cartes des caractéristiques passent souvent par une opération de pooling, qui réduit leur dimensionnalité tout en préservant les caractéristiques les plus importantes. Le max pooling, qui sélectionne la valeur maximale d’une région de la carte des caractéristiques, est une forme courante de pooling.
 Au fur et à mesure que l’image traverse les différentes couches du CNN, elle est transformée en une représentation de plus en plus abstraite. Les premières couches peuvent détecter des caractéristiques simples comme les bords et les textures, tandis que les couches plus profondes reconnaissent des motifs plus complexes.
 Les CNN sont entraînés en utilisant un ensemble de données d’images étiquetées. Pendant l’entraînement, les poids des filtres sont ajustés pour minimiser une fonction de perte, qui mesure l’erreur entre les prédictions du réseau et les étiquettes réelles. Les algorithmes de descente de gradient, tels que l’algorithme de descente de gradient stochastique (SGD), sont utilisés pour optimiser ces poids. Pendant l’entraînement, les filtres apprennent à reconnaître des caractéristiques qui sont importantes pour la tâche de classification.
+
+![[Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png]]
+**FIG. 2. Tracé de la perte d'erreur quadratique moyenne sur les périodes d'entraînement lors de l'optimisation de la fonction de perte d'erreur quadratique moyenne** [4]
 
 Pour visualiser le processus d’apprentissage, on peut utiliser des graphiques qui montrent la diminution de la fonction de perte au fil des époques d’entraînement. Ces graphiques aident à comprendre comment le réseau s’améliore au fil du temps et devient meilleur pour prédire les étiquettes correctes des images.
 
@@ -86,8 +90,7 @@ Références :
 2 - [ResNet Architecture and Its Variants: An Overview | Built In](https://builtin.com/artificial-intelligence/resnet-architecture)
 
 3 - [Understanding VGG16: Concepts, Architecture, and Performance (datagen.tech)](https://datagen.tech/guides/computer-vision/vgg16/)
-
-
+4 - [How to Choose Loss Functions When Training Deep Learning Neural Networks - MachineLearningMastery.com](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
 
 
 
