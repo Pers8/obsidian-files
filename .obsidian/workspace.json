@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interférence.md",
+                "file": "Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interférence.md"
+                "file": "Essai.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interférence.md",
+                "file": "Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Interférence.md"
+                "file": "Essai.md"
               }
             }
           },
@@ -211,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interférence.md",
+                "file": "Essai.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,10 +261,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "00124f7bf2dfb89e",
+  "active": "27976b37d03b54ba",
   "lastOpenFiles": [
-    "Essai.md",
     "Interférence.md",
+    "Essai.md",
+    "IA Physique.md",
+    "assets/Img 1.png",
+    "Untitled 1.md",
     "IB/Physics.md",
     "Polarisation par réflexion (angle de Brewster).md",
     "IB/French.md",
@@ -273,7 +275,6 @@
     "assets/Pasted image 20231204104529.png",
     "assets/Pasted image 20231204104504.png",
     "assets/Pasted image 20231204104447.png",
-    "IA Physique.md",
     "Excalidraw/Drawing 2023-12-04 10.35.16.excalidraw.md",
     "Tle IB English.md",
     "assets/Pasted image 20231204090838.png",
@@ -296,13 +297,10 @@
     "Excalidraw/Proba petit exo.md",
     "Excalidraw/Drawing 2023-11-22 21.39.26.excalidraw.md",
     "Excalidraw/Drawing 2023-11-20 12.26.22.excalidraw.md",
-    "IB/EE.md",
-    "Méthode de résolution de problème de dynamique.md",
     "assets/Pasted image 20231130144056.png",
     "assets/Pasted image 20231130143631.png",
     "Untitled.loom",
     "assets/Pasted Image 20231128083251_124.png",
-    "assets/Pasted Image 20231128083220_120.png",
     "_Radioactiviteword.pdf",
     "assets/~$ectres atomiquescours2021.docx"
   ]

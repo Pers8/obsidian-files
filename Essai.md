@@ -65,7 +65,7 @@ Ces concepts sont essentiels pour comprendre comment les architectures de RN tel
 ### 2.3 Réseaux de Neuronaux Convolutifs
 
 Les réseaux de neurones convolutifs (CNN) sont une classe de modèles d’apprentissage profond qui ont révolutionné la vision par ordinateur et l’analyse d’images. Ces réseaux imitent le traitement de l’information visuelle du cerveau humain et sont particulièrement efficaces pour la reconnaissance automatique de motifs complexes dans les données visuelles, ce qui les rend idéaux pour la classification et la reconnaissance d’images. Un CNN est structuré en plusieurs couches qui transforment progressivement l’image d’entrée en une représentation de plus en plus abstraite. 
-
+![[Img 1.png]]
 La première couche, la couche convolutive, applique des filtres ou des noyaux à l’image pour détecter des caractéristiques telles que les bords ou les textures. Ces filtres sont des matrices de poids qui se déplacent sur l’image et effectuent une opération de convolution, qui est un produit scalaire entre le filtre et une région locale de l’image. Par exemple, un filtre conçu pour détecter les bords verticaux pourrait ressembler à la matrice suivante :
 
 $$F = \begin{bmatrix} 1 & 0 & -1 \\ 1 & 0 & -1 \\ 1 & 0 & -1 \end{bmatrix}$$
