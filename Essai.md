@@ -5,9 +5,8 @@
 1. Introduction 
 2. Contexte Théorique
     1. Réseaux Neuronaux
-    2. Apprentissage automatique
-    3. Réseaux de neurones convolutifs
-    4. Architectures ResNet et VGG16
+    2. Réseaux de neurones convolutifs
+    3. Architectures ResNet et VGG16
 3. Méthodologie Expérimentale
     1. Procédure expérimentale
     2. Datasets utlisés
@@ -34,11 +33,7 @@ Dans cet essai, nous explorerons en profondeur les architectures ResNet et VGG16
 
 ### 2.1 Réseau neuronaux
 
-Les réseaux neuronaux (NN) sont des modèles d’apprentissage automatique qui s’inspirent du fonctionnement du cerveau humain pour traiter des informations et apprendre à partir de données. Ils sont constitués de plusieurs couches de nœuds interconnectés, qui propagent les données d’une couche d’entrée à une couche de sortie. Chaque nœud, ou neurone artificiel, est connecté à chaque nœud de la couche suivante, et chaque connexion entre les nœuds se voit attribuer une valeur de poids. Ces poids déterminent l’importance relative de l’information transmise entre les nœuds connectés.
-
-Dans un NN, les données d’entrée sont multipliées par les poids et sont sommées. Cette somme pondérée est ensuite ajustée par un biais, qui est relatif à la facilité avec laquelle un neurone peut être activé. La somme pondérée plus le biais est ensuite passée à travers une fonction d’activation, qui est une représentation mathématique du potentiel d’action d’un neurone. Si la somme pondérée plus le biais est suffisamment grande, la fonction d’activation s’active, ce qui entraîne l’activation du nœud et la transmission des données à la couche suivante.
-
-La couche de sortie d’un NN est également composée de nœuds, et chaque nœud peut être assigné pour représenter une classe différente. Lorsqu’un vecteur de données est introduit dans le réseau, les données se propagent à travers le réseau et arrivent finalement à la couche de sortie, où le nœud représentant la classe correcte s’active. Si plusieurs nœuds s’activent ou si le bon nœud ne s’active pas du tout, le NN utilise le gradient négatif de la fonction d’erreur pour ajuster les variables internes, telles que les poids et les biais, pendant la période d’entraînement.
+Les réseaux neuronaux (NN) sont des modèles d’apprentissage automatique qui s’inspirent du fonctionnement du cerveau humain pour traiter des informations et apprendre à partir de données. Ils sont constitués de plusieurs couches de nœuds interconnectés, qui propagent les données d’une couche d’entrée à une couche de sortie. Chaque nœud, ou neurone artificiel, est connecté à chaque nœud de la couche suivante, et chaque connexion entre les nœuds se voit attribuer une valeur de poids. Ces poids déterminent l’importance relative de l’information transmise entre les nœuds connectés. Dans un NN, les données d’entrée sont multipliées par les poids et sont sommées. Cette somme pondérée est ensuite ajustée par un biais, qui est relatif à la facilité avec laquelle un neurone peut être activé. La somme pondérée plus le biais est ensuite passée à travers une fonction d’activation, qui est une représentation mathématique du potentiel d’action d’un neurone. Si la somme pondérée plus le biais est suffisamment grande, la fonction d’activation s’active, ce qui entraîne l’activation du nœud et la transmission des données à la couche suivante. La couche de sortie d’un NN est également composée de nœuds, et chaque nœud peut être assigné pour représenter une classe différente. Lorsqu’un vecteur de données est introduit dans le réseau, les données se propagent à travers le réseau et arrivent finalement à la couche de sortie, où le nœud représentant la classe correcte s’active. Si plusieurs nœuds s’activent ou si le bon nœud ne s’active pas du tout, le NN utilise le gradient négatif de la fonction d’erreur pour ajuster les variables internes, telles que les poids et les biais, pendant la période d’entraînement.
 
 ### 2.3 Réseaux de Neuronaux Convolutifs
 
