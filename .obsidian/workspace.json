@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interférence.md",
+                "file": "English presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essai.md",
+                "file": "English presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essai.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essai.md",
+                "file": "English presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Essai.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -210,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Essai.md",
+                "file": "English presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,15 +262,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "27976b37d03b54ba",
+  "active": "00124f7bf2dfb89e",
   "lastOpenFiles": [
+    "Interférence.md",
+    "Essai.md",
     "Accélération.md",
     "IB/Physics.md",
     "Physics/Déplacement et Distance parcouru.md",
     "Erreurs et incertitudes.md",
     "IA Physique.md",
-    "Essai.md",
-    "Interférence.md",
     "assets/Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png",
     "assets/Img 1.png",
     "Untitled 1.md",
