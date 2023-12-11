@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "English presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral English IA.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "English presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Individual Oral English IA.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "English presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,8 +262,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a81ccfb6f2671ef5",
+  "active": "00124f7bf2dfb89e",
   "lastOpenFiles": [
+    "Individual Oral English IA.md",
     "In Class ENGL work.md",
     "Accélération.md",
     "English presentation.md",
@@ -299,7 +300,6 @@
     "assets/Pasted image 20231203065632.png",
     "Untitled.canvas",
     "Excalidraw/Physics test.md",
-    "Probabilité discrètes.md",
     "assets/Pasted image 20231130144056.png",
     "assets/Pasted image 20231130143631.png",
     "Untitled.loom",
