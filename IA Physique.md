@@ -40,3 +40,7 @@ Où $P$ est la portance, $\rho$ est la densité de l’air, $V$ est la vitesse d
 Pour étudier l’influence de la vitesse sur la portance, je peux réaliser une expérience en utilisant une voiture et un anémomètre. Je peux fixer une aile d’avion miniature sur un support et la placer dans le flux d’air généré par la soufflerie ou par le déplacement de la voiture. Je peux mesurer la vitesse du vent relatif avec un anémomètre et la portance avec un dynamomètre. Je peux faire varier la vitesse du vent relatif en modifiant la vitesse de la soufflerie ou de la voiture, et enregistrer les valeurs de portance correspondantes. Je peux tracer un graphique de la portance en fonction de la vitesse et vérifier si la relation est linéaire ou non. Je peux aussi calculer le coefficient de portance à partir de la formule et le comparer avec les valeurs théoriques données par les courbes de polarisation des profils d’aile.
 <br>
 Si je n'ai pas la possibilité de faire une expérience réelle, je peux aussi utiliser une simulation numérique pour modéliser le comportement de l’aile dans l’air. Il existe des logiciels gratuits qui me permettent de créer ton propre profil d’aile, de choisir les paramètres de l’écoulement et de visualiser les forces de portance et de traînée. Par exemple, tu peux utiliser le logiciel XFLR5, qui est basé sur la méthode des panneaux et la théorie de la ligne portante.
+
+
+
+Profil d'aile, angle de décrochage (angle où il n'a presque plus de portance)
