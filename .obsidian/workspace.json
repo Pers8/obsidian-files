@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Physique.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Physique.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Physique.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IA Physique.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IA Physique.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,6 +264,8 @@
   },
   "active": "a81ccfb6f2671ef5",
   "lastOpenFiles": [
+    "assets/Pasted image 20231213114200.png",
+    "IA Physique.md",
     "Français devoir.md",
     "Forces magnétique.md",
     "Formules de Viète.md",
@@ -273,7 +275,6 @@
     "French 189-193.md",
     "Accélération.md",
     "2.3 Travail, Puissance et Energie.md",
-    "IA Physique.md",
     "Essai.md",
     "IB/Physics.md",
     "Individual Oral English IA.md",
@@ -297,7 +298,6 @@
     "Excalidraw/derive math.md",
     "assets/Pasted Image 20231204080744_871.png",
     "IA Physique.html",
-    "Untitled.md",
     "assets/Pasted image 20231203065632.png",
     "Untitled.canvas",
     "assets/Pasted image 20231130144056.png",

@@ -9,7 +9,8 @@ Throughout history, humans have sought knowledge to better understand the world 
 
 
 **Object 1:** *A diary from a soldier in World War II*
-![[Pasted image 20230503110858.png]]
+![[Pasted image 20231213114200.png]]
+Source:  https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
 
 My first object is "a diary from a soldier in World War II". I specially chose that object because it shows how knowledge can be useful in different ways. It gives us a peek into the soldier's personal experiences and helps us understand the historical context and tactical insights of the war. The soldier's personal knowledge comes from their own encounters and observations. It gives us a unique perspective on the realities of war, showing us how it affects people emotionally and mentally. The diary preserves the soldier's experiences so that future generations can understand and appreciate the sacrifices made during World War II. This personal knowledge helps us feel empathy and makes historical events more relatable. Additionally, the soldier's diary contains practical knowledge gained through training and combat. It shares valuable information about battle strategies, weapons, and survival techniques used in the war. This kind of knowledge is important for military historians, strategists, and researchers studying past conflicts. It provides a firsthand account of military tactics, revealing their effectiveness and teaching us lessons that can be applied to future military strategies.
 
