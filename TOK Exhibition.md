@@ -50,3 +50,5 @@ My third is a "A microscope". It represents a powerful scientific tool that enab
   
   
   
+Knowledge, belief and opinion are common everyday terns that everybody uses. Nevertheless, to distinguish between them accurately I shall define them first. Knowledge is the easiest to define- it's
+certain, justified by evidence, explainable and communicable, and can be stated as truth. it comes to beliefs they not always can be justified by hard but are rather associated with emotions and what we feel is tilth. They are rooted deep within us. Opinions also do not require fact checking, but they are treated more lightly than beliefs. They can be influenced and shaped based on a simple conversation, but nevertheless can also be associated with emotions, as no one likes being proven wrong.
