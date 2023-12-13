@@ -18,8 +18,9 @@ While the soldier's personal knowledge gives us a subjective understanding of th
 
 
 
-**Object 2:** *"Starry Night"  by Vincent Van Gogh*
-![[Pasted image 20230502150607.png]]
+**Object 2:** *A Smartphone*
+![[Pasted image 20231213114812.png]]
+Source : https://www.wired.com/2015/02/smartphone-only-computer/
 
 The artwork "Starry Night" by Vincent Van Gogh serves as my second object of analysis and provides a fascinating exploration of the impact of artistic knowledge, prompting us to consider the question of whether some types of knowledge are more useful than others. Van Gogh's masterpiece surpasses conventional understanding, immersing us in his emotions and granting us access to his unique perspective. This invites us to contemplate the nature of artistic knowledge and its practicality compared to other forms of knowledge.
 
@@ -29,8 +30,10 @@ Both artistic knowledge and practical knowledge have their own significance and 
 
 The usefulness of knowledge ultimately depends on the context and purpose at hand. The practical knowledge is indispensable in certain fields, providing specific solutions and facilitating progress. However, artistic knowledge offers intangible benefits, cultivating emotional intelligence, promoting cultural understanding, and contributing to personal growth. It adds depth, beauty, and diversity to human existence, nourishing our souls and providing a means of self-expression.
 
-**Object 3:** *A Microscope*
-![[Pasted image 20230502151121.png]]
+**Object 3:** *The world map*
+![[Pasted image 20231213114615.png]]
+Source : https://www.britannica.com/science/world-map
+
 
 My third is a "A microscope". It represents a powerful scientific tool that enables us to explore and comprehend the The tiny world of microscopic organisms and structures, with its intricate details and complexities. Through its lens, we gain access to a world previously invisible to the naked eye. Scientific knowledge, derived from the observations made using a microscope, has proven invaluable across various disciplines. The ability to visualize and study microorganisms, cellular structures, and subatomic particles has facilitated groundbreaking discoveries in biology, medicine, chemistry, and physics. By harnessing this objective knowledge, scientists have developed life-saving medicines, unraveled the mysteries of disease, and advanced our understanding of fundamental principles governing the universe. The microscopic knowledge unlocked by the microscope not only expands our scientific understanding but also enables us to address practical challenges and improve the quality of human life.
 
