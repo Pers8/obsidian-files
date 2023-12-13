@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essai.md",
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essai.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essai.md",
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Essai.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Essai.md",
+                "file": "IA Physique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,18 +262,26 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "8228688c203ebc6f",
+  "active": "a81ccfb6f2671ef5",
   "lastOpenFiles": [
+    "Français devoir.md",
+    "Forces magnétique.md",
+    "Formules de Viète.md",
+    "Français Devoirs.md",
+    "Français extrait analyse (MaDemba).md",
+    "Français P.175-176 et P.182-185.md",
+    "French 189-193.md",
+    "Accélération.md",
+    "2.3 Travail, Puissance et Energie.md",
+    "IA Physique.md",
+    "Essai.md",
     "IB/Physics.md",
     "Individual Oral English IA.md",
     "English presentation.md",
     "In Class ENGL work.md",
-    "Accélération.md",
     "Interférence.md",
-    "Essai.md",
     "Physics/Déplacement et Distance parcouru.md",
     "Erreurs et incertitudes.md",
-    "IA Physique.md",
     "assets/Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png",
     "assets/Img 1.png",
     "Untitled 1.md",
@@ -290,16 +298,8 @@
     "assets/Pasted Image 20231204080744_871.png",
     "IA Physique.html",
     "Untitled.md",
-    "IB/TOK.md",
-    "IB/Economy.md",
-    "IB/Maths.md",
-    "Lois des sinus et cosinus.md",
-    "IB/Comp Sci.md",
-    "Cercle trigonométrique.md",
-    "Identités trigonométriques.md",
     "assets/Pasted image 20231203065632.png",
     "Untitled.canvas",
-    "Excalidraw/Physics test.md",
     "assets/Pasted image 20231130144056.png",
     "assets/Pasted image 20231130143631.png",
     "Untitled.loom",
