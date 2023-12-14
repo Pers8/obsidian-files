@@ -10,3 +10,9 @@ Volume de la production domestique avant : 14
  ; Volume de la production domestique après : 12**
 7) Calculer le gain de la participation au commerce extérieur
 **Le gain : c**
+
+
+
+
+
+Un fil de fer de 10 m de long est coupé en deux. On forme un carrée avec le premier morceau et un triangle équilatéral avec le deuxieme. Où faut-il couper pour que l'aire totale des deux figures soit
