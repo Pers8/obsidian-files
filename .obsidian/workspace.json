@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English presentation.md",
+                "file": "Tle IB English.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Tle IB English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Tle IB English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Tle IB English.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Tle IB English.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,8 +262,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "a81ccfb6f2671ef5",
+  "active": "00124f7bf2dfb89e",
   "lastOpenFiles": [
+    "English presentation.md",
+    "TOK Exhibition.md",
     "assets/Pasted image 20231213114812.png",
     "assets/Pasted image 20231213114809.png",
     "assets/Pasted image 20231213114650.png",
@@ -282,7 +284,6 @@
     "Essai.md",
     "IB/Physics.md",
     "Individual Oral English IA.md",
-    "English presentation.md",
     "In Class ENGL work.md",
     "Interférence.md",
     "Physics/Déplacement et Distance parcouru.md",
@@ -298,7 +299,6 @@
     "assets/Pasted image 20231204104447.png",
     "Excalidraw/Drawing 2023-12-04 10.35.16.excalidraw.md",
     "Tle IB English.md",
-    "assets/Pasted image 20231204090838.png",
     "Excalidraw/derive math.md",
     "IA Physique.html",
     "Untitled.canvas",
