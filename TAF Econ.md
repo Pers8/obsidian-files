@@ -5,8 +5,8 @@ Surplus des producteurs avant: b + d ; Surplus des producteurs après: d**
 **Revenu des producteurs avant : 8 x 14 = 112
 Revenu des producteurs après :  6 x 12 = 72**
 5) Donner le volume des importations et de la production domestique avant et après le libre échange
-**Volume des importations et de la production domestique avant : 
-Volume des importations et de la production domestique après : 
+**Volume des importations avant :  ; Volume des importations après :
+Volume de la production domestique avant : 
 **
 7) Calculer le gain de la participation au commerce extérieur
 **Le gain : c**
