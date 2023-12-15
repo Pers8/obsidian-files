@@ -13,5 +13,6 @@
     "margin": "0",
     "downscalePercent": 76
   },
-  "tabSize": 4
+  "tabSize": 4,
+  "showIndentGuide": false
 }
