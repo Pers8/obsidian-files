@@ -1,2 +1,2 @@
 
-Remake all this. In the introduction, first talk about what we gonna talk about (Global and works and extract) then talk the global issue and how it's still relevant to these days. After 
+Remake all this. In the introduction, first talk about what I'm gonna talk about (Global and works and extract) then talk the global issue and how it's still relevant to these days. After do a little transition sentence with some like "Now, let's do a little summary of the 2 literary and non-literary work and the extract " or something maybe better than that. After you do a summary of these and then
