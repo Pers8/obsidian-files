@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "3403cc11fd25579e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English IA Bullet points.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a81ccfb6f2671ef5",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "English IA Bullet points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral English IA.md"
+                "file": "English IA Bullet points.md"
               }
             }
           },
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "English IA Bullet points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Individual Oral English IA.md"
+                "file": "English IA Bullet points.md"
               }
             }
           },
@@ -223,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "English IA Bullet points.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,14 +286,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "5f7613cdb9d48267",
+  "active": "3403cc11fd25579e",
   "lastOpenFiles": [
+    "Individual Oral English IA.md",
+    "English IA Bullet points.md",
+    "Untitled 2.md",
     "Tle IB English.md",
     "English presentation.md",
     "Interférence.md",
     "IB/Physics.md",
     "Essai.md",
-    "Individual Oral English IA.md",
     "TOK Exhibition.md",
     "TAF Econ.md",
     "assets/Pasted image 20231213114812.png",
@@ -307,11 +321,9 @@
     "Untitled 1.md",
     "Polarisation par réflexion (angle de Brewster).md",
     "IB/French.md",
-    "IB/English.md",
     "assets/Pasted image 20231204104529.png",
     "assets/Pasted image 20231204104504.png",
     "assets/Pasted image 20231204104447.png",
-    "Excalidraw/Drawing 2023-12-04 10.35.16.excalidraw.md",
     "IA Physique.html",
     "Untitled.canvas",
     "Untitled.loom",

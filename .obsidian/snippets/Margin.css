@@ -14,3 +14,42 @@ img {
  .markdown-source-view.mod-cm6 .cm-content > * {
         margin: auto auto !important;
 }
+
+.cm-header-1, .markdown-preview-view h1 {
+color: #000000;
+}
+
+.cm-header-2, .markdown-preview-view h2 {
+color: #000000;
+}
+
+.cm-header-3, .markdown-preview-view h3 {
+color: #000000;
+}
+
+.cm-header-4, .markdown-preview-view h4 {
+color: #000000;
+}
+
+.cm-header-5, .markdown-preview-view h5 {
+color: #000000;
+}
+
+.cm-header-6, .markdown-preview-view h6 {
+color: #000000;
+}
+
+.list-bullet:after {
+    color: #6C6F85;
+    background-color: #6C6F85;
+}
+
+
+strong {
+    color: #000000;
+}
+
+pre.HyperMD-tab {
+    border: none;
+}
+
