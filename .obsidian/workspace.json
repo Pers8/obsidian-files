@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA Text.md",
+                "file": "English IA Bullet points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA Text.md"
+                "file": "English IA Bullet points.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA Text.md",
+                "file": "English IA Bullet points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English IA Text.md"
+                "file": "English IA Bullet points.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English IA Text.md",
+                "file": "English IA Bullet points.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,16 +298,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fc4f6effc54d4e86",
+  "active": "3403cc11fd25579e",
   "lastOpenFiles": [
-    "English IA Bullet points.md",
     "English IA Text.md",
-    "Untitled 4.md",
+    "English IA Bullet points.md",
     "Individual Oral English IA.md",
+    "English presentation.md",
+    "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Tle IB English.md",
-    "English presentation.md",
     "Interférence.md",
     "IB/Physics.md",
     "Essai.md",
