@@ -53,3 +53,10 @@ strong {
     border: none;
 }
 
+@media print {
+    body {
+        padding: 15mm 15mm 15mm 15mm;
+    }
+}
+
+
