@@ -11,21 +11,28 @@ Anne Frank's "The Diary of a Young Girl" and David Olère's painting "The Food o
 ### Conclusion
 In conclusion, Anne Frank’s diary and David Olère’s artwork, when examined together, provide a profound insight into the human experiences during the Holocaust. Their contrasting approaches - the intimate, personal narrative of the diary and the graphic, symbolic representation in the painting - form a comprehensive narrative of genocide and its impact on human rights. These works not only document the atrocities but also serve as a reminder of the critical importance of upholding human rights. They compel us to remember the past, understand its implications on the present, and strive towards a future where such atrocities are never repeated. Thank you for your attention, and I hope this discussion contributes to our collective understanding and commitment to human rights.
 ### Questions
-1. **Symbolism and Imagery in the Excerpt:** In Anne Frank's diary excerpt about her 13th birthday, symbolism and imagery are used subtly to convey themes of innocence and the fleeting nature of normalcy. The simple joys of her birthday – gifts, affection from her cat, and family interactions – symbolize a normal life soon to be disrupted by war. The imagery of her enjoying ordinary things like a new blouse and homemade cookies provides a stark contrast to the grim reality of the Holocaust that she later faces, emphasizing the loss of innocence and the abrupt end of her carefree youth.
-    
-2. **Addressing and Contribution to Theme:** Anne's direct and personal way of addressing her experiences in the diary contributes to the overall theme by creating an intimate connection with the reader. Her first-person narrative makes the theme of lost innocence and the harsh intrusion of war more impactful, as readers are drawn into her world and can empathize with her gradual loss of normalcy and safety.
-    
-3. **Author's Purpose:** Anne Frank's purpose in writing her diary likely evolved over time. Initially, it may have been a personal outlet for her thoughts and experiences as a young girl. As her situation became dire due to the Holocaust, the diary became a poignant document of her life in hiding, capturing the human side of this historical tragedy. Ultimately, her diary serves to educate and remind future generations of the horrors of genocide and the importance of human rights.
-    
-4. **Influence of Time Period and Societal Norms:** The time period and societal norms during the Holocaust had a profound influence on Anne's perception and actions. The rampant anti-Semitism and the Nazi regime's policies forced her and her family into hiding, shaping her daily life and experiences. This context highlights how societal norms and political climates can drastically alter lives, particularly in relation to human rights violations during times of conflict.
-    
-5. **Language and Tone in the Excerpt:** The language and tone in the excerpt from Anne's diary are initially light, youthful, and optimistic, reflecting her age and the innocence of her pre-war life. The way she describes her birthday with excitement and happiness serves to underline the tragedy of her situation. This contrast in tone becomes a powerful tool in highlighting the impact of the global issue of genocide on an individual level, illustrating how quickly and drastically life can change in times of conflict.
+### 3) Character Analysis
 
-3) a) How does the extract reveal the characteristics or development of a particular character?
-   b)  Can you discuss the motivations and emotions of the characters in this part of the work?
-5) a) Are there any symbols or recurring imagery in the extract, and what do they represent?
-   b) How does the author use the symbolism to convey deeper meanings?
-6) a) What is the author's purpose in this extract, and how is it achieved through style and language?
-   b) How does the author create a particular mood or tone in this section
-8) a) Identify and analyse any literary devices used in the extract, such as metaphor, simile, alliteration, etc.
-   b) How do these devices contribute to the overall impact of the passage
+**a)** The extract reveals Anne's character as a typical teenager, full of excitement for her birthday. It shows her curiosity, youthful enthusiasm, and appreciation for simple pleasures like presents, her cat Moortje, and sharing cookies with classmates. This portrayal contrasts sharply with the later development of her character, as she faces the harsh realities of hiding during the Holocaust.
+
+**b)** The motivations and emotions displayed here are primarily those of innocent joy and anticipation. Anne is excited about her birthday, eager to see her gifts, and happy to share her joy with others (her family and classmates). This reflects a normal, carefree attitude, not yet overshadowed by the imminent threats she would soon face.
+
+### 5) Symbolism and Imagery
+
+**a)** The birthday presents, particularly the diary itself, symbolize normalcy and the comforts of a peaceful life. Moortje, the cat, represents the everyday joys and companionship in Anne's life before the war drastically altered it.
+
+**b)** The author uses these symbols to juxtapose Anne's ordinary life with the extraordinary circumstances she will soon encounter. The diary, initially a simple birthday gift, becomes a vessel for her deepest thoughts and experiences during a time of extreme turmoil, symbolizing the transition from normalcy to survival.
+
+### 6) Author's Purpose and Style
+
+**a)** The purpose in this extract is to establish Anne's life before the war's impact. It's achieved through a candid, narrative style, focusing on mundane details to highlight the normalcy of her life at this point.
+
+**b)** The tone is light, joyful, and unburdened, capturing the essence of a young girl's excitement on her birthday. This mood is created through Anne's straightforward, enthusiastic language and attention to delightful details.
+
+### 8) Literary Devices
+
+**a)** In this extract, the primary literary device is imagery, particularly in the vivid description of her birthday morning, presents, and interactions. There's also a use of symbolism, as discussed earlier, where ordinary objects and experiences gain deeper meanings in the context of Anne's life.
+
+**b)** These devices, particularly the rich imagery, make the passage relatable and poignant. They help to create a clear picture of Anne’s life before the Holocaust, making the contrast with her later experiences more striking. The use of everyday details enhances the reader's empathy and understanding of the drastic changes Anne and her family later undergo.
+
+Each of these elements - character development, symbolism, narrative style, and literary devices - work together to provide a comprehensive understanding of Anne's life and experiences. They also set the stage for the dramatic shift that her diary will chronicle as the impact of the Holocaust encroaches upon her world.
