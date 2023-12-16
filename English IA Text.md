@@ -20,3 +20,12 @@ In conclusion, Anne Frank’s diary and David Olère’s artwork, when examined 
 4. **Influence of Time Period and Societal Norms:** The time period and societal norms during the Holocaust had a profound influence on Anne's perception and actions. The rampant anti-Semitism and the Nazi regime's policies forced her and her family into hiding, shaping her daily life and experiences. This context highlights how societal norms and political climates can drastically alter lives, particularly in relation to human rights violations during times of conflict.
     
 5. **Language and Tone in the Excerpt:** The language and tone in the excerpt from Anne's diary are initially light, youthful, and optimistic, reflecting her age and the innocence of her pre-war life. The way she describes her birthday with excitement and happiness serves to underline the tragedy of her situation. This contrast in tone becomes a powerful tool in highlighting the impact of the global issue of genocide on an individual level, illustrating how quickly and drastically life can change in times of conflict.
+
+3) a) How does the extract reveal the characteristics or development of a particular character?
+   b)  Can you discuss the motivations and emotions of the characters in this part of the work?
+5) a) Are there any symbols or recurring imagery in the extract, and what do they represent?
+   b) How does the author use the symbolism to convey deeper meanings?
+6) a) What is the author's purpose in this extract, and how is it achieved through style and language?
+   b) How does the author create a particular mood or tone in this section
+8) a) Identify and analyse any literary devices used in the extract, such as metaphor, simile, alliteration, etc.
+   b) How do these devices contribute to the overall impact of the passage
