@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English IA Bullet points.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English IA Text.md",
+                "file": "Essai.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA Text.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA Text.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA Text.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English IA Text.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English IA Text.md",
+                "file": "IB/Physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,9 +298,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fc4f6effc54d4e86",
+  "active": "3403cc11fd25579e",
   "lastOpenFiles": [
     "English IA Bullet points.md",
+    "Essai.md",
     "English IA Text.md",
     "English presentation.md",
     "Individual Oral English IA.md",
@@ -310,7 +311,6 @@
     "Tle IB English.md",
     "Interférence.md",
     "IB/Physics.md",
-    "Essai.md",
     "TOK Exhibition.md",
     "TAF Econ.md",
     "assets/Pasted image 20231213114812.png",
