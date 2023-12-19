@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essai.md",
+                "file": "TOK Exhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essai.md",
+                "file": "TOK Exhibition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essai.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essai.md",
+                "file": "TOK Exhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Essai.md"
+                "file": "TOK Exhibition.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Essai.md",
+                "file": "TOK Exhibition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,10 +300,10 @@
   },
   "active": "fc4f6effc54d4e86",
   "lastOpenFiles": [
+    "Essai.md",
     "Individual Oral English IA.md",
     "IB/Physics.md",
     "English IA Bullet points.md",
-    "Essai.md",
     "English IA Text.md",
     "English presentation.md",
     "Untitled 4.md",
