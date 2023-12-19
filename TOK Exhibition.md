@@ -5,7 +5,7 @@
 
 
 
-Throughout history, humans have sought knowledge to better understand the world and our place in it. However, not all knowledge is created equal. This exhibition explores the question of whether some types of knowledge are more useful than others. Specifically, we will examine the utility of knowledge gained through scientific inquiry, artistic expression, and historical analysis, as represented by the objects of a microscope, the work of art "Starry Night" by van Gogh, and a historical artifact that is a diary from a soldier in World War II.
+In TOK, knowledge is often defined as justified true belief. This exhibition explores the question: “Are some types of knowledge more useful than others?” To investigate this, we will examine three objects: “Starry Night” by Vincent Van Gogh, a smartphone, and the world map. These objects represent different types of knowledge: artistic, technological, and geographical, respectively. “Starry Night” embodies emotional and symbolic knowledge, the smartphone symbolizes practical and technological knowledge, and the world map represents geographical and cultural knowledge. The connection between these objects lies in their ability to convey knowledge that is useful in different contexts. This exhibition aims to delve into the complexities of these types of knowledge, their usefulness, and how they interact with each other in our daily lives. Through this exploration, we hope to shed light on the multifaceted nature of knowledge and its utility.
 
 
 **Object 1:** *Van Gogh "Starry Night" painting*
