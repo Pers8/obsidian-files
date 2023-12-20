@@ -48,7 +48,14 @@ My third is a "A microscope". It represents a powerful scientific tool that enab
 
   
   
+Here's my introduction for my TOK exhibition : 
   
-  
-Knowledge, belief and opinion are common everyday terns that everybody uses. Nevertheless, to distinguish between them accurately I shall define them first. Knowledge is the easiest to define- it's
-certain, justified by evidence, explainable and communicable, and can be stated as truth. it comes to beliefs they not always can be justified by hard but are rather associated with emotions and what we feel is tilth. They are rooted deep within us. Opinions also do not require fact checking, but they are treated more lightly than beliefs. They can be influenced and shaped based on a simple conversation, but nevertheless can also be associated with emotions, as no one likes being proven wrong.
+In TOK, knowledge is often defined as justified true belief. This exhibition explores the question: “Are some types of knowledge more useful than others?” To investigate this, we will examine three objects: “Starry Night” by Vincent Van Gogh, a smartphone, and the world map. These objects represent different types of knowledge: artistic, technological, and geographical, respectively. “Starry Night” embodies emotional and symbolic knowledge, the smartphone symbolizes practical and technological knowledge, and the world map represents geographical and cultural knowledge. The connection between these objects lies in their ability to convey knowledge that is useful in different contexts. This exhibition aims to delve into the complexities of these types of knowledge, their usefulness, and how they interact with each other in our daily lives. Through this exploration, we hope to shed light on the multifaceted nature of knowledge and its utility.
+
+Can you write a paragraph for my first object in a paragraph and in around 300 words also here is my question, first object and structure :
+Question :  Are some types of knowledge more useful than others?
+Object 1 : Van Gogh "Starry Night" painting
+Structure : 
+- Describe the painting and its significance in your life or in a broader context.
+- Discuss how this artwork represents a form of knowledge that is different from factual or scientific knowledge. Explore the idea that while this knowledge may not be 'useful' in a practical sense, it offers deep insights into human emotion and perception.
+- Link the object to the prompt by examining how the type of knowledge it represents contributes to our overall understanding of the world.
