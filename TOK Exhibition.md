@@ -13,9 +13,7 @@ In TOK, knowledge is often defined as justified true belief. This exhibition exp
 Source:  https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
 
 The first object of our exploration is Vincent Van Gogh’s masterpiece, “Starry Night”. This painting, with its swirling, luminescent stars and the tranquil village resting beneath them, is one of the most recognized pieces in the history of Western art. It is not just a depiction of the night sky, but a window into Van Gogh’s mind, his emotions, and his perception of the world.
-
-“Starry Night” represents a form of knowledge that is fundamentally different from factual or scientific knowledge. It does not convey information about the physical properties of stars or the scientific workings of the universe. Instead, it offers a deep, emotional insight into human experience. The vibrant colors and passionate brush strokes express a sense of wonder and awe at the beauty of the night sky, reflecting Van Gogh’s own feelings. This emotional knowledge, while not ‘useful’ in a practical sense, enriches our understanding of human nature and the world around us.
-
+This object represents a form of knowledge that is fundamentally different from factual or scientific knowledge. It does not convey information about the physical properties of stars or the scientific workings of the universe. Instead, it offers a deep, emotional insight into human experience. The vibrant colors and passionate brush strokes express a sense of wonder and awe at the beauty of the night sky, reflecting Van Gogh’s own feelings. This emotional knowledge, while not ‘useful’ in a practical sense, enriches our understanding of human nature and the world around us.
 In relation to the prompt, “Starry Night” demonstrates that the usefulness of knowledge can vary depending on the context. While scientific knowledge might be more useful for understanding the physical world, the emotional and symbolic knowledge embodied in “Starry Night” is invaluable for understanding human emotions and perceptions. Therefore, the type of knowledge represented by “Starry Night” contributes significantly to our overall understanding of the world, reminding us that knowledge is not just about facts and figures, but also about emotions, experiences, and perceptions.
 
 
@@ -49,14 +47,9 @@ My third is a "A microscope". It represents a powerful scientific tool that enab
 
   
   
-Here's my introduction for my TOK exhibition : 
-  
-In TOK, knowledge is often defined as justified true belief. This exhibition explores the question: “Are some types of knowledge more useful than others?” To investigate this, we will examine three objects: “Starry Night” by Vincent Van Gogh, a smartphone, and the world map. These objects represent different types of knowledge: artistic, technological, and geographical, respectively. “Starry Night” embodies emotional and symbolic knowledge, the smartphone symbolizes practical and technological knowledge, and the world map represents geographical and cultural knowledge. The connection between these objects lies in their ability to convey knowledge that is useful in different contexts. This exhibition aims to delve into the complexities of these types of knowledge, their usefulness, and how they interact with each other in our daily lives. Through this exploration, we hope to shed light on the multifaceted nature of knowledge and its utility.
-
-Can you write a paragraph for my first object in a paragraph and in around 300 words also here is my question, first object and structure :
-Question :  Are some types of knowledge more useful than others?
-Object 1 : Van Gogh "Starry Night" painting
+Can you write a paragraph for my second object in a paragraph and in around 300 words also here is my second object and structure :
+Object 2 : A smartphone
 Structure : 
-- Describe the painting and its significance in your life or in a broader context.
-- Discuss how this artwork represents a form of knowledge that is different from factual or scientific knowledge. Explore the idea that while this knowledge may not be 'useful' in a practical sense, it offers deep insights into human emotion and perception.
-- Link the object to the prompt by examining how the type of knowledge it represents contributes to our overall understanding of the world.
+- Describe how you use the smartphone in your daily life or its role in contemporary society.
+- Discuss the type of knowledge it represents, such as technological and informational knowledge. Highlight how this practical and readily accessible knowledge contrasts with the emotional and interpretive knowledge offered by art.
+- Link the smartphone to the prompt by considering whether the convenience and utility it offers make its type of knowledge more 'useful' than others.
