@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "TOK/12 TOK concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "English presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "English presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "English presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,20 +298,23 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fc4f6effc54d4e86",
+  "active": "a81ccfb6f2671ef5",
   "lastOpenFiles": [
+    "TOK/12 TOK concepts.md",
+    "English presentation.md",
+    "IB/TOK.md",
+    "IB/French.md",
+    "TOK Exhibition.md",
     "Essai.md",
     "Individual Oral English IA.md",
     "IB/Physics.md",
     "English IA Bullet points.md",
     "English IA Text.md",
-    "English presentation.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Tle IB English.md",
     "Interférence.md",
-    "TOK Exhibition.md",
     "TAF Econ.md",
     "assets/Pasted image 20231213114812.png",
     "assets/Pasted image 20231213114809.png",
@@ -328,9 +331,6 @@
     "French 189-193.md",
     "Accélération.md",
     "2.3 Travail, Puissance et Energie.md",
-    "In Class ENGL work.md",
-    "Physics/Déplacement et Distance parcouru.md",
-    "Erreurs et incertitudes.md",
     "assets/Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png",
     "assets/Img 1.png",
     "assets/Pasted image 20231204104529.png",
