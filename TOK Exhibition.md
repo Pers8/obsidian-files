@@ -21,11 +21,7 @@ In relation to the prompt, “Starry Night” demonstrates that the usefulness o
 ![[Pasted image 20231213114812.png]]
 Source : https://www.wired.com/2015/02/smartphone-only-computer/
 
-Certainly, let’s approach the smartphone from a different angle.
-
-The second object, a smartphone, is a marvel of modern technology. It’s more than just a communication device; it’s a gateway to a world of information, a personal assistant, and a tool for creativity.
-The smartphone embodies technological knowledge, evident in its intricate design and complex functionality. It’s a testament to human ingenuity and the progress of technology. However, the knowledge it provides extends beyond its physical form. With a smartphone, we have access to an unprecedented amount of information. From news updates to educational resources, the smartphone puts a world of knowledge at our fingertips.
-In the context of our prompt, “Are some types of knowledge more useful than others?”, the smartphone presents a compelling case. Its practicality and the immediacy of the knowledge it provides could be seen as highly ‘useful’. However, it’s important to note that ‘usefulness’ can be subjective and context-dependent. While the smartphone offers practical knowledge, it doesn’t provide the emotional depth found in “Starry Night”. Thus, each form of knowledge has its unique value and ‘usefulness’ in our lives. The smartphone, with its practical and immediate knowledge, complements the emotional and interpretive knowledge offered by art, contributing to a holistic understanding of the world.
+My second object is the smartphone, an indispensable tool in our modern lives. It’s not just a communication device, but a hub of endless possibilities that shape our daily experiences. The smartphone is a marvel of technological knowledge. Its intricate design and complex functionalities are a reflection of advancements in technology. But beyond its physical form, the smartphone serves as a gateway to a vast array of information, from the latest news to educational resources, thus representing informational knowledge. When we consider the prompt, the smartphone offers a unique perspective. Its practicality and the immediacy of the knowledge it provides could be seen as highly ‘useful’. However, ‘usefulness’ is subjective and can vary based on context. While the smartphone provides us with practical knowledge that aids our daily tasks, it doesn’t offer the emotional depth or interpretive understanding that a piece of art like “Starry Night” does. Therefore, each form of knowledge, whether it’s practical or emotional, has its own unique value in our lives. The smartphone, with its practical and immediate knowledge, complements the emotional and interpretive knowledge offered by art, contributing to a well-rounded understanding of the world. This exploration underscores the idea that no single type of knowledge is universally ‘more useful’ than others. Instead, the usefulness of knowledge is multifaceted and context-dependent, much like the knowledge itself.
 
 **Object 3:** *The world map*
 ![[Pasted image 20231213114615.png]]
@@ -45,9 +41,21 @@ My third is a "A microscope". It represents a powerful scientific tool that enab
 
   
   
-Can you write a paragraph for my second object in a paragraph and in around 300 words also here is my second object and structure :
-Object 2 : A smartphone
+Can you write a paragraph for my third object in a paragraph and in around 300 words also here is my question, third object and structure :
+Question : Are some types of knowledge more useful than others?
+Object 3 : The world map
 Structure : 
-- Describe how you use the smartphone in your daily life or its role in contemporary society.
-- Discuss the type of knowledge it represents, such as technological and informational knowledge. Highlight how this practical and readily accessible knowledge contrasts with the emotional and interpretive knowledge offered by art.
-- Link the smartphone to the prompt by considering whether the convenience and utility it offers make its type of knowledge more 'useful' than others.
+- Explain the context of your third object and develop this explanation, Explain the map's role in your life or its significance in a global context.
+- Link your explanation of the context to your prompt, Discuss how the map represents geographical and cultural knowledge, offering a foundational understanding of the world.
+- Make sure the point you're making about the prompt, using your third object, is not the same point you’ve made before.
+
+
+
+
+
+
+
+
+
+
+
