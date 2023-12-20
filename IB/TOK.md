@@ -29,8 +29,6 @@ $$\huge{Theory \hspace{2mm} Of \hspace{2mm} Knowleadge}$$
 4. Ethics
 ### **Part 6 :** The [[12 TOK concepts]]
 
-we can say that truth is **a condition of knowledge**; that is, if a belief is not true, it cannot constitute knowledge. Accordingly, if there is no such thing as truth, then there can be no knowledge.
-
 ### Important points :
 1. [[PEEL]]
 

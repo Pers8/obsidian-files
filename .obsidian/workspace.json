@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "IB/TOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "IB/TOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK/12 TOK concepts.md"
+                "file": "IB/TOK.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "IB/TOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TOK/12 TOK concepts.md"
+                "file": "IB/TOK.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TOK/12 TOK concepts.md",
+                "file": "IB/TOK.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,8 +300,8 @@
   },
   "active": "fc4f6effc54d4e86",
   "lastOpenFiles": [
-    "IB/TOK.md",
     "TOK/12 TOK concepts.md",
+    "IB/TOK.md",
     "English presentation.md",
     "IB/French.md",
     "TOK Exhibition.md",
