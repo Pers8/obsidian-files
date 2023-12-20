@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "c07ab02b6df1104f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "a81ccfb6f2671ef5",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md"
               }
             }
           },
@@ -187,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "IB/TOK.md"
+                "file": "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md"
               }
             }
           },
@@ -247,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IB/TOK.md",
+                "file": "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,10 +308,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fc4f6effc54d4e86",
+  "active": "c07ab02b6df1104f",
   "lastOpenFiles": [
-    "TOK/12 TOK concepts.md",
     "IB/TOK.md",
+    "Excalidraw/Drawing 2023-12-20 20.35.57.excalidraw.md",
+    "TOK/12 TOK concepts.md",
     "English presentation.md",
     "IB/French.md",
     "TOK Exhibition.md",
@@ -330,7 +341,6 @@
     "Français P.175-176 et P.182-185.md",
     "French 189-193.md",
     "Accélération.md",
-    "2.3 Travail, Puissance et Energie.md",
     "assets/Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png",
     "assets/Img 1.png",
     "assets/Pasted image 20231204104529.png",
