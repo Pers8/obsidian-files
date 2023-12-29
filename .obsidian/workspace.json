@@ -88,9 +88,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "812d03cc4858f114",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/A bit of everything.md",
+                "file": "English presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/A bit of everything.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -197,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/A bit of everything.md",
+                "file": "English presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +224,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -224,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/A bit of everything.md"
+                "file": "English presentation.md"
               }
             }
           },
@@ -257,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/A bit of everything.md",
+                "file": "English presentation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,11 +320,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c07ab02b6df1104f",
+  "active": "812d03cc4858f114",
   "lastOpenFiles": [
+    "Excalidraw/A bit of everything.md",
     "assets/Pasted Image 20231221140937_345.png",
     "IB/TOK.md",
-    "Excalidraw/A bit of everything.md",
     "TOK/12 TOK concepts.md",
     "English presentation.md",
     "IB/French.md",
@@ -345,7 +357,6 @@
     "assets/Img 1.png",
     "assets/Pasted image 20231204104529.png",
     "assets/Pasted image 20231204104504.png",
-    "assets/Pasted image 20231204104447.png",
     "IA Physique.html",
     "Untitled.canvas",
     "Untitled.loom",
