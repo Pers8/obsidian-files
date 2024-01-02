@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IA Physique.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,19 +88,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "812d03cc4858f114",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English presentation.md",
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English presentation.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -207,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English presentation.md",
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "English presentation.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -269,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English presentation.md",
+                "file": "IA Physique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,18 +310,20 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "812d03cc4858f114",
+  "active": "8228688c203ebc6f",
   "lastOpenFiles": [
+    "Tournoi d'échecs.md",
+    "Travail d'une force constante.md",
+    "IB/Physics.md",
+    "English presentation.md",
     "Excalidraw/A bit of everything.md",
     "assets/Pasted Image 20231221140937_345.png",
     "IB/TOK.md",
     "TOK/12 TOK concepts.md",
-    "English presentation.md",
     "IB/French.md",
     "TOK Exhibition.md",
     "Essai.md",
     "Individual Oral English IA.md",
-    "IB/Physics.md",
     "English IA Bullet points.md",
     "English IA Text.md",
     "Untitled 4.md",
@@ -352,7 +344,6 @@
     "Français Devoirs.md",
     "Français extrait analyse (MaDemba).md",
     "Français P.175-176 et P.182-185.md",
-    "French 189-193.md",
     "assets/Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png",
     "assets/Img 1.png",
     "assets/Pasted image 20231204104529.png",
