@@ -46,3 +46,5 @@ Si je n'ai pas la possibilité de faire une expérience réelle, je peux aussi u
 
 
 Profil d'aile, angle de décrochage (angle où il n'a presque plus de portance)
+
+
