@@ -1,110 +1,35 @@
 {
   "main": {
-    "id": "919767ca879d0e09",
+    "id": "f7aa83f2e8b02b57",
     "type": "split",
     "children": [
       {
-        "id": "965b4a2da3172782",
+        "id": "1b9c2ac9268f08f7",
         "type": "tabs",
         "children": [
           {
-            "id": "27976b37d03b54ba",
+            "id": "93914afa9ed613db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interférence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00124f7bf2dfb89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tle IB English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f7613cdb9d48267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individual Oral English IA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3403cc11fd25579e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IA Physique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc4f6effc54d4e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IB/TOK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c07ab02b6df1104f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/A bit of everything.md"
-              }
-            }
-          },
-          {
-            "id": "a81ccfb6f2671ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English presentation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7e1ade3f044bb4df",
+    "id": "a9cc138f94efde65",
     "type": "split",
     "children": [
       {
-        "id": "d3fd3114f78f21d3",
+        "id": "5532ea42270d6583",
         "type": "tabs",
         "children": [
           {
-            "id": "8228688c203ebc6f",
+            "id": "2c9e7febd127bd2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,7 +39,7 @@
             }
           },
           {
-            "id": "d28d6890035e72c1",
+            "id": "614a0df6cfbd2976",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,15 +54,7 @@
             }
           },
           {
-            "id": "55617e9411175d9c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "8cfe91b3fbb98baf",
+            "id": "8581faf7d02111a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -151,53 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "12478f85602936c4",
+    "id": "7ac5f2cb5bcf1b80",
     "type": "split",
     "children": [
       {
-        "id": "b9f469b229d214ef",
+        "id": "2b0f2177dfb2e377",
         "type": "tabs",
         "children": [
           {
-            "id": "9a88f53d3c9162c1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "IA Physique.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f4aa638bf3ab4e47",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b846b4f06fe90e31",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "IA Physique.md"
-              }
-            }
-          },
-          {
-            "id": "39913e568a72fb23",
+            "id": "f97731254cbaa254",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +92,29 @@
             }
           },
           {
-            "id": "779c61b9d22814f3",
+            "id": "a7512e173c9045ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4793b2b56d73a69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b24e997500134dd3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -221,137 +126,45 @@
             }
           },
           {
-            "id": "73f5365277eae41a",
+            "id": "0a764dee200fdc53",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "IA Physique.md"
-              }
+              "type": "outline",
+              "state": {}
             }
           },
           {
-            "id": "3f0c9fffd107fdc5",
+            "id": "f1a141948b7300c6",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "c59c1a588b28b09b",
-            "type": "leaf",
-            "state": {
-              "type": "ava.write.sidebar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "08863bb6a1b0d74a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4531cef53cefbdda",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "IA Physique.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.25930932684383173,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "ava:Ava": false,
+      "ava:Ava - Show Links": false,
+      "ava:Ava - Open Rewrite Playground": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "ava:Ava": false,
-      "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create loom": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8228688c203ebc6f",
-  "lastOpenFiles": [
-    "Tournoi d'échecs.md",
-    "Travail d'une force constante.md",
-    "IB/Physics.md",
-    "English presentation.md",
-    "Excalidraw/A bit of everything.md",
-    "assets/Pasted Image 20231221140937_345.png",
-    "IB/TOK.md",
-    "TOK/12 TOK concepts.md",
-    "IB/French.md",
-    "TOK Exhibition.md",
-    "Essai.md",
-    "Individual Oral English IA.md",
-    "English IA Bullet points.md",
-    "English IA Text.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Tle IB English.md",
-    "Interférence.md",
-    "TAF Econ.md",
-    "assets/Pasted image 20231213114812.png",
-    "assets/Pasted image 20231213114809.png",
-    "assets/Pasted image 20231213114650.png",
-    "assets/Pasted image 20231213114615.png",
-    "assets/Pasted image 20231213114200.png",
-    "IA Physique.md",
-    "Français devoir.md",
-    "Forces magnétique.md",
-    "Formules de Viète.md",
-    "Français Devoirs.md",
-    "Français extrait analyse (MaDemba).md",
-    "Français P.175-176 et P.182-185.md",
-    "assets/Line-plot-of-Mean-Squared-Error-Loss-over-Training-Epochs-When-Optimizing-the-Mean-Squared-Error-Loss-Function-768x576.png",
-    "assets/Img 1.png",
-    "assets/Pasted image 20231204104529.png",
-    "assets/Pasted image 20231204104504.png",
-    "IA Physique.html",
-    "Untitled.canvas",
-    "Untitled.loom",
-    "_Radioactiviteword.pdf",
-    "assets/~$ectres atomiquescours2021.docx"
-  ]
+  "active": "f1a141948b7300c6",
+  "lastOpenFiles": []
 }
