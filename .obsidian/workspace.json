@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45cb4c1ed54fd927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nombres complexes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d5f1240ed448c00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Essai.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +190,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93914afa9ed613db",
+  "active": "5d5f1240ed448c00",
   "lastOpenFiles": [
+    "Nombres complexes.md",
+    "IB/Maths.md",
+    "EE/Réseaux de Neurone.md",
+    "EE/Procédure de l'expérience.md",
+    "EE/Contexte Théorique.md",
+    "EE/Introduction.md",
+    "EE/Matrice.md",
+    "EE/Méthodologie et Expérience.md",
+    "EE/Neurones.md",
+    "EE/Réseaux de Neurones Convolusifs.md",
+    "EE/Réseaux de Neurones Convolusifs et les images.md",
+    "EE/ResNet.md",
+    "EE/Test.md",
+    "EE/VGG16.md",
+    "EE/Données entrantes et traitement de données.md",
+    "EE/Différents Modèles d'Architecture.md",
+    "EE/Conclusion.md",
+    "EE/Analyse.md",
+    "IB/EE.md",
+    "IB/Comp Sci.md",
+    "Essai.md",
     "IB/French.md"
   ]
 }
