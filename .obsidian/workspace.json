@@ -11,8 +11,12 @@
             "id": "93914afa9ed613db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Essai.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Essai.md"
+              }
             }
           },
           {
@@ -165,6 +173,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1a141948b7300c6",
-  "lastOpenFiles": []
+  "active": "93914afa9ed613db",
+  "lastOpenFiles": [
+    "IB/French.md"
+  ]
 }
