@@ -105,18 +105,3 @@ $e^{i\pi}$=::$-1$
 
 
 
-**Problem**: Given that ( $w = 8e^{i\frac{7\pi}{6}}$ ), find the smallest positive integer ( N ) such that ( $(w)^N$ ) is a real number.
-
-**Step 1**: Write ( w ) in Euler’s form. Euler’s formula states that for any real number ( x ), ( $e^{ix} = \cos(x) + i\sin(x)$ ). So, we can write ( w ) as ( $w = 8[\cos(\frac{7\pi}{6}) + i\sin(\frac{7\pi}{6})]$ ).
-
-**Step 2**: We need to find an ( N ) such that ( $(w)^N$) is a real number. This means the imaginary part of ( $(w)^N$ ) should be zero.
-
-**Step 3**: When we raise ( w ) to the power of ( N ), the angle of ( w ) gets multiplied by ( N ). So, ( $(w)^N = 8^N[\cos(N\frac{7\pi}{6}) + i\sin(N\frac{7\pi}{6})]$ ).
-
-**Step 4**: For ( (w)^N ) to be a real number, ( $\sin(N\frac{7\pi}{6})$ ) must be zero because this term is the coefficient of ( i ) (the imaginary part). We know that sin function gives zero at all integral multiples of ( $\pi$ ). So, ( $N\frac{7\pi}{6}$ ) should be an integral multiple of ( $\pi$ ).
-
-**Step 5**: The smallest positive ( N ) that satisfies this condition is ( N = 6 ) because ( $6\frac{7\pi}{6} = 7\pi$ ), which is an integral multiple of ( $\pi$ ).
-
-So, the smallest positive integer ( N ) such that ( ($w)^N$ ) is a real number is ( N = 6 ).
-
-Please note that this is a specific example and the solution may vary depending on the value of ( w ). For a different value of ( w ), you would need to adjust the calculation accordingly. If you have a different value of ( w ) and need help solving it, feel free to ask! I hope this helps! Let me know if you have any other questions.
