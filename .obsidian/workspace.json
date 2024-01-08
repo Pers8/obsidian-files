@@ -35,8 +35,12 @@
             "id": "5d5f1240ed448c00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IA Physique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308
   },
   "right": {
     "id": "7ac5f2cb5bcf1b80",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IA Physique.md"
+              }
             }
           },
           {
@@ -192,6 +200,7 @@
   },
   "active": "5d5f1240ed448c00",
   "lastOpenFiles": [
+    "Essai.md",
     "Nombres complexes.md",
     "IB/Maths.md",
     "EE/Réseaux de Neurone.md",
@@ -212,7 +221,6 @@
     "EE/Analyse.md",
     "IB/EE.md",
     "IB/Comp Sci.md",
-    "Essai.md",
     "IB/French.md"
   ]
 }
