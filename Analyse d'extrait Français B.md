@@ -40,18 +40,18 @@ Dans l'extrait choisi, Don Diègue, humilié par un soufflet reçu de la part du
 Explorer la nature du soi et ce que signifie “être humain”. 
 
 • Qu’est-ce qui constitue une identité ? 
-
+**L'identité est constituée par l'ensemble des caractéristiques et des attributs qui font qu'un individu ou un groupe se perçoivent comme une entité spécifique et qu'ils sont perçus comme telle par les autres**.
 • De quelle façon exprimons-nous notre identité ?
-
+**L'identité personnelle se construit avec le langage, la mémoire et la conscience de soi**
 • Quelles idées et quelles images associons-nous à un mode de vie sain ?
 
 • En quoi la langue et la culture contribuent-elles à forger l’identité ?
-
+**Les langues sont des symboles d'identité ; elles sont utilisées par leurs locuteurs pour marquer leurs identités. Les individus s'en servent aussi pour catégoriser leurs pairs en fonction de la langue qu'ils parlent. Chaque être humain appartient à plusieurs groupes sociaux et possède de nombreuses identités sociales.**
 *Organisation sociale :*
 • Quel est le role de l'individu dans la communauté ?
-
+**Le rôle qui résulte des relations sociales, qui elles-mêmes dépendent des conditions concrètes, tels que la naissance de l'individu ou les conditions socio-économiques de la période et de l'endroit.**
 • A quoi servent les règles et les règlements dans la formation d'une société ?
 
 • Quel role joue la langue dans la société ?
-
+**La langue permet la diffusion des connaissances dans le cadre de l'éducation formelle, mais aussi en dehors des institutions éducatives sous des formes vulgarisées (modes d'emploi, recettes, etc.). La langue est importante, même lorsqu'elle n'est pas le premier moyen d'expression.**
 • Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ?
