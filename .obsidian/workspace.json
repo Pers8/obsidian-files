@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c983df986c288960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econ IA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse d'extrait Français B.md",
+                "file": "Econ IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analyse d'extrait Français B.md",
+                "file": "Econ IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analyse d'extrait Français B.md"
+                "file": "Econ IA.md"
               }
             }
           },
@@ -198,8 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5f1240ed448c00",
+  "active": "c983df986c288960",
   "lastOpenFiles": [
+    "Analyse d'extrait Français B.md",
+    "Econ IA.md",
     "Français Devoirs.md",
     "Français devoir.md",
     "Formules de Viète.md",
@@ -223,8 +237,6 @@
     "EE/Test.md",
     "EE/VGG16.md",
     "EE/Données entrantes et traitement de données.md",
-    "EE/Différents Modèles d'Architecture.md",
-    "EE/Conclusion.md",
-    "EE/Analyse.md"
+    "EE/Différents Modèles d'Architecture.md"
   ]
 }
