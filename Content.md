@@ -13,9 +13,9 @@
 
 ==Enfin, au regard des agrégats extérieurs, les membres du Comité de politique monétaire ont jugé, qu’« il était important de réduire un peu la demande sur les transferts et maintenir donc la stabilité des comptes extérieurs de la zone ».   ==
 
-Par ailleurs, les crédits à l’économie continuent d’évoluer à un rythme soutenu, enregistrant une progression de 13,9%, en rythme annuel, à fin septembre 2023 après 16,2% à fin juin 2023. En particulier, le rythme de progression des crédits accordés aux entreprises privées est ressorti à 15,0%, après une croissance de 18,9% le trimestre précédent. Ceux octroyés aux ménages ont augmenté de 9,8% après 11,3% trois mois plus tôt. Cette orientation permet de soutenir l’activité économique dans l’Union.
+==Par ailleurs, les crédits à l’économie continuent d’évoluer à un rythme soutenu, enregistrant une progression de 13,9%, en rythme annuel, à fin septembre 2023 après 16,2% à fin juin 2023. En particulier, le rythme de progression des crédits accordés aux entreprises privées est ressorti à 15,0%, après une croissance de 18,9% le trimestre précédent. Ceux octroyés aux ménages ont augmenté de 9,8% après 11,3% trois mois plus tôt. Cette orientation permet de soutenir l’activité économique dans l’Union.==
 
-En termes de perspectives, les analystes de la banque centrale indiquent que l’Union devrait avoir une croissance plus forte en 2024 dans l’ordre de 6 à 6,5 %, en vue des projets importants qui devraient entrer en production, notamment les grands projets pétrolier et gazier au Sénégal, le développement du secteur minier au Mali, ainsi que le développement du secteur agricole dans les différents pays de l’Union.».
+==En termes de perspectives, les analystes de la banque centrale indiquent que l’Union devrait avoir une croissance plus forte en 2024 dans l’ordre de 6 à 6,5 %, en vue des projets importants qui devraient entrer en production, notamment les grands projets pétrolier et gazier au Sénégal, le développement du secteur minier au Mali, ainsi que le développement du secteur agricole dans les différents pays de l’Union.».==
 
 ---
 
@@ -27,13 +27,13 @@ Je vous souhaite la cordiale bienvenue dans les locaux du Siège de la Banque Ce
 
 La rencontre de ce jour marque également la dernière réunion de notre Comité au titre de l’année 2023. Je voudrais donc vous remercier pour vos multiples contributions toujours avisées à nos travaux. L’année 2023 qui s’achève a été marquée par une atténuation des tensions inflationnistes, avec toutefois des niveaux d’inflation élevés et des risques haussiers non négligeables.
 
-En vue de maintenir la stabilité des prix, plusieurs banques centrales, aussi bien dans les pays avancés que dans les économies émergentes et en développement, ont relevé leurs taux directeurs et devraient les maintenir à ces niveaux au cours des périodes à venir.
+==En vue de maintenir la stabilité des prix, plusieurs banques centrales, aussi bien dans les pays avancés que dans les économies émergentes et en développement, ont relevé leurs taux directeurs et devraient les maintenir à ces niveaux au cours des périodes à venir.==
 
 Le durcissement des conditions financières sur les marchés internationaux qui en a résulté, conjugué à la montée des tensions géopolitiques, ont ralenti la croissance économique mondiale.
 
-Pour l’année 2023, celle-ci devrait se situer à 3,0% selon les dernières projections du FMI publiées en octobre contre 3,5% en 2022.
+==Pour l’année 2023, celle-ci devrait se situer à 3,0% selon les dernières projections du FMI publiées en octobre contre 3,5% en 2022.==
 
-Au sein de l’UEMOA, l’activité économique est demeurée vigoureuse au troisième trimestre 2023. La bonne tenue de l’activité dans l’ensemble des secteurs laisse augurer un taux de croissance moyen de 5,7% pour l’année 2023.
+==Au sein de l’UEMOA, l’activité économique est demeurée vigoureuse au troisième trimestre 2023. La bonne tenue de l’activité dans l’ensemble des secteurs laisse augurer un taux de croissance moyen de 5,7% pour l’année 2023.==
 
 Les tensions inflationnistes se sont également atténuées, mais les risques d’un retournement sont présents. Le taux d’inflation dans la région a atteint 2,9% au cours du troisième trimestre 2023, après 4,0% le trimestre précédent. Sur l’ensemble de l’année 2023, il est attendu à 3,7%.
 
