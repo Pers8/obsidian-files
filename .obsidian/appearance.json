@@ -1,9 +1,9 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "textFontFamily": "CMU Serif",
   "interfaceFontFamily": "CMU Serif",
-  "cssTheme": "Catppuccin",
-  "baseFontSize": 21,
+  "cssTheme": "Clair de Lune",
+  "baseFontSize": 19,
   "accentColor": "#ff42cd",
   "translucency": false,
   "enabledCssSnippets": [

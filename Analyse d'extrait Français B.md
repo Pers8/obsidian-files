@@ -29,9 +29,9 @@ Dans l'extrait choisi, Don Diègue, humilié par un soufflet reçu de la part du
 • Quel moment de l'histoire est présent dans le passage analyse? 
 **C’est un moment crucial de l’histoire où Rodrigue apprend que l’homme qu’il doit combattre est le père de Chimène. Cela crée une tension dramatique et met en place le conflit central de l’histoire.**
 • Quel aspect de la culture est présent dans le texte lu?
-
+**L’extrait reflète la culture de l’époque, où l’honneur et le devoir étaient considérés comme des valeurs suprêmes. Le dilemme de Rodrigue illustre le conflit entre ces valeurs et les sentiments personnels.**
 • Quelles sont les caractéristiques physiques et psychologiques des personnages?
-
+**Dans cet extrait, Don Diègue est présenté comme un homme d’honneur qui valorise son statut et sa réputation. Rodrigue est dépeint comme un jeune homme loyal et respectueux envers son père, mais aussi comme quelqu’un qui est profondément amoureux de Chimène. Le dilemme de Rodrigue montre sa complexité psychologique. Quant à Chimène, bien qu’elle ne soit pas présente dans cet extrait, son importance est suggérée par le dilemme de Rodrigue.**
 
 
 ***Questions possibles :*** 
@@ -44,14 +44,16 @@ Explorer la nature du soi et ce que signifie “être humain”. 
 • De quelle façon exprimons-nous notre identité ?
 **L'identité personnelle se construit avec le langage, la mémoire et la conscience de soi**
 • Quelles idées et quelles images associons-nous à un mode de vie sain ?
-
+**Un mode de vie sain est souvent associé à une alimentation équilibrée, une activité physique régulière, une bonne hydratation, un sommeil de qualité et le bien-être mental. Il implique également l’évitement des substances nocives comme le tabac et l’alcool. Cependant, ce qui constitue un mode de vie sain peut varier en fonction des besoins individuels et des contextes culturels.**
 • En quoi la langue et la culture contribuent-elles à forger l’identité ?
 **Les langues sont des symboles d'identité ; elles sont utilisées par leurs locuteurs pour marquer leurs identités. Les individus s'en servent aussi pour catégoriser leurs pairs en fonction de la langue qu'ils parlent. Chaque être humain appartient à plusieurs groupes sociaux et possède de nombreuses identités sociales.**
+
 *Organisation sociale :*
 • Quel est le role de l'individu dans la communauté ?
 **Le rôle qui résulte des relations sociales, qui elles-mêmes dépendent des conditions concrètes, tels que la naissance de l'individu ou les conditions socio-économiques de la période et de l'endroit.**
 • A quoi servent les règles et les règlements dans la formation d'une société ?
-
+**Les règles et réglementations jouent un rôle crucial dans la formation d’une société. Elles servent de référence en cas de litige et contribuent à la cohésion du groupe. Elles contrôlent les comportements qui peuvent être destructeurs pour les autres et maintiennent le bien-être de la population en général. Elles fournissent également des précisions exigées par les lois et posent des règles de fonctionnement lorsque le législateur est muet sur différents points.**
 • Quel role joue la langue dans la société ?
 **La langue permet la diffusion des connaissances dans le cadre de l'éducation formelle, mais aussi en dehors des institutions éducatives sous des formes vulgarisées (modes d'emploi, recettes, etc.). La langue est importante, même lorsqu'elle n'est pas le premier moyen d'expression.**
 • Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ?
+**Le monde du travail évolue rapidement avec plusieurs tendances clés. La pandémie de COVID-19 a chamboulé le marché du travail, entraînant des changements de carrière, une pénurie de main-d’œuvre, des départs massifs et une quête de sens. De plus, il y a un décalage croissant entre ce que les travailleurs aspirent et ce que les employeurs attendent d’eux. Par exemple, beaucoup de travailleurs cherchent à accomplir un travail qui a un sens et sont prêts à gagner moins d’argent pour cela. Cependant, ces défis offrent également des opportunités pour repenser et améliorer les conditions de travail.**
