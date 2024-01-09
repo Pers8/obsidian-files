@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ IA.md",
+                "file": "Analyse d'extrait Français B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ IA.md",
+                "file": "Analyse d'extrait Français B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ IA.md"
+                "file": "Analyse d'extrait Français B.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c983df986c288960",
+  "active": "5d5f1240ed448c00",
   "lastOpenFiles": [
-    "Analyse d'extrait Français B.md",
     "Econ IA.md",
+    "Analyse d'extrait Français B.md",
     "Français Devoirs.md",
     "Français devoir.md",
     "Formules de Viète.md",
