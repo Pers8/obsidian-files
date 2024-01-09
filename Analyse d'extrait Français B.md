@@ -31,3 +31,27 @@ Dans l'extrait choisi, Don Diègue, humilié par un soufflet reçu de la part du
 • Quel aspect de la culture est présent dans le texte lu?
 
 • Quelles sont les caractéristiques physiques et psychologiques des personnages?
+
+
+
+***Questions possibles :*** 
+
+*Identité :*
+Explorer la nature du soi et ce que signifie “être humain”. 
+
+• Qu’est-ce qui constitue une identité ? 
+
+• De quelle façon exprimons-nous notre identité ?
+
+• Quelles idées et quelles images associons-nous à un mode de vie sain ?
+
+• En quoi la langue et la culture contribuent-elles à forger l’identité ?
+
+*Organisation sociale :*
+• Quel est le role de l'individu dans la communauté ?
+
+• A quoi servent les règles et les règlements dans la formation d'une société ?
+
+• Quel role joue la langue dans la société ?
+
+• Quelles occasions et quelles difficultés le monde du travaille présente-t-il au XXIs ?
