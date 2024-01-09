@@ -7,3 +7,5 @@ La hausse du taux directeur a été motivée par plusieurs facteurs. Premièreme
 L’impact de cette intervention sur différents secteurs est susceptible d’être mixte. Les banques pourraient voir leur marge d’intérêt nette augmenter, mais le coût plus élevé du crédit pourrait freiner l’investissement et la consommation. Les ménages et les entreprises pourraient également être affectés par des coûts d’emprunt plus élevés. À long terme, cependant, la stabilité des prix et des comptes extérieurs pourrait favoriser une croissance économique durable dans la région.
 
 En somme, la décision de la BCEAO de relever son taux directeur reflète une tentative d’équilibrer les objectifs de stabilité des prix et de croissance économique dans un contexte d’incertitudes croissantes. Seul le temps dira si cette intervention sera efficace.
+
+
