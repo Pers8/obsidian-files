@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ IA.md",
+                "file": "Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ IA.md",
+                "file": "Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ IA.md"
+                "file": "Content.md"
               }
             }
           },
@@ -210,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c983df986c288960",
+  "active": "93914afa9ed613db",
   "lastOpenFiles": [
-    "Content.md",
     "Econ IA.md",
+    "Content.md",
     "Analyse d'extrait Français B.md",
     "Nombres complexes.md",
     "IA de Math & Physics.md",
