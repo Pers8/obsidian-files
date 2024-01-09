@@ -10,6 +10,3 @@ La hausse du taux directeur a été motivée par plusieurs facteurs. Premièreme
 L’impact de cette intervention sur différents secteurs est susceptible d’être mixte. Les banques pourraient voir leur marge d’intérêt nette augmenter, mais le coût plus élevé du crédit pourrait freiner l’investissement et la consommation. Les ménages et les entreprises pourraient également être affectés par des coûts d’emprunt plus élevés. À long terme, cependant, la stabilité des prix et des comptes extérieurs pourrait favoriser une croissance économique durable dans la région.
 
 En somme, la décision de la BCEAO de relever son taux directeur reflète une tentative d’équilibrer les objectifs de stabilité des prix et de croissance économique dans un contexte d’incertitudes croissantes. Seul le temps dira si cette intervention sera efficace.
-
-
-Voici un diagramme qui montre la baisse de la masse monétaire de ${S_m}_{2}$ à ${S_m}_{1}$ due à l'augmentation du taux d'intérêt de $I_2$ à $I_1$ et qui provoque une diminution de la quantité de monaie de $Q_2$ à $Q_1$. Peux-tu décrire le graphique et aussi essaye d'expliquer pourquoi certaines choses se passent et soit conscis.
