@@ -54,8 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d883d96bd49cbb0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content.md",
+                "file": "Econ IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content.md",
+                "file": "Econ IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content.md"
+                "file": "Econ IA.md"
               }
             }
           },
@@ -209,12 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93914afa9ed613db",
+  "active": "c983df986c288960",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
+    "Econ IA.md",
+    "assets/Pasted image 20240109213717.png",
+    "Content.md",
     "Nombres complexes.md",
     "Analyse d'extrait Français B.md",
-    "Content.md",
-    "Econ IA.md",
     "IA de Math & Physics.md",
     "Info - Révisions.md",
     "Info.md",
@@ -234,8 +247,6 @@
     "EE/Matrice.md",
     "EE/Méthodologie et Expérience.md",
     "EE/Neurones.md",
-    "EE/Réseaux de Neurones Convolusifs.md",
-    "EE/Réseaux de Neurones Convolusifs et les images.md",
-    "EE/ResNet.md"
+    "EE/Réseaux de Neurones Convolusifs.md"
   ]
 }
