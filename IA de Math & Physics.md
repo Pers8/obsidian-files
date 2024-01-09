@@ -2,55 +2,31 @@
 **Physique :** Comment attraper une balle de Baseball? (ou pas)
 # **Maths Plan :** 
 
-### I. Introduction
-A. Présentation du sujet et de l'importance des nombres imaginaires en ingénierie électronique. 
-B. Objectif de l'Internal Assessment. 
-C. Définition des termes clés : nombres imaginaires, circuits électroniques.
+Sure, here’s a suggestion for a table of contents that follows the structure of the Math AA HL IA:
 
-### II. Fondements théoriques 
-A. Introduction aux nombres imaginaires 
-1. Définition des nombres imaginaires et leur représentation sous forme de 'i'. 
-2. Exemples d'opérations impliquant des nombres imaginaires.
-
-B. Présentation des circuits électroniques 
-1. Présentation générale des circuits électroniques et de leur fonctionnement. 
-2. Importance de la description mathématique du comportement des circuits.
-
-### III. Les nombres imaginaires dans l'analyse de circuits électroniques  
-A. Impédance complexe 
-1. Introduction à l'impédance complexe en tant que nombre imaginaire. 
-2. Utilisation de l'impédance complexe dans l'analyse de circuits en courant alternatif.
-
-B. Notion de nombres complexes dans les équations différentielles 
-1. Introduction aux équations différentielles avec coefficients constants. 
-2. Utilisation de nombres imaginaires pour résoudre ces équations et modéliser le comportement des circuits.
-
-### IV. Exemples d'applications pratiques 
-A. Filtres électroniques 
-1. Utilisation de nombres imaginaires dans la conception de filtres passe-bas/passe-haut.
-2. Analyse de la réponse fréquentielle des filtres à l'aide de nombres complexes.
-
-B. Circuit RLC 
-![[Pasted image 20230729114054.png]]
-1. Analyse du comportement d'un circuit RLC en utilisant les nombres imaginaires. 
-2. Compréhension des résonances et des oscillations dans le circuit.
-
-### V. Limites et considérations 
-A. Limitations de l'utilisation de nombres imaginaires dans la description des circuits électroniques. 
-B. Autres approches mathématiques pour modéliser le comportement des circuits je pense.
-
-### VI. Conclusion 
-A. Résumé des résultats obtenus concernant l'utilisation des nombres imaginaires dans l'ingénierie électronique. 
-B. Réflexion sur l'efficacité et la pertinence de ces méthodes. 
-C. Perspectives pour de futures recherches dans ce domaine.
-
-### VII. Bibliographie 
-A. Les sources en général  qui m'ont permit d'écrire mon IA.
-
----
+1. **Introduction - 2 pages**
+    - Présentation du sujet
+    - Justification de l’importance du sujet
+    - Objectifs de l’étude
+2. **Définitions et concepts clés - 3-4 pages**
+    - Définition des nombres imaginaires
+    - Introduction à l’ingénierie électronique
+    - Comportement des circuits électroniques
+3. **Méthodologie - 3-4 pages**
+    - Description des méthodes mathématiques utilisées
+    - Explication de comment ces méthodes sont appliquées aux nombres imaginaires et aux circuits électroniques
+4. **Analyse - 6-8 pages**
+    - Application des méthodes mathématiques aux nombres imaginaires dans le contexte des circuits électroniques
+    - Interprétation des résultats
+5. **Discussion - 3-4 pages**
+    - Évaluation de l’efficacité de l’utilisation des nombres imaginaires pour décrire le comportement des circuits électroniques
+    - Discussion des implications de ces résultats pour l’ingénierie électronique
+6. **Conclusion - 2 pages**
+    - Résumé des résultats de l’étude
+    - Réflexion sur les objectifs de l’étude et si ceux-ci ont été atteints
+7. **Références**
 
 ### I. Introduction
-
 
 - Refaire l'introduction :
   - Brièvement introduire et décrire les éléments du sujet 
