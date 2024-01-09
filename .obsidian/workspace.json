@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Econ IA.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Econ IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA de Math & Physics.md",
+                "file": "Econ IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA de Math & Physics.md"
+                "file": "Econ IA.md"
               }
             }
           },
@@ -212,10 +212,11 @@
   },
   "active": "c983df986c288960",
   "lastOpenFiles": [
+    "IA de Math & Physics.md",
+    "Analyse d'extrait Français B.md",
     "Econ IA.md",
     "Content.md",
     "Nombres complexes.md",
-    "Analyse d'extrait Français B.md",
     "Info - Révisions.md",
     "Info.md",
     "Essai.md",
@@ -236,7 +237,6 @@
     "EE/Neurones.md",
     "EE/Réseaux de Neurones Convolusifs.md",
     "EE/Réseaux de Neurones Convolusifs et les images.md",
-    "EE/ResNet.md",
-    "EE/Test.md"
+    "EE/ResNet.md"
   ]
 }
