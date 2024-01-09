@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essai.md",
+                "file": "Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyse d'extrait Français B.md",
+                "file": "Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analyse d'extrait Français B.md",
+                "file": "Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analyse d'extrait Français B.md"
+                "file": "Content.md"
               }
             }
           },
@@ -210,10 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5f1240ed448c00",
+  "active": "93914afa9ed613db",
   "lastOpenFiles": [
+    "Nombres complexes.md",
     "Econ IA.md",
     "Analyse d'extrait Français B.md",
+    "Content.md",
+    "Info - Révisions.md",
+    "Info.md",
+    "Essai.md",
     "Français Devoirs.md",
     "Français devoir.md",
     "Formules de Viète.md",
@@ -221,8 +225,6 @@
     "French 189-193.md",
     "Français extrait analyse (MaDemba).md",
     "IA Physique.md",
-    "Essai.md",
-    "Nombres complexes.md",
     "IB/Maths.md",
     "EE/Réseaux de Neurone.md",
     "EE/Procédure de l'expérience.md",
@@ -234,9 +236,6 @@
     "EE/Réseaux de Neurones Convolusifs.md",
     "EE/Réseaux de Neurones Convolusifs et les images.md",
     "EE/ResNet.md",
-    "EE/Test.md",
-    "EE/VGG16.md",
-    "EE/Données entrantes et traitement de données.md",
-    "EE/Différents Modèles d'Architecture.md"
+    "EE/Test.md"
   ]
 }
