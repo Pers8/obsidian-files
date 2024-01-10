@@ -49,19 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ IA.md",
+                "file": "IA Math.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9d883d96bd49cbb0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md"
               }
             }
           },
@@ -142,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ IA.md",
+                "file": "IA Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ IA.md",
+                "file": "IA Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ IA.md"
+                "file": "IA Math.md"
               }
             }
           },
@@ -232,14 +222,16 @@
   },
   "active": "c983df986c288960",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "IB/French.md",
+    "Econ IA.md",
     "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
-    "Econ IA.md",
     "Content.md",
     "assets/Pasted image 20240109213717.png",
     "Nombres complexes.md",
     "Analyse d'extrait Français B.md",
-    "IA de Math & Physics.md",
+    "IA Math.md",
     "Info - Révisions.md",
     "Info.md",
     "Essai.md",
@@ -250,14 +242,12 @@
     "French 189-193.md",
     "Français extrait analyse (MaDemba).md",
     "IA Physique.md",
-    "IB/Maths.md",
     "EE/Réseaux de Neurone.md",
     "EE/Procédure de l'expérience.md",
     "EE/Contexte Théorique.md",
     "EE/Introduction.md",
     "EE/Matrice.md",
     "EE/Méthodologie et Expérience.md",
-    "EE/Neurones.md",
-    "EE/Réseaux de Neurones Convolusifs.md"
+    "EE/Neurones.md"
   ]
 }
