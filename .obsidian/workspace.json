@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
+                "file": "Econ IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
+                "file": "Econ IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md"
+                "file": "Econ IA.md"
               }
             }
           },
@@ -230,10 +230,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9c25c3e9d61f75c",
+  "active": "c983df986c288960",
   "lastOpenFiles": [
-    "Content.md",
     "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
+    "Content.md",
     "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "Econ IA.md",
     "assets/Pasted image 20240109213717.png",
