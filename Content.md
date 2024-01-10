@@ -1,10 +1,3 @@
-## Content question
-?
-- What is the text about?
-- What is the writer's message?
-- What is the writer's attitude (the tone)?
-- How does that affect your reading of the text (the mood)?
-
 
 # UEMOA : les 3 facteurs qui ont poussé la BCEAO à relever son taux à 3,50%
 ==Le Comité de Politique Monétaire (CPM) de la Banque Centrale des Etats de l’Afrique de l’Ouest (BCEAO) a décidé, à l’issue de sa réunion ordinaire tenue le 6 décembre 2023, de relever de 25 points de base les taux directeurs de la Banque Centrale, à compter du 16 décembre 2023. Le principal taux directeur auquel la Banque Centrale prête ses ressources aux banques passe de 3,25% en septembre 2023 à 3.50% à compter du 16 décembre 2023.==  Le coefficient des réserves obligatoires applicable aux banques reste inchangé à 3,0%. ==Cette décision intervient dans un contexte où l’évolution de « l’inflation se situe à 3,7%, encore au dessus de la cible de la Banque centrale qui est de 3%. Egalement de la montée des incertitudes tant au niveau international que régional.  La hausse des taux directeurs vise ainsi à anticiper et à contenir l’impact de ces facteurs de risque »==, a expliqué Jean-Claude Kassi Brou, Gouverneur de la BCEAO, lors d’un point de presse.
