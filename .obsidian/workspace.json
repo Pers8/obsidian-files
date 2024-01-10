@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "IA Econ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "IA Econ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci.md"
+                "file": "IA Econ.md"
               }
             }
           },
@@ -242,10 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eccb5f67d4d58cf1",
+  "active": "c983df986c288960",
   "lastOpenFiles": [
-    "Content.md",
     "IA Comp Sci.md",
+    "Content.md",
     "IA Econ.md",
     "Excalidraw/Drawing 2024-01-10 13.51.49.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
