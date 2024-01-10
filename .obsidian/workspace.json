@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Math.md",
+                "file": "IA Econ.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,19 @@
                 "file": "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9df67c40a84a8fe0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-10 13.51.49.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "IA Econ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "IA Econ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci.md"
+                "file": "IA Econ.md"
               }
             }
           },
@@ -232,19 +242,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eccb5f67d4d58cf1",
+  "active": "c983df986c288960",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-10 13.51.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
+    "IA Econ.md",
+    "IB/French.md",
+    "IB/Maths.md",
     "IA Math.md",
     "IA Comp Sci.md",
-    "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
-    "IB/Maths.md",
-    "IB/French.md",
-    "Econ IA.md",
+    "Analyse d'extrait Français B.md",
     "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "Content.md",
     "assets/Pasted image 20240109213717.png",
     "Nombres complexes.md",
-    "Analyse d'extrait Français B.md",
     "Info - Révisions.md",
     "Info.md",
     "Essai.md",
@@ -259,7 +270,6 @@
     "EE/Procédure de l'expérience.md",
     "EE/Contexte Théorique.md",
     "EE/Introduction.md",
-    "EE/Matrice.md",
-    "EE/Méthodologie et Expérience.md"
+    "EE/Matrice.md"
   ]
 }
