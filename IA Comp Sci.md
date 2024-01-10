@@ -22,3 +22,8 @@ often worked when travelling, and would like to incorporate key words when writi
 
 
 I'm a freelancer in Philippines, I work internationally and mostly handle US Clients that are top Roblox developers. my current Issue is response time, due to very different timezones I cannot respond very quickly to half of my Clients, this is why I hired Pers to build and automate my website. This website wont just save me time, it would help me attract more Clients due to the appealing design. I'll be able to showcase my work directly from my website and they will be able to take orders depending on what they want ( Icons, Thumbnails, etc... ), and they could manage their orders directly on the website and through Discord. The website would also enable me to add more work and even add discounts through a login system.
+
+
+I decided to use Java to create the solution as Java can be run on both Windows and MacOS, meaning that there would be no restrictions on what type of work laptop my client must use. Furthermore, by styling the program, it would be made more aesthetically pleasing and simple to
+use for my client. I chose to use JavaFX GUI toolkit in lieu of Java Swing as Swing may be considered outdated and not as aesthetically pleasing.
+My client stated that he had used other online quiz programs such as Quizlet and Memrise, however for those apps to download the flashcards offline, he needed to install the mobile apps and upgrade to a paid membership (research in Appendix). Therefore, he wanted to have a suitable alternative that fulfilled his needs and worked offline, creating the necessity for a custom application. The application will help the client to store inputted words, and create a quiz based on stored data.
