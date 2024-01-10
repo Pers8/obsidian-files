@@ -12,5 +12,4 @@ L'augmentation du taux directeur par la BCEAO, qui est une politique monétaire 
 
 En conclusion, l'augmentation des taux directeurs par la BCEAO, bien que nécessaire pour contrôler l'inflation légèrement au-dessus de l'objectif, implique un équilibre délicat entre stabilisation des prix et un soutien à la croissance économique. Cette politique, potentiellement freinatrice à court terme sur l'investissement et la consommation, vise une stabilité économique à long terme. Il sera essentiel de surveiller l'impact de cette mesure sur l'économie de l'UEMOA, en évaluant son effet sur l'investissement, la consommation et l'équilibre général entre inflation et croissance.
 
-
-
+**Mots :** 775 mots
