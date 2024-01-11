@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content.md",
+                "file": "IA Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content.md",
+                "file": "IA Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content.md"
+                "file": "IA Comp Sci.md"
               }
             }
           },
@@ -241,14 +242,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93914afa9ed613db",
+  "active": "eccb5f67d4d58cf1",
   "lastOpenFiles": [
-    "Nombres complexes.md",
     "IA Econ.md",
+    "Content.md",
+    "Nombres complexes.md",
     "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "IA Comp Sci.md",
-    "Content.md",
     "Excalidraw/Drawing 2024-01-10 13.51.49.excalidraw.md",
     "IB/French.md",
     "IB/Maths.md",
