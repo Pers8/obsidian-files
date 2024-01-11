@@ -32,3 +32,5 @@ I'm a freelancer in Philippines, I work internationally and mostly handle US Cli
 I decided to use Java to create the solution as Java can be run on both Windows and MacOS, meaning that there would be no restrictions on what type of work laptop my client must use. Furthermore, by styling the program, it would be made more aesthetically pleasing and simple to
 use for my client. I chose to use JavaFX GUI toolkit in lieu of Java Swing as Swing may be considered outdated and not as aesthetically pleasing.
 My client stated that he had used other online quiz programs such as Quizlet and Memrise, however for those apps to download the flashcards offline, he needed to install the mobile apps and upgrade to a paid membership (research in Appendix). Therefore, he wanted to have a suitable alternative that fulfilled his needs and worked offline, creating the necessity for a custom application. The application will help the client to store inputted words, and create a quiz based on stored data.
+
+Can you continue by writing this which is the rationale
