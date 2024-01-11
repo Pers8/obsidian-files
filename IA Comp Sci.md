@@ -4,9 +4,9 @@
 # Criterion A
 
 ### Scenario/Solution
-My client is a freelancer based in the Philippines, working with international clients, primarily top Roblox developers from the US. The challenge he faces is the delay in response time due to significant timezone differences. This has led her to hire me to automate her website, aiming to address this issue and improve her business operations.
+My client is a freelancer based in the Philippines, working with international clients, primarily top Roblox developers from the US. The challenge he faces is the delay in response time due to significant timezone differences. This has led him to hire me to automate his website, aiming to address this issue and improve his business operations.
 
-The solution we discussed involves building a website that not only saves her time but also enhances her client reach through its appealing design. The website will allow her to display her work portfolio and enable clients to place orders based on their requirements (Icons, Thumbnails, etc.). Clients will have the ability to manage their orders directly on the website and through Discord. The website will also feature a login system, allowing her to add more work and offer discounts. This solution aims to streamline her business processes and improve her service delivery.
+The solution we have discussed involves building a website that not only saves his time but also enhances her client reach through its appealing design. The website will allow him to display his work portfolio and enable clients to place orders based on their requirements (Icons, Thumbnails, etc.). Clients will have the ability to manage their orders directly on the website and through Discord. The website will also feature a login system, allowing him to add more work and offer discounts. This solution aims to simplify his business processes and improve his service delivery.
 ### Rationale
 
 ### Success Criteria
