@@ -33,4 +33,4 @@ I decided to use Java to create the solution as Java can be run on both Windows 
 use for my client. I chose to use JavaFX GUI toolkit in lieu of Java Swing as Swing may be considered outdated and not as aesthetically pleasing.
 My client stated that he had used other online quiz programs such as Quizlet and Memrise, however for those apps to download the flashcards offline, he needed to install the mobile apps and upgrade to a paid membership (research in Appendix). Therefore, he wanted to have a suitable alternative that fulfilled his needs and worked offline, creating the necessity for a custom application. The application will help the client to store inputted words, and create a quiz based on stored data.
 
-Can you continue by writing this which is the rationale
+Can you continue by writing this which is the rationale part of the criterion A. This is an example of structure and I'll use VS code as my code editor, html, css and js. Explain also why I chose them like he did
