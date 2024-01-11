@@ -4,10 +4,9 @@
 # Criterion A
 
 ### Scenario/Solution
-The client is a businessman in China. As when on business trips, he often would visit predominantly English-speaking countries like UK and US, he is required to speak English to a proficient level. Currently the client can speak very simple English and form simple sentences. My client mentioned that he would like to improve his English vocabulary when meeting with clients, as he often reuses the same adjectives when describing objects, and hence we decided to discuss a solution (our conversations are in the Appendix).
-My client discussed with me what he wanted me to achieve: a simple program that can run on his work laptop. In the program, he wanted to be able to input a Chinese word or phrase and wanted to be able to input the relevant English meaning to the side. He wanted to be able to view all the
-words/phrases he had inputted at any time and be able to save them. He also wanted to be able for the program to create a simple quiz / flashcards for him so he could learn the words at his leisure. Furthermore, he wanted to be able to use the program when not connected to the internet, as he
-often worked when travelling, and would like to incorporate key words when writing documents. Lastly, he wanted the program to be simple to use and not over-complicated.
+My client is a freelancer based in the Philippines, working with international clients, primarily top Roblox developers from the US. The challenge he faces is the delay in response time due to significant timezone differences. This has led her to hire me to automate her website, aiming to address this issue and improve her business operations.
+
+The solution we discussed involves building a website that not only saves her time but also enhances her client reach through its appealing design. The website will allow her to display her work portfolio and enable clients to place orders based on their requirements (Icons, Thumbnails, etc.). Clients will have the ability to manage their orders directly on the website and through Discord. The website will also feature a login system, allowing her to add more work and offer discounts. This solution aims to streamline her business processes and improve her service delivery.
 ### Rationale
 
 ### Success Criteria
