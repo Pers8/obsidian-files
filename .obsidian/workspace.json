@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Econ.md",
+                "file": "Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Econ.md",
+                "file": "Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Econ.md"
+                "file": "Content.md"
               }
             }
           },
@@ -242,10 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c983df986c288960",
+  "active": "93914afa9ed613db",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
+    "Nombres complexes.md",
     "IA Econ.md",
+    "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "IA Comp Sci.md",
     "Content.md",
@@ -255,7 +255,6 @@
     "IA Math.md",
     "Analyse d'extrait Français B.md",
     "assets/Pasted image 20240109213717.png",
-    "Nombres complexes.md",
     "Info - Révisions.md",
     "Info.md",
     "Essai.md",
