@@ -39,3 +39,4 @@ L’objectif de cette exploration est d’explorer l’application des nombres c
 
 ### II. Définitions et concepts clés
 
+
