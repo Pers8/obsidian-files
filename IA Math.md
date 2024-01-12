@@ -46,5 +46,5 @@ En comprenant ces concepts, nous pouvons mieux appréhender comment les nombres 
 
 $$\LARGE{P_{éolienne} = \frac{1}{2} \rho A v^3}$$
 - $\rho$ $\text{en}$ $kg \cdot m^{-3}$ $\text{qui est la masse volumique de l'air}$
-$\newline$
+01$\newline$
 - $A$ $\text{aire balayée par les pales (}$ $A = \pi \times R^2$ $\text )$
