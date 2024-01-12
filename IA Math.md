@@ -2,8 +2,6 @@
 **Physique :** Comment attraper une balle de Baseball? (ou pas)
 # **Maths Plan :** 
 
-Sure, here’s a suggestion for a table of contents that follows the structure of the Math AA HL IA:
-
 1. **Introduction - 2 pages**
     - Présentation du sujet
     - Justification de l’importance du sujet
