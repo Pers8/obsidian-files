@@ -103,9 +103,7 @@ $e^{i\pi}$=::$-1$
 
 
 
-ω $= -\frac{1}{2} + \frac{\sqrt 3}{2}i$
-
-2. On cherche les nombres complexes z vérifiant la condition : |z| = |1+ z| = 1 (∗) 
-(a) Montrez que ω satisfait la condition (∗) 
-(b) Montrez que si un nombre complexe z = x +iy vérifie la condition (∗) alors $x=-\frac{1}{2}$ . 
-(c) À partir de là montrez que ω et ω ∗ sont les seuls complexes satisfaisant la condition (∗)
+Soit A, B et C, d’affixes respectives a, b et c, trois points du cercle ( Γ ) de centre O et de rayon R. 
+On suppose que O est le centre de gravité du triangle ABC et cela se traduit l’aide de nombres complexes par l’égalité a +b +c = 0. 
+On pose p = b/a et q = c/a . 
+(a) Montrez que |p| = |q| = 1 et que 1+ p = −q.
