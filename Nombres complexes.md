@@ -103,7 +103,10 @@ $e^{i\pi}$=::$-1$
 
 
 
-Soit A, B et C, d’affixes respectives a, b et c, trois points du cercle ( Γ ) de centre O et de rayon R. 
-On suppose que O est le centre de gravité du triangle ABC et cela se traduit l’aide de nombres complexes par l’égalité a +b +c = 0. 
-On pose p = b/a et q = c/a . 
-(a) Montrez que |p| = |q| = 1 et que 1+ p = −q.
+Pour montrer que $( p = \omega )$ ou $( p = \omega^* )$ en utilisant le résultat de 2.c, nous allons utiliser le fait que $( |p| = 1 )$ et que $( 1 + p = -q )$.
+
+Nous savons que $( \omega )$ et $( \omega^* )$ sont les seuls nombres complexes tels que leur module est égal à 1 et que leur partie réelle est $( -\frac{1}{2} )$. Puisque $( |p| = 1 )$, $( p )$ doit être sur le cercle unité dans le plan complexe. De plus, comme $( 1 + p = -q )$ et $( |q| = 1 )$, $( q )$ doit aussi être sur le cercle unité et $( q )$ est l’opposé de $( 1 + p )$.
+
+Le seul point sur le cercle unité qui a une partie réelle de $( -\frac{1}{2} )$ est $( \omega )$, et son opposé (qui est aussi sur le cercle unité) est $( \omega^* )$. Donc, $( p )$ doit être égal à $( \omega )$ ou $( \omega^* )$, car ce sont les seuls points qui satisfont à la fois $( |p| = 1 )$ et la partie réelle $( -\frac{1}{2} )$.
+
+En conclusion, en utilisant le résultat de 2.c, nous pouvons affirmer que $( p = \omega )$ ou $( p = \omega^* )$.
