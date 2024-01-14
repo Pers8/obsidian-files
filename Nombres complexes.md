@@ -103,5 +103,9 @@ $e^{i\pi}$=::$-1$
 
 
 
+ω $= -\frac{1}{2} + \frac{\sqrt 3}{2}i$
 
-
+2. On cherche les nombres complexes z vérifiant la condition : |z| = |1+ z| = 1 (∗) 
+(a) Montrez que ω satisfait la condition (∗) 
+(b) Montrez que si un nombre complexe z = x +iy vérifie la condition (∗) alors $x=-\frac{1}{2}$ . 
+(c) À partir de là montrez que ω et ω ∗ sont les seuls complexes satisfaisant la condition (∗)

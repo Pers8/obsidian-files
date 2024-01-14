@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9fa68471230faf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nombres complexes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Math.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Math.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Math.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -222,8 +234,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5f1240ed448c00",
+  "active": "f9fa68471230faf8",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Identités trigonométriques.md",
+    "IA Math.md",
     "Analyse d'extrait Français B.md",
     "Nombres complexes.md",
     "IA Econ.md",
@@ -235,8 +250,6 @@
     "Content.md",
     "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "IB/French.md",
-    "IB/Maths.md",
-    "IA Math.md",
     "assets/Pasted image 20240109213717.png",
     "Info - Révisions.md",
     "Info.md",
