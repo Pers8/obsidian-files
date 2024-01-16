@@ -12,7 +12,7 @@
 
 ## **« À la maison, c’était le conflit permanent »**
 
-Hugo, 17 ans, vit avec ses parents et sa sœur Alice, 12 ans. Les trois dernières années n’ont pas été simples pour lui. Pour sa famille non plus d’ailleurs, il $\underline{le}$ reconnaît. Mais avec l’aide d’une thérapeute qui l’a épaulé pendant plusieurs mois, il a pu, tout doucement, amorcer un changement. Il revient aujourd’hui sur ces années difficiles et nous livre quelques-uns de ses secrets pour une vie familiale plus apaisée.
+Hugo, 17 ans, vit avec ses parents et sa sœur Alice, 12 ans. Les trois dernières années n’ont pas été simples pour lui. Pour sa famille non plus d’ailleurs, il $\underline{le}$ reconnaît. Mais avec l’aide d’une thérapeute qui $\underline{l’}$a épaulé pendant plusieurs mois, il a pu, tout doucement, amorcer un changement. Il revient aujourd’hui sur ces années difficiles et nous livre quelques-uns de ses secrets pour une vie familiale plus apaisée.
 
 **Hugo, peux-tu nous décrire tes relations avec tes parents, avant de commencer cette thérapie ?**
 
@@ -34,11 +34,11 @@ Hugo, 17 ans, vit avec ses parents et sa sœur Alice, 12 ans. Les trois dernièr
 
 Trouvez à qui ou à quoi les mots soulignés correspondent. Utilisez les mots du texte pour trouver la bonne réponse.
 
-1. il le reconnaît (introduction)
+1. il $\underline{le}$ reconnaît (introduction) : **Sa famille**
 
-2. qui l’a épaulé (introduction)
+2. qui $\underline{l’}$a épaulé (introduction) : **Hugo**
 
-3. les ados dont les parents avaient divorcé (paragraphe 2)
+3. les ados $\underline{dont}$ les parents avaient divorcé (paragraphe 2) : **La thérapie**
 
 Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre réponse en utilisant les mots du texte. Les deux parties de la réponse sont nécessaires pour acquérir le point.
 
