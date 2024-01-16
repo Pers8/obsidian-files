@@ -46,21 +46,20 @@ Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre répon
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+|Vrai/Faux : **Vrai**<br><br>Justification : **J’avais toujours l’impression que mes parents m’en voulaient.**  |
 
 5. Hugo se forçait à parler à ses parents pendant le dîner.
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+|Vrai/Faux : **Faux**<br><br>Justification : **C’est à peine si je leur adressais la parole pendant le dîner.** |
 
-[1 point]
 
 6. Le silence d’Hugo encourageait d’autant plus ses parents à lui poser des questions.
 
 |   |
 |---|
-|Vrai/Faux ________________________<br><br>Justification : ____________________________________________________________________|
+|Vrai/Faux : ****<br><br>Justification : **Ils me demandaient sans cesse ce qui n’allait pas et mon silence les exaspérait.** |
 
 Répondez à la question ci-dessous.
 
