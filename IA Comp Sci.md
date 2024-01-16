@@ -71,4 +71,8 @@ Les pages web visitées dans une session de navigation peuvent être représent�
 Les listes chaînées sont un outil puissant pour gérer des collections d’éléments de manière flexible et efficace. Leur compréhension est essentielle pour tout développeur ou ingénieur logiciel.
 
 
-Les racines de l’équation z n = 1 , où z ∈ , sont 1, ω , ω2 , ..., ωn-1 , où   e 2i n . Chaque racine peut être représentée respectivement par un point P0, P1, P2, ..., Pn-1 sur un diagramme d’Argand. Par exemple, les racines de l’équation z 2 = 1, où z ∈ , sont 1 et ω . Sur un diagramme d’Argand, la racine 1 peut être représentée par un point P0 et la racine ω  peut être représentée par un point P1 . Considérez le cas où n = 3 . Les racines de l’équation z 3 = 1 , où z ∈ , sont 1, ω  et ω2 . Sur le diagramme d’Argand suivant, les points P0 , P1 et P2 se situent sur un cercle de rayon 1 unité dont le centre est O(0; 0).
+Les racines de l’équation z n = 1 , où z ∈ C, sont 1, ω , $ω^2$ , ..., $ω^{n-1}$ , où $ω=e^{\frac{2\pi i}{n}}$   . Chaque racine peut être représentée respectivement par un point $P_0, P_1, P_2, ..., P{n-1}$ sur un diagramme d’Argand. 
+Par exemple, les racines de l’équation $z_2 = 1$, où z ∈ C, sont 1 et ω . Sur un diagramme d’Argand, la racine 1 peut être représentée par un point $P_0$ et la racine ω  peut être représentée par un point $P_1$ . Considérez le cas où n = 3 . Les racines de l’équation $z_3 = 1$ , où z ∈ C, sont 1, ω  et $ω_2$ . Sur le diagramme d’Argand suivant, les points $P_0 , P_1 et P_2$ se situent sur un cercle de rayon 1 unité dont le centre est O(0; 0).
+
+(a) (i) Montrez que $(ω - 1)(ω^2 + ω + 1) = ω^3 - 1$.
+(ii) À partir de là, déduisez que $ω^2 + ω + 1 = 0$.
