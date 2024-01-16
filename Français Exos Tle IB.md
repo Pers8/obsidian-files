@@ -59,13 +59,11 @@ Choisissez la bonne réponse selon le paragraphe 2. Puis, justifiez votre répon
 
 |   |
 |---|
-|Vrai/Faux : ****<br><br>Justification : **Ils me demandaient sans cesse ce qui n’allait pas et mon silence les exaspérait.** |
+|Vrai/Faux : **Vrai**<br><br>Justification : **Ils me demandaient sans cesse ce qui n’allait pas et mon silence les exaspérait.** |
 
 Répondez à la question ci-dessous.
 
 7. Quelle expression du paragraphe 1 suggère qu’Hugo était très en colère?
-
-[1 point]
 
 Donnez la signification des mots suivants dans le texte en les reliant à une phrase qui a le même sens.
 
