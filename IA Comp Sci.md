@@ -26,10 +26,6 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 ---
 
-Bien sûr, je vais vous aider à préparer une présentation détaillée sur les listes chaînées. Voici un plan de présentation que vous pourriez suivre :
-
----
-
 # Introduction aux Listes Chaînées
 
 Bonjour à tous, aujourd’hui nous allons explorer le concept des listes chaînées, une structure de données fondamentale en informatique.
@@ -74,3 +70,5 @@ Les pages web visitées dans une session de navigation peuvent être représent�
 
 Les listes chaînées sont un outil puissant pour gérer des collections d’éléments de manière flexible et efficace. Leur compréhension est essentielle pour tout développeur ou ingénieur logiciel.
 
+
+Les racines de l’équation z n = 1 , où z ∈ , sont 1, ω , ω2 , ..., ωn-1 , où   e 2i n . Chaque racine peut être représentée respectivement par un point P0, P1, P2, ..., Pn-1 sur un diagramme d’Argand. Par exemple, les racines de l’équation z 2 = 1, où z ∈ , sont 1 et ω . Sur un diagramme d’Argand, la racine 1 peut être représentée par un point P0 et la racine ω  peut être représentée par un point P1 . Considérez le cas où n = 3 . Les racines de l’équation z 3 = 1 , où z ∈ , sont 1, ω  et ω2 . Sur le diagramme d’Argand suivant, les points P0 , P1 et P2 se situent sur un cercle de rayon 1 unité dont le centre est O(0; 0).
