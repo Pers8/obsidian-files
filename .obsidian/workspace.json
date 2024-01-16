@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6513ac27ad3b4cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Français Exos Tle IB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d5f1240ed448c00",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Français Exos Tle IB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Français Exos Tle IB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK Exhibition.md"
+                "file": "Français Exos Tle IB.md"
               }
             }
           },
@@ -222,11 +234,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45cb4c1ed54fd927",
+  "active": "6513ac27ad3b4cbc",
   "lastOpenFiles": [
+    "TOK Exhibition.md",
+    "Français Exos Tle IB.md",
     "TOK ESSAY.md",
     "TOK essayy.md",
-    "TOK Exhibition.md",
     "IA Physique.md",
     "Nombres complexes.md",
     "IA Math.md",
@@ -251,7 +264,6 @@
     "Formules de Viète.md",
     "Français P.175-176 et P.182-185.md",
     "French 189-193.md",
-    "Français extrait analyse (MaDemba).md",
-    "EE/Réseaux de Neurone.md"
+    "Français extrait analyse (MaDemba).md"
   ]
 }
