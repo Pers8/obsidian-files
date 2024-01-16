@@ -67,28 +67,26 @@ Répondez à la question ci-dessous.
 
 Donnez la signification des mots suivants dans le texte en les reliant à une phrase qui a le même sens.
 
-8. épaulé (introduction)
+8. épaulé (introduction) : **F**
 
-9. tiraillée (paragraphe 2)
+9. tiraillée (paragraphe 2) : **D**
 
-10. hurlant (paragraphe 2)
+10. hurlant (paragraphe 2) : **G**
 
-11. entente (paragraphe 3)
+11. entente (paragraphe 3) : **B**
 
 - **A** : diagnostiqué
-- **B** : accord
+- **B** : accord $\times$ 
 - **C** : diminuée
-- **D** : partagée
+- **D** : partagée $\times$ 
 - **E** : reconnaissance
-- **F** : soutenu
-- **G** : criant
+- **F** : soutenu $\times$
+- **G** : criant $\times$ 
 - **H** : courant
-
-[4 points]
 
 Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots approprié.
 
-12. Pour bien s’entendre avec ses parents, on…
+12. Pour bien s’entendre avec ses parents, on **attendaient qu’il soit prêt à partager des choses.**
 
 13. Quand il a commencé sa thérapie, Hugo…
 
@@ -98,10 +96,8 @@ Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots appropri�
 - **B** : refusait de partager des choses intimes avec ses parents.
 - **C** : le pressaient de questions.
 - **D** : n’est pas obligé de tout se raconter.
-- **E** : attendaient qu’il soit prêt à partager des choses.
+- **E** : attendaient qu’il soit prêt à partager des choses. $\times$ 
 - **F** : a eu du mal à trouver quoi dire à ses parents.
-
-[3 points]
 
 Donnez la bonne réponse.
 
