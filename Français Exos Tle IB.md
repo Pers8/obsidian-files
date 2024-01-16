@@ -86,29 +86,27 @@ Donnez la signification des mots suivants dans le texte en les reliant à une ph
 
 Lisez le paragraphe 3 et terminez chaque phrase avec le groupe de mots approprié.
 
-12. Pour bien s’entendre avec ses parents, on **attendaient qu’il soit prêt à partager des choses.**
+12. Pour bien s’entendre avec ses parents, on **n’est pas obligé de tout se raconter.**
 
-13. Quand il a commencé sa thérapie, Hugo…
+13. Quand il a commencé sa thérapie, Hugo **a eu du mal à trouver quoi dire à ses parents.**
 
-14. Les parents d’Hugo…
+14. Les parents d’Hugo **attendaient qu’il soit prêt à partager des choses.**
 
 - **A** : doit dire le plus de choses possible.
 - **B** : refusait de partager des choses intimes avec ses parents.
 - **C** : le pressaient de questions.
-- **D** : n’est pas obligé de tout se raconter.
+- **D** : n’est pas obligé de tout se raconter. $\times$ 
 - **E** : attendaient qu’il soit prêt à partager des choses. $\times$ 
-- **F** : a eu du mal à trouver quoi dire à ses parents.
+- **F** : a eu du mal à trouver quoi dire à ses parents. $\times$ 
 
 Donnez la bonne réponse.
 
 15. Le dernier paragraphe suggère que…
 
 - **A** : les problèmes de famille sont réglés une bonne fois pour toute.
-- **B** : il y a encore des progrès à faire.
+- **B** : ``il y a encore des progrès à faire.``
 - **C** : Hugo continue d’en vouloir à ses parents.
 - **D** : les sorties en famille sont la solution.
-
-[1 point]
 
 #### Conseil examen
 
