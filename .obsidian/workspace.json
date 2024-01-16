@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français Exos Tle IB.md",
+                "file": "IA Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français Exos Tle IB.md",
+                "file": "IA Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français Exos Tle IB.md"
+                "file": "IA Comp Sci.md"
               }
             }
           },
@@ -234,16 +234,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6513ac27ad3b4cbc",
+  "active": "51138280bf64fd86",
   "lastOpenFiles": [
+    "IA Math.md",
+    "Français Exos Tle IB.md",
     "assets/Pasted image 20240116090508.png",
     "TOK Exhibition.md",
-    "Français Exos Tle IB.md",
     "TOK ESSAY.md",
     "TOK essayy.md",
     "IA Physique.md",
     "Nombres complexes.md",
-    "IA Math.md",
     "IA Econ.md",
     "IA Comp Sci.md",
     "IB/Maths.md",
