@@ -49,20 +49,3 @@ $\underline{\text{Voir fusée}}$
 ![[Pasted image 20231020145239.png]]
 
 
-
-Two objects are moving in the same line as shown:
-object 1 => m and 2v (vector from the right)
-object 2 => 2m and v (vector from the right)
-They collide and stick together.
-
-What fraction of the initial kinetic energy is lost in the collision?
-
-1) 1/9
-
-2)929
-
-0
-
-1313
-
-Report feedback
