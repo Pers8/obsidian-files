@@ -84,16 +84,10 @@ Par exemple, les racines de l’équation $z_2 = 1$, où z ∈ C, sont 1 et ω�
 
 
 
-Pour déterminer l’accélération due à la gravité, on fait tomber une petite sphère métallique à partir de l’état de repos et on mesure le temps qu’elle prend pour tomber d’une distance connue et pour ouvrir une trappe.
+**(a) Distance de la chute du centre de masse** La distance de la chute du centre de masse de la sphère est égale à la distance entre le point de relâchement et la trappe plus le rayon de la sphère. Avec une incertitude, cela donne :
 
-Diamètre de la sphère métallique =  12,0 $\pm$  0,1mm 
-Distance entre le point de relâchement et la trappe =  654 $\pm$ 2mm 
-Temps mesuré de la chute =  0,363 $\pm$ 0,002s
+Distance entre le point de relâchement et la trappe = (0,654 \pm 0,002) m
 
-(a) Déterminez la distance de la chute, en m, du centre de masse de cette sphère en mentionnant, dans votre réponse, une estimation de l’incertitude absolue.
+Rayon de la sphère métallique = $$(\frac{12,0 \pm 0,1}{2}) mm = (0,006 \pm 0,00005)$$ m
 
-(b) En utilisant l’équation ci-dessous : 
-
-$$accélaration= \frac{2\times \text{distance de la chute du centre de masse de la sphère}}{\text{(temps mesuré de la chute)}^2}$$
-
-calculez, pour ces données, l’accélération due à la gravité en mentionnant, dans votre réponse, une estimation de l’incertitude absolue.
+Distance du centre de masse à la trappe = $(0,654 + 0,006 \pm 0,002 \pm 0,00005) m = (0,660 \pm 0,00205)$ m
