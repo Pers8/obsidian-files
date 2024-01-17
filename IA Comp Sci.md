@@ -76,3 +76,24 @@ Par exemple, les racines de l’équation $z_2 = 1$, où z ∈ C, sont 1 et ω�
 
 (a) (i) Montrez que $(ω - 1)(ω^2 + ω + 1) = ω^3 - 1$.
 (ii) À partir de là, déduisez que $ω^2 + ω + 1 = 0$.
+
+
+
+
+
+
+
+
+Pour déterminer l’accélération due à la gravité, on fait tomber une petite sphère métallique à partir de l’état de repos et on mesure le temps qu’elle prend pour tomber d’une distance connue et pour ouvrir une trappe.
+
+Diamètre de la sphère métallique =  12,0 $\pm$  0,1mm 
+Distance entre le point de relâchement et la trappe =  654 $\pm$ 2mm 
+Temps mesuré de la chute =  0,363 $\pm$ 0,002s
+
+(a) Déterminez la distance de la chute, en m, du centre de masse de cette sphère en mentionnant, dans votre réponse, une estimation de l’incertitude absolue.
+
+(b) En utilisant l’équation ci-dessous : 
+
+$$accélaration= \frac{2\times \text{distance de la chute du centre de masse de la sphère}}{\text{(temps mesuré de la chute)}^2}$$
+
+calculez, pour ces données, l’accélération due à la gravité en mentionnant, dans votre réponse, une estimation de l’incertitude absolue.
