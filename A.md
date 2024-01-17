@@ -29,3 +29,12 @@ Si tu résous ce que je ne vais pas montrer car ut dois savoir le faire :
 $$a = \pm \sqrt{21}$$
 Mais comme on a dit dans l'énoncé que $a > 0$ alors :
 $$\boxed{\Large{a=\sqrt{21}}}$$
+
+(d) Indiquez les trois solutions de l’équation $f_n′(x) = 0$.
+(e) Montrez que le point $(\frac{a}{2};f_n(\frac{a}{2}))$ sur la représentation graphique de $y = f_n (x)$ est toujours au-dessus de l’axe horizontal.
+(f) À partir de là, ou par toute autre méthode, montrez que $f_n'(\frac{a}{4}) > 0$ pour n ∈ $\mathbb Z^+$ .
+(g) En utilisant le résultat de la partie (f) et en considérant le signe de $f_n'(-1)$, montrez que le point (0 ; 0) sur la représentation graphique de $y = f_n (x)$ est :
+	(i) un minimum relatif pour les valeurs paires de n, où n > 1 et a ∈ $\mathbb R^+$ ;
+	(ii) un point d’inflexion de pente nulle pour les valeurs impaires de n , où n > 1 et a ∈ $\mathbb R^+$.
+Considérez la représentation graphique de $y = x^n(a - x)^n - k$, où n ∈ $\mathbb Z^+$ , a ∈ $\mathbb R^+$ et k ∈ $\mathbb R$.
+(h) Indiquez les conditions sur n et k pour que l’équation $x^n(a - x)^n = k$ admette quatre solutions pour x .
