@@ -189,3 +189,4 @@ Mesures de Performance : Évaluer les modèles en utilisant des métriques stand
 Comparaison des Résultats : Comparer les performances des deux architectures en termes de précision de classification, vitesse d'entraînement, et efficacité en ressources (comme la consommation de mémoire et de temps de calcul).
 Discussion sur l'Architecture : Analyser comment les différences structurelles entre ResNet et VGG16 affectent leur performance. Par exemple, examiner l'impact des connexions résiduelles de ResNet sur la capacité du modèle à apprendre des caractéristiques profondes.
 Applications Pratiques : Discuter des implications pratiques des résultats, comme le choix de l'architecture en fonction du type de tâche de classification d'images, des ressources disponibles, et des exigences en termes de précision.
+
