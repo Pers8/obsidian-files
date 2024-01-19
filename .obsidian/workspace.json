@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Math.md",
+                "file": "Extended Essai.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.md",
+                "file": "Extended Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.md",
+                "file": "Extended Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.md"
+                "file": "Extended Essai.md"
               }
             }
           },
@@ -246,8 +246,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc968904c29a3a22",
+  "active": "5d5f1240ed448c00",
   "lastOpenFiles": [
+    "Lois des sinus et cosinus.md",
+    "IB/Maths.md",
+    "IA Math.md",
     "A.md",
     "Applications de la conservation de p.md",
     "Analyse d'extrait Français B.md",
@@ -258,7 +261,6 @@
     "Content.md",
     "TOK Exhibition.md",
     "Français Exos Tle IB.md",
-    "IA Math.md",
     "IA Econ.md",
     "IA Comp Sci.md",
     "assets/Pasted image 20240116090508.png",
@@ -266,7 +268,6 @@
     "TOK essayy.md",
     "IA Physique.md",
     "Nombres complexes.md",
-    "IB/Maths.md",
     "Identités trigonométriques.md",
     "Excalidraw/Drawing 2024-01-10 13.51.49.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
@@ -277,7 +278,6 @@
     "assets/Pasted image 20240109213717.png",
     "Info - Révisions.md",
     "Info.md",
-    "Essai.md",
-    "Français Devoirs.md"
+    "Extended Essai.md"
   ]
 }
