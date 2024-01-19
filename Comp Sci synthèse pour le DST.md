@@ -1,4 +1,3 @@
-- **Le modèle de traitement des ordinateurs** : C’est le concept qui décrit comment un système informatique reçoit des données en entrée, les traite selon des instructions et produit un résultat en sortie. Il implique également le stockage des données et des instructions dans la mémoire. Par exemple, un appareil photo numérique suit ce modèle en captant la lumière, en la transformant en image numérique et en l’affichant sur l’écran.
 - **Le CPU et ses éléments** : Le CPU (unité centrale de traitement) est le composant matériel qui effectue les opérations arithmétiques, logiques ou d’entrée/sortie sur les données. Il contient les éléments suivants :
     - L’UC (unité de contrôle) : Elle contrôle le fonctionnement du CPU en extrayant, décodant et exécutant les instructions de la mémoire principale (RAM).
     - L’UAL (unité arithmétique et logique) : Elle effectue les calculs et les comparaisons sur les données fournies par l’UC.
