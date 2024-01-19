@@ -4,14 +4,18 @@ tags: []
 
 
 - **Le CPU et ses éléments**:: Le CPU (unité centrale de traitement) est le composant matériel qui effectue les opérations arithmétiques, logiques ou d’entrée/sortie sur les données. Il contient les éléments suivants :
+
     - L’UC (unité de contrôle):: Elle contrôle le fonctionnement du CPU en extrayant, décodant et exécutant les instructions de la mémoire principale (RAM).
+    
     - L’UAL (unité arithmétique et logique):: Elle effectue les calculs et les comparaisons sur les données fournies par l’UC.
+    
     - Les registres:: Ce sont de petits circuits qui stockent temporairement les valeurs intermédiaires des calculs ou des instructions. Les plus importants sont le MAR (registre d’adresses mémoire), le MDR (registre de données mémoire) et l’accumulateur.
+    
 - **L’unité de mémoire des systèmes informatiques**:: C’est le composant qui stocke les données et les instructions sous forme de séquences de chiffres binaires (bits). Un bit ne peut avoir que deux valeurs : 1 ou 0. Huit bits forment un octet. La mémoire se mesure en octets ou en multiples d’octets (Mo, Go, etc.).
 - **Le bus de mémoire**:: C’est la connexion qui permet au CPU de communiquer avec la mémoire principale. Il transporte les adresses mémoire et les données entre le CPU et la RAM.
-- **Le modèle de traitement des ordinateurs**:: C’est le concept qui décrit comment un système informatique reçoit des données en entrée, les traite selon des instructions et produit un résultat en sortie. Il implique également le stockage des données et des instructions dans la mémoire. Par exemple, un appareil photo numérique suit ce modèle en captant la lumière, en la transformant en image numérique et en l’affichant sur l’écran.
 
 - **La mémoire primaire**:: c’est la mémoire qui est directement accessible par le CPU (via les bus). Elle peut contenir à la fois des données et des instructions qui sont en cours d’exécution sur le système informatique. Ces données et instructions sont stockées sous forme de code machine binaire. La mémoire primaire est volatile, c’est-à-dire qu’elle perd son contenu en cas de coupure de courant.
+- 
 - **La mémoire RAM**:: c’est un type de mémoire primaire qui contient les programmes et les données de l’utilisateur qui ont été chargés depuis le démarrage du système. RAM signifie Random Access Memory, ce qui signifie qu’on peut accéder à n’importe quelle adresse de la mémoire en un temps constant. La mémoire RAM est généralement évolutive, c’est-à-dire qu’on peut augmenter sa capacité en ajoutant des modules de mémoire supplémentaires.
 - **La mémoire ROM**:: c’est un autre type de mémoire primaire qui contient le BIOS (Basic Input Output System), un petit programme qui permet à l’ordinateur de savoir quoi faire pour trouver le système d’exploitation afin de démarrer l’ordinateur après la remise sous tension. ROM signifie Read Only Memory, ce qui signifie que son contenu est statique et ne peut pas être modifié. La mémoire ROM est non-volatile, c’est-à-dire qu’elle conserve son contenu même en cas de coupure de courant. La mémoire ROM fait généralement partie de la carte mère et est difficile à mettre à niveau.
 - **La mémoire cache**:: c’est une petite mémoire à grande vitesse située à l’intérieur de l’unité centrale, utilisée pour conserver les données fréquemment utilisées, de sorte que le CPU doit accéder moins fréquemment à la mémoire RAM, beaucoup plus lente. La mémoire cache est une RAM (SRAM) plus petite et plus rapide qui stocke temporairement des instructions et des données. Il existe deux principaux types de mémoire cache : le cache L1, qui est placé sur le microprocesseur lui-même, et le cache L2, qui est placé entre la mémoire principale et le microprocesseur.
