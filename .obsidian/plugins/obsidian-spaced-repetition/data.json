@@ -4,7 +4,8 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards"
+      "#physics",
+      "#computer_science"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
