@@ -14,14 +14,11 @@
 4. Résultats Expérimentaux
     1. Table des résultats
     2. Graphes et interprétation
-5. Analyse
-    1. Mesure d'évaluation
-    2. Analysse des résultats
-    3. Réflexion sur l'expérience
-6. Conclusion 
-    1. Sythèse des découvertes
-    2. Contraintes et limitations
-    3. Conclusion
+5. Analyse et conclusion
+	1. Mesure d'évaluation
+	2. Analyse des résultats
+	3. Contraintes et limitations
+	4. Conclusion
 ```
 
 # 1. Introduction
