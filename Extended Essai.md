@@ -13,7 +13,7 @@
     3. Configuration des modèles
 4. Résultats Expérimentaux
     1. Table des résultats
-    2. Graphes et interprétation
+    2. Graphes des résultats
 5. Analyse et conclusion
 	1. Mesure d'évaluation
 	2. Analyse des résultats
