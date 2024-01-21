@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK Exhibition.md",
+                "file": "Extended Essai.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Sci synthèse pour le DST.md",
+                "file": "Extended Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Sci synthèse pour le DST.md",
+                "file": "Extended Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Sci synthèse pour le DST.md"
+                "file": "Extended Essai.md"
               }
             }
           },
@@ -246,12 +246,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5f1240ed448c00",
+  "active": "45cb4c1ed54fd927",
   "lastOpenFiles": [
-    "Style.md",
-    "Comp Sci synthèse pour le DST.md",
-    "ds.md",
+    "IA Comp Sci.md",
     "Extended Essai.md",
+    "TOK Exhibition.md",
+    "IA Econ.md",
+    "Comp Sci synthèse pour le DST.md",
+    "Style.md",
+    "ds.md",
     "Lois des sinus et cosinus.md",
     "IB/Maths.md",
     "IA Math.md",
@@ -263,10 +266,7 @@
     "2.3 Travail, Puissance et Energie.md",
     "_Radioactiviteword.pdf",
     "Content.md",
-    "TOK Exhibition.md",
     "Français Exos Tle IB.md",
-    "IA Econ.md",
-    "IA Comp Sci.md",
     "assets/Pasted image 20240116090508.png",
     "TOK ESSAY.md",
     "TOK essayy.md",
