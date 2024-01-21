@@ -187,3 +187,8 @@ Comparaison des Résultats : Comparer les performances des deux architectures en
 Discussion sur l'Architecture : Analyser comment les différences structurelles entre ResNet et VGG16 affectent leur performance. Par exemple, examiner l'impact des connexions résiduelles de ResNet sur la capacité du modèle à apprendre des caractéristiques profondes.
 Applications Pratiques : Discuter des implications pratiques des résultats, comme le choix de l'architecture en fonction du type de tâche de classification d'images, des ressources disponibles, et des exigences en termes de précision.
 
+
+
+
+
+	
