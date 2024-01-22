@@ -122,7 +122,20 @@ Faites bien attention à la grammaire. Dans l’exercice où vous devez trouver 
 
 
 
-Try to do this exercice using IB Math AA HL logic in the IB program : 
-Consider the curve $y = (kx - 1)\ln(2x)$ where $k \in \mathbb R$ and $x > 0$.
-The tangent to the curve at $x=2$ is perpendicular to the line $y=\frac{2}{5+4\ln4}x$
-Find the value of $k$
+So in my python code here something the nav bar : 
+
+HTML : 
+`<a href="https://discord.gg/BaPADtmkdg"><img src="img/discord logo white.png" alt="discord" class="discord" id="big-btnd"></a>`
+
+CSS :
+`.discord {
+
+    width: 27px;
+
+    margin-right: -215px;
+
+    cursor: pointer;
+
+}`
+
+I would like to replace the discord button by a log in button where when I press log in, it will connect my discord account to the website and when it's successful it will only display my discord pfp and discord user next to it only and will remove the log in button, when I hover my pfp, it will show below a logout option and when I click it, it disconnects you to your discord account from the website and it will re-show the log in button
