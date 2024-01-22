@@ -139,3 +139,5 @@ CSS :
 }`
 
 I would like to replace the discord button by a log in button where when I press log in, it will connect my discord account to the website and when it's successful it will only display my discord pfp and discord user next to it only and will remove the log in button, when I hover my pfp, it will show below a logout option and when I click it, it disconnects you to your discord account from the website and it will re-show the log in button
+
+
