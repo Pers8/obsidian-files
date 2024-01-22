@@ -119,3 +119,6 @@ Identifiez bien où vous devez trouver l’information (« d’après le paragr
 Essayez de répondre à la question sans ajouter de détails qui ne sont pas pertinents. Si vous recopiez un passage entier du texte, vous n’obtiendrez pas de points, même si une partie du passage contient la bonne réponse !
 
 Faites bien attention à la grammaire. Dans l’exercice où vous devez trouver un mot équivalent, identifiez bien la fonction du mot. L’équivalent d’un nom sera aussi un nom. L'équivalent d’un verbe à l’imparfait à la 3ème personne du pluriel sera aussi un verbe à l’imparfait à la 3ème personne du pluriel !
+
+
+Consider the curve $y = (kx - 1)$
