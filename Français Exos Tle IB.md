@@ -121,4 +121,8 @@ Essayez de répondre à la question sans ajouter de détails qui ne sont pas per
 Faites bien attention à la grammaire. Dans l’exercice où vous devez trouver un mot équivalent, identifiez bien la fonction du mot. L’équivalent d’un nom sera aussi un nom. L'équivalent d’un verbe à l’imparfait à la 3ème personne du pluriel sera aussi un verbe à l’imparfait à la 3ème personne du pluriel !
 
 
-Consider the curve $y = (kx - 1)$
+
+Try to do this exercice using IB Math AA HL logic in the IB program : 
+Consider the curve $y = (kx - 1)\ln(2x)$ where $k \in \mathbb R$ and $x > 0$.
+The tangent to the curve at $x=2$ is perpendicular to the line $y=\frac{2}{5+4\ln4}x$
+Find the value of $k$
