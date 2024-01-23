@@ -122,22 +122,21 @@ Faites bien attention à la grammaire. Dans l’exercice où vous devez trouver 
 
 
 
-So in my python code here something the nav bar : 
+Voici des exos et essaye de répondre ne utilisant la logique de L'IB Math AA HL 
 
-HTML : 
-`<a href="https://discord.gg/BaPADtmkdg"><img src="img/discord logo white.png" alt="discord" class="discord" id="big-btnd"></a>`
-
-CSS :
-`.discord {
-
-    width: 27px;
-
-    margin-right: -215px;
-
-    cursor: pointer;
-
-}`
-
-I would like to replace the discord button by a log in button where when I press log in, it will connect my discord account to the website and when it's successful it will only display my discord pfp and discord user next to it only and will remove the log in button, when I hover my pfp, it will show below a logout option and when I click it, it disconnects you to your discord account from the website and it will re-show the log in button
-
-
+On considère le nombre complexe $\omega = e^{\frac{2 \pi i}{3}}$.
+1. (a) Écrivez $ω$ et $ω^2$ sous forme algébrique. 
+(b) Montrez que $1+ω+ω^2=0$ et $ω^2=ω^∗$. 
+2. On cherche les nombres complexes $z$ vérifiant la condition : $|z|=|1+z|=1$ 
+a) Montrez que $ω$ satisfait la condition 
+(b) Montrez que si un nombre complexe $z =x+iy$ vérifie la condition alors $x = -\frac{1}{2}$.
+(c) À partir de là montrez que ω et ω∗ sont les seuls complexes satisfaisant la condition
+3. Soit A, B et C, d’affixes respectives a, b et c, trois points du cercle ( Γ ) de centre O et de rayon R. 
+On suppose que O est le centre de gravité du triangle ABC et cela se traduit l’aide de nombres complexes par l’égalité $a+b+c =0$. 
+On pose $p = \frac{b}{a}$ et $q = \frac{c}{a}$. 
+(a) Montrez que $|p|=|q|=1$ et que $1+p=−q$. 
+(b) Montrez à l’aide de 2.c que $p =ω$ ou $p =ω^∗$. 
+Dans ce qui suit, on suppose que p =ω. 
+(c) Montrez que $q =ω^2$ 
+(d) Montrez que $b−a=(ω−1)a$; $c−b=(ω−1)b$; $c−a=(ω^∗−1)a$
+(e) À partir de là montrez que le triangle ABC est équilatéral. 
