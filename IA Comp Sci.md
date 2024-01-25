@@ -27,4 +27,4 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 
 
-Click on the login button, 
+LOGIN : Click on the login button, Redirect the user to the OAuth2 URL, which will prompt them to authorize your application and grant the requested permissions such having accept to the user's profile picture and username, 
