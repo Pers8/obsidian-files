@@ -27,4 +27,4 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 
 
-LOGIN : Click on the login button, Redirect the user to the OAuth2 URL, which will prompt them to authorize your application and grant the requested permissions such having accept to the user's profile picture and username, 
+LOGIN : Click on the login button, Redirect the user to the OAuth2 URL, which will prompt them to authorize your application and grant the requested permissions such having accept to the user's profile picture and username, If the user's discord ID correspond to an admin's user discord id then the user who's an admin can add new works (Images from their work in the portfolio page) directly to assigned topic, should be able to add game link + visit count from the website. They can add discounts that will adjust prices automatically. They will be able to see all current orders and able to see past order logs. If it's not an admin, the user will be able to create an order
