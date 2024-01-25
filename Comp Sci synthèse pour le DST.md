@@ -109,3 +109,68 @@ Voici les étapes du cycle Fetch - Execute::
     - NOR : Climatisation : La climatisation ne se met en marche (1) que si les DEUX fenêtres A et B sont fermées.
     - XOR : 2 interrupteurs d’éclairage dans un couloir
 - **Le passage d’une expression logique à une table de vérité ou à un diagramme logique** : Une expression logique est une combinaison d’opérateurs booléens et de variables booléennes. Pour passer d’une expression logique à une table de vérité, il faut énumérer toutes les valeurs possibles des variables et calculer la valeur de l’expression pour chaque cas. Pour passer d’une expression logique à un diagramme logique, il faut représenter chaque opérateur booléen par sa porte logique correspondante et connecter les entrées et les sorties selon l’ordre des opérations.
+$$
+\begin{align*}
+\text{Given: } & \sqrt{x} + \sqrt{y} = \sqrt{a}, \quad a > 0 \\
+\text{Let: } & P = (p, q), \quad p > 0, \quad q > 0 \\
+\text{To show: } & m + n = a \\
+\text{Solution: } & \\
+\text{Step 1: Differentiate implicitly with respect to } x & \\
+\frac{d}{dx}(\sqrt{x} + \sqrt{y}) &= \frac{d}{dx}(\sqrt{a}) \\
+\frac{1}{2\sqrt{x}} + \frac{1}{2\sqrt{y}} \frac{dy}{dx} &= 0 \\
+\frac{dy}{dx} &= -\frac{\sqrt{y}}{\sqrt{x}} \\
+\text{Step 2: Find the slope of the tangent at } P & \\
+\text{Substitute } x = p, \quad y = q \text{ into } \frac{dy}{dx} & \\
+\frac{dy}{dx} \bigg|_{(p, q)} &= -\frac{\sqrt{q}}{\sqrt{p}} \\
+\text{Step 3: Find the equation of the tangent at } P & \\
+\text{Use point-slope form: } y - y_1 = m(x - x_1) & \\
+y - q = -\frac{\sqrt{q}}{\sqrt{p}} (x - p) \\
+y = -\frac{\sqrt{q}}{\sqrt{p}} x + \frac{\sqrt{q}}{\sqrt{p}} p + q \\
+\text{Step 4: Find the intercepts of the tangent with the axes} & \\
+\text{For } x\text{-intercept, set } y = 0 & \\
+0 = -\frac{\sqrt{q}}{\sqrt{p}} x + \frac{\sqrt{q}}{\sqrt{p}} p + q \\
+x = \frac{p + \sqrt{pq}}{\sqrt{q}} \\
+\text{Let } n = \frac{p + \sqrt{pq}}{\sqrt{q}} & \\
+\text{For } y\text{-intercept, set } x = 0 & \\
+y = -\frac{\sqrt{q}}{\sqrt{p}} (0) + \frac{\sqrt{q}}{\sqrt{p}} p + q \\
+y = \frac{p + \sqrt{pq}}{\sqrt{p}} \\
+\text{Let } m = \frac{p + \sqrt{pq}}{\sqrt{p}} & \\
+\text{Step 5: Show that } m + n = a & \\
+m + n &= \frac{p + \sqrt{pq}}{\sqrt{p}} + \frac{p + \sqrt{pq}}{\sqrt{q}} \\
+&= \frac{p\sqrt{q} + pq + p\sqrt{q} + pq}{\sqrt{pq}} \\
+&= \frac{2(p\sqrt{q} + pq)}{\sqrt{pq}} \\
+&= \frac{2p(\sqrt{q} + q)}{\sqrt{pq}} \\
+&= \frac{2p(\sqrt{q} + \sqrt{q})}{\sqrt{pq}} \\
+&= \frac{4p\sqrt{q}}{\sqrt{pq}} \\
+&= \frac{4\sqrt{pq}}{\sqrt{pq}} \\
+&= 4 \\
+\text{But we know that } \sqrt{x} + \sqrt{y} = \sqrt{a} \text{ for any point on the curve} & \\
+\text{So at } P, \quad \sqrt{p} + \sqrt{q} = \sqrt{a} & \\
+\text{Squaring both sides, we get } p + q + 2\sqrt{pq} = a & \\
+\text{Subtracting } p + q \text{ from both sides, we get } 2\sqrt{pq} = a - (p + q) & \\
+\text{Dividing by } 2 \text{ and squaring again, we get } pq = \frac{(a - (p + q))^2}{4} & \\
+\text{Expanding the numerator, we get } pq = \frac{a^2 - 2ap - 2aq + p^2 + 2pq + q^2}{4} & \\
+\text{Multiplying by } 4 \text{ and simplifying, we get } 0 = a^2 - 4ap - 4aq + 4p^2 + 4q^2 & \\
+\text{This is a quadratic equation in terms of } a & \\
+\text{Using the quadratic formula, we get } a = \frac{4p + 4q \pm \sqrt{(4p + 4q)^2 - 4(4p^2 + 4q^2)}}{2} & \\
+\text{Simplifying, we get } a = 2p + 2q \pm 2\sqrt{pq} & \\
+\text{Since } a > 0, \quad p > 0, \quad q > 0, \text{ we take the positive root} & \\
+a = 2p + 2q + 2\sqrt{pq} & \\
+\text{Dividing by } 2, \text{ we get } \frac{a}{2} = p + q + \sqrt{pq} & \\
+\text{But we know that } m = \frac{p + \sqrt{pq}}{\sqrt{p}} \text{ and } n = \frac{p + \sqrt{pq}}{\sqrt{q}} & \\
+\text{Multiplying by } \sqrt{p} \text{ and } \sqrt{q} \text{ respectively, we get } m\sqrt{p} = p + \sqrt{pq} \text{ and } n\sqrt{q} = p + \sqrt{pq} & \\
+\text{Adding these two equations, we get } m\sqrt{p} + n\sqrt{q} = 2p + 2\sqrt{pq} & \\
+\text{Comparing with } \frac{a}{2} = p + q + \sqrt{pq}, \text{ we get } m\sqrt{p} + n\sqrt{q} = \frac{a}{2} + q & \\
+\text{Subtracting } q \text{ from both sides, we get } m\sqrt{p} + n\sqrt{q} - q = \frac{a}{2} & \\
+\text{Multiplying by } 2, \text{ we get } 2m\sqrt{p} + 2n\sqrt{q} - 2q = a & \\
+\text{Adding } 2q \text{ to both sides, we get } 2m\sqrt{p} + 2n\sqrt{q} = a + 2q & \\
+\text{Dividing by } 2, \text{ we get } m\sqrt{p} + n\sqrt{q} = \frac{a}{2} + q & \\
+\text{But we know that } \sqrt{x} + \sqrt{y} = \sqrt{a} \text{ for any point on the curve} & \\
+\text{So at } P, \quad \sqrt{p} + \sqrt{q} = \sqrt{a} & \\
+\text{Multiplying by } \sqrt{p}, \text{ we get } p + \sqrt{pq} = \sqrt{ap} & \\
+\text{Multiplying by } \sqrt{q}, \text{ we get } q + \sqrt{pq} = \sqrt{aq} & \\
+\text{Adding these two equations, we get } p + q + 2\sqrt{pq} = \sqrt{ap} + \sqrt{aq} & \\
+\text{Comparing with } m + n = \frac{p + \sqrt{pq}}{\sqrt{p}} + \frac{p + \sqrt{pq}}{\sqrt{q}}, \text{ we get } p + q + 2\sqrt{pq} = m + n & \\
+\text{Therefore, } m + n = a & \\
+\end{align*}
+$$

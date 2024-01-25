@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français Exos Tle IB.md",
+                "file": "Comp Sci synthèse pour le DST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français Exos Tle IB.md",
+                "file": "Comp Sci synthèse pour le DST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français Exos Tle IB.md"
+                "file": "Comp Sci synthèse pour le DST.md"
               }
             }
           },
@@ -246,14 +246,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6513ac27ad3b4cbc",
+  "active": "5d5f1240ed448c00",
   "lastOpenFiles": [
+    "Français Exos Tle IB.md",
+    "Comp Sci synthèse pour le DST.md",
+    "IA Comp Sci.md",
+    "IA Econ.md",
     "Applications de la conservation de p.md",
     "Extended Essai.md",
-    "IA Comp Sci.md",
     "TOK Exhibition.md",
-    "IA Econ.md",
-    "Comp Sci synthèse pour le DST.md",
     "Style.md",
     "ds.md",
     "Lois des sinus et cosinus.md",
@@ -266,7 +267,6 @@
     "2.3 Travail, Puissance et Energie.md",
     "_Radioactiviteword.pdf",
     "Content.md",
-    "Français Exos Tle IB.md",
     "assets/Pasted image 20240116090508.png",
     "TOK ESSAY.md",
     "TOK essayy.md",
