@@ -1,6 +1,7 @@
 **Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
-# **Maths Plan :** 
 
+***Table des matières :***
+```markdown
 1. **Introduction - 2 pages**
     - Présentation du sujet
     - Justification de l’importance du sujet
@@ -22,6 +23,7 @@
     - Résumé des résultats de l’étude
     - Réflexion sur les objectifs de l’étude et si ceux-ci ont été atteints
 7. **Références**
+```
 
 ### I. Introduction
 
