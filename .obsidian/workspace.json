@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications de la conservation de p.md",
+                "file": "IA Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Math.md",
+                "file": "IA Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Math.md",
+                "file": "IA Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Math.md"
+                "file": "IA Comp Sci.md"
               }
             }
           },
@@ -246,11 +245,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51138280bf64fd86",
+  "active": "93914afa9ed613db",
   "lastOpenFiles": [
+    "Applications de la conservation de p.md",
     "Extended Essai.md",
     "IA Math.md",
-    "Applications de la conservation de p.md",
     "Comp Sci synthèse pour le DST.md",
     "IA Econ.md",
     "Français Exos Tle IB.md",
