@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "Extended Essai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "Extended Essai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci.md"
+                "file": "Extended Essai.md"
               }
             }
           },
@@ -245,15 +246,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93914afa9ed613db",
+  "active": "45cb4c1ed54fd927",
   "lastOpenFiles": [
+    "IA Comp Sci.md",
     "Applications de la conservation de p.md",
     "Extended Essai.md",
     "IA Math.md",
     "Comp Sci synthèse pour le DST.md",
     "IA Econ.md",
     "Français Exos Tle IB.md",
-    "IA Comp Sci.md",
     "A.md",
     "TOK Exhibition.md",
     "Style.md",
