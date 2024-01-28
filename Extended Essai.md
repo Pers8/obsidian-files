@@ -192,4 +192,27 @@ Applications Pratiques : Discuter des implications pratiques des résultats, com
 
 
 	
-You can use intersection types to limit the possible types of a generic type like for example if you have a type union Enforced = number | Vector2 | Vector3 you can use T & Enforce to mean that T must be one of those types and this way you can write a generic function that only accepts arguments of the same type and that type must be either number, Vector2, or Vector3
+You can use intersection types to limit the possible types of a generic type like for example if you have a type union ```Enforced = number | Vector2 | Vector3``` you can use T & Enforce to mean that T must be one of those types and this way you can write a generic function that only accepts arguments of the same type and that type must be either number, Vector2, or Vector3. Here's any example :
+
+```lua
+type Enforced = number | Vector2 | Vector3
+
+  
+
+local function lerp<T: Enforced>(from: T, to: T, alpha: number): T
+
+  -- do the lerping
+
+  -- you may need to cast the arguments and the return value to any and T respectively
+
+end
+
+  
+
+local x = lerp(1, 2, 0.5) -- ok
+
+local y = lerp(Vector2.one, Vector3.one, 0.5) -- not ok
+
+local z = lerp(true, false, 0.5) -- not ok
+```
+
