@@ -9,4 +9,8 @@ Les conditions aux limites imposent les modes propres de vibration
 
 ## a) Corde tendu à ses deux extrémités
 
-Selon la fréquence
+Selon la fréquence, on peut avoir ces différents mode de vibration
+$$L=\frac{\lambda}{2}$$
+$$\lambda = 2L$$
+$$vT=\frac{v}{f}=2L$$
+$$\boxed{T=\frac{2L}{v}}$$
