@@ -14,3 +14,6 @@ $$L=\frac{\lambda}{2}$$
 $$\lambda = 2L$$
 $$vT=\frac{v}{f}=2L$$
 $$\boxed{T=\frac{2L}{v}}$$
+$$\text{Donc : } \boxed{T=\frac{2L}{nv}}$$
+
+## b) Tube ouvert à ses 2 extrémités
