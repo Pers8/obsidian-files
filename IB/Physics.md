@@ -110,7 +110,7 @@ $$
 4. [[Interférence]]
 ## 5. Ondes stationnaires
 1. [[Définition d'une onde stationnaire]]
-
+2. [[Les modes propres de vibration]]
 # Theme 5 - Electricité et Magnétisme
 ## 1. Champ électrique
 0. [[Rappel d'électrostatique]]

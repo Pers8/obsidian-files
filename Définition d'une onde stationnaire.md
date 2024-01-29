@@ -13,7 +13,7 @@ une onde stationnaires résulte de la superposition de deux ondes progressives d
 
 ## b) Interprétation
 
-
+![[Interpretation Ondes stationnaire 1.docx]]
 ## c) Différence entre Onde Stationnaire et onde progressive
 
 | Propriété | Onde Progressive | Onde Stationnaire |
