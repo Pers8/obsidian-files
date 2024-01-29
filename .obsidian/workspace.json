@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci.md",
+                "file": "Définition d'une onde stationnaire.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extended Essai.md",
+                "file": "Définition d'une onde stationnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extended Essai.md",
+                "file": "Définition d'une onde stationnaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extended Essai.md"
+                "file": "Définition d'une onde stationnaire.md"
               }
             }
           },
@@ -246,13 +245,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45cb4c1ed54fd927",
+  "active": "93914afa9ed613db",
   "lastOpenFiles": [
+    "IB/Physics.md",
+    "Définition d'une onde stationnaire.md",
+    "Définition d’une onde progressive.md",
+    "Reflexion.md",
+    "Interférence.md",
     "IA Comp Sci.md",
-    "Applications de la conservation de p.md",
-    "Extended Essai.md",
-    "IA Math.md",
     "Comp Sci synthèse pour le DST.md",
+    "Extended Essai.md",
+    "Applications de la conservation de p.md",
+    "IA Math.md",
     "IA Econ.md",
     "Français Exos Tle IB.md",
     "A.md",
@@ -271,13 +275,8 @@
     "TOK ESSAY.md",
     "TOK essayy.md",
     "IA Physique.md",
-    "Nombres complexes.md",
-    "Identités trigonométriques.md",
-    "Excalidraw/Drawing 2024-01-10 13.51.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-10 05.12.42.excalidraw.md",
     "assets/Pasted image 20240111150115.png",
     "assets/Pasted image 20240111145849.png",
-    "Excalidraw/Drawing 2024-01-09 21.22.00.excalidraw.md",
     "assets/Pasted image 20240109213717.png"
   ]
 }
