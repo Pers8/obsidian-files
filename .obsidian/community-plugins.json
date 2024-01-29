@@ -12,5 +12,7 @@
   "canvas-mindmap",
   "obsidian-pandoc",
   "obsidian-latex",
-  "better-mathjax"
+  "better-mathjax",
+  "obsidian-languagetool-plugin",
+  "obsidian-icon-folder"
 ]
