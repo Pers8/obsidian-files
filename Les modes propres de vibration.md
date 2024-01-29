@@ -17,3 +17,10 @@ $$\boxed{T=\frac{2L}{v}}$$
 $$\text{Donc : } \boxed{T=\frac{2L}{nv}}$$
 
 ## b) Tube ouvert à ses 2 extrémités
+
+![[Pasted image 20240129114931.png]]
+
+## c) Tube fermé à une de ces extrémités
+
+Ici on observe que les harmoniques sont impaires :
+![[Pasted image 20240129115239.png]]
