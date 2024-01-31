@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les modes propres de vibration.md",
+                "file": "IB/Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les modes propres de vibration.md",
+                "file": "IB/Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les modes propres de vibration.md",
+                "file": "IB/Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les modes propres de vibration.md"
+                "file": "IB/Physics.md"
               }
             }
           },
@@ -247,14 +247,16 @@
   },
   "active": "93914afa9ed613db",
   "lastOpenFiles": [
+    "Définition d'une onde stationnaire.md",
+    "IB/Physics.md",
+    "Les modes propres de vibration.md",
+    "IA Econ.md",
+    "Extended Essai.md",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
     "assets/Pasted image 20240129114858.png",
     "A.md",
     "Excalidraw/Drawing 2024-01-29 11.46.00.excalidraw.md",
-    "Les modes propres de vibration.md",
-    "IB/Physics.md",
-    "Définition d'une onde stationnaire.md",
     "assets/Interpretation Ondes stationnaire 1.docx",
     "assets/Interpretation Ondes stationnaire.docx",
     "Interpretation Ondes stationnaire.docx",
@@ -264,10 +266,8 @@
     "Interférence.md",
     "IA Comp Sci.md",
     "Comp Sci synthèse pour le DST.md",
-    "Extended Essai.md",
     "Applications de la conservation de p.md",
     "IA Math.md",
-    "IA Econ.md",
     "Français Exos Tle IB.md",
     "TOK Exhibition.md",
     "Style.md",
