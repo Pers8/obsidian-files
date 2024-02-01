@@ -38,3 +38,12 @@ des entreprises.
 (e) Il y’a une hausse du salaire minimum.
 ![[Y increasing]]
 
+
+
+---
+## Economie mondiale
+
+Exo : Dans les échanges entre le Nigéria et les USA, on a constaté que les exportations américaines vers le Nigéria ont baissé.
+**Quel est l'impact de cette baisse sur le taux de change entre le Naira et le dollar?**
+
+Un baisse du niveau d'exportations va entre une baisse du taux de change car comme nous pouvons le voir, cela va causer une baisse de la demande du taux de 

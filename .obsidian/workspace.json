@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOK ESSAY.md",
+                "file": "Eco TD2.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,6 +90,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3066f9b2fccecf45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-01 13.34.06.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -157,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK ESSAY.md",
+                "file": "Eco TD2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK ESSAY.md",
+                "file": "Eco TD2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK ESSAY.md"
+                "file": "Eco TD2.md"
               }
             }
           },
@@ -247,11 +257,14 @@
   },
   "active": "93914afa9ed613db",
   "lastOpenFiles": [
+    "IA Econ.md",
+    "Excalidraw/Drawing 2024-02-01 13.34.06.excalidraw.md",
+    "Eco TD2.md",
+    "TOK ESSAY.md",
     "TOK essayy.md",
     "IB/Physics.md",
     "Définition d'une onde stationnaire.md",
     "Les modes propres de vibration.md",
-    "IA Econ.md",
     "Extended Essai.md",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
@@ -277,10 +290,7 @@
     "IB/Maths.md",
     "Analyse d'extrait Français B.md",
     "Algorithme.md",
-    "Accélération.md",
-    "2.3 Travail, Puissance et Energie.md",
     "_Radioactiviteword.pdf",
-    "Content.md",
     "assets/Pasted image 20240116090508.png",
     "assets/Pasted image 20240111150115.png",
     "assets/Pasted image 20240111145849.png",
