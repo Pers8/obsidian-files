@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Econ.md",
+                "file": "IA Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,16 +92,29 @@
             }
           },
           {
-            "id": "3066f9b2fccecf45",
+            "id": "7f58bfb3baae1a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forces magnétique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c26b913bb70276",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 13.34.06.excalidraw.md"
+                "file": "Excalidraw/Calculus.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eco TD2.md",
+                "file": "Excalidraw/Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eco TD2.md",
+                "file": "Excalidraw/Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eco TD2.md"
+                "file": "Excalidraw/Calculus.md"
               }
             }
           },
@@ -255,21 +268,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93914afa9ed613db",
+  "active": "82c26b913bb70276",
   "lastOpenFiles": [
+    "assets/Pasted Image 20240203083852_474.png",
+    "Excalidraw/Calculus.md",
+    "Forces magnétique.md",
+    "IB/Physics.md",
+    "Les modes propres de vibration.md",
+    "Définition d'une onde stationnaire.md",
+    "IA Comp Sci.md",
     "IA Econ.md",
+    "A.md",
     "Excalidraw/Drawing 2024-02-01 13.34.06.excalidraw.md",
+    "Comp Sci synthèse pour le DST.md",
+    "Français Exos Tle IB.md",
+    "IA Math.md",
     "Eco TD2.md",
     "TOK ESSAY.md",
     "TOK essayy.md",
-    "IB/Physics.md",
-    "Définition d'une onde stationnaire.md",
-    "Les modes propres de vibration.md",
     "Extended Essai.md",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
     "assets/Pasted image 20240129114858.png",
-    "A.md",
     "Excalidraw/Drawing 2024-01-29 11.46.00.excalidraw.md",
     "assets/Interpretation Ondes stationnaire 1.docx",
     "assets/Interpretation Ondes stationnaire.docx",
@@ -278,18 +298,11 @@
     "Définition d’une onde progressive.md",
     "Reflexion.md",
     "Interférence.md",
-    "IA Comp Sci.md",
-    "Comp Sci synthèse pour le DST.md",
     "Applications de la conservation de p.md",
-    "IA Math.md",
-    "Français Exos Tle IB.md",
     "TOK Exhibition.md",
     "Style.md",
     "ds.md",
     "Lois des sinus et cosinus.md",
-    "IB/Maths.md",
-    "Analyse d'extrait Français B.md",
-    "Algorithme.md",
     "_Radioactiviteword.pdf",
     "assets/Pasted image 20240116090508.png",
     "assets/Pasted image 20240111150115.png",
