@@ -1,29 +1,32 @@
 **Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
 
-***Table des matières :***
 ```markdown
-1. **Introduction - 2 pages**
-    - Présentation du sujet
-    - Justification de l’importance du sujet
-    - Objectifs de l’étude
-2. **Définitions et concepts clés - 3-4 pages**
-    - Définition des nombres imaginaires
-    - Introduction à l’ingénierie électronique
-    - Comportement des circuits électroniques
-3. **Méthodologie - 3-4 pages**
-    - Description des méthodes mathématiques utilisées
-    - Explication de comment ces méthodes sont appliquées aux nombres imaginaires et aux circuits électroniques
-4. **Analyse - 6-8 pages**
-    - Application des méthodes mathématiques aux nombres imaginaires dans le contexte des circuits électroniques
-    - Interprétation des résultats
-5. **Discussion - 3-4 pages**
-    - Évaluation de l’efficacité de l’utilisation des nombres imaginaires pour décrire le comportement des circuits électroniques
-    - Discussion des implications de ces résultats pour l’ingénierie électronique
-6. **Conclusion - 2 pages**
-    - Résumé des résultats de l’étude
-    - Réflexion sur les objectifs de l’étude et si ceux-ci ont été atteints
-7. **Références**
+# Table des matières 
+1. **Introduction** (2 pages) 
+- Présentation du sujet 
+- Objectifs de l'essai 
+- Aperçu de la structure de l'essai 
+2. **Contexte historique** (3 pages) 
+- Origine des nombres imaginaires 
+- Évolution de leur utilisation en mathématiques et en ingénierie 
+3. **Concepts de base** (4 pages) 
+- Définition et propriétés des nombres imaginaires 
+- Introduction aux circuits électroniques 
+- Relation entre les nombres imaginaires et les circuits électroniques 
+4. **Applications en ingénierie** (8 pages) 
+- Utilisation des nombres imaginaires pour décrire le comportement des circuits électroniques 
+- Analyse des circuits en courant alternatif 
+- Simulation des circuits électroniques 
+- Études de cas 
+- Circuit de Chua 
+- Autres exemples pertinents 
+5. **Conclusion** (3 pages) 
+- Résumé des points clés 
+- Implications et applications futures 
+- Réflexions finales 
 ```
+
+
 
 ### I. Introduction
 

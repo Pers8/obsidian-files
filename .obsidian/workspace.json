@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Calculus.md",
+                "file": "IA Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Calculus.md",
+                "file": "IA Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Calculus.md"
+                "file": "IA Math.md"
               }
             }
           },
@@ -268,10 +268,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c26b913bb70276",
+  "active": "51138280bf64fd86",
   "lastOpenFiles": [
-    "assets/Pasted Image 20240203083852_474.png",
     "Excalidraw/Calculus.md",
+    "assets/Pasted Image 20240203083852_474.png",
     "Forces magnétique.md",
     "IB/Physics.md",
     "Les modes propres de vibration.md",
