@@ -27,6 +27,7 @@
 ```
 
 
+Donc voici mon mémoire en Computer Science HL dans le proogramme IB. Je vais te montrer ma structure pour mon mémoire, sujet et un exemple de quelque chose que je vais t'expliquer tout de suite. Donc je voulais écrire la partie "Datasets utilisés". J'ai utilisé Cifar-10 comme dataset pour mon mémoire et je voulais savoir si tu pouvais écrire en 120 mots en expliiquant je vais utilisé ce dataset et inspire toi de l'exemple ci-dessous :
 
 ### I. Introduction
 
