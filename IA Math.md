@@ -27,7 +27,7 @@
 ```
 
 
-Donc voici mon exploration de maths AA HL dans le programme IB. Je vais te montrer ma structure pour mon mémoire, sujet et mon introduction que j'ai eu à faire. Donc je voulais écrire la partie "Contexte historique". Pour mon exploration, je voulais savoir si tu pouvais écrire en 1.5 page pour chaque l'origine des nombres imaginaires et l'évolution de leur utilisation en mathématiques et en ingénierie où tu vas mettre pour la deuxième sous-partie si nécessaire des formules en latex et explique vraiment bien avec le moins d'utilisation de l'internet possible. N'oublie pas de préciser les parties où tu as mis les sources par exemple (... au 21e siècle. [1]) :
+Donc voici mon exploration de maths AA HL dans le programme IB. Je vais te montrer ma structure pour mon exploration, sujet et mon introduction que j'ai eu à faire. Donc je voulais écrire la partie "Contexte historique". Pour mon exploration, je voulais savoir si tu pouvais écrire en 1.5 page pour chaque l'origine des nombres imaginaires et l'évolution de leur utilisation en mathématiques et en ingénierie où tu vas mettre pour la deuxième sous-partie si nécessaire des formules en latex et explique vraiment bien avec le moins d'utilisation de l'internet possible. N'oublie pas de préciser les parties où tu as mis les sources par exemple (... au 21e siècle. [1]) :
 
 ### I. Introduction
 
