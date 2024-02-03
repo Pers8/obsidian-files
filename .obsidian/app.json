@@ -14,5 +14,8 @@
     "downscalePercent": 96
   },
   "tabSize": 4,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "spellcheckDictionary": [
+    "IB"
+  ]
 }
