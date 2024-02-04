@@ -118,4 +118,3 @@ QUESTION DE RECHERCHE : Comment les nombres imaginaires peuvent-ils être utilis
 
 Find the integral of $\int \sqrt{1+x^2}dx$
 
-Is $\frac{x\sqrt{1+x^2}}{2}+\frac{1}{2}\ln(x+\sqrt{1+x^2})=x+x^3-\frac{x^2}{4}$
