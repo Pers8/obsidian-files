@@ -116,4 +116,4 @@ Les nombres imaginaires, représentés mathématiquement par i, jouent un rôle 
 
 QUESTION DE RECHERCHE : Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
 
-Does $(x^2-1)^2=(x^2-1)(x^2-1)$?
+Write $\frac{x^2}{(x^2-1)^2}$ in 2 fractions
