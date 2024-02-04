@@ -49,19 +49,15 @@ L’objectif de cette exploration est d’explorer l’application des nombres c
 
 ## Contexte historique
 
-L'histoire des nombres imaginaires remonte à la Renaissance, avec des mathématiciens tels que Girolamo Cardano et Rafael Bombelli. Cardano, un médecin, philosophe et mathématicien de la Renaissance, est crédité de la première découverte des nombres imaginaires[4]. Cependant, c'est Bombelli qui a attiré l'attention sur les nombres imaginaires en travaillant avec l'Ars Magna de Cardano. Bombelli a été intrigué par l'idée de prendre la racine carrée d'un nombre négatif et, bien que ses découvertes n'aient pas conduit à une compréhension complète et à l'acceptation des nombres imaginaires, elles les ont sortis de l'obscurité et les ont mis en lumière[4].
+L'origine des nombres imaginaires remonte au 16ème siècle, avec des contributions significatives de plusieurs mathématiciens, notamment Gerolamo Cardano et Rafael Bombelli. Cardano a été l'un des premiers à prouver qu'un terme négatif à l'intérieur d'une racine carrée peut conduire à la solution d'une équation, une idée qui était auparavant considérée comme impossible[10]. Bombelli, quant à lui, a été le premier à établir les règles pour la multiplication des nombres complexes en 1572[1]. Ces avancées ont jeté les bases de l'utilisation des nombres imaginaires en mathématiques.
 
-Un autre mathématicien de la Renaissance, Rafael Bombelli, a écrit un livre intitulé "Algebra" en 1572, où il explique comment effectuer des opérations arithmétiques sur des nombres positifs, négatifs et imaginaires. Il a fait valoir que l'unité imaginaire (i n'a pas été utilisée comme symbole avant le 18ème siècle) était nécessaire pour résoudre certaines équations[1].
+Cependant, l'acceptation des nombres imaginaires n'a pas été immédiate. René Descartes, par exemple, a utilisé le terme "imaginaire" de manière péjorative au 17ème siècle, considérant ces nombres comme fictifs ou inutiles[1]. Malgré cela, le concept a gagné en acceptation au fil du temps, notamment grâce aux travaux de Leonhard Euler au 18ème siècle[1]. Euler a produit une formule qui a ensuite conduit au théorème de DeMoivre, contribuant ainsi à une meilleure compréhension et à une plus grande acceptation des nombres imaginaires[2].
 
-Au 18ème siècle, le mathématicien suisse Leonhard Euler a apporté des contributions significatives à l'analyse complexe. Il a introduit la notation i pour désigner $$\sqrt{-1}$$ et a défini les logarithmes pour les nombres complexes et négatifs, élargissant ainsi le champ d'application des logarithmes en mathématiques[2]. Euler est également célèbre pour sa formule, qui établit une relation fondamentale entre les fonctions trigonométriques et les nombres complexes : $$e^{i\varphi} = \cos \varphi + i\sin \varphi$$[2].
+Au 18ème siècle, les nombres complexes ont commencé à être utilisés de manière plus large. Par exemple, en 1730, Abraham de Moivre a noté que les identités reliant les fonctions trigonométriques d'un entier pouvaient être utilisées pour simplifier les calculs impliquant des nombres complexes[4]. En 1748, Euler a obtenu la formule d'Euler de l'analyse complexe, qui a permis de simplifier davantage les manipulations de nombres complexes[4].
 
-Au 18ème siècle également, le mathématicien français Abraham de Moivre a été parmi les premiers à relier les nombres complexes à la géométrie avec son théorème de 1707. Ce travail a permis de résoudre des problèmes algébriques complexes en utilisant la géométrie[1].
+L'importance géométrique des nombres complexes a également été reconnue au fil du temps. Par exemple, Caspar Wessel a été parmi les premiers à relier les nombres complexes à la géométrie avec son théorème de 1707[5]. Plus tard, Jean-Robert Argand a développé les diagrammes d'Argand, qui représentent les nombres réels et imaginaires sur des axes x et y, permettant ainsi de résoudre des problèmes algébriques complexes à l'aide de la géométrie[5].
 
-Ces avancées ont jeté les bases de l'utilisation des nombres imaginaires en mathématiques et en ingénierie, permettant de résoudre des problèmes autrement insolubles et de modéliser des phénomènes complexes. Aujourd'hui, les nombres imaginaires sont utilisés dans de nombreux domaines, notamment l'ingénierie électronique, où ils sont essentiels pour comprendre le comportement des circuits électroniques[3][6].
-
-
-
-
+Ces avancées ont jeté les bases de l'utilisation des nombres imaginaires en mathématiques et en ingénierie, permettant de résoudre des problèmes autrement insolubles et de modéliser des phénomènes complexes. Aujourd'hui, les nombres imaginaires sont utilisés dans de nombreux domaines, notamment l'ingénierie électronique, où ils sont essentiels pour comprendre le comportement des circuits électroniques[10].
 
 
 
