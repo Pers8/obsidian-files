@@ -47,8 +47,6 @@ L’objectif de cette exploration est d’explorer l’application des nombres c
 ### Contexte historique
 #### Origine des nombres imaginaires
 
-## Contexte historique
-
 L'origine des nombres imaginaires remonte au 16ème siècle, avec des contributions significatives de plusieurs mathématiciens, notamment Gerolamo Cardano et Rafael Bombelli. Cardano a été l'un des premiers à prouver qu'un terme négatif à l'intérieur d'une racine carrée peut conduire à la solution d'une équation, une idée qui était auparavant considérée comme impossible[10]. Bombelli, quant à lui, a été le premier à établir les règles pour la multiplication des nombres complexes en 1572[1]. Ces avancées ont jeté les bases de l'utilisation des nombres imaginaires en mathématiques.
 
 Cependant, l'acceptation des nombres imaginaires n'a pas été immédiate. René Descartes, par exemple, a utilisé le terme "imaginaire" de manière péjorative au 17ème siècle, considérant ces nombres comme fictifs ou inutiles[1]. Malgré cela, le concept a gagné en acceptation au fil du temps, notamment grâce aux travaux de Leonhard Euler au 18ème siècle[1]. Euler a produit une formule qui a ensuite conduit au théorème de DeMoivre, contribuant ainsi à une meilleure compréhension et à une plus grande acceptation des nombres imaginaires[2].
@@ -59,11 +57,21 @@ L'importance géométrique des nombres complexes a également été reconnue au 
 
 Ces avancées ont jeté les bases de l'utilisation des nombres imaginaires en mathématiques et en ingénierie, permettant de résoudre des problèmes autrement insolubles et de modéliser des phénomènes complexes. Aujourd'hui, les nombres imaginaires sont utilisés dans de nombreux domaines, notamment l'ingénierie électronique, où ils sont essentiels pour comprendre le comportement des circuits électroniques[10].
 
-
-
-
-
 #### Évolution de leur utilisation en mathématiques et en ingénierie 
+
+## Évolution de leur utilisation en mathématiques et en ingénierie
+
+Après l'introduction des nombres imaginaires par Cardano et Bombelli, de nombreux autres mathématiciens ont contribué à leur développement et à leur acceptation. Cependant, l'acceptation de ces nombres n'a pas été immédiate. Certains mathématiciens ont critiqué le concept et ont donné à ces nombres des noms péjoratifs, reflétant leur scepticisme initial[2]. Malgré ces critiques, les nombres imaginaires ont continué à être développés et utilisés, en grande partie grâce à l'insistance de mathématiciens tels que Euler et De Moivre.
+
+Euler a joué un rôle crucial dans l'évolution des nombres imaginaires. Il a introduit une formule, connue sous le nom de formule d'Euler, qui établit une relation fondamentale entre les fonctions trigonométriques et le nombre complexe $i$. La formule d'Euler est donnée par $e^{ix} = \cos x + i\sin x$, où $x$ est un nombre réel[3]. Cette formule a permis de simplifier les manipulations de nombres complexes et a conduit au théorème de De Moivre. Le théorème de De Moivre, qui stipule que $(\cos x + i\sin x)^n = \cos nx + i\sin nx$ pour tout entier $n$, a été un outil précieux pour simplifier les calculs impliquant des nombres complexes[3].
+
+En plus de ces avancées algébriques, les nombres imaginaires ont également été interprétés géométriquement. Les diagrammes d'Argand, nommés d'après Jean-Robert Argand, représentent les nombres réels et imaginaires sur des axes x et y, permettant ainsi de résoudre des problèmes algébriques complexes à l'aide de la géométrie[4]. Dans un diagramme d'Argand, un nombre complexe $a + bi$ est représenté par le point $(a, b)$ dans le plan complexe. Cette représentation géométrique a permis de visualiser les opérations sur les nombres complexes, comme l'addition, la soustraction, la multiplication et la division, en termes de transformations géométriques, comme les translations, les rotations et les dilatations[4].
+
+L'évolution des nombres imaginaires a eu un impact significatif sur le domaine de l'ingénierie, en particulier l'ingénierie électronique. Les nombres imaginaires sont devenus des outils indispensables pour comprendre les phénomènes électriques et électroniques. Par exemple, en ingénierie électronique, où des signaux alternatifs sinusoïdaux sont omniprésents, les nombres imaginaires sont utilisés pour décrire le comportement complexe des circuits électroniques. Les nombres imaginaires permettent de modéliser l'impédance et les angles de phase associés aux composants tels que les résistances, les inductances et les condensateurs connectés à une source d'alimentation en courant alternatif. Ces modèles sont essentiels pour comprendre et prédire le comportement des circuits électroniques[5].
+
+
+Pour illustrer cette partie, un diagramme d'Argand pourrait être utilisé pour visualiser les nombres complexes et leurs opérations. De plus, un schéma d'un circuit électronique pourrait être utilisé pour montrer comment les nombres imaginaires sont utilisés pour modéliser le comportement des circuits électroniques.
+
 
 
 $$\LARGE{P_{éolienne} = \frac{1}{2} \rho A v^3}$$
