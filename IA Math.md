@@ -116,4 +116,6 @@ Les nombres imaginaires, représentés mathématiquement par i, jouent un rôle 
 
 QUESTION DE RECHERCHE : Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
 
-Write $\frac{x^2}{(x^2-1)^2}$ in 2 fractions
+Find the integral of $\int \sqrt{1+x^2}dx$
+
+Is $\frac{x\sqrt{1+x^2}}{2}+\frac{1}{2}\ln(x+\sqrt{1+x^2})$
