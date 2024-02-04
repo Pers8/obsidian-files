@@ -116,5 +116,9 @@ Les nombres imaginaires, représentés mathématiquement par i, jouent un rôle 
 
 QUESTION DE RECHERCHE : Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
 
-Find the integral of $\int \sqrt{1+x^2}dx$
-
+$$\Large{\int \sqrt{1+x^2}dx}$$
+$$u = \sqrt{1+x^2}$$
+$$du = \frac{1}{2}(1+x^2)^{\frac{1}{2}-1} = \frac{1}{2}(1+x^2)^{-\frac{1}{2}} = \frac{1}{2\sqrt{1+x^2}}$$
+$$dv = 1$$
+$$v=x$$
+$$$$
