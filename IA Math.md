@@ -124,4 +124,4 @@ $$v=x$$
 $$\Large{x\sqrt{1+x^2}-\int \frac{x}{2\sqrt{1+x^2}}dx}$$
 $$\Large{x\textcolor{red}{(\sqrt{1+x^2})}\sqrt{1+x^2}-\int \frac{x\textcolor{red}{\cancel{\sqrt{1+x^2}}}}{2\cancel{\sqrt{1+x^2}}}dx}$$
 $$\Large{x(1+x^2)-\frac{1}{2}\frac{x^2}{2}+c}$$
-$$\Large{\cancel{\boxed{\int \sqrt{1+x^2}dx=x+x^3-\frac{x^2}{4}+c}}}$$
+$$\Large{\cancel{\boxed{\int \sqrt{1+x^2}dx=x+x^3-\frac{x^2}{4}+c}}\text{, la réponse doit être :}}$$
