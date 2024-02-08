@@ -20,7 +20,7 @@ a) **guerrilla advertising :** is the creating use of novel or unconventional m
 - **Denouement :** The conflict of the story is entirely unravelled and final part of the story
 
 
-## **AOF :** 
+## **AOE:** 
 ?
 1. [[Time & Space]] $\Rightarrow$ Literary work, Non-Literary work
 2. Readers, Writers and Texts 
