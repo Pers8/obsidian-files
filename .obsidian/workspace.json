@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "IB/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tle IB English.md",
+                "file": "IB/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tle IB English.md"
+                "file": "IB/English.md"
               }
             }
           },
@@ -256,10 +256,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6271cd0f3d14c553",
+  "active": "7f58bfb3baae1a10",
   "lastOpenFiles": [
-    "Content.md",
     "Tle IB English.md",
+    "Context.md",
+    "Content.md",
+    "Context of Interpretation or reception.md",
     "IB/English.md",
     "How to do an English High Level Essay.md",
     "Comparison between King Lear and HouseBoy.md",
@@ -283,8 +285,6 @@
     "Définition d'une onde stationnaire.md",
     "IA Econ.md",
     "A.md",
-    "Excalidraw/Drawing 2024-02-01 13.34.06.excalidraw.md",
-    "TOK ESSAY.md",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
     "assets/Pasted image 20240129114858.png",
