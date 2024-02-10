@@ -38,3 +38,17 @@ $$\boxed{\Large{a=\sqrt{21}}}$$
 	(ii) un point d’inflexion de pente nulle pour les valeurs impaires de n , où n > 1 et a ∈ $\mathbb R^+$.
 Considérez la représentation graphique de $y = x^n(a - x)^n - k$, où n ∈ $\mathbb Z^+$ , a ∈ $\mathbb R^+$ et k ∈ $\mathbb R$.
 (h) Indiquez les conditions sur n et k pour que l’équation $x^n(a - x)^n = k$ admette quatre solutions pour x .
+
+
+
+I can help you with this physics problem. Here is the solution:
+
+- **Step 1**: Use Snell’s law to relate the angle of incidence and the angle of refraction. Snell’s law is given by:  $n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$ Here, $(n_1 = 1)$ (refractive index of air), and $(n_2 = n)$ (refractive index of the water droplet). We need to find the angle of incidence, $(\theta_1)$, which can be found using the geometry of the circle and triangle formed by points S, the center of the circle, and the point where light enters.
+- **Step 2**: Use Pythagorean theorem to find the horizontal distance x. Using Pythagorean theorem,  $r^2 = h^2 + x^2$ So, $x = \sqrt{r^2 - h^2}$
+- **Step 3**: Use trigonometric ratios to find the angle of incidence. The angle of incidence can be calculated as: \sin(\theta_1) = \frac{h}{r} \ \cos(\theta_1) = \frac{x}{r} \ \tan(\theta_1) = \frac{h}{x}$
+- **Step 4**: Use Snell’s law to find sin θ. Now applying Snell’s law, $1 * \sin(\theta_1) = n * sin(θ)$ So, $sin(θ) = sin(θ_{i}) / n \ = h / (nr)$
+
+Therefore, the answer is $sin(θ)= h / (nr)$.
+
+$$n_1 \sin\theta_1 = n_2 \sin\theta_2 \text{ et }n_1=1 \text{ et }n_2=2$$
+$$$$
