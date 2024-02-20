@@ -6,40 +6,40 @@ Donnez la bonne réponse.
 1. Le but de ce podcast est de…
 
 - **A**  : faire l’historique du terme «  écol o ».
-- **B**  : présenter les «  écolo s » comme une sous-culture.
-- ==**C** : montrer que les vrais écolos ont beaucoup changé.
+- ==**B**  : présenter les «  écolo s » comme une sous-culture.==
+- **C** : montrer que les vrais écolos ont beaucoup changé.
 
 Complétez les phrases avec les mots qui manquent.
 
-2. Le terme «  écolo  » n’est pas perçu de la même façon par tout le monde. Certains le voient avec ……………, d’autres avec ………………. .
+2. Le terme «  écolo  » n’est pas perçu de la même façon par tout le monde. Certains le voient avec **mépris**, d’autres avec **admiration**.
 
 
-3. Lorsqu’il apparaît dans les années 80, le mot «  écolo  » est plutôt ==**courant**==, c’est-à-dire pas très valorisant.
+3. Lorsqu’il apparaît dans les années 80, le mot «  écolo  » est plutôt ==**péjoratif**==, c’est-à-dire pas très valorisant.
 
 Donnez les quatre affirmations qui sont correctes.
 
 4. Les stéréotypes sur les premiers écolos suggèrent qu’ils…
 
-- **A** : produisent leur propre nourriture.
+- ==**A** : produisent leur propre nourriture.==
 - ==**B** : évitent les grands magasins.==
 - **C** : utilisent tout de même certaines technologies.
 - **D** : ne s’habillent pas.
 - **E** : détestent les hippies.
 - ==**F** : ne vivent pas avec leur temps.==
 - ==**G** : sont plutôt marginaux.==
-- ==**H** : sont cool comme les hippies.==
+- **H** : sont cool comme les hippies.
 
 Répondez aux questions ci-dessous.
 
 5. Quel est le point commun entre tous les écolos d’il y a 30 ans ? Citez-en **deux**. **C’est bien plus qu’un tote bag, le tri sélectif ou un panneau solaire** 
 
-7. Qu’est-ce qui montre que l’écologie aujourd’hui est devenue beaucoup plus populaire ? Citez **trois** exemples. **Les écolos entrent dans les ministères, Les magasins bio fleurissent un peu partout et les grandes villes se remplissent de vélos et élever des poules en ville.**
+6. Qu’est-ce qui montre que l’écologie aujourd’hui est devenue beaucoup plus populaire ? Citez **trois** exemples. **Les écolos entrent dans les ministères, Les magasins bio fleurissent un peu partout et les grandes villes se remplissent de vélos.**
 
 Choisissez la bonne réponse.
 
 7. Les vrais écolos aujourd’hui ont beaucoup changé par rapport aux écolos d’il y a 30 ans.
 
-Vrai ou faux ? **Vrai**
+Vrai ou faux ? **Faux**
 
 Donnez les quatre affirmations qui sont correctes.
 
