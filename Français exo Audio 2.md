@@ -7,7 +7,7 @@ Donnez la bonne réponse.
 
 - **A**  : faire l’historique du terme «  écol o ».
 - **B**  : présenter les «  écolo s » comme une sous-culture.
-- ==**C** : montrer que les vrais écolos ont beaucoup changé.==
+- ==**C** : montrer que les vrais écolos ont beaucoup changé.
 
 Complétez les phrases avec les mots qui manquent.
 
@@ -33,7 +33,7 @@ Répondez aux questions ci-dessous.
 
 5. Quel est le point commun entre tous les écolos d’il y a 30 ans ? Citez-en **deux**. **C’est bien plus qu’un tote bag, le tri sélectif ou un panneau solaire** 
 
-7. Qu’est-ce qui montre que l’écologie aujourd’hui est devenue beaucoup plus populaire ? Citez **trois** exemples. **Les écolos entrent dans les ministères, Les magasins bio fleurissent un peu partout et les grandes villes se remplissent de vélos et élever des poules en ville**
+7. Qu’est-ce qui montre que l’écologie aujourd’hui est devenue beaucoup plus populaire ? Citez **trois** exemples. **Les écolos entrent dans les ministères, Les magasins bio fleurissent un peu partout et les grandes villes se remplissent de vélos et élever des poules en ville.**
 
 Choisissez la bonne réponse.
 
@@ -43,7 +43,7 @@ Vrai ou faux ? **Vrai**
 
 Donnez les quatre affirmations qui sont correctes.
 
-8. Parmi les écologistes convaincus d’aujourd’hui…
+8. Parmi les écologistes convaincus aujourd’hui…
 
 - ==**A** : la plupart trouvent qu’on ne va pas assez loin dans nos gestes écolos.==
 - **B** : certains se réjouissent des progrès qui ont été fait en matière d’écologie.
