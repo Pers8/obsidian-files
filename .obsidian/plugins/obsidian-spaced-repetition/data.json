@@ -5,7 +5,8 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#physics",
-      "#computer_science"
+      "#computer_science",
+      "#math"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -39,7 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-02-13",
+  "buryDate": "2024-02-20",
   "buryList": [],
   "historyDeck": null
 }

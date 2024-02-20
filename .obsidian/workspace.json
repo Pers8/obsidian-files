@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A.md",
+                "file": "Radians.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.md",
+                "file": "Radians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A.md",
+                "file": "Radians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.md"
+                "file": "Radians.md"
               }
             }
           },
@@ -258,6 +258,10 @@
   },
   "active": "7f58bfb3baae1a10",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "A.md",
+    "Accélération.md",
+    "Algorithme.md",
     "IB/English.md",
     "Tle IB English.md",
     "Context.md",
@@ -281,10 +285,6 @@
     "Excalidraw/Calculus.md",
     "Excalidraw/Drawing 2024-02-06 15.48.35.excalidraw.md",
     "assets/Pasted Image 20240203083852_474.png",
-    "Les modes propres de vibration.md",
-    "Définition d'une onde stationnaire.md",
-    "IA Econ.md",
-    "A.md",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
     "assets/Pasted image 20240129114858.png",
