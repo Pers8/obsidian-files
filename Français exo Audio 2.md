@@ -33,7 +33,7 @@ Répondez aux questions ci-dessous.
 
 5. Quel est le point commun entre tous les écolos d’il y a 30 ans ? Citez-en **deux**. **C’est bien plus qu’un tote bag, le tri sélectif ou un panneau solaire** 
 
-7. Qu’est-ce qui montre que l’écologie aujourd’hui est devenue beaucoup plus populaire ? Citez **trois** exemples. **les écolos entrent dans les ministères, Les magasins bio fleurissent un peu partout et les grandes villes se remplissent de vélos et élever des poules en ville**
+7. Qu’est-ce qui montre que l’écologie aujourd’hui est devenue beaucoup plus populaire ? Citez **trois** exemples. **Les écolos entrent dans les ministères, Les magasins bio fleurissent un peu partout et les grandes villes se remplissent de vélos et élever des poules en ville**
 
 Choisissez la bonne réponse.
 
