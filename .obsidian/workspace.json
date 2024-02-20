@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "7f58bfb3baae1a10",
+            "id": "dac0255afca671b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radians.md",
+                "file": "Français exo Audio 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radians.md",
+                "file": "Français exo Audio 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radians.md",
+                "file": "Français exo Audio 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radians.md"
+                "file": "Français exo Audio 2.md"
               }
             }
           },
@@ -256,8 +256,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f58bfb3baae1a10",
+  "active": "dac0255afca671b3",
   "lastOpenFiles": [
+    "Radians.md",
+    "Français exo Audio 2.md",
     "IB/Maths.md",
     "A.md",
     "Accélération.md",
@@ -282,8 +284,6 @@
     "Français Exos Tle IB.md",
     "Comp Sci synthèse pour le DST.md",
     "IA Comp Sci.md",
-    "Excalidraw/Calculus.md",
-    "Excalidraw/Drawing 2024-02-06 15.48.35.excalidraw.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
