@@ -100,9 +100,21 @@
                 "file": "Excalidraw/Calculus.md"
               }
             }
+          },
+          {
+            "id": "09284c4ea7cbc564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individual Oral English IA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français exo Audio 2.md",
+                "file": "Individual Oral English IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français exo Audio 2.md",
+                "file": "Individual Oral English IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français exo Audio 2.md"
+                "file": "Individual Oral English IA.md"
               }
             }
           },
@@ -256,10 +268,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac0255afca671b3",
+  "active": "09284c4ea7cbc564",
   "lastOpenFiles": [
-    "Radians.md",
+    "Excalidraw/Calculus.md",
     "Français exo Audio 2.md",
+    "Radians.md",
     "IB/Maths.md",
     "A.md",
     "Accélération.md",
@@ -283,7 +296,6 @@
     "IA Math.md",
     "Français Exos Tle IB.md",
     "Comp Sci synthèse pour le DST.md",
-    "IA Comp Sci.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
