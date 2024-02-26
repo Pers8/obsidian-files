@@ -20,7 +20,9 @@
 	8.3. Traitement des données 
 	8.4. Incertitudes
 	8.5. Analyse des données
-1. Références
+	8.6. Analyse des erreurs
+9. Conclusion
+10. Références
 ```
 
 <br>
