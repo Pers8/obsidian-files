@@ -4,9 +4,18 @@
 <br>
 
 ```markdown
-1. Introduction - 400 mots (1 page)
-
-7. Références
+1. Introduction
+2. Question de recherche 
+3. Contexte théorique
+4. Hypothèse
+5. Variables
+	5.1. Variable(s) dépendante(s)
+	5.2. Variable(s) indépendante(s)
+	5.3. Variable(s) contrôlée(s)
+6. Matériel
+7. Risques liés à l'expérience
+8. Méthode/
+9. Références
 ```
 
 <br>
