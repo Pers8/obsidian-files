@@ -14,8 +14,10 @@
 	5.3. Variable(s) contrôlée(s)
 6. Méthodologie
 7. Risques liés à l'expérience
-8. Collection des données 
-9. Références
+8. Collection des données et Analyse
+	8.1. Tableau des données
+	8.2.
+1. Références
 ```
 
 <br>
