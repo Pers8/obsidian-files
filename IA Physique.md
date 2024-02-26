@@ -12,9 +12,9 @@
 	5.1. Variable(s) dépendante(s)
 	5.2. Variable(s) indépendante(s)
 	5.3. Variable(s) contrôlée(s)
-6. Matériel
+6. Méthodologie
 7. Risques liés à l'expérience
-8. Méthode/
+8. Méthode/Procédé
 9. Références
 ```
 
