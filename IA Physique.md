@@ -19,7 +19,7 @@
 	8.2. Table des données 
 	8.3. Traitement des données 
 	8.4. Incertitudes
-	8.5. 
+	8.5. Analyse des données
 1. Références
 ```
 
