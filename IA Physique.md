@@ -16,7 +16,10 @@
 7. Risques liés à l'expérience
 8. Collection des données et Analyse
 	8.1. Tableau des données
-	8.2.
+	8.2. Table des données 
+	8.3. Traitement des données 
+	8.4. Incertitudes
+	8.5. 
 1. Références
 ```
 
