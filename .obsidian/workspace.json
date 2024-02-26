@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "IA Physique.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individual Oral English IA.md",
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individual Oral English IA.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -270,6 +270,7 @@
   },
   "active": "09284c4ea7cbc564",
   "lastOpenFiles": [
+    "Individual Oral English IA.md",
     "Excalidraw/Calculus.md",
     "Français exo Audio 2.md",
     "Radians.md",
@@ -295,7 +296,6 @@
     "Extended Essai.md",
     "IA Math.md",
     "Français Exos Tle IB.md",
-    "Comp Sci synthèse pour le DST.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
