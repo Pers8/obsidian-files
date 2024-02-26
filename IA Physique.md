@@ -5,29 +5,7 @@
 
 ```markdown
 1. Introduction - 400 mots (1 page)
-    1. Contexte et motivation de l'étude
-    2. Question de recherche et hypothèse
-    3. Méthode expérimentale et variables
-2. Théorie de la portance et de la traînée - 600 mots (2 pages)
-    1. Principe de Bernoulli et équation de la portance
-    2. Profil d'aile et angle d'attaque
-    3. Coefficient de portance et de traînée
-3. Matériel et méthode - 800 mots (3 pages)
-    1. Description du matériel utilisé
-    2. Procédure expérimentale en points
-    3. Précautions et sources d'erreur
-4. Données brutes et traitées - 800 mots (3 pages)
-    1. Tableau des données brutes avec incertitudes
-    2. Tableau des données traitées avec calculs
-    3. Graphique de la portance en fonction de la vitesse avec droites de régression
-5. Analyse et interprétation - 1000 mots (4 pages)
-    1. Analyse des résultats obtenus
-    2. Comparaison avec la théorie et l'hypothèse
-    3. Discussion des sources d'erreur et des limitations
-6. Conclusion - 300 mots (1 page)
-    1. Résumé des résultats et réponse à la question de recherche
-    2. Implications et applications de l'étude
-    3. Suggestions pour des recherches futures
+
 7. Références
 ```
 
