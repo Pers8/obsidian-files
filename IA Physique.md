@@ -1,7 +1,8 @@
 
-**Question :** Quelle est l'influence de la vitesse sur la portance d'une aile d'avion.
+**Question :** Comment la vitesse influence-t-elle la portance d’une aile d’avion ?
 # ***Table des matières***
 <br>
+1-
 
 ```markdown
 1. Introduction
@@ -25,6 +26,48 @@
 10. Références
 ```
 
+
+2-
+
+```markdown
+1. Introduction
+	1.1. Contexte et motivation
+	1.2. Question de recherche
+	1.3. Hypothèse
+	1.4. Objectifs et applications
+2. Contexte théorique
+	2.1. Portance et traînée
+	2.2. Coefficient de portance
+	2.3. Nombre de Reynolds
+	2.4. Sources d'information
+3. Variables
+	3.1. Variable dépendante
+	3.2. Variable indépendante
+	3.3. Variables contrôlées
+	3.4. Unités et instruments de mesure
+4. Méthodologie
+	4.1. Matériaux et équipements
+	4.2. Étapes de l'expérience
+	4.3. Précautions et limitations
+	4.4. Plan d'analyse des données
+	4.5. Schémas, photos ou vidéos
+5. Risques liés à l'expérience
+	5.1. Dangers potentiels
+	5.2. Mesures de prévention et de protection
+6. Collection des données et Analyse
+	6.1. Tableaux des données
+	6.2. Graphiques des données
+	6.3. Calculs et commentaires
+	6.4. Incertitudes et erreurs
+	6.5. Validité et fiabilité
+	6.6. Comparaison avec l'hypothèse et d'autres sources
+7. Conclusion
+	7.1. Réponse à la question de recherche
+	7.2. Résumé et interprétation des résultats
+	7.3. Implications, applications et limites
+	7.4. Amélioration et prolongement
+8. Références
+```
 <br>
 La portance est la force qui permet à un avion de s’élever dans l’air grâce à la forme de ses ailes. Elle s’oppose au poids de l’avion et dépend de plusieurs facteurs, dont la vitesse du vent relatif, la densité de l’air, l’angle d’attaque de l’aile, la surface alaire et le coefficient de portance. La portance peut être calculée par la formule suivante :
 <br>
