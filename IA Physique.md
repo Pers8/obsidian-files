@@ -95,3 +95,25 @@ Pour examiner cette hypothèse, j'utiliserai un avion en papier comme modèle d'
 + portance en fonction de $v$
 protocole de l'expérience : penser à une simulation
 
+
+
+## Démarche pour le simulation
+
+- Téléchargez et installez Physion sur votre ordinateur à partir du site officiel.
+- Ouvrez le logiciel et cliquez sur le bouton "Nouveau" pour créer un nouveau projet.
+- Dans le menu "Options", choisissez "Propriétés du monde" et réglez les paramètres du fluide, comme la masse volumique et la viscosité. Par exemple, vous pouvez choisir une masse volumique de 1.225 kg/m^3^ et une viscosité de 1.81e-5 Pa.s pour simuler l'air à 15°C.
+- Dans le menu "Objets", choisissez "Polygone" et dessinez le contour de l'aile d'avion sur le plan de travail. Vous pouvez utiliser la grille et le zoom pour ajuster la taille et la forme de l'aile. Par exemple, vous pouvez choisir un profil NACA 0012, qui est un profil symétrique couramment utilisé en aérodynamique.
+- Cliquez sur le bouton "Sélectionner" et sélectionnez l'aile. Dans le menu "Propriétés", réglez les propriétés de l'aile, comme la masse, le coefficient de restitution, le coefficient de frottement, etc. Par exemple, vous pouvez choisir une masse de 1 kg, un coefficient de restitution de 0.5, et un coefficient de frottement de 0.1.
+- Dans le menu "Contraintes", choisissez "Ressort" et reliez l'aile à un point fixe sur le plan de travail. Ce ressort va permettre de faire varier l'angle d'incidence de l'aile en fonction de la force exercée par le fluide. Dans le menu "Propriétés", réglez les propriétés du ressort, comme la longueur, la constante, l'amortissement, etc. Par exemple, vous pouvez choisir une longueur de 0.5 m, une constante de 100 N/m, et un amortissement de 10 N.s/m.
+- Dans le menu "Forces", choisissez "Force constante" et appliquez une force horizontale à l'aile. Cette force va représenter la vitesse du vent relatif. Dans le menu "Propriétés", réglez l'intensité et la direction de la force. Par exemple, vous pouvez choisir une intensité de 10 N et une direction de 0°.
+- Cliquez sur le bouton "Démarrer" pour lancer la simulation. Vous pouvez observer le mouvement de l'aile, la déformation du ressort, et la valeur de la force constante. Vous pouvez aussi cliquer sur le bouton "Pause" pour arrêter la simulation, et sur le bouton "Réinitialiser" pour recommencer la simulation.
+- Pour visualiser la portance et la traînée de l'aile, vous pouvez utiliser le menu "Mesures" et choisir "Force". Cliquez sur l'aile et déplacez le curseur pour afficher la résultante aérodynamique, la portance, et la traînée. Vous pouvez aussi cliquer sur le bouton "Graphique" pour tracer la courbe de ces forces en fonction du temps.
+- Pour visualiser les champs de pression et de vitesse autour de l'aile, vous pouvez utiliser le menu "Affichage" et choisir "Champ de pression" ou "Champ de vitesse". Vous pouvez aussi régler la résolution et la couleur du champ dans le menu "Propriétés".
+- Pour exporter les données de la simulation, vous pouvez utiliser le menu "Fichier" et choisir "Exporter les données". Vous pouvez choisir le format et le nom du fichier, et les données seront sauvegardées sur votre ordinateur.
+
+
+(1) Portance d'une aile - L'avionnaire. https://www.lavionnaire.fr/AerodynPortance.php.
+(2) L'aile dans un flux d'air - L'avionnaire. https://www.lavionnaire.fr/AerodynFluxAile.php.
+(3) Déterminer portance d'un drone par le calcul. https://forumdrone.fr/topic/636-d%C3%A9terminer-portance-dun-drone-par-le-calcul/.
+(4) Simulation d'un profil d'une aile d'avion by meriem borgi - Prezi. https://prezi.com/jzfurvyqwfum/simulation-dun-profil-dune-aile-davion/.
+
