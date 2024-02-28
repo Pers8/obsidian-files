@@ -110,7 +110,7 @@
                 "file": "Untitled 1.canvas",
                 "viewState": {
                   "x": 272.5011158871346,
-                  "y": 144.82135113523185,
+                  "y": -439.3645682461314,
                   "zoom": -0.42461643420159784
                 }
               }
@@ -260,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
