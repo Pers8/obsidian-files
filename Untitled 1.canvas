@@ -19,7 +19,7 @@
 		{"id":"23567ec401779b4b","x":-170,"y":-660,"width":740,"height":60,"type":"text","text":"# Relation entre Eleve - Professeur - Test"},
 		{"id":"9f530da9dcf8737a","x":-56,"y":192,"width":250,"height":60,"color":"3","type":"text","text":"**Matière**"},
 		{"id":"950dc9a0f2e4ab70","x":-56,"y":252,"width":250,"height":60,"color":"3","type":"text","text":""},
-		{"id":"b13c7bc59c3ea8f1","x":-680,"y":-960,"width":400,"height":400,"type":"link","url":"https://roblox.com"}
+		{"id":"b13c7bc59c3ea8f1","x":-680,"y":-960,"width":385,"height":400,"type":"link","url":"https://roblox.com"}
 	],
 	"edges":[
 		{"id":"7c37b841a4984435","fromNode":"f1a0517d2137dd35","fromSide":"right","toNode":"6c18ce5e9c473b07","toSide":"left","color":"6"},
