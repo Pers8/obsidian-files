@@ -102,14 +102,17 @@
             }
           },
           {
-            "id": "09284c4ea7cbc564",
+            "id": "38c686eecb3e41c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "IA Physique.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 109.53970596999356,
+                  "y": -237.17342264080173,
+                  "zoom": -0.4586290787905454
+                }
               }
             }
           }
@@ -180,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Physique.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -243,14 +246,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "a3fb8b1384aa96e4",
+            "type": "leaf",
+            "state": {
+              "type": "ava.write.sidebar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,8 +278,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09284c4ea7cbc564",
+  "active": "38c686eecb3e41c0",
   "lastOpenFiles": [
+    "Untitled 1.loom",
+    "Untitled 1.canvas",
+    "IA Physique.md",
     "Individual Oral English IA.md",
     "Excalidraw/Calculus.md",
     "Français exo Audio 2.md",
@@ -294,8 +307,6 @@
     "Forces magnétique.md",
     "Eco TD2.md",
     "Extended Essai.md",
-    "IA Math.md",
-    "Français Exos Tle IB.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
