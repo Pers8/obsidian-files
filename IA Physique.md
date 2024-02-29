@@ -140,3 +140,25 @@ Références :
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    - [**Lien vers l’article sur les politiques commerciales durables**](https://www.wri.org/blog/2019/03/tariffs-and-trade
+
+
+    
+    - [**Lien vers l’article sur les quotas pharmaceutiques**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276483
