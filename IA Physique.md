@@ -135,3 +135,8 @@ La portance est proportionnelle à la pression dynamique, qui est le produit de 
 Références :
 
 - Anderson, J. D. (2017). _Fundamentals of aerodynamics_ (6th ed.). McGraw-Hill Education.
+
+
+
+
+
