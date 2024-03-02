@@ -95,9 +95,11 @@
             "id": "82c26b913bb70276",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Calculus.md"
+                "file": "IA Math.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -294,11 +296,11 @@
   "active": "0155f254c27d5d4a",
   "lastOpenFiles": [
     "IA Math.md",
+    "Excalidraw/Calculus.md",
+    "IA Physique.md",
     "Data Base.canvas",
     "Untitled 1.loom",
-    "IA Physique.md",
     "Individual Oral English IA.md",
-    "Excalidraw/Calculus.md",
     "Français exo Audio 2.md",
     "Radians.md",
     "IB/Maths.md",
