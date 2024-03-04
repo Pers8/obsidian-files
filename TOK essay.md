@@ -26,4 +26,11 @@ Links :
 9 - https://www.scirp.org/journal/paperinformation.aspx?paperid=102640#:~:text=Ranke%20opposed%20the%20notion%20of,neutral%20attitude%20to%20describe%20history.
 10 - chat.openai.com/auth/login (For the use of a more complex vocabulary)
 
-3156 words
+
+
+
+My first object is a painting by Vincent van Gogh, titled “Starry Night”. It is one of the most famous and recognizable artworks in the world, depicting a night sky filled with swirling stars, a moon, and a village below. I chose this painting because I have always admired van Gogh’s style and expression, and I have learned about his life and struggles in my art history class. The painting also reflects his personal and emotional knowledge, as he created it while staying in an asylum in Saint-Remy, France.
+
+In terms of answering the prompt, the painting is a relevant example of how different types of knowledge can be valued differently depending on the context and perspective. Van Gogh’s artistic knowledge was not appreciated or recognized during his lifetime, as he only sold one painting and faced criticism and rejection from the public and his peers. He also suffered from mental illness and poverty, which affected his self-esteem and confidence. However, after his death, his paintings became widely admired and influential, and he is now regarded as one of the greatest and most innovative artists of all time. His artistic knowledge has also inspired and enriched the lives of millions of people who appreciate his vision and expression.
+
+This shows that the usefulness of knowledge is not fixed or objective, but rather subjective and dynamic. What may seem useless or irrelevant in one situation or time period may become useful or valuable in another. Likewise, what may seem useful or important in one domain or field may not be applicable or transferable to another. Therefore, we cannot judge the usefulness of knowledge based on a single criterion or standard, but rather we have to consider the multiple factors and perspectives that influence its value and meaning.
