@@ -34,3 +34,35 @@ My first object is a painting by Vincent van Gogh, titled “Starry Night”. It
 In terms of answering the prompt, the painting is a relevant example of how different types of knowledge can be valued differently depending on the context and perspective. Van Gogh’s artistic knowledge was not appreciated or recognized during his lifetime, as he only sold one painting and faced criticism and rejection from the public and his peers. He also suffered from mental illness and poverty, which affected his self-esteem and confidence. However, after his death, his paintings became widely admired and influential, and he is now regarded as one of the greatest and most innovative artists of all time. His artistic knowledge has also inspired and enriched the lives of millions of people who appreciate his vision and expression.
 
 This shows that the usefulness of knowledge is not fixed or objective, but rather subjective and dynamic. What may seem useless or irrelevant in one situation or time period may become useful or valuable in another. Likewise, what may seem useful or important in one domain or field may not be applicable or transferable to another. Therefore, we cannot judge the usefulness of knowledge based on a single criterion or standard, but rather we have to consider the multiple factors and perspectives that influence its value and meaning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first object is a photograph of the blackboard my mathematics class uses to solve advanced problems while working in groups. Our teacher has implemented group work as a new teaching method, where those who understand the topic better and those who struggle cooperate to produce new, shared knowledge together.
+This blackboard is a material tool that has helped us in the production and acquisition of knowledge throughout the demanding mathematics HL course. It enables us to write everything out, step by step clearly displaying the process which facilitates our understanding of the problem. It also enables group work and interactive communication, where individual inputs are turned into shared knowledge. Thanks to the visual language we use writing on the blackboard, it is easier for us to understand each other.
+Solving problems this way was always more effective than doing it alone in the notebook. Most mathematical and physical discoveries (for example those by Albert Einstein) have been made while writing on blackboards which proves how important such a tool is for producing knowledge. It stimulates imagination, allowing a person to arrange all the information and connect them using reason. It is possible to step away from the blackboard and see everything from a distance, from a unique perspective, which enables forming new conclusions and reaching new knowledge.
+Material tools help in the acquisition of knowledge, which is much easier to adopt when it is presented in an orderly way on a blackboard (or for example using models of chemical molecules), while someone is explaining it. This engages diverse ways of knowing such as language, reason, imagination, and memory. That is why material tools are often used in the sciences to combine exemplification with theoretical knowledge.
+
+The second object is my sketchbook, which I have consistently used last year to develop my drawing and painting skills. Skills are a form of knowledge which requires consistent practice to acquire, and such practice is often impossible without material tools.
+This sketchbook enabled me to exercise and gain new knowledge about creating art. The specific type of paper in it is especially heavy, so it allows me to both draw and paint inside — something most average sketchbooks are not meant for. Therefore, the tool is specifically adapted to facilitate the acquisition of a certain set of skills. I was able to experiment with multiple art tools inside — some, like charcoal, take hours of playing around to learn to use. At first, the effects look messy but after handling them long enough they turn out to be very successful.
+Practicing art skills engages sense perception which makes it easier to notice your mistakes and correct them, acquiring new knowledge. Imagination is also needed to recognize how to use certain tools intuitively — many artists are self-taught — they learnt how to draw alone, with the use of simple tools such as sketchbooks and pencils.
+It is almost impossible to acquire practical skills without practicing them and to produce knowledge on how to do something one often needs specific tools. Material tools especially prepared for this purpose help, often facilitating the experience of practice or making it more intuitive.
+
+The final object I have chosen is the autobiography written by my grandfather. Unfortunately, he passed away a few years ago, shortly after finishing this book and now this is the only tool I can use to gain knowledge on how he viewed the world. Therefore, it has been a replacement for many conversations we did not have time to hold.
+I had a very strong bond with my grandfather and now through faith and emotion stemming from our relationship, I can gain new knowledge while reading his autobiography. It is an account of various historical events, cultural elements and traditions viewed from his individual knowers perspective and retold from his memory. If the book had not been written no one would have had the access to that specific knowledge. 
+The book as an object will most probably survive my family and one day might become a historical artefact, providing future generations with knowledge about the life of people in the 20th century. This has happened for example with accounts written by roman soldiers over two thousand years ago, which are now historical sources providing us with knowledge about their civilization.
+This book is not strictly a material tool — in the sense that it does not help produce new knowledge
+per se, it is more of an aid which helps acquire knowledge. However, it is a good example of how
+in human and social sciences such as history, material tools are often the one and only way we can
+gain certain knowledge.
