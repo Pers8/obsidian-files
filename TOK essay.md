@@ -70,23 +70,6 @@ This book is not strictly a material tool — in the sense that it does not help
 
 
 
-My first object that I have chosen is one of my books, a practical guide giving the reader insight into how to play the extremely complex piano works composed by Fréderic Chopin. Traditionally books tend to be associated closely with content based knowledge. In everyday
-life and popular culture, the term "book learning" is usually used to mean academic
-knowledge from books, as opposed to practical or procedural knowledge. This academic
-knowledge is often seen as the most important and useful type of knowledge to have.
-However, sometimes being "book smart" is also used to refer to being traditionally
-academically clever as opposed to being savvy or "street smart". In this case, the association
-with books can sometimes be used in a negative way to suggest that the person does not
-have practical knowledge of real life, or only has knowledge that lacks practical usefulness.
-I chose this particular book to include in the exhibition because whilst the author gives me
-much background and content-based knowledge about key elements of the pieces, she also
-gives practical tips and aids me with how to develop and execute my procedural knowledge
-in the context of the piece (e.g. the practical fingerings). In this way, this book is both an
-important way of storing and spreading content knowledge but also of sharing procedural
-knowledge that the author garnered through decades of experience.
-This book brings together content knowledge and procedural knowledge into one source, just
-as I bring my academic interest and my knowledge of how to play the piano. I believe that my
-enjoyment of the book is much higher as a result of being able to play the piano and try out
-the techniques suggested in the book. In this way, my having the procedural knowledge of
-how to play the piano enriches my enjoyment and understanding of the academic knowledge
-about Chopin.
+My first object that I have chosen is one of my books, a practical guide giving the reader insight into how to play the extremely complex piano works composed by Fréderic Chopin. Traditionally books tend to be associated closely with content based knowledge. In everyday life and popular culture, the term "book learning" is usually used to mean academic knowledge from books, as opposed to practical or procedural knowledge. This academic knowledge is often seen as the most important and useful type of knowledge to have. However, sometimes being "book smart" is also used to refer to being traditionally academically clever as opposed to being savvy or "street smart". In this case, the association with books can sometimes be used in a negative way to suggest that the person does not have practical knowledge of real life, or only has knowledge that lacks practical usefulness.
+I chose this particular book to include in the exhibition because whilst the author gives me much background and content-based knowledge about key elements of the pieces, she also gives practical tips and aids me with how to develop and execute my procedural knowledge in the context of the piece (e.g. the practical fingerings). In this way, this book is both an important way of storing and spreading content knowledge but also of sharing procedural knowledge that the author garnered through decades of experience.
+This book brings together content knowledge and procedural knowledge into one source, just as I bring my academic interest and my knowledge of how to play the piano. I believe that my enjoyment of the book is much higher as a result of being able to play the piano and try out the techniques suggested in the book. In this way, my having the procedural knowledge of how to play the piano enriches my enjoyment and understanding of the academic knowledge about Chopin.
