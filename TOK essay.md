@@ -64,3 +64,12 @@ I had a very strong bond with my grandfather and now through faith and emotion s
 The book as an object will most probably survive my family and one day might become a historical artefact, providing future generations with knowledge about the life of people in the 20th century. This has happened for example with accounts written by roman soldiers over two thousand years ago, which are now historical sources providing us with knowledge about their civilization.
 This book is not strictly a material tool — in the sense that it does not help produce new knowledge per se, it is more of an aid which helps acquire knowledge. However, it is a good example of how in human and social sciences such as history, material tools are often the one and only way we can gain certain knowledge.
 
+
+
+
+
+
+
+My second object in my exhibition is four fishing spears, which are about 250 years old, and are from an exhibition at the Australian museum in Sydney. These spears were used by the aboriginals in Australia to fish. In the harsh and dry conditions of Australia, finding food on land will not have been easiest for the indigenous aboriginals, so those living near water will have made them resort to fishing with these spears, to garner food for them and their families. It was reported that these types of spears could reach up to six metres in length.
+I chose this object carefully to help show that both content-based and procedural knowledge are important and useful depending on the situation, and that sometimes actually procedural knowledge is far more useful. Often content-based knowledge is seen as the most valuable and important type of knowledge. However, this does not mean that this type of knowledge is always the most useful. The spear is a great example of the usefulness of procedural knowledge, because if the tribe did not have the knowledge of how to fish in this way then they would probably have died.
+These spears show an example where the implication of not having this practical type of knowledge would be very severe, or even fatal, and the tribe could go extinct. In this situation, no amount of content-based knowledge would be helpful to them if they didn't have the procedural knowledge of how to actually fish using the spears. They highlight that it is a mistake to dismiss procedural knowledge as not as important or useful as content-based knowledge, as sometimes the implications of not having procedural knowledge can be far more immediate and dangerous for us than the implications of not having contentknowledge.
