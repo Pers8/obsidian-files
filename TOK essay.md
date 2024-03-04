@@ -70,6 +70,23 @@ This book is not strictly a material tool — in the sense that it does not help
 
 
 
-My second object in my exhibition is four fishing spears, which are about 250 years old, and are from an exhibition at the Australian museum in Sydney. These spears were used by the aboriginals in Australia to fish. In the harsh and dry conditions of Australia, finding food on land will not have been easiest for the indigenous aboriginals, so those living near water will have made them resort to fishing with these spears, to garner food for them and their families. It was reported that these types of spears could reach up to six metres in length.
-I chose this object carefully to help show that both content-based and procedural knowledge are important and useful depending on the situation, and that sometimes actually procedural knowledge is far more useful. Often content-based knowledge is seen as the most valuable and important type of knowledge. However, this does not mean that this type of knowledge is always the most useful. The spear is a great example of the usefulness of procedural knowledge, because if the tribe did not have the knowledge of how to fish in this way then they would probably have died.
-These spears show an example where the implication of not having this practical type of knowledge would be very severe, or even fatal, and the tribe could go extinct. In this situation, no amount of content-based knowledge would be helpful to them if they didn't have the procedural knowledge of how to actually fish using the spears. They highlight that it is a mistake to dismiss procedural knowledge as not as important or useful as content-based knowledge, as sometimes the implications of not having procedural knowledge can be far more immediate and dangerous for us than the implications of not having contentknowledge.
+My first object that I have chosen is one of my books, a practical guide giving the reader insight into how to play the extremely complex piano works composed by Fréderic Chopin. Traditionally books tend to be associated closely with content based knowledge. In everyday
+life and popular culture, the term "book learning" is usually used to mean academic
+knowledge from books, as opposed to practical or procedural knowledge. This academic
+knowledge is often seen as the most important and useful type of knowledge to have.
+However, sometimes being "book smart" is also used to refer to being traditionally
+academically clever as opposed to being savvy or "street smart". In this case, the association
+with books can sometimes be used in a negative way to suggest that the person does not
+have practical knowledge of real life, or only has knowledge that lacks practical usefulness.
+I chose this particular book to include in the exhibition because whilst the author gives me
+much background and content-based knowledge about key elements of the pieces, she also
+gives practical tips and aids me with how to develop and execute my procedural knowledge
+in the context of the piece (e.g. the practical fingerings). In this way, this book is both an
+important way of storing and spreading content knowledge but also of sharing procedural
+knowledge that the author garnered through decades of experience.
+This book brings together content knowledge and procedural knowledge into one source, just
+as I bring my academic interest and my knowledge of how to play the piano. I believe that my
+enjoyment of the book is much higher as a result of being able to play the piano and try out
+the techniques suggested in the book. In this way, my having the procedural knowledge of
+how to play the piano enriches my enjoyment and understanding of the academic knowledge
+about Chopin.
