@@ -29,50 +29,11 @@ Links :
 
 
 
-My first object is a painting by Vincent van Gogh, titled “Starry Night”. It is one of the most famous and recognizable artworks in the world, depicting a night sky filled with swirling stars, a moon, and a village below. I chose this painting because I have always admired van Gogh’s style and expression, and I have learned about his life and struggles in my art history class. The painting also reflects his personal and emotional knowledge, as he created it while staying in an asylum in Saint-Remy, France.
+It's good but I think that is enough :
 
-In terms of answering the prompt, the painting is a relevant example of how different types of knowledge can be valued differently depending on the context and perspective. Van Gogh’s artistic knowledge was not appreciated or recognized during his lifetime, as he only sold one painting and faced criticism and rejection from the public and his peers. He also suffered from mental illness and poverty, which affected his self-esteem and confidence. However, after his death, his paintings became widely admired and influential, and he is now regarded as one of the greatest and most innovative artists of all time. His artistic knowledge has also inspired and enriched the lives of millions of people who appreciate his vision and expression.
+The question of subjectivity in knowledge is one that has been debated for centuries by philosophers, historians, artists, and thinkers from various disciplines. Subjectivity refers to the influence of personal factors such as emotions, beliefs, values, perspectives, and biases, on the way we acquire, interpret, and communicate knowledge. In some areas of knowledge such as the arts, subjectivity is often seen as a positive and essential feature that allows for creativity, diversity, and expression. In other areas of knowledge such as history, subjectivity is often viewed as a negative and problematic factor that undermines the reliability, accuracy and validity of historical knowledge. In this essay, I will examine the claim that subjectivity is overly celebrated in the arts but unfairly condemned in history and discuss the implications of this claim for our understanding of knowledge.
 
-This shows that the usefulness of knowledge is not fixed or objective, but rather subjective and dynamic. What may seem useless or irrelevant in one situation or time period may become useful or valuable in another. Likewise, what may seem useful or important in one domain or field may not be applicable or transferable to another. Therefore, we cannot judge the usefulness of knowledge based on a single criterion or standard, but rather we have to consider the multiple factors and perspectives that influence its value and meaning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The first object is a photograph of the blackboard my mathematics class uses to solve advanced problems while working in groups. Our teacher has implemented group work as a new teaching method, where those who understand the topic better and those who struggle cooperate to produce new, shared knowledge together.
-This blackboard is a material tool that has helped us in the production and acquisition of knowledge throughout the demanding mathematics HL course. It enables us to write everything out, step by step clearly displaying the process which facilitates our understanding of the problem. It also enables group work and interactive communication, where individual inputs are turned into shared knowledge. Thanks to the visual language we use writing on the blackboard, it is easier for us to understand each other.
-Solving problems this way was always more effective than doing it alone in the notebook. Most mathematical and physical discoveries (for example those by Albert Einstein) have been made while writing on blackboards which proves how important such a tool is for producing knowledge. It stimulates imagination, allowing a person to arrange all the information and connect them using reason. It is possible to step away from the blackboard and see everything from a distance, from a unique perspective, which enables forming new conclusions and reaching new knowledge.
-Material tools help in the acquisition of knowledge, which is much easier to adopt when it is presented in an orderly way on a blackboard (or for example using models of chemical molecules), while someone is explaining it. This engages diverse ways of knowing such as language, reason, imagination, and memory. That is why material tools are often used in the sciences to combine exemplification with theoretical knowledge.
-
-The second object is my sketchbook, which I have consistently used last year to develop my drawing and painting skills. Skills are a form of knowledge which requires consistent practice to acquire, and such practice is often impossible without material tools.
-This sketchbook enabled me to exercise and gain new knowledge about creating art. The specific type of paper in it is especially heavy, so it allows me to both draw and paint inside — something most average sketchbooks are not meant for. Therefore, the tool is specifically adapted to facilitate the acquisition of a certain set of skills. I was able to experiment with multiple art tools inside — some, like charcoal, take hours of playing around to learn to use. At first, the effects look messy but after handling them long enough they turn out to be very successful.
-Practicing art skills engages sense perception which makes it easier to notice your mistakes and correct them, acquiring new knowledge. Imagination is also needed to recognize how to use certain tools intuitively — many artists are self-taught — they learnt how to draw alone, with the use of simple tools such as sketchbooks and pencils.
-It is almost impossible to acquire practical skills without practicing them and to produce knowledge on how to do something one often needs specific tools. Material tools especially prepared for this purpose help, often facilitating the experience of practice or making it more intuitive.
-
-The final object I have chosen is the autobiography written by my grandfather. Unfortunately, he passed away a few years ago, shortly after finishing this book and now this is the only tool I can use to gain knowledge on how he viewed the world. Therefore, it has been a replacement for many conversations we did not have time to hold.
-I had a very strong bond with my grandfather and now through faith and emotion stemming from our relationship, I can gain new knowledge while reading his autobiography. It is an account of various historical events, cultural elements and traditions viewed from his individual knowers perspective and retold from his memory. If the book had not been written no one would have had the access to that specific knowledge. 
-The book as an object will most probably survive my family and one day might become a historical artefact, providing future generations with knowledge about the life of people in the 20th century. This has happened for example with accounts written by roman soldiers over two thousand years ago, which are now historical sources providing us with knowledge about their civilization.
-This book is not strictly a material tool — in the sense that it does not help produce new knowledge per se, it is more of an aid which helps acquire knowledge. However, it is a good example of how in human and social sciences such as history, material tools are often the one and only way we can gain certain knowledge.
-
-
-
-
-
-
-
-My first object that I have chosen is one of my books, a practical guide giving the reader insight into how to play the extremely complex piano works composed by Fréderic Chopin. Traditionally books tend to be associated closely with content based knowledge. In everyday life and popular culture, the term "book learning" is usually used to mean academic knowledge from books, as opposed to practical or procedural knowledge. This academic knowledge is often seen as the most important and useful type of knowledge to have. However, sometimes being "book smart" is also used to refer to being traditionally academically clever as opposed to being savvy or "street smart". In this case, the association with books can sometimes be used in a negative way to suggest that the person does not have practical knowledge of real life, or only has knowledge that lacks practical usefulness.
-I chose this particular book to include in the exhibition because whilst the author gives me much background and content-based knowledge about key elements of the pieces, she also gives practical tips and aids me with how to develop and execute my procedural knowledge in the context of the piece (e.g. the practical fingerings). In this way, this book is both an important way of storing and spreading content knowledge but also of sharing procedural knowledge that the author garnered through decades of experience.
-This book brings together content knowledge and procedural knowledge into one source, just as I bring my academic interest and my knowledge of how to play the piano. I believe that my enjoyment of the book is much higher as a result of being able to play the piano and try out the techniques suggested in the book. In this way, my having the procedural knowledge of how to play the piano enriches my enjoyment and understanding of the academic knowledge about Chopin.
+Can you 
 
 
 ---
