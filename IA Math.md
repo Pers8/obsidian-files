@@ -41,17 +41,15 @@
 -
 ## Brève histoire des nombres complexes
 
-## Brève histoire des nombres complexes
+Les nombres complexes, aujourd'hui indispensables en mathématiques comme en ingénierie, ont une histoire fascinante qui débute au XVIe siècle. Leur première apparition documentée remonte à 1545 dans l'œuvre de Gerolamo Cardano, un mathématicien italien. Dans son livre "Ars Magna", Cardano a introduit une expression contenant la racine carrée d'un nombre négatif, une notion qu'il qualifiait de "sophistiquée" et qui était considérée à l'époque comme impossible[1].
 
-Les nombres complexes, aujourd'hui indispensables en mathématiques comme en ingénierie, ont une histoire fascinante qui débute au XVIe siècle. Leur première apparition documentée remonte à 1545 dans l'œuvre de Gerolamo Cardano, un mathématicien italien. Dans son livre "Ars Magna", Cardano a introduit une expression contenant la racine carrée d'un nombre négatif, une notion qu'il qualifiait de "sophistiquée" et qui était considérée à l'époque comme impossible[^1^][1].
+C'est Raphaël Bombelli, un autre mathématicien italien, qui a formalisé les règles de calcul avec ces nombres alors appelés "impossibles" ou "imaginaires". Malgré leur acceptation difficile par la communauté scientifique, ces nombres ont permis des avancées significatives en algèbre et dans la naissante branche du calcul infinitésimal[1].
 
-C'est Raphaël Bombelli, un autre mathématicien italien, qui a formalisé les règles de calcul avec ces nombres alors appelés "impossibles" ou "imaginaires". Malgré leur acceptation difficile par la communauté scientifique, ces nombres ont permis des avancées significatives en algèbre et dans la naissante branche du calcul infinitésimal[^1^][1].
+Au XVIIIe siècle, les mathématiciens ont commencé à généraliser les fonctions de la variable réelle à la variable imaginaire, avec des succès variés. Par exemple, l'exponentielle complexe a été bien accueillie, tandis que d'autres fonctions, comme la racine n-ième ou le logarithme complexe, ont rencontré plus de difficultés[1].
 
-Au XVIIIe siècle, les mathématiciens ont commencé à généraliser les fonctions de la variable réelle à la variable imaginaire, avec des succès variés. Par exemple, l'exponentielle complexe a été bien accueillie, tandis que d'autres fonctions, comme la racine n-ième ou le logarithme complexe, ont rencontré plus de difficultés[^1^][1].
+Ce n'est qu'au XIXe siècle que les nombres complexes ont été pleinement intégrés comme outils mathématiques, grâce à leur représentation géométrique dans le plan complexe et leur utilisation en algèbre et en analyse. Leur application en physique, notamment en optique et en électricité, a également contribué à leur légitimation en tant qu'outils essentiels des sciences[1].
 
-Ce n'est qu'au XIXe siècle que les nombres complexes ont été pleinement intégrés comme outils mathématiques, grâce à leur représentation géométrique dans le plan complexe et leur utilisation en algèbre et en analyse. Leur application en physique, notamment en optique et en électricité, a également contribué à leur légitimation en tant qu'outils essentiels des sciences[^1^][1].
 
-Cette section devrait non seulement retracer l'histoire des nombres complexes mais aussi montrer comment ils sont passés de la méfiance à l'acceptation, devenant ainsi un pilier fondamental des mathématiques modernes.
 
 
 ## Propriétés fondamentales des nombres complexes
