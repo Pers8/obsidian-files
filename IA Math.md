@@ -41,13 +41,12 @@
 -
 ## Brève histoire des nombres complexes
 
-Les nombres complexes, aujourd'hui indispensables en mathématiques comme en ingénierie, ont une histoire fascinante qui débute au XVIe siècle. Leur première apparition documentée remonte à 1545 dans l'œuvre de Gerolamo Cardano, un mathématicien italien. Dans son livre "Ars Magna", Cardano a introduit une expression contenant la racine carrée d'un nombre négatif, une notion qu'il qualifiait de "sophistiquée" et qui était considérée à l'époque comme impossible[1].
+## Brève histoire des nombres complexes
 
-C'est Raphaël Bombelli, un autre mathématicien italien, qui a formalisé les règles de calcul avec ces nombres alors appelés "impossibles" ou "imaginaires". Malgré leur acceptation difficile par la communauté scientifique, ces nombres ont permis des avancées significatives en algèbre et dans la naissante branche du calcul infinitésimal[1].
+ Les nombres complexes commence au cœur de la Renaissance, période marquée par un renouveau intellectuel et scientifique. C'est en 1545 que Gerolamo Cardano, un polymathe italien, pose les premières pierres de ce qui deviendra l'un des concepts les plus intrigants des mathématiques : les nombres complexes. Dans son œuvre "Ars Magna", Cardano aborde la résolution d'équations du troisième degré, où il rencontre des expressions contenant des racines carrées de nombres négatifs, qu'il nomme "quantités sophistiquées"[1]. Cependant, c'est Raphaël Bombelli qui, quelques décennies plus tard, systématise l'utilisation de ces nombres alors considérés comme impossibles. Dans son livre "Algebra", publié en 1572, Bombelli établit les premières règles de calcul pour ces entités mathématiques, ouvrant ainsi la voie à leur acceptation progressive[1]. Au fil des siècles, les nombres complexes gagnent en légitimité, bien que leur nature "imaginaire" suscite scepticisme et débat. Ce n'est qu'au XIXe siècle que leur statut est définitivement établi grâce à l'introduction de la représentation géométrique par le plan complexe, une avancée attribuée à Carl Friedrich Gauss. Cette représentation visuelle et concrète permet de mieux appréhender la nature des nombres complexes et de les manipuler avec plus d'aisance[1].
+Leur utilité en algèbre et en analyse, ainsi que leur application en physique, notamment en optique et en électricité, les rendent indispensables. Les nombres complexes deviennent alors des outils essentiels en mathématiques et aussi dans les sciences appliquées[1].
 
-Au XVIIIe siècle, les mathématiciens ont commencé à généraliser les fonctions de la variable réelle à la variable imaginaire, avec des succès variés. Par exemple, l'exponentielle complexe a été bien accueillie, tandis que d'autres fonctions, comme la racine n-ième ou le logarithme complexe, ont rencontré plus de difficultés[1].
 
-Ce n'est qu'au XIXe siècle que les nombres complexes ont été pleinement intégrés comme outils mathématiques, grâce à leur représentation géométrique dans le plan complexe et leur utilisation en algèbre et en analyse. Leur application en physique, notamment en optique et en électricité, a également contribué à leur légitimation en tant qu'outils essentiels des sciences[1].
 
 
 
