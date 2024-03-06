@@ -37,27 +37,18 @@
 ```
 
 
-```markdown
-# Table des matières 
-1. **Introduction**
-2. **The History of Complex numbers**
-3. **The Standard Properties of Complex Numbers** 
-4. **Understanding Euler's form** 
-5. **Why are Complex Numbers Used in AC LRC circuit Analyses* 
-6. **Components of an LRC Circuit**
-7. **The Resistor Circuit**
-8. **The Capacitor Circuit**
-9. **The Inductor Circuit**
-10. **AC LRC Circuit in Series: Finding the Current**
-11. **Conducting an AC LRC Circuit Analysis in Series**
-12. **AC LRC Circuit in Parallel: Finding the Current**
-13. **Conducting an AC LRC Circuit Analysis in Parallel**
-14. **Conclusion**
-```
+## Introduction
+-
+## Brève histoire des nombres complexes
+
+
+## Propriétés fondamentales des nombres complexes
 
 
 
 
+
+---
 
 
 Donc voici mon exploration de maths AA HL dans le programme IB. Je vais te montrer ma structure pour mon exploration, sujet et mon introduction que j'ai eu à faire. Donc je voulais écrire la partie "Contexte historique". Pour mon exploration, je voulais savoir si tu pouvais écrire en 1.5 page pour chaque l'origine des nombres imaginaires et l'évolution de leur utilisation en mathématiques et en ingénierie où tu vas mettre pour la deuxième sous-partie si nécessaire des formules en latex et explique vraiment bien avec le moins d'utilisation de l'internet possible. N'oublie pas de préciser les parties où tu as mis les sources par exemple (... au 21e siècle. [1]) :
@@ -107,15 +98,7 @@ Pour illustrer cette partie, un diagramme d'Argand pourrait être utilisé pour 
 
 
 
-$$\LARGE{P_{éolienne} = \frac{1}{2} \rho A v^3}$$
-- $\rho$ $\text{en}$ $kg \cdot m^{-3}$ $\text{qui est la masse volumique de l'air}$
-01$\newline$
-- $A$ $\text{aire balayée par les pales (}$ $A = \pi \times R^2$ $\text )$
 
-
-
-
-Donc voici mon exploration de maths AA HL dans le programme IB. Je vais te montrer ma structure pour mon exploration, sujet et mon introduction que j'ai eu à faire. Donc, je voulais écrire la partie "Contexte historique". Pour mon exploration, je voulais savoir si tu pouvais écrire en 2 pages "Évolution de leur utilisation en mathématiques et en ingénierie", de leur utilisation en mathématiques et en ingénierie et explique vraiment bien avec le moins d'utilisation de l'internet possible. N'écris que la première partie du contexte historique et n'oublie pas de préciser les parties avec lesquelles tu as mis les sources par exemple (... au 21ᵉ siècle. [1]). Je veux beaucoup d'informations utiles qui puissent tenir 2 page de long et doit respecter les critères de l'exploration en Maths AA HL. Finalement commencer directement à écrire et pas de bla bla comme : "Based on your request and the information provided, let's delve into the historical context and evolution of imaginary numbers, focusing on Euler's formula and other relevant mathematical concepts. This exploration will span approximately 3 pages, with 1.5 pages dedicated to each of the two main sections.". Pas de conclusion s'il te plait par ce que ce n'est pas la fin de mon essai et aussi, je veux beaucoup de formules et de math avec des notions d'ingénierie et à la fin, dis-moi le (les) graphe(s) qui peuvent être utilisé(s) pour cette partie et respecte les critères pour une exploration en Maths AA HL.
 
 STRUCTURE : 
 ```markdown
