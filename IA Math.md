@@ -33,8 +33,22 @@
 2. **The History of Complex numbers**
 3. **The Standard Properties of Complex Numbers** 
 4. **Understanding Euler's form** 
-5. **Conclusion** 
+5. **Why are Complex Numbers Used in AC LRC circuit Analyses* 
+6. **Components of an LRC Circuit**
+7. **The Resistor Circuit**
+8. **The Capacitor Circuit**
+9. **The Inductor Circuit**
+10. **AC LRC Circuit in Series: Finding the Current**
+11. **Conducting an AC LRC Circuit Analysis in Series**
+12. **AC LRC Circuit in Parallel: Finding the Current**
+13. **Conducting an AC LRC Circuit Analysis in Parallel**
+14. **Conclusion**
 ```
+
+
+
+
+
 
 Donc voici mon exploration de maths AA HL dans le programme IB. Je vais te montrer ma structure pour mon exploration, sujet et mon introduction que j'ai eu à faire. Donc je voulais écrire la partie "Contexte historique". Pour mon exploration, je voulais savoir si tu pouvais écrire en 1.5 page pour chaque l'origine des nombres imaginaires et l'évolution de leur utilisation en mathématiques et en ingénierie où tu vas mettre pour la deuxième sous-partie si nécessaire des formules en latex et explique vraiment bien avec le moins d'utilisation de l'internet possible. N'oublie pas de préciser les parties où tu as mis les sources par exemple (... au 21e siècle. [1]) :
 
