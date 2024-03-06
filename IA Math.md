@@ -1,29 +1,39 @@
-**Maths :** Comment les nombres imaginaires peuvent-ils être utilisés dans les domaines tel que l’ingénierie pour décrire le comportement des circuits électroniques ?
+**Maths :** L’application des nombres complexes dans l’analyse des circuits électroniques en ingénierie
 
-```markdown
-# Table des matières 
-1. **Introduction** (2 pages) 
-- Présentation du sujet 
-- Objectifs de l'essai 
-- Aperçu de la structure de l'essai 
-2. **Contexte historique** (3 pages) 
-- Origine des nombres imaginaires 
-- Évolution de leur utilisation en mathématiques et en ingénierie 
-3. **Concepts de base** (4 pages) 
-- Définition et propriétés des nombres imaginaires 
-- Introduction aux circuits électroniques 
-- Relation entre les nombres imaginaires et les circuits électroniques 
-4. **Applications en ingénierie** (8 pages) 
-- Utilisation des nombres imaginaires pour décrire le comportement des circuits électroniques 
-- Analyse des circuits en courant alternatif 
-- Simulation des circuits électroniques 
-- Études de cas 
-- Circuit de Chua 
-- Autres exemples pertinents 
-5. **Conclusion** (3 pages) 
-- Résumé des points clés 
-- Implications et applications futures 
-- Réflexions finales 
+``` markdown
+1. **Introduction**
+   - Présentation du sujet
+   - Objectifs et pertinence de l'étude
+2. **Brève histoire des nombres complexes**
+   - Origines et développement historique
+   - Contributions clés et évolution conceptuelle
+3. **Propriétés fondamentales des nombres complexes**
+   - Définition et représentation
+   - Opérations de base et leur signification géométrique
+4. **La forme d'Euler et son importance**
+   - Compréhension de la formule d'Euler
+   - Applications et implications en mathématiques
+5. **Utilisation des nombres complexes dans l'analyse des circuits AC LRC**
+   - Raison d'être et avantages
+   - Comparaison avec les méthodes traditionnelles
+6. **Composants d'un circuit LRC**
+   - Description et fonction de chaque composant
+   - Interactions et effets combinés
+7. **Le circuit avec résistance**
+   - Analyse et comportement en présence d'une résistance
+8. **Le circuit avec condensateur**
+   - Analyse et comportement en présence d'un condensateur
+9. **Le circuit avec inductance**
+   - Analyse et comportement en présence d'une inductance
+10. **Analyse d'un circuit AC LRC en série**
+    - Méthodologie pour trouver le courant
+    - Interprétation des résultats
+11. **Analyse d'un circuit AC LRC en parallèle**
+    - Méthodologie pour trouver le courant
+    - Interprétation des résultats
+12. **Conclusion**
+    - Synthèse des découvertes
+    - Réflexions sur l'étude et perspectives futures
 ```
 
 
