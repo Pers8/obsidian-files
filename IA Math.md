@@ -27,6 +27,15 @@
 ```
 
 
+```markdown
+# Table des matières 
+1. **Introduction**
+2. **The History of Complex numbers**
+3. **The Standard Properties of Complex Numbers** 
+4. **Understanding Euler's form** 
+5. **Conclusion** 
+```
+
 Donc voici mon exploration de maths AA HL dans le programme IB. Je vais te montrer ma structure pour mon exploration, sujet et mon introduction que j'ai eu à faire. Donc je voulais écrire la partie "Contexte historique". Pour mon exploration, je voulais savoir si tu pouvais écrire en 1.5 page pour chaque l'origine des nombres imaginaires et l'évolution de leur utilisation en mathématiques et en ingénierie où tu vas mettre pour la deuxième sous-partie si nécessaire des formules en latex et explique vraiment bien avec le moins d'utilisation de l'internet possible. N'oublie pas de préciser les parties où tu as mis les sources par exemple (... au 21e siècle. [1]) :
 
 Premièrement, je t'ai dit d'écrire que sur la partie contexte historique et non sur les autres parties et il ne doit pas encore avoir de conclusion. Deuxièmement, les deux doivent avoir 1 page et demie de long et ce que tu m'as écrit n'est pas du tout détaillé et je veux beaucoup d'informations qui puissent tenir 1.5 page de long et doit respecter les critères de l'exploration en Maths AA HL. Finalement commencer directement à écrire et pas de bla bla comme : "Based on your request and the information provided, let's delve into the historical context and evolution of imaginary numbers, focusing on Euler's formula and other relevant mathematical concepts. This exploration will span approximately 3 pages, with 1.5 pages dedicated to each of the two main sections."

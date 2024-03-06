@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOK ESSAY.md",
+                "file": "IA Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOK ESSAY.md",
+                "file": "IA Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOK ESSAY.md"
+                "file": "IA Math.md"
               }
             }
           },
@@ -305,8 +305,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01a5f477cb3249a3",
+  "active": "82c26b913bb70276",
   "lastOpenFiles": [
+    "TOK ESSAY.md",
     "TOK essayy.md",
     "IA Physique.md",
     "IA Math.md",
@@ -334,7 +335,6 @@
     "English/Time & Space.md",
     "IB/Physics.md",
     "Forces magnétique.md",
-    "Eco TD2.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
