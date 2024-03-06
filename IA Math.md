@@ -51,7 +51,9 @@ Leur utilité en algèbre et en analyse, ainsi que leur application en physique,
 
 ## Propriétés fondamentales des nombres complexes
 
+L'argument de z, noté arg(z), correspond à l'angle ϕ formé par le rayon reliant l'origine au point (a,b) et l'axe réel positif. La tangente de cet angle est le rapport entre la partie imaginaire et la partie réelle du nombre complexe :
 
+$$tan(ϕ)=\frac{a}{b}$$​
 
 
 
