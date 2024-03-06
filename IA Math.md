@@ -53,11 +53,11 @@ Bien sûr, voici un guide détaillé pour chaque section de votre table des mati
     - Mentionnez les mathématiciens clés et leurs contributions à la théorie des nombres complexes.
 3. **Propriétés fondamentales des nombres complexes**
     
-    - Expliquez ce que sont les nombres complexes, y compris leur forme algébrique ( a + bi ).
+    - Expliquez ce que sont les nombres complexes, y compris leur forme algébrique $( a + bi )$.
     - Discutez des opérations de base (addition, soustraction, multiplication, division) et de leur interprétation géométrique sur le plan complexe.
 4. **La forme d’Euler et son importance**
     
-    - Introduisez la formule d’Euler ( e^{ix} = \cos(x) + i\sin(x) ) et expliquez son origine et son importance.
+    - Introduisez la formule d’Euler $( e^{ix} = \cos(x) + i\sin(x) )$ et expliquez son origine et son importance.
     - Expliquez comment elle est utilisée en mathématiques et dans l’analyse des circuits.
 5. **Utilisation des nombres complexes dans l’analyse des circuits AC LRC**
     
