@@ -54,11 +54,16 @@ Leur utilité en algèbre et en analyse, ainsi que leur application en physique,
 
 ## Propriétés fondamentales des nombres complexes
 
-Les nombres complexes sont souvent représentés sous la forme de $a+ib$ où $a$ et $b$ sont des réels et $i$, l'unité imaginaire telle que $i$ = $\sqrt{-1}$. En ingénierie électrique, ​l'unité imaginaire est habituellement notée $j$ pour éviter toute confusion avec le symbole $I$ qui est traditionnellement utilisé pour désigner le courant électrique. Sur un plan géométrique, les nombres complexes sont représentés sur le plan d'Argand où l'axe horizontal noté $Re$ correspond à la partie réelle du nombre complexe. L'axe vertical noté $Im$ correspond à la partie imaginaire de ce nombre. Ainsi un nombre complexe $z=a+jb$ est représenté par le point de coordonnées $(a,b)$ sur le plan ci-dessous.$$\text{ Figure 1 : Plan d'Argand}$$
-Le module d'un nombre complexe $z$ noté $|z|$ correspond à la distance entre le point $(a,b)$ et l'origine du point du repère. Il se cacule par la formule suivante :$$|z|=\sqrt{a^2+b^2}$$
-L'argument $z$ noté $arg(z)$ correspond à l'angle $\phi$ formé par le rayon reliant l'origine au point $(a,b)$ et l'axe réel positif. La tangente de cet angle est le rapport entre la partie imaginaire et la partie réelle du nombre complexe :$$\tan(\phi)=\frac{b}{a}$$
-Le lien entre la trigonométrie et les nombres complexes est formalisé par la forme polaire d'un nombre complexe où $a$ est le produit du module de $z$ et du cosinus de $\phi$ et $b$, le produit du module de $z$ et le sinus de $\phi$ :$$a=|z|\cos(\phi) \hspace{10mm} \text{et} \hspace{10mm} b=|z|\sin(\phi)$$
-Cette relation est généralement exprimée sous la forme polaire suivante :$$z=|z|(\cos(\phi)+j\sin(\phi))=|z|cis(\phi)$$
+Les nombres complexes sont souvent représentés sous la forme de $a+ib$ où $a$ et $b$ sont des réels et $i$, l'unité imaginaire telle que $i$ = $\sqrt{-1}$. En ingénierie électrique, ​l'unité imaginaire est habituellement notée $j$ pour éviter toute confusion avec le symbole $I$ qui est traditionnellement utilisé pour désigner le courant électrique. Sur un plan géométrique, les nombres complexes sont représentés sur le plan d'Argand où l'axe horizontal noté $Re$ correspond à la partie réelle du nombre complexe. L'axe vertical noté $Im$ correspond à la partie imaginaire de ce nombre. Ainsi un nombre complexe $z=a+jb$ est représenté par le point de coordonnées $(a,b)$ sur le plan ci-dessous.
+$$\text{ Figure 1 : Plan d'Argand}$$
+Le module d'un nombre complexe $z$ noté $|z|$ correspond à la distance entre le point $(a,b)$ et l'origine du point du repère. Il se cacule par la formule suivante :
+$$|z|=\sqrt{a^2+b^2}$$
+L'argument $z$ noté $arg(z)$ correspond à l'angle $\phi$ formé par le rayon reliant l'origine au point $(a,b)$ et l'axe réel positif. La tangente de cet angle est le rapport entre la partie imaginaire et la partie réelle du nombre complexe :
+$$\tan(\phi)=\frac{b}{a}$$
+Le lien entre la trigonométrie et les nombres complexes est formalisé par la forme polaire d'un nombre complexe où $a$ est le produit du module de $z$ et du cosinus de $\phi$ et $b$, le produit du module de $z$ et le sinus de $\phi$ :
+$$a=|z|\cos(\phi) \hspace{10mm} \text{et} \hspace{10mm} b=|z|\sin(\phi)$$
+Cette relation est généralement exprimée sous la forme polaire suivante :
+$$z=|z|(\cos(\phi)+j\sin(\phi))=|z|cis(\phi)$$
 
 
 
