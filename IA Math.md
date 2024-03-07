@@ -21,7 +21,7 @@
    - Interactions et effets combinés
 7. **Le circuit avec résistance**
    - Analyse et comportement en présence d'une résistance
-8. **Le circuit avec condensateur**
+8. **Le circuit avec capacité**
    - Analyse et comportement en présence d'un condensateur
 9. **Le circuit avec inductance**
    - Analyse et comportement en présence d'une inductance
