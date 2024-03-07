@@ -54,8 +54,7 @@ Leur utilité en algèbre et en analyse, ainsi que leur application en physique,
 
 ## Propriétés fondamentales des nombres complexes
 
-​
-
+Les nombres complexes sont souvent représentés sous la forme de $a+ib$ où $a$ et $b$ sont des réels et $i$, l'unité imaginaire telle que $i$ = $\sqrt{-1}$. En ingénierie électrique, ​l'unité imaginaire est habituellement notée $j$ pour éviter toute confusion avec le symbole $I$ qui est traditionnellement utilisé pour désigner le courant électrique. Sur un plan géométrique
 
 
 
