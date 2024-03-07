@@ -54,21 +54,7 @@ Leur utilité en algèbre et en analyse, ainsi que leur application en physique,
 
 ## Propriétés fondamentales des nombres complexes
 
-Les nombres complexes, souvent représentés sous la forme $a + ib$, où $a$ et $b$ sont des réels et $i$ est l'unité imaginaire telle que $i^2 = -1$, constituent un élargissement du concept des nombres réels. En ingénierie électrique, l'unité imaginaire est habituellement notée par $j$ pour éviter toute confusion avec le symbole $I$ qui est traditionnellement utilisé pour désigner le courant électrique. 
-
-Sur le plan géométrique, les nombres complexes sont représentés par le plan d'Argand, où l'axe horizontal, noté $Re$, correspond à la partie réelle du nombre complexe et l'axe vertical, noté $Im$, à sa partie imaginaire. Ainsi, un nombre complexe $z = a + ib$ est représenté par le point de coordonnées $(a, b)$ dans ce plan.
-
-Le module d'un nombre complexe $z$ noté $|z|$ correspond à la distance entre le point $(a, b)$ et l'origine du plan. Il se calcule par la formule : $$|z| = \sqrt{a^2 + b^2}$$
-
-L'argument de $z$ noté $\text{arg}(z)$, correspond à l'angle $\phi$ formé par le rayon reliant l'origine au point $(a, b)$ et l'axe réel positif. La tangente de cet angle est le rapport entre la partie imaginaire et la partie réelle du nombre complexe : $$\tan(\phi) = \frac{b}{a}$$
-
-Le lien entre la trigonométrie et les nombres complexes est formalisé par la forme polaire d'un nombre complexe, où $a$ est le produit du module de $z$ et du cosinus de $\phi$, et $b$ est le produit du module de $z$ et du sinus de $\phi$ : $$a = |z|\cos(\phi) \quad \text{et} \quad b = |z|\sin(\phi)$$
-
-Cette relation est souvent exprimée sous la forme exponentielle ou forme d'Euler d'un nombre complexe : $$z = |z|(\cos(\phi) + j\sin(\phi)) = |z|e^{j\phi}$$
-
-Dans l'analyse des circuits électroniques, cette représentation est extrêmement utile car elle permet de simplifier les calculs impliquant des tensions et des courants alternatifs. Les phénomènes d'induction et de capacité créent des déphasages entre tension et courant, qui peuvent être aisément décrits et manipulés à l'aide de nombres complexes. Les opérations telles que l'addition, la soustraction, la multiplication et la division deviennent plus intuitives quand elles sont représentées dans le plan complexe.
-
-Les nombres complexes et leur représentation sur le plan d'Argand constituent donc des outils fondamentaux dans la compréhension et l'analyse des circuits AC en ingénierie. La capacité de représenter les déphasages et l'amplitude des signaux électriques en tant que vecteurs dans le plan complexe est une application directe et pertinente des propriétés fondamentales des nombres complexes dans ce domaine.​
+​
 
 
 
