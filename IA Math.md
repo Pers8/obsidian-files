@@ -66,6 +66,7 @@ Cette relation est généralement exprimée sous la forme polaire suivante :
 $$z=|z|(\cos(\phi)+j\sin(\phi))=|z|cis(\phi)$$
 
 
+	\R
 
 
 ---
