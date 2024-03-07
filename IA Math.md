@@ -66,7 +66,11 @@ Cette relation est généralement exprimée sous la forme polaire suivante :
 $$z=|z|(\cos(\phi)+j\sin(\phi))=|z|cis(\phi)$$
 
 
-	\R
+$$
+\begin{equation}
+    e^{j\phi}=  \sum_{n=0}^{\infty} \frac{(-1)^n \phi^{2n}}{2n!} + j\sum_{n=0}^{\infty} \frac{(-1)^n \phi^{2n+1}}{(2n+1)!} \hspace{2mm}, \hspace{2mm} n \in \mathbb{N}
+\end{equation}
+$$
 
 
 ---
