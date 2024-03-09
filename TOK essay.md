@@ -44,6 +44,7 @@ If subjectivity was more accepted in history, it would change the nature and the
 
 $\Large{\frac{\sqrt[4] 4}{\sqrt[6] 16} = \frac{4^{\frac{1}{4}}}{16^{\frac{1}{6}}}=\frac{(2^2)^{\frac{1}{4}}}{(2^4)^{\frac{1}{6}}}=\frac{2^{\frac{2}{4}}}{2^{\frac{4}{6}}}=\frac{2^{\frac{1}{2}}}{2^{\frac{2}{3}}}=2^{\frac{1}{2}-\frac{2}{3}}=2^{-\frac{1}{6}}=\frac{1}{\sqrt[6]2}}$
 
+$\frac{a^x}{a^y}= a^{x-y}$
 
 
 ---
