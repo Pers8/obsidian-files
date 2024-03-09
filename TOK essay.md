@@ -29,11 +29,11 @@ Links :
 
 
 
-It's good but I think that is enough :
+
 
 The question of subjectivity in knowledge is one that has been debated for centuries by philosophers, historians, artists, and thinkers from various disciplines. Subjectivity refers to the influence of personal factors such as emotions, beliefs, values, perspectives, and biases, on the way we acquire, interpret, and communicate knowledge. In some areas of knowledge such as the arts, subjectivity is often seen as a positive and essential feature that allows for creativity, diversity, and expression. In other areas of knowledge such as history, subjectivity is often viewed as a negative and problematic factor that undermines the reliability, accuracy and validity of historical knowledge. In this essay, I will examine the claim that subjectivity is overly celebrated in the arts but unfairly condemned in history and discuss the implications of this claim for our understanding of knowledge.
 
-Can you 
+
 
 
 ---

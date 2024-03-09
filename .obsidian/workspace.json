@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Math.md",
+                "file": "TOK ESSAY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Math.md",
+                "file": "TOK ESSAY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Math.md"
+                "file": "TOK ESSAY.md"
               }
             }
           },
@@ -305,12 +305,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c26b913bb70276",
+  "active": "01a5f477cb3249a3",
   "lastOpenFiles": [
+    "IA Math.md",
     "TOK ESSAY.md",
     "TOK essayy.md",
     "IA Physique.md",
-    "IA Math.md",
     "Excalidraw/Calculus.md",
     "Data Base.canvas",
     "Untitled 1.loom",
