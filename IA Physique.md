@@ -7,22 +7,20 @@
 ```markdown
 1. Introduction
 2. Question de recherche 
-3. Contexte théorique
-4. Hypothèse
+3. Contexte théorique et Hypothèse
 5. Variables
-	5.1. Variable(s) dépendante(s)
-	5.2. Variable(s) indépendante(s)
-	5.3. Variable(s) contrôlée(s)
-6. Méthodologie
-7. Risques liés à l'expérience
-8. Collection des données et Analyse
+6. Diagramme
+7. Apparatus
+8. Méthodologie
+9. Risques liés à l'expérience
+10. Collection des données et Analyse
 	8.1. Tableau des données
 	8.2. Table des données 
 	8.3. Traitement des données 
 	8.4. Incertitudes
 	8.5. Analyse des données
 	8.6. Analyse des erreurs
-9. Conclusion
+9. Analyse et Conclusion
 10. Références
 ```
 
