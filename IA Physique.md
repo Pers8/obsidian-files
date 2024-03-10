@@ -13,10 +13,11 @@
 7. Apparatus
 8. Méthodologie
 9. Risques liés à l'expérience
-10. Données brutes
-11. Données traités
-12. Graphiques
-13. Collection des données et Analyse (Pas pris en compte)
+10. Collecte et traitement des données
+	10.1. Données brutes
+	10.2. Données traités
+11. Graphiques
+12. Collection des données et Analyse (Pas pris en compte)
 	8.1. Tableau des données
 	8.2. Table des données 
 	8.3. Traitement des données 
