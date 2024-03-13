@@ -30,10 +30,10 @@ tags: [MOC]
 
 ![alt text](image.jpg.md)
 
-| Syntax | Description |  
-| ----------- | ----------- |  
-| Header | Title |  
-| Paragraph | Text |
+| Syntax    | Description |     |
+| --------- | ----------- | --- |
+| Header    | Title       |     |
+| Paragraph | Text        |     |
 
   
 ```  
