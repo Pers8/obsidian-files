@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English IA Bullet points.md",
+                "file": "IA Comp Sci.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,9 +111,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 1694.1655312826374,
+                  "y": -66.36852245683068,
+                  "zoom": -0.18241010753129228
                 }
               }
             }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English IA Bullet points.md",
+                "file": "IA Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English IA Bullet points.md",
+                "file": "IA Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English IA Bullet points.md"
+                "file": "IA Comp Sci.md"
               }
             }
           },
@@ -307,6 +307,7 @@
   },
   "active": "6271cd0f3d14c553",
   "lastOpenFiles": [
+    "English IA Bullet points.md",
     "English extract homework.md",
     "English IA Text.md",
     "Tle IB English.md",
@@ -334,7 +335,6 @@
     "English/The interactionist theory.md",
     "English/The innatism theory.md",
     "English/The behaviourist theory.md",
-    "English/Time & Space.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
