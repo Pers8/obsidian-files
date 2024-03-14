@@ -123,9 +123,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 1694.1655312826374,
-                  "y": -66.36852245683068,
-                  "zoom": -0.18241010753129228
+                  "x": 248.29960280254227,
+                  "y": 1348.9724791230465,
+                  "zoom": -0.6948290265941548
                 }
               }
             }
@@ -153,9 +153,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6459856476b63462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exo informatique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Exo informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Exo informatique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "Exo informatique.md"
               }
             }
           },
@@ -317,10 +329,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78af5e3b3cd9b467",
+  "active": "6459856476b63462",
   "lastOpenFiles": [
-    "syntax/Obsidian Basic  and Extended Syntax.md",
+    "Exo informatique.md",
+    "Data Base.canvas",
     "Untitled 5.md",
+    "syntax/Obsidian Basic  and Extended Syntax.md",
     "IA Comp Sci.md",
     "English IA Bullet points.md",
     "English extract homework.md",
@@ -332,7 +346,6 @@
     "IA Math.md",
     "TOK essayy.md",
     "Excalidraw/Calculus.md",
-    "Data Base.canvas",
     "Untitled 1.loom",
     "Individual Oral English IA.md",
     "Radians.md",
@@ -346,7 +359,6 @@
     "Context of Interpretation or reception.md",
     "How to do an English High Level Essay.md",
     "Comparison between King Lear and HouseBoy.md",
-    "English/HouseBoy.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",

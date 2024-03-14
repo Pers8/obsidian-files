@@ -1,0 +1,6 @@
+```SQL
+CREATE TABLE livre
+(
+
+);
+```
