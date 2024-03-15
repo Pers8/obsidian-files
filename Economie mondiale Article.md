@@ -8,10 +8,10 @@ Le mois dernier, M. Tai a déclaré que l'administration Biden examinait attenti
 Vendredi, un groupe de défense de l'industrie manufacturière américaine a exhorté M. Biden à bloquer les automobiles et les pièces détachées chinoises à bas prix en provenance du Mexique.
 =="L'introduction sur le marché américain d'automobiles chinoises bon marché - qui sont si bon marché parce qu'elles sont soutenues par le pouvoir et le financement du gouvernement chinois - pourrait finir par être un événement de niveau d'extinction pour le secteur automobile américain", a déclaré l'Alliance for American Manufacturing dans un rapport.==
 
-Bien que de nombreux constructeurs automobiles chinois soient soutenus par l'État, ils ont travaillé à l'amélioration des véhicules et avancent plus vite que d'autres régions" dans des domaines de haute technologie tels que les écrans de tableau de bord et les tests de conduite autonome, a déclaré Stephanie Brinley, analyste chez S&P Global Mobility.
+==Bien que de nombreux constructeurs automobiles chinois soient soutenus par l'État, ils ont travaillé à l'amélioration des véhicules et avancent plus vite que d'autres régions" dans des domaines de haute technologie tels que les écrans de tableau de bord et les tests de conduite autonome, a déclaré Stephanie Brinley, analyste chez S&P Global Mobility.==
 Le républicain Donald Trump, qui brigue un second mandat présidentiel en novembre, a menacé d'imposer de nouveaux droits de douane élevés sur les importations de véhicules chinois, après avoir augmenté les droits de douane de 25 % lorsqu'il était président.
 L'ambassade de Chine à Washington a déclaré que les exportations automobiles chinoises "reflètent le développement de haute qualité et la forte innovation de l'industrie manufacturière chinoise".
-La question a suscité un regain d'intérêt après que la société chinoise BYD (002594.SZ) a annoncé son intention d'implanter une usine de véhicules électriques au Mexique. BYD, connu pour ses modèles moins chers, a récemment dépassé son plus grand rival, Tesla (TSLA.O), pour devenir le premier fabricant mondial de VE en termes de ventes.
+==La question a suscité un regain d'intérêt après que la société chinoise BYD (002594.SZ) a annoncé son intention d'implanter une usine de véhicules électriques au Mexique. BYD, connu pour ses modèles moins chers, a récemment dépassé son plus grand rival, Tesla (TSLA.O), pour devenir le premier fabricant mondial de VE en termes de ventes.==
 
 ---
 
