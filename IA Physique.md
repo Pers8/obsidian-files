@@ -110,6 +110,10 @@ Voici ma table des matières pour mon exploration en physique dans le programme 
 1. Introduction
 2. Question de recherche 
 3. Contexte théorique et Hypothèse
+	3.1. Trainée
+	3.2. Portance
+	3.3. Profil d'aile
+	3.4. Hypothèse
 4. Variables
 5. Diagramme
 6. Apparatus
@@ -150,13 +154,9 @@ A sketch of an expected graph here will also be useful.
 X
 
 ## 2- Question de recherche 
-Quelle est la relation entre la vitesse et les forces de portance et de trainée d'un aileron?
+Quelle est la relation entre la vitesse et les forces de portance et de traînée d'un aileron ?
 
 ## 3- Contexte théorique et Hypothèse
-
-
-
-
 
 
 
