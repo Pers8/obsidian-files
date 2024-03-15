@@ -116,8 +116,10 @@ Références :
 5. Diagramme
 6. Apparatus
 7. Méthodologie
-8. Risques liés à l'expérience
-9. Collecte et traitement des données
+	7.1. Materiels utilisés
+	7.2. Procédure expérimentale
+	7.3. Risques liés à l'expérience
+1. Collecte et traitement des données
 	9.1. Données brutes
 	9.2. Données traités
 10. Graphiques
@@ -153,7 +155,7 @@ Ici, $C_L$​ est le coefficient de portance qui dépendra fortement de l'angle 
 Le profil d'aile est sélectionné en fonction de l'application spécifique et du régime de vol désiré. Il influence directement les coefficients de portance et de traînée par sa forme et son épaisseur. La conception optimale d'un profil d'aile recherche un équilibre entre une portance élevée et une traînée minimale, permettant ainsi le meilleur rendement possible.
 
 ### 3.4. Hypothèse
-En se basant sur les théories aérodynamiques et les équations susmentionnées, nous pouvons postuler que la relation entre la vitesse de l'aileron et les forces de portance et de traînée sera directement proportionnelle au carré de la vitesse. Cela signifie qu'à mesure que la vitesse double, les forces de portance et de traînée augmenteront de quatre fois. Nous anticipons donc une augmentation exponentielle de ces forces avec l'accroissement de la vitesse, ce qui aura des implications significatives sur la conception et le comportement des ailerons en conditions réelles.
+En se basant sur les théories aérodynamiques et les équations susmentionnées, je peux postuler que la relation entre la vitesse de l'aileron et les forces de portance et de traînée sera directement proportionnelle au carré de la vitesse. Cela signifie qu'à mesure que la vitesse double, les forces de portance et de traînée augmenteront de quatre fois. On anticipera donc une augmentation exponentielle de ces forces avec l'accroissement de la vitesse, ce qui aura des implications significatives sur la conception et le comportement des ailerons en conditions réelles.
 
 ## 4. Variables
 
