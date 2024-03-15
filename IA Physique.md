@@ -124,12 +124,12 @@ Références :
 13. Références
 ```
 
-**Sujet :**  
+**Sujet :** Étudier la relation entre la vitesse et les forces de portance et de trainée d'un aileron
 ## 1- Introduction
 X
 
 ## 2- Question de recherche 
-Quelle est la relation entre la vitesse et les forces de portance et de trainée d'un aileron.
+Quelle est la relation entre la vitesse et les forces de portance et de trainée d'un aileron?
 
 ## 3- Contexte théorique et Hypothèse
 
