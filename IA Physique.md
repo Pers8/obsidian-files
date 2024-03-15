@@ -159,7 +159,10 @@ Quelle est la relation entre la vitesse et les forces de portance et de traîné
 ## 3- Contexte théorique et Hypothèse
 
 ### 3.1. Trainée
-La résistance qu'un fluide exerce sur un corps en mouvement est connue sous le nom de traînée. Cette force est principalement le résultat de deux phénomènes : la traînée de forme, liée à la manière dont le fluide s'écoule autour du corps, et la traînée de frottement, qui est la conséquence directe des forces visqueuses à la surface du corps. L'équation générale qui la décrit est :
+La résistance qu'un fluide exerce sur un corps en mouvement est connue sous le nom de traînée comme illustré dans la figure ci-dessus. 
+![[Pasted image 20240315125206.png]]
+$$\text{Figure 1 - Trainée exercé sur un avion}$$
+Cette force est principalement le résultat de deux phénomènes : la traînée de forme, liée à la manière dont le fluide s'écoule autour du corps, et la traînée de frottement, qui est la conséquence directe des forces visqueuses à la surface du corps. L'équation générale qui la décrit est :
 $$F_d=\frac{1}{2}\rho v^2C_dA$$
 où $\rho$ est la densité de l'air, $v$ la vitesse de l'objet, $C_d$​ le coefficient de traînée, et $A$ la surface de référence.
 
@@ -173,3 +176,5 @@ Le profil d'aile est sélectionné en fonction de l'application spécifique et d
 
 ### 3.4. Hypothèse
 En se basant sur les théories aérodynamiques et les équations susmentionnées, nous pouvons postuler que la relation entre la vitesse de l'aileron et les forces de portance et de traînée sera directement proportionnelle au carré de la vitesse. Cela signifie qu'à mesure que la vitesse double, les forces de portance et de traînée augmenteront de quatre fois. Nous anticipons donc une augmentation exponentielle de ces forces avec l'accroissement de la vitesse, ce qui aura des implications significatives sur la conception et le comportement des ailerons en conditions réelles.
+
+## Variables
