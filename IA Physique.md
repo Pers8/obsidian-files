@@ -104,7 +104,7 @@ Références :
 
 ---
 
-
+Voici ma table des matières pour mon exploration en physique dans le programme IB :
 
 ```markdown
 1. Introduction
@@ -125,6 +125,8 @@ Références :
 ```
 
 **Sujet :** Étudier la relation entre la vitesse et les forces de portance et de trainée d'un aileron
+
+Peux-tu m'écrire la partie contexte théorique derrière
 ## 1- Introduction
 X
 
