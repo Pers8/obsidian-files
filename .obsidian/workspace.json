@@ -160,14 +160,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exo informatique.md",
+                "file": "Exo informatique SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exo informatique.md",
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exo informatique.md",
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exo informatique.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -329,9 +329,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6459856476b63462",
+  "active": "0155f254c27d5d4a",
   "lastOpenFiles": [
-    "Exo informatique.md",
+    "Exo informatique SQL.md",
     "Data Base.canvas",
     "Untitled 5.md",
     "syntax/Obsidian Basic  and Extended Syntax.md",
