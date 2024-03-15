@@ -204,3 +204,8 @@ X
 
 ## 8. Risques liés à l'expérience
 
+**Sécurité** : Vu que les expériences impliquent l'utilisation de souffleries et d'objets en mouvement rapide comme les ailerons, je me suis assuré de la sécurité de l'opérateur et de tout spectateur en faisant la vérification de l'équipement avant chaque test pour être sûr qu'il n'y a pas de défauts qui pourraient entraîner des accidents, l'utilisation de protections adéquates pour prévenir des blessures dues à des pièces en mouvement ou des projections d'objets et la mise en place d'un espace sécurisé où l'expérience sera conduite pour éviter toute interférence ou dommage à l'équipement.
+
+**Environnementaux** : Les considérations environnementales pourraient inclure le contrôle de la température et de l'humidité dans la soufflerie pour s'assurer que les conditions restent constantes et ne varient pas au point d'affecter les résultats de l'expérience. Il faudrait également s'assurer que l'équipement utilisé, comme les batteries de voiture pour l'alimentation, ne cause pas de pollution ou de dégâts environnementaux, et que l'utilisation d'énergie soit aussi efficace que possible.
+
+**Éthiques** : Bien que les questions éthiques soient généralement plus concernées par les expériences impliquant des sujets vivants, il est toujours important de réfléchir à l'éthique de l'expérimentation. Dans le contexte de votre expérience aérodynamique, cela pourrait signifier assurer que les résultats sont rapportés honnêtement et précisément, sans manipulation des données pour favoriser un certain résultat.
