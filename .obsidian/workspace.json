@@ -177,9 +177,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fba73557e30bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -245,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie mondiale Article.md",
+                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie mondiale Article.md",
+                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie mondiale Article.md"
+                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md"
               }
             }
           },
@@ -341,10 +351,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecd8d355134cc720",
+  "active": "5fba73557e30bc4a",
   "lastOpenFiles": [
-    "Eco TD2.md",
+    "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md",
     "Economie mondiale Article.md",
+    "Eco TD2.md",
     "IA Physique.md",
     "Exo informatique SQL.md",
     "assets/Pasted image 20240315125206.png",
@@ -371,7 +382,6 @@
     "IB/English.md",
     "Context.md",
     "Content.md",
-    "Context of Interpretation or reception.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
