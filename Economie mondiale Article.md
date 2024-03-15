@@ -1,3 +1,5 @@
+
+**Mot clé :** Intervention
 ### Article
 WASHINGTON, 28 février (Reuters) - ==Le sénateur républicain Josh Hawley a présenté mercredi un projet de loi visant à augmenter les droits de douane sur les importations de véhicules chinois, alors que l'on s'inquiète de l'impact concurrentiel potentiel sur les constructeurs automobiles américains.
 Hawley a déclaré que le président Joe Biden devrait prendre des mesures pour protéger les travailleurs américains de l'automobile "de la menace existentielle posée par la Chine".
@@ -15,3 +17,9 @@ L'ambassade de Chine à Washington a déclaré que les exportations automobiles 
 
 ---
 
+Introduction :
+Définition du droit de douane
+Qu'a fait l'état au sujet des droits des douanes et quel est l'objectif de son **intervention** ?
+Quelle stratégie a été mise en place par la Chine afin de dominer le marché ?
+
+Le droit de douane est une taxe prélevée par unité sur le prix des biens ou des services importés. Dans cet article, l'État américain vise à imposer des droits de douanes sur les véhicules automobiles chinois dans le but protéger les entreprises nationales de la concurrence. Cette **intervention**
