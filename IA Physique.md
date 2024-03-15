@@ -159,18 +159,18 @@ En se basant sur les théories aérodynamiques et les équations susmentionnées
 
 **Variable indépendante**
 
-- **Variable :** Vitesse de l'air (v)
-- **Unités :** mètres par seconde (m/s)
-- **Justification de la plage de valeurs :** La gamme de vitesses choisie pour la soufflerie est de 5-30 m/s pour couvrir le régime de vol allant des basses aux hautes vitesses, permettant d'observer la transition de l'écoulement laminaire à turbulent, et de capturer les effets de la traînée et de la portance sur des profils d'aileron.
+- **Variable :** Vitesse de l'air $v$
+- **Unités :** mètres par seconde $m/s$
+- **Justification de la plage de valeurs :** La gamme de vitesses choisie pour la soufflerie est de $5-30 m/s$ pour couvrir le régime de vol allant des basses aux hautes vitesses, permettant d'observer la transition de l'écoulement laminaire à turbulent, et de capturer les effets de la traînée et de la portance sur des profils d'aileron.
 
 **Variables dépendantes**
 
 - **Variable :** Force de traînée ($F_d$)
 - **Unités :** Newton ($N$)
-- **Instrument de mesure :** Balance de précision avec capteur de force ($\pm 0,01 N$)
-- **Variable :** Force de portance ($F_L$)
-- **Unités :** Newton ($N$)
-- **Instrument de mesure :** Balance de précision avec capteur de force ($\pm 0,01 N$)
+- **Instrument de mesure :** Balance de précision avec capteur de force $\pm 0,01 N$
+- **Variable :** Force de portance $F_L$
+- **Unités :** Newton $N$
+- **Instrument de mesure :** Balance de précision avec capteur de force $\pm 0,01 N$
 
 **Variables contrôlées**
 
