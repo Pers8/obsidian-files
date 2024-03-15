@@ -126,7 +126,26 @@ Voici ma table des matières pour mon exploration en physique dans le programme 
 
 **Sujet :** Étudier la relation entre la vitesse et les forces de portance et de trainée d'un aileron
 
-Peux-tu m'écrire la partie contexte théorique derrière
+Peux-tu m'écrire la partie contexte théorique seulement et explique très bien les concepts. Je veux que tu t'inspires de ce que je t'ai envoyé, ne copie pas et soit original. Défini, trainés, portance et profil d'aile. Sois concis et aussi respecte les critères de l'IB pour une exploration en physique. Je ne veux pas de répétitions, car ça n'amène rien de plus à l'essai et aussi mets le plus de formules possible. Ne mets pas de graphique pour l'instant, mais centre les formules et vraiment explique très bien les choses. Écris une hypothèse à la fin et je vais te montrer une explication de comment ça marche :
+
+This section is where you discuss the physics theory behind your research question, which ultimately allows you to formulate an educated hypothesis on what is likely to happen with your results.
+
+> **MYTH BUSTER!  
+> This section does not have to be huge. The _biggest mistake_ most students make in this section is to give far too much background physics on material that is not directly related to the research question.**
+
+This part of your investigation can be really tricky. It's important that you get the correct physics background and theory, as your hypothesis (and ultimately your conclusion and evaluation) will be based upon it. 
+
+If you feel you need extra support in writing your theory and hypothesis, you can watch me [write the perfect Physics IA from scratch](https://www.gradepod.com/offers/oQYodwcy) AND you can copy my workflow on how to complete each section of your IA inside my crazy, special bonus course: The [Step-by-Step Guide to Writing the PERFECT Physics IA](https://www.gradepod.com/ib-physics-ia-guide). It's free when you join Ace Your IB Physics Exams BUT I know that some people just need help with this part of IB Physics. That's why I offer students the opportunity to purchase this bonus course separately. For more information - [read here](https://www.gradepod.com/ib-physics-ia-guide).
+
+> **MYTH BUSTER!**   
+> **You _should_ include a hypothesis and should predict what will happen to your dependent variable (Variable Y) when you change your independent variable (Variable X). It should predict a mathematical relationship - if possible.**
+
+Example hypotheses:
+
+- The length of the lasso will be directly proportional to the square of the time period of the lasso
+- The voltage across the capacitor will decay exponentially to the time of discharge of the capacitor
+
+A sketch of an expected graph here will also be useful.
 ## 1- Introduction
 X
 
