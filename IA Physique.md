@@ -82,7 +82,7 @@ protocole de l'expérience : penser à une simulation
 
 La portance est la force qui permet à un avion de voler. Elle s’exerce perpendiculairement à la direction du vent relatif, c’est-à-dire la vitesse de l’air par rapport à l’aile. La portance dépend de plusieurs facteurs, dont la forme du profil de l’aile, l’angle d’incidence, la vitesse du vent relatif, la densité de l’air, et la rugosité de la surface de l’aile. Dans cette exploration, nous allons nous intéresser à l’influence de la vitesse sur la portance d’une aile d’avion, en utilisant une simulation numérique.
 
-Pour comprendre comment la portance se crée, il faut d’abord connaître le principe de conservation de la quantité de mouvement. Ce principe stipule que la somme des quantités de mouvement d’un système isolé reste constante, sauf s’il y a une force extérieure qui agit sur le système. La quantité de mouvement d’un corps est le produit de sa masse par sa vitesse. Par exemple, si un corps de masse $m$ se déplace à la vitesse $v$, sa quantité de mouvement est $p = mv$. Si le corps change de vitesse, sa quantité de mouvement change aussi, et il faut qu’il y ait une force qui provoque ce changement. La force est égale à la variation de la quantité de mouvement par unité de temps, c’est-à-dire $F = \frac{dp}{dt}$​.
+Pour comprendre comment la portance se crée, il faut d’abord connaître le principe de conservation de la quantité de mouvement. Ce principe stipule que la somme des quantités de mouvement d’un système isolé reste constante, sauf s’il y a une force extérieure qui agit sur le système. La quantité de mouvement d’un corps est le produit de sa masse par sa vitesse. Par exemple, si un corps de masse $m$ se déplace à la vitesse $v$, sa quantité de mouvement est $p = mv$. Si le corps change de vitesse, sa quantité de mouvement change aussi, et il faut qu’il y ait une force qui provoque ce changement. La force est égale à la variation de la quantité de mouvement par unité de temps, c’est-à-dire $F = \frac{dp}{dt}$. 
 
 Quand une aile d’avion se déplace dans l’air, elle modifie la vitesse et la direction de l’air qui la traverse. L’air qui passe au-dessus de l’aile (l’extrados) accélère et prend une direction plus basse que l’air qui passe en dessous de l’aile (l’intrados). L’air qui quitte l’aile a donc une quantité de mouvement différente de l’air qui arrive sur l’aile. Il y a donc une variation de la quantité de mouvement de l’air, et donc une force qui s’exerce sur l’air. D’après la troisième loi de Newton, il y a aussi une force égale et opposée qui s’exerce sur l’aile. Cette force est la portance.
 
@@ -157,9 +157,4 @@ X
 Quelle est la relation entre la vitesse et les forces de portance et de traînée d'un aileron ?
 
 ## 3- Contexte théorique et Hypothèse
-
-
-
-
-
 
