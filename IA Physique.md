@@ -202,4 +202,3 @@ X
 
 ## 8. Risques liés à l'expérience
 
-Puisque le papier est inflammable, ce po
