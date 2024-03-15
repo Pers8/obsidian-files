@@ -189,6 +189,16 @@ X
 
 ## 7. Méthodologie
 
+1. Préparation de la soufflerie aérodynamique, en s'assurant que toutes les parties (entrée, chambre, sortie) sont correctement assemblées selon les spécifications techniques.
+2. Vérification de l'ensemble électrique, y compris la connexion du ventilateur à la batterie de voiture et la mise en place du variateur de tension pour le contrôle de la vitesse du vent.
+3. Installation des ailettes (à la fois simples et incurvées) dans la soufflerie et réglage de leur position à l'angle d'attaque prédéterminé.
+4. Calibration de la balance aérodynamique et de l'anémomètre pour mesurer respectivement la force d'appui et la force de traînée avec l'incertitude spécifiée.
+5. Lancement des tests à différentes vitesses de vent, en commençant par la vitesse la plus basse et en augmentant progressivement jusqu'à la vitesse la plus élevée prévue.
+6. Réalisation de mesures répétées pour chaque configuration d'ailette afin d'obtenir des données fiables et reproductibles.
+7. Observation et enregistrement des phénomènes de création de vortex et de séparation d'écoulement pour chaque type d'ailette.
+8. Collecte des données de force d'appui et de traînée à partir des instruments de mesure pour chaque vitesse et type d'ailette.
+9. Analyse préliminaire des données pour identifier des tendances ou des anomalies.
+10. Finalisation des tests, révision des données collectées et préparation pour l'analyse détaillée.
 
 ## 8. Risques liés à l'expérience
 
