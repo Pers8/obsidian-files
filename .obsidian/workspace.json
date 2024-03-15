@@ -165,9 +165,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecd8d355134cc720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economie mondiale Article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Economie mondiale Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Economie mondiale Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Physique.md"
+                "file": "Economie mondiale Article.md"
               }
             }
           },
@@ -329,10 +341,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0155f254c27d5d4a",
+  "active": "ecd8d355134cc720",
   "lastOpenFiles": [
-    "Exo informatique SQL.md",
+    "Eco TD2.md",
+    "Economie mondiale Article.md",
     "IA Physique.md",
+    "Exo informatique SQL.md",
     "assets/Pasted image 20240315125206.png",
     "TOK ESSAY.md",
     "Data Base.canvas",
@@ -358,7 +372,6 @@
     "Context.md",
     "Content.md",
     "Context of Interpretation or reception.md",
-    "How to do an English High Level Essay.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
