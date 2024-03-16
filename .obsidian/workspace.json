@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economie mondiale Article.md",
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economie mondiale Article.md",
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economie mondiale Article.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -361,12 +361,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecd8d355134cc720",
+  "active": "0155f254c27d5d4a",
   "lastOpenFiles": [
+    "Economie mondiale Article.md",
     "IA Physique.md",
     "assets/Pasted image 20240316164839.png",
     "Excalidraw/portance et trainée.md",
-    "Economie mondiale Article.md",
     "Excalidraw/Impots + tarif.md",
     "Exo informatique SQL.md",
     "Eco TD2.md",
