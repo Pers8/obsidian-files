@@ -129,7 +129,7 @@ Références :
 ```
 
 **Sujet :** Étudier la relation entre la vitesse et les forces de portance et de trainée d'un aileron
-
+Je veux un calcul détailé des incertitude et ça doit être détaillé en utilsant les formules de l'ib et 
 ## 1. Introduction
 X
 
