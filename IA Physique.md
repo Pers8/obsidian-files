@@ -107,15 +107,12 @@ Références :
 ```markdown
 1. Introduction
 2. Question de recherche 
-3. Contexte théorique et Hypothèse
-	3.1. Trainée
-	3.2. Portance
-	3.3. Profil d'aile
-	3.4. Hypothèse
-4. Variables
-5. Diagramme
-6. Apparatus
-7. Méthodologie
+3. Contexte théorique
+4. Hypothèse
+5. Variables
+6. Diagramme
+7. Apparatus
+8. Méthodologie
 	7.1. Materiels utilisés
 	7.2. Procédure expérimentale
 	7.3. Risques liés à l'expérience
@@ -138,7 +135,6 @@ Quelle est la relation entre la vitesse et les forces de portance et de traîné
 
 ## 3. Contexte théorique et Hypothèse
 
-### 3.1. Trainée
 
 La résistance qu'un fluide exerce sur un corps en mouvement est connue sous le nom de traînée comme illustré dans la figure ci-dessus. 
 ![[Pasted image 20240315125206.png]]
@@ -147,21 +143,19 @@ Cette force est principalement le résultat de deux phénomènes : la traînée
 $$F_d=\frac{1}{2}\rho v^2C_dA$$
 où $\rho$ est la densité de l'air, $v$ la vitesse de l'objet, $C_d$​ le coefficient de traînée, et $A$ la surface de référence.
 
-### 3.2. Portance
-
 À l'inverse, la portance est la force qui agit perpendiculairement au flux de fluide. Pour un aileron, cette force est cruciale car elle permet de contrôler la manœuvrabilité et la stabilité de l'appareil. Mathématiquement, elle est représentée par:
 $$F_L=\frac{1}{2}\rho v^2C_LA$$
 Ici, $C_L$​ est le coefficient de portance qui dépendra fortement de l'angle d'attaque et de la forme du profil d'aile.
 
-### 3.3. Profil d'aile
+
 
 Le profil d'aile est sélectionné en fonction de l'application spécifique et du régime de vol désiré. Il influence directement les coefficients de portance et de traînée par sa forme et son épaisseur. La conception optimale d'un profil d'aile recherche un équilibre entre une portance élevée et une traînée minimale, permettant ainsi le meilleur rendement possible.
 
-### 3.4. Hypothèse
+## 4. Hypothèse
 
 En se basant sur les théories aérodynamiques et les équations susmentionnées, je peux postuler que la relation entre la vitesse de l'aileron et les forces de portance et de traînée sera directement proportionnelle au carré de la vitesse. Cela signifie qu'à mesure que la vitesse double, les forces de portance et de traînée augmenteront de quatre fois. On anticipera donc une augmentation exponentielle de ces forces avec l'accroissement de la vitesse, ce qui aura des implications significatives sur la conception et le comportement des ailerons en conditions réelles.
 
-## 4. Variables
+## 5. Variables
 
 **Variable indépendante**
 
