@@ -135,21 +135,19 @@ Quelle est la relation entre la vitesse et les forces de portance et de traîné
 
 ## 3. Contexte théorique et Hypothèse
 
+Le vol d'un avion est orchestré en grande partie par l'interaction entre la vitesse et les forces aérodynamiques. L'aile est soumise à diverses forces déterminant la dynamique de vol. Les deux forces fondamentales agissant sur un profil aérodynamique sont la portance, qui agit perpendiculairement à la direction du mouvement, et la traînée, qui agit parallèlement et en sens opposé au mouvement comme nous pouvons le voir ci-dessous.
+![[portance et trainée]]
+**Figure 1 :** Schéma représentant les forces de portance et de traînée agissant sur un profil aérodynamique.
 
-La résistance qu'un fluide exerce sur un corps en mouvement est connue sous le nom de traînée comme illustré dans la figure ci-dessus. 
-![[Pasted image 20240315125206.png]]
-$$\text{Figure 1 - Trainée exercé sur un avion}$$
-Cette force est principalement le résultat de deux phénomènes : la traînée de forme, liée à la manière dont le fluide s'écoule autour du corps, et la traînée de frottement, qui est la conséquence directe des forces visqueuses à la surface du corps. L'équation générale qui la décrit est :
-$$F_d=\frac{1}{2}\rho v^2C_dA$$
-où $\rho$ est la densité de l'air, $v$ la vitesse de l'objet, $C_d$​ le coefficient de traînée, et $A$ la surface de référence.
+Comme montré sur la Figure 1, La portance est le résultat de la forme du profil aérodynamique et de son angle d'attaque noté $a$, créant une différence de pression entre les surfaces supérieure et inférieure. Selon le principe de Bernoulli, l'air se déplaçant plus rapidement au-dessus du profil aérodynamique conduit à une pression plus basse, générant ainsi de la portance. Cela peut être représenté par le coefficient de portance $C_L$​, qui est un nombre sans dimension décrivant la portance produite par un profil aérodynamique à un angle d'attaque donné.
+La traînée est la force aérodynamique qui s'oppose au mouvement de l'avion dans l'air. Elle se compose de divers composants, mais principalement de la traînée de forme (due à la forme) et de la traînée de frottement (due à la rugosité de la surface). Le coefficient de traînée $C_D​$, similaire au coefficient de portance, est une quantité sans dimension qui quantifie la traînée ou la résistance d'un objet dans un environnement fluide.
 
-À l'inverse, la portance est la force qui agit perpendiculairement au flux de fluide. Pour un aileron, cette force est cruciale car elle permet de contrôler la manœuvrabilité et la stabilité de l'appareil. Mathématiquement, elle est représentée par:
-$$F_L=\frac{1}{2}\rho v^2C_LA$$
-Ici, $C_L$​ est le coefficient de portance qui dépendra fortement de l'angle d'attaque et de la forme du profil d'aile.
+La relation entre la vitesse $v$, la portance $F_l$ et la traînée $F_d$ peut être décrite par les équations suivantes :
+$$F_d=\frac{1}{2}\rho v^2 A C_d$$
+$$F_l=\frac{1}{2}\rho v^2 A C_l$$
+où $\rho$ est la densité de l'air, $A$ est l'aire de référence et $v$ la vitesse du profil par rapport à l'air.
 
-
-
-Le profil d'aile est sélectionné en fonction de l'application spécifique et du régime de vol désiré. Il influence directement les coefficients de portance et de traînée par sa forme et son épaisseur. La conception optimale d'un profil d'aile recherche un équilibre entre une portance élevée et une traînée minimale, permettant ainsi le meilleur rendement possible.
+À mesure que la vitesse du profil aérodynamique augmente, la portance générée augmente également en supposant un angle d'attaque constant. Cependant, la force de traînée augmentera également, présentant un compromis que les concepteurs doivent naviguer pour optimiser la performance. L'interaction entre la portance et la traînée est nécessaire pour déterminer les capacités de vol d'un avion car des vitesses plus élevées entraînent généralement plus de portance mais aussi une plus grande traînée. Pendant le vol, les changements de vitesse modifient le nombre de Reynolds, qui caractérise l'écoulement de l'air sur le profil aérodynamique et indique si l'écoulement est laminaire ou turbulent. L'apparition de la turbulence peut grandement affecter la portance et la traînée vécues par le profil aérodynamique.
 
 ## 4. Hypothèse
 
@@ -225,18 +223,3 @@ X
 
 
 
-## Contexte théorique
-
-Le vol d'un avion est orchestré en grande partie par l'interaction entre la vitesse et les forces aérodynamiques. L'aile est soumise à diverses forces déterminant la dynamique de vol. Les deux forces fondamentales agissant sur un profil aérodynamique sont la portance, qui agit perpendiculairement à la direction du mouvement, et la traînée, qui agit parallèlement et en sens opposé au mouvement comme nous pouvons le voir ci-dessous.
-![[portance et trainée]]
-**Figure 1 :** Schéma représentant les forces de portance et de traînée agissant sur un profil aérodynamique.
-
-Comme montré sur la Figure 1, La portance est le résultat de la forme du profil aérodynamique et de son angle d'attaque noté $a$, créant une différence de pression entre les surfaces supérieure et inférieure. Selon le principe de Bernoulli, l'air se déplaçant plus rapidement au-dessus du profil aérodynamique conduit à une pression plus basse, générant ainsi de la portance. Cela peut être représenté par le coefficient de portance $C_L$​, qui est un nombre sans dimension décrivant la portance produite par un profil aérodynamique à un angle d'attaque donné.
-La traînée est la force aérodynamique qui s'oppose au mouvement de l'avion dans l'air. Elle se compose de divers composants, mais principalement de la traînée de forme (due à la forme) et de la traînée de frottement (due à la rugosité de la surface). Le coefficient de traînée $C_D​$, similaire au coefficient de portance, est une quantité sans dimension qui quantifie la traînée ou la résistance d'un objet dans un environnement fluide.
-
-La relation entre la vitesse $v$, la portance $F_l$ et la traînée $F_d$ peut être décrite par les équations suivantes :
-$$F_d=\frac{1}{2}\rho v^2 A C_d$$
-$$F_l=\frac{1}{2}\rho v^2 A C_l$$
-où $\rho$ est la densité de l'air, $A$ est l'aire de référence et $v$ la vitesse du profil par rapport à l'air.
-
-À mesure que la vitesse du profil aérodynamique augmente, la portance générée augmente également en supposant un angle d'attaque constant. Cependant, la force de traînée augmentera également, présentant un compromis que les concepteurs doivent naviguer pour optimiser la performance. L'interaction entre la portance et la traînée est nécessaire pour déterminer les capacités de vol d'un avion car des vitesses plus élevées entraînent généralement plus de portance mais aussi une plus grande traînée. Pendant le vol, les changements de vitesse modifient le nombre de Reynolds, qui caractérise l'écoulement de l'air sur le profil aérodynamique et indique si l'écoulement est laminaire ou turbulent. L'apparition de la turbulence peut grandement affecter la portance et la traînée vécues par le profil aérodynamique.

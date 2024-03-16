@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Economie mondiale Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Economie mondiale Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Physique.md"
+                "file": "Economie mondiale Article.md"
               }
             }
           },
@@ -361,11 +361,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0155f254c27d5d4a",
+  "active": "ecd8d355134cc720",
   "lastOpenFiles": [
+    "IA Physique.md",
     "assets/Pasted image 20240316164839.png",
     "Excalidraw/portance et trainée.md",
-    "IA Physique.md",
     "Economie mondiale Article.md",
     "Excalidraw/Impots + tarif.md",
     "Exo informatique SQL.md",
@@ -403,7 +403,6 @@
     "_Radioactiviteword.pdf",
     "assets/Pasted image 20240116090508.png",
     "assets/Pasted image 20240111150115.png",
-    "assets/Pasted image 20240111145849.png",
-    "assets/Pasted image 20240109213717.png"
+    "assets/Pasted image 20240111145849.png"
   ]
 }
