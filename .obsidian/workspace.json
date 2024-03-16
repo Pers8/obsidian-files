@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md",
+                "file": "IA Physique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md",
+                "file": "IA Physique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md"
+                "file": "IA Physique.md"
               }
             }
           },
@@ -351,7 +351,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fba73557e30bc4a",
+  "active": "0155f254c27d5d4a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-03-15 20.54.37.excalidraw.md",
     "Economie mondiale Article.md",
