@@ -18,12 +18,13 @@ NGDP ^3U1VYNap
 
 Sw 2 ^dQQD6Ov9
 
-Pw + 27,5% ^RXFjyYaN
+Pw + ancien tarif  ^RXFjyYaN
 
-Pw + 125% ^TvfqFJd8
+Pw + nouveau Tarif ^TvfqFJd8
 
 Q de 
-vehicules automobiles ^bqIcemuL
+vehicules automobiles 
+chinois ^bqIcemuL
 
 Q1 ^xYER8MWB
 
@@ -90,8 +91,8 @@ Q4 ^AMBkEgJA
 			"type": "arrow",
 			"x": -276,
 			"y": 96.7578125,
-			"width": 463,
-			"height": 3,
+			"width": 390.97680916451634,
+			"height": 9.118687754751264,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -106,11 +107,11 @@ Q4 ^AMBkEgJA
 				"type": 2
 			},
 			"seed": 1245999991,
-			"version": 87,
-			"versionNonce": 1923826137,
+			"version": 96,
+			"versionNonce": 2128547513,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710573694121,
+			"updated": 1710583299360,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -119,8 +120,8 @@ Q4 ^AMBkEgJA
 					0
 				],
 				[
-					463,
-					-3
+					390.97680916451634,
+					-9.118687754751264
 				]
 			],
 			"lastCommittedPoint": null,
@@ -672,8 +673,8 @@ Q4 ^AMBkEgJA
 		},
 		{
 			"type": "text",
-			"version": 295,
-			"versionNonce": 823454105,
+			"version": 378,
+			"versionNonce": 160321879,
 			"isDeleted": false,
 			"id": "RXFjyYaN",
 			"fillStyle": "solid",
@@ -682,35 +683,35 @@ Q4 ^AMBkEgJA
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -407.82765788144104,
-			"y": 3.593573724525527,
+			"x": -467.609147674137,
+			"y": 5.586290050948719,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 119.17994689941406,
+			"width": 182.61988830566406,
 			"height": 25,
 			"seed": 61349817,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710573713007,
+			"updated": 1710583357308,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Pw + 27,5%",
-			"rawText": "Pw + 27,5%",
+			"text": "Pw + ancien tarif ",
+			"rawText": "Pw + ancien tarif ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Pw + 27,5%",
+			"originalText": "Pw + ancien tarif ",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 171,
-			"versionNonce": 362371095,
+			"version": 297,
+			"versionNonce": 481082231,
 			"isDeleted": false,
 			"id": "TvfqFJd8",
 			"fillStyle": "solid",
@@ -719,28 +720,28 @@ Q4 ^AMBkEgJA
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -393.0899658203125,
-			"y": -63.7421875,
+			"x": -484.75491683577957,
+			"y": -65.0706650509488,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 108.699951171875,
+			"width": 197.8998565673828,
 			"height": 25,
 			"seed": 45993847,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710573694123,
+			"updated": 1710583334001,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Pw + 125%",
-			"rawText": "Pw + 125%",
+			"text": "Pw + nouveau Tarif",
+			"rawText": "Pw + nouveau Tarif",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Pw + 125%",
+			"originalText": "Pw + nouveau Tarif",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -749,8 +750,8 @@ Q4 ^AMBkEgJA
 			"type": "text",
 			"x": 171.86905842845897,
 			"y": 107.34413553557368,
-			"width": 206.53977966308594,
-			"height": 50,
+			"width": 216.53977966308594,
+			"height": 75,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -763,8 +764,8 @@ Q4 ^AMBkEgJA
 			"frameId": null,
 			"roundness": null,
 			"seed": 1847661177,
-			"version": 193,
-			"versionNonce": 760813785,
+			"version": 202,
+			"versionNonce": 239120857,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -772,18 +773,18 @@ Q4 ^AMBkEgJA
 					"type": "arrow"
 				}
 			],
-			"updated": 1710573694123,
+			"updated": 1710583299355,
 			"link": null,
 			"locked": false,
-			"text": "Q de \nvehicules automobiles",
-			"rawText": "Q de \nvehicules automobiles",
+			"text": "Q de \nvehicules automobiles \nchinois",
+			"rawText": "Q de \nvehicules automobiles \nchinois",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 68,
 			"containerId": null,
-			"originalText": "Q de \nvehicules automobiles",
+			"originalText": "Q de \nvehicules automobiles \nchinois",
 			"lineHeight": 1.25
 		},
 		{
@@ -2309,7 +2310,7 @@ Q4 ^AMBkEgJA
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 599.7257032813937,
-		"scrollY": 75.87171234588476,
+		"scrollY": 329.61092457710544,
 		"zoom": {
 			"value": 1.505482722362602
 		},
