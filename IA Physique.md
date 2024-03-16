@@ -226,3 +226,27 @@ X
 
 
 ## Contexte théorique
+
+**Contexte Théorique**
+
+L'étude de la relation entre la vitesse et les forces de portance et de traînée d'un aileron s'inscrit dans le cadre de la dynamique des fluides et de l'aérodynamique. Ces deux forces sont fondamentales pour comprendre le comportement des objets en mouvement dans un fluide, comme l'air.
+
+La **traînée** est la force de résistance qu'un objet en mouvement rencontre à cause de l'air qu'il déplace. Elle est souvent perçue comme un obstacle à la performance aérodynamique car elle s'oppose au mouvement. Sa quantification s'effectue à travers le coefficient de traînée \( C_d \), qui est influencé par la forme de l'objet et les conditions du fluide. La formule pour la calculer est la suivante :
+\[ F_d = \frac{1}{2} C_d \rho A v^2 \]
+où \( F_d \) représente la force de traînée, \( \rho \) est la densité de l'air, \( A \) est la surface de référence et \( v \) est la vitesse de l'objet.
+
+La **portance**, quant à elle, est la force perpendiculaire à la direction du mouvement causée par les différences de pression autour de l'objet. Les ailettes, grâce à leur forme et leur orientation par rapport au flux d'air, génèrent une portance négative ou force d'appui, poussant l'objet contre le sol. C'est cette force qui est exploitée dans les véhicules de course pour améliorer l'adhérence au sol. Elle est donnée par l'équation :
+\[ F_L = \frac{1}{2} C_l \rho A v^2 \]
+où \( F_L \) est la force de portance, \( C_l \) le coefficient de portance, \( \rho \), \( A \), et \( v \) ont les mêmes significations que dans l'équation de la traînée.
+
+Il est important de noter que \( C_d \) et \( C_l \) sont sans dimensions et reflètent l'efficacité avec laquelle un objet traverse un fluide. Une faible valeur de \( C_d \) indique un objet aérodynamique, tandis qu'un \( C_l \) élevé suggère une forte capacité à générer de la portance.
+
+Dans notre contexte, l'effet de sol et les turbulences sont des variables secondaires qui peuvent influencer la traînée et la portance. L'effet de sol, par exemple, peut exagérer les forces aérodynamiques en raison de la densité accrue de l'air près du sol.
+
+Pour illustrer ces concepts, imaginons une ailette soumise à un flux d'air dans une soufflerie. Lorsque l'air passe sur l'ailette, les différences de pression créées au-dessus et en dessous produisent une force d'appui. Si l'on modifie l'angle d'attaque ou la vitesse de l'air, ces forces varieront, ce qui peut être visualisé par des changements dans les données mesurées ou observées dans une expérience.
+
+En somme, comprendre la portance et la traînée, ainsi que leur relation avec la vitesse, est crucial pour optimiser les performances aérodynamiques d'un aileron. Ces connaissances théoriques forment le socle sur lequel se base notre recherche, où l'objectif est d'étudier empiriquement ces relations pour aboutir à des conclusions pratiques applicables dans des contextes tels que le sport automobile ou l'aviation.
+
+Pour plus d'informations sur ces phénomènes et leur utilisation dans le design aérodynamique, on peut consulter le site StudyFlight [1].
+
+[1]: https://www.studyflight.com/understanding-the-aerodynamic-forces-in-flight/
