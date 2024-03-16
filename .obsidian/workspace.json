@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Impots + tarif.md",
+                "file": "Economie mondiale Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Impots + tarif.md",
+                "file": "Economie mondiale Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Impots + tarif.md"
+                "file": "Economie mondiale Article.md"
               }
             }
           },
@@ -351,10 +351,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fba73557e30bc4a",
+  "active": "ecd8d355134cc720",
   "lastOpenFiles": [
-    "Economie mondiale Article.md",
     "Excalidraw/Impots + tarif.md",
+    "Economie mondiale Article.md",
     "IA Physique.md",
     "Eco TD2.md",
     "Exo informatique SQL.md",

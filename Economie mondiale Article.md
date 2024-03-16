@@ -26,4 +26,5 @@ Le droit de douane est une taxe prélevée par unité sur le prix des biens ou d
 ![[Impots + tarif]]
 **Figure 1 :** *Imposition du droit de douane sur les véhicules automobiles chinois*
 
-La figure 1 montre l'augmentation du tarif par le gouvernement américain sur les véhicules automobiles chinois. Après cette **intervention**, nous pouvons constater une augmentation du prix mondial avec le tarif initial et de l'offre mondiale passant de $P_w+27,5\%$ à $P_w+125\%$ pour le prix et de $S_{w_1}$ à $S_{w_2}$. 
+La Figure 1 montre les effets du tarif par le gouvernement américain sur les véhicules automobiles chinois. Après cette **intervention**, nous pouvons constater une augmentation du prix mondial avec le tarif initial et de l'offre mondiale passant de $P_w+27,5\%$ à $P_w+125\%$ pour le prix et de $S_{w_1}$ à $S_{w_2}$. 
+
