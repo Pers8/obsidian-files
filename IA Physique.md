@@ -227,9 +227,11 @@ X
 
 ## Contexte théorique
 
-Le vol d'un avion est orchestré en grande partie par l'interaction entre la vitesse et les forces aérodynamiques. L'aile est soumise à diverses forces déterminant la dynamique de vol. Les deux forces fondamentales agissant sur un profil aérodynamique sont la portance, qui agit perpendiculairement à la direction du mouvement, et la traînée, qui agit parallèlement et en sens opposé au mouvement. 
+Le vol d'un avion est orchestré en grande partie par l'interaction entre la vitesse et les forces aérodynamiques. L'aile est soumise à diverses forces déterminant la dynamique de vol. Les deux forces fondamentales agissant sur un profil aérodynamique sont la portance, qui agit perpendiculairement à la direction du mouvement, et la traînée, qui agit parallèlement et en sens opposé au mouvement comme nous pouvons le voir ci-dessous.
+![[portance et trainée]]
+**Figure 1 :** Schéma représentant les forces de portance et de traînée agissant sur un profil aérodynamique.
 
-La portance est le résultat de la forme du profil aérodynamique et de son angle d'attaque, créant une différence de pression entre les surfaces supérieure et inférieure. Selon le principe de Bernoulli, l'air se déplaçant plus rapidement au-dessus du profil aérodynamique conduit à une pression plus basse, générant ainsi de la portance. Cela peut être représenté par le coefficient de portance $C_L$​, qui est un nombre sans dimension décrivant la portance produite par un profil aérodynamique à un angle d'attaque donné.
+Comme montré sur la Figure 1, La portance est le résultat de la forme du profil aérodynamique et de son angle d'attaque noté $a$, créant une différence de pression entre les surfaces supérieure et inférieure. Selon le principe de Bernoulli, l'air se déplaçant plus rapidement au-dessus du profil aérodynamique conduit à une pression plus basse, générant ainsi de la portance. Cela peut être représenté par le coefficient de portance $C_L$​, qui est un nombre sans dimension décrivant la portance produite par un profil aérodynamique à un angle d'attaque donné.
 La traînée est la force aérodynamique qui s'oppose au mouvement de l'avion dans l'air. Elle se compose de divers composants, mais principalement de la traînée de forme (due à la forme) et de la traînée de frottement (due à la rugosité de la surface). Le coefficient de traînée $C_D​$, similaire au coefficient de portance, est une quantité sans dimension qui quantifie la traînée ou la résistance d'un objet dans un environnement fluide.
 
 La relation entre la vitesse $v$, la portance $F_l$ et la traînée $F_d$ peut être décrite par les équations suivantes :
