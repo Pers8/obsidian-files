@@ -222,3 +222,7 @@ X
 **Éthiques** : Toutes les données ont été traitées avec la plus grande intégrité, sans altération ni exagération des résultats. La transparence était la pierre angulaire de cette expérience, garantissant que les conclusions tirées étaient fondées sur des observations vérifiables et reproductibles.
 
 ## 8. Collecte et traitement des données
+
+
+
+## Contexte théorique
