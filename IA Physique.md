@@ -191,6 +191,11 @@ X
 
 ## 7. Méthodologie
 
+### 7.1. Materiels utilisés
+
+
+### 7.2 Procédure expérimentale
+
 1. Préparation de la soufflerie aérodynamique en s'assurant que toutes les parties (entrée, chambre, sortie) sont correctement assemblées selon les spécifications techniques.
 2. Vérification de l'ensemble électrique y compris la connexion du ventilateur à la batterie de voiture et la mise en place du variateur de tension pour le contrôle de la vitesse du vent.
 3. Installation des ailettes (à la fois simples et incurvées) dans la soufflerie et réglage de leur position à l'angle d'attaque prédéterminé.
@@ -202,7 +207,7 @@ X
 9. Analyse préliminaire des données pour identifier des tendances ou des anomalies.
 10. Finalisation des tests, révision des données collectées et préparation pour l'analyse détaillée.
 
-## 8. Risques liés à l'expérience
+### 7.3. Risques liés à l'expérience
 
 **Sécurité** : Compte tenu des risques associés à l'utilisation d'une soufflerie et de composants électriques, des procédures de sécurité strictes ont été suivies. Un périmètre de sécurité a été établi autour de l'équipement pour empêcher tout accès non autorisé pendant le fonctionnement de la soufflerie. Des équipements de protection individuelle, comme des lunettes de sécurité et des gants ont été portés à tout moment. De plus, un extincteur était à portée de main en cas d'urgence.
 
