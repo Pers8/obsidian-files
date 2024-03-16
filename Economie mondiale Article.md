@@ -26,6 +26,25 @@ Le droit de douane est une taxe prélevée par unité sur le prix des biens ou d
 ![[Impots + tarif]]
 **Figure 1 :** *Imposition du droit de douane sur les véhicules automobiles chinois*
 
-La Figure 1 montre les effets du tarif par le gouvernement américain sur les véhicules automobiles chinois. Dans le cadre de libre échange, $Q_1$ fait référence à la quantité de véhicules chinois consommé aux États-Unis au prix $P_w+27,5\%$ représentant le tarif imposé initialement. La quantité $Q_1$ représente la quantité demandée domestique et $Q_2$ représente la quantité offerte domestique. Les importations seraient utilisées pour répondre à la demande excédentaire de $Q1 - Q2$. Les tarifs douaniers, comme ceux proposés par le sénateur Hawley fonctionnent comme une taxe sur les marchandises importées, entraînant une augmentation des coûts pour les consommateurs et un déplacement vers le haut de la courbe d'offre mondiale de $S_{w_1}$ à $S_{w_2}$. Si l'**intervention** du projet de loi de Hawley était adopté, imposant un tarif de 100% (augmentant de 2,5% à 125% sur les véhicules importés), cela provoquerait une augmentation significative du prix des véhicules chinois importés allant de $P_w$ à $P_{w+T}$. Cette augmentation des prix réduirait la quantité de véhicules chinois demandés aux États-Unis, passant de $Q_1$ à $Q_3$. Cela va potentiellement permettre aux constructeurs automobiles américains d'accroître leur part de marché en produisant plus de véhicules passant de $Q_2$ à $Q_4$. Les producteurs américains pourraient profiter de la baisse de la concurrence étrangère, entraînant une augmentation de l'excédent des producteurs de $g$ à $g+c$ et une possible augmentation des emplois dans l'industrie automobile américaine. Néanmoins, il y aurait des conséquences négatives. L'augmentation des tarifs sur les véhicules chinois pourrait augmenter les coûts de production pour les fabricants de voitures américains qui dépendent des pièces importées. De plus, cela pourrait conduire à une réduction significative du surplus du consommateur $a+b+c+d+e+f$ réduite à seulement $a+b$ à cause des prix plus élevés. Ces mesures protectionnistes pourraient générer des revenus fiscaux supplémentaires pour le gouvernement américain, qui pourraient être réinvestis dans d'autres secteurs mais elles pourraient aussi perturber les relations commerciales internationales et entraver l'accès des consommateurs américains à une gamme de véhicules diversifiée et abordable.
+La Figure 1 montre les effets du tarif par le gouvernement américain sur les véhicules automobiles chinois. Dans le cadre de libre échange, $Q_1$ fait référence à la quantité de véhicules chinois consommé aux États-Unis au prix $P_w+27,5\%$ représentant le tarif imposé initialement. La quantité $Q_1$ représente la quantité demandée domestique et $Q_2$ représente la quantité offerte domestique. Les importations seraient utilisées pour répondre à la demande excédentaire de $Q1 - Q2$. Les tarifs douaniers, comme ceux proposés par le sénateur Hawley fonctionnent comme une taxe sur les marchandises importées, entraînant une augmentation des coûts pour les consommateurs et un déplacement vers le haut de la courbe d'offre mondiale de $S_{w_1}$ à $S_{w_2}$. Si l'**intervention** du projet de loi de Hawley était adopté, imposant un tarif de 100% (augmentant de 2,5% à 125% sur les véhicules importés), cela provoquerait une augmentation significative du prix des véhicules chinois importés allant de $P_w$ à $P_{w+T}$. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cette augmentation des prix réduirait la quantité de véhicules chinois demandés aux États-Unis, passant de $Q_1$ à $Q_3$. Cela va potentiellement permettre aux constructeurs automobiles américains d'accroître leur part de marché en produisant plus de véhicules passant de $Q_2$ à $Q_4$. Les producteurs américains pourraient profiter de la baisse de la concurrence étrangère, entraînant une augmentation de l'excédent des producteurs de $g$ à $g+c$ et une possible augmentation des emplois dans l'industrie automobile américaine. Néanmoins, il y aurait des conséquences négatives. L'augmentation des tarifs sur les véhicules chinois pourrait augmenter les coûts de production pour les fabricants de voitures américains qui dépendent des pièces importées. De plus, cela pourrait conduire à une réduction significative du surplus du consommateur $a+b+c+d+e+f$ réduite à seulement $a+b$ à cause des prix plus élevés. Ces mesures protectionnistes pourraient générer des revenus fiscaux supplémentaires pour le gouvernement américain, qui pourraient être réinvestis dans d'autres secteurs mais elles pourraient aussi perturber les relations commerciales internationales et entraver l'accès des consommateurs américains à une gamme de véhicules diversifiée et abordable.
 
 
