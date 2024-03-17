@@ -31,7 +31,7 @@ La Figure 1 montre les effets du tarif par le gouvernement américain sur les v�
 ![[Excalidraw/Subventions|Subventions]]
 **Figure 2 :** *Subventions accordées par le gouvernement chinois aux producteurs chinois*
 
-La Figure 2 
+La Figure 2...
 
 
 
