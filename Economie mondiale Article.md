@@ -31,10 +31,10 @@ La Figure 1 montre les effets du tarif par le gouvernement américain sur les v�
 ![[Excalidraw/Subventions|Subventions]]
 **Figure 2 :** *Subventions accordées par le gouvernement chinois aux producteurs chinois*
 
-La Figure 2 montre l'impact des subventions gouvernementales sur le marché des véhicules automobiles chinois. Avec l'introduction des subventions, la courbe d'offre se déplace de $O_g$ à $O_{g+subvention}$, reflétant une baisse des coûts de production grâce au soutien financier de l'État. En conséquence, le prix d'équilibre sur le marché diminue de $P^*$ à $P_1$, rendant les véhicules chinois plus abordables et augmentant la quantité d'équilibre de $Q^*$ à $Q_1$. Cette situation peut conduire à une augmentation du surplus du consommateur, car les prix plus bas permettent à plus de consommateurs d'accéder aux véhicules. D'autre part, le surplus du producteur augmente également en raison de la vente d'une plus grande quantité de véhicules. Cette **intervention** pour renforcer la compétitivité va permettre aux constructeurs automobiles chinois de proposer des prix plus compétitifs sur le marché international, défiant ainsi les producteurs américains et d’autres concurrents mondiaux. 
+La Figure 2 montre l'impact des subventions gouvernementales sur le marché des véhicules automobiles chinois. Avec l'introduction des subventions, la courbe d'offre se déplace de $O_g$ à $O_{g+subvention}$, reflétant une baisse des coûts de production grâce au soutien financier de l'État. En conséquence, le prix d'équilibre sur le marché diminue de $P^*$ à $P_1$, rendant les véhicules chinois plus abordables et augmentant la quantité d'équilibre de $Q^*$ à $Q_1$. Cette politique, bien qu’elle soit déloyale, va permettre aux constructeurs automobiles chinois de proposer des prix plus compétitifs sur le marché international, défiant ainsi les producteurs américains et d’autres concurrents mondiaux. 
 
 
-
+Comment l'intervention du gouvernement américain sera t-elle nécessaire pour faire façe à cette situation, je n'ai pas
 
 
 
