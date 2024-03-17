@@ -53,7 +53,7 @@ $$
 2. [[Contrôles des prix plafonds]] ou maximum, [[Conséquences possibles de l'imposition d'un prix maximum]], [[Solutions aux conséquences du contrôle des prix maximums]]
 3. [[Contrôles des prix planchers]] ou minimum, [[Conséquences possibles de l'imposition d'un prix plancher]]
 4. [[Impôts indirects]]
-5. [[Subventions]]
+5. [[Economy/Subventions]]
 
 # Theme 2 :Macro-économie
 

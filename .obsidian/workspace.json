@@ -194,12 +194,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-17 20.27.15.excalidraw.md"
+                "file": "Excalidraw/Subventions.md"
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-17 20.27.15.excalidraw.md",
+                "file": "Economie mondiale Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-17 20.27.15.excalidraw.md",
+                "file": "Economie mondiale Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-17 20.27.15.excalidraw.md"
+                "file": "Economie mondiale Article.md"
               }
             }
           },
@@ -361,11 +361,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41c4dce25e55c848",
+  "active": "ecd8d355134cc720",
   "lastOpenFiles": [
+    "Excalidraw/Subventions.md",
     "Excalidraw/Impots + tarif.md",
     "Excalidraw/portance et trainée.md",
-    "Excalidraw/Drawing 2024-03-17 20.27.15.excalidraw.md",
     "Economie mondiale Article.md",
     "IA Physique.md",
     "assets/Pasted image 20240316164839.png",
