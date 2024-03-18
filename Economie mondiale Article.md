@@ -22,7 +22,7 @@ Définition du droit de douane
 Qu'a fait l'état au sujet des droits des douanes et quel est l'objectif de son **intervention** ?
 Quelle stratégie a été mise en place par la Chine afin de dominer le marché ?
 
-Le droit de douane est une taxe prélevée par unité sur le prix des biens ou des services importés. Dans cet article, l'État américain vise à imposer des droits de douanes sur les véhicules automobiles chinois dans le but protéger les entreprises nationales de la concurrence. Cette **intervention** a poussé les concurrents chinois à implanter une usine de véhicules électriques au Mexique tout en continuant leur pratique déloyale qui leur a permis de vendre des voitures à des prix bon marché.
+Le droit de douane est une taxe gouvernementale sur les importations qui influence directement les prix des biens importés, affectant la compétitivité sur le marché domestique. Cet analyse explore l'**intervention** des États-Unis visant à imposer des droits de douane élevés sur les véhicules chinois pour protéger l'industrie automobile nationale. En réponse, les fabricants chinois bénéficiant de subventions étatiques, contournent ces tarifs en établissant des opérations au Mexique. Ce contexte soulève des questions sur les pratiques commerciales équitables et les stratégies de protection de l'industrie domestique.
 ![[Impots + tarif]]
 **Figure 1 :** *Imposition du droit de douane sur les véhicules automobiles chinois*
 
