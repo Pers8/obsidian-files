@@ -145,3 +145,24 @@ Lors de la réalisation de cette expérience en soufflerie, j'ai observé les fo
 | 50                                              | 0.595                      | 2500                 |
 | 60                                              | 0.953                      | 3600                 |
 
+**Calcul des incertitudes :**
+
+Supposons que nous mesurons une force à l'aide d'une balance et la vitesse avec un anémomètre, et que nous avons besoin de calculer l'incertitude sur la force de traînée calculée \( F_d \) à partir de l'équation :
+
+\[ F_d = \frac{1}{2} \cdot C_d \cdot \rho \cdot A \cdot v^2 \]
+
+Nous devons d'abord déterminer les incertitudes absolues sur chaque mesure. Si la balance a une incertitude de ±0.0005 kg (0.5 g) et l'anémomètre une incertitude de ±0.05 km/h, nous pouvons procéder comme suit :
+
+Pour la vitesse \( v \), élevée au carré, l'incertitude est calculée en utilisant la règle de propagation des incertitudes pour des puissances :
+
+\[ \Delta (v^2) = 2 \cdot |v| \cdot \Delta v \]
+
+Si nous mesurons une vitesse de 10 km/h, alors :
+
+\[ \Delta (100 \text{ km/h}^2) = 2 \cdot 10 \text{ km/h} \cdot 0.05 \text{ km/h} = 1 \text{ km/h}^2 \]
+
+Ensuite, pour combiner les incertitudes dans le calcul de \( F_d \), nous utiliserions l'addition des incertitudes relatives pour les variables qui sont multipliées ou divisées. Prenons \( C_d \), \( \rho \), et \( A \) comme constants pour cet exemple, l'incertitude sur \( F_d \) est alors directement proportionnelle à l'incertitude sur \( v^2 \), car la traînée dépend du carré de la vitesse. Ainsi :
+
+\[ \frac{\Delta F_d}{F_d} = \frac{\Delta (v^2)}{v^2} \]
+
+Pour interpréter ces incertitudes, nous comparerions l'incertitude relative obtenue avec la mesure elle-même. Une incertitude relative faible signifie que nos mesures sont précises et nos données sont fiables, tandis qu'une incertitude élevée pourrait indiquer le besoin d'une meilleure précision dans les méthodes de mesure ou dans les instruments eux-mêmes.
