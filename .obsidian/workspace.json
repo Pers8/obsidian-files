@@ -197,9 +197,21 @@
                 "file": "Excalidraw/Subventions.md"
               }
             }
+          },
+          {
+            "id": "6ebd7411e2acb84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exo Francais 19 03 24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -265,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Exo Francais 19 03 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Physique.md",
+                "file": "Exo Francais 19 03 24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Physique.md"
+                "file": "Exo Francais 19 03 24.md"
               }
             }
           },
@@ -361,10 +373,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0155f254c27d5d4a",
+  "active": "6ebd7411e2acb84d",
   "lastOpenFiles": [
-    "Economie mondiale Article.md",
+    "Exo Francais 19 03 24.md",
     "IA Physique.md",
+    "Economie mondiale Article.md",
     "TOK ESSAY.md",
     "IA Comp Sci.md",
     "Exo informatique SQL.md",
@@ -392,7 +405,6 @@
     "A.md",
     "Accélération.md",
     "Algorithme.md",
-    "IB/English.md",
     "assets/Pasted Image 20240203083852_474.png",
     "assets/Pasted image 20240129115239.png",
     "assets/Pasted image 20240129114931.png",
