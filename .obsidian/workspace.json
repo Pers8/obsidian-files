@@ -123,9 +123,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 248.29960280254227,
-                  "y": 1348.9724791230465,
-                  "zoom": -0.6948290265941548
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -179,6 +179,16 @@
             }
           },
           {
+            "id": "9311ab5b11a7f3fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "5fba73557e30bc4a",
             "type": "leaf",
             "state": {
@@ -223,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -289,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Français B HL Paper 2.md",
+                "file": "Economie mondiale Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Français B HL Paper 2.md",
+                "file": "Economie mondiale Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Français B HL Paper 2.md"
+                "file": "Economie mondiale Article.md"
               }
             }
           },
@@ -385,7 +395,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5c6e08c13878fe8",
+  "active": "9311ab5b11a7f3fc",
   "lastOpenFiles": [
     "Exo Francais 19 03 24.md",
     "Français B HL Paper 2.md",
