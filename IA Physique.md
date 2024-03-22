@@ -144,3 +144,13 @@ X
 |                       40                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
 |                       50                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
 |                       60                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
+
+
+| Vitesse du vent dans la soufflerie (m/s) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| :--------------------------------------------: | :---------------------------: | :--------------------------: | ------------------------------------------------------- |
+|                      2.8                       |    Calculée ± Incertitude     |    Calculée ± Incertitude    | 7.8                                                     |
+|                      5.6                       |    Calculée ± Incertitude     |    Calculée ± Incertitude    | 31                                                      |
+|                      8.3                       |    Calculée ± Incertitude     |    Calculée ± Incertitude    | 69                                                      |
+|                       11                       |    Calculée ± Incertitude     |    Calculée ± Incertitude    | $12.1 \times 10^1$                                      |
+|                       14                       |    Calculée ± Incertitude     |    Calculée ± Incertitude    | $19.6 \times 10^1$                                      |
+|                       17                       |    Calculée ± Incertitude     |    Calculée ± Incertitude    | $28.9 \times 10^1$                                      |
