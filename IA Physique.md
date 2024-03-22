@@ -133,3 +133,12 @@ X
 
 
 ### 8.1.2. Données traités
+
+| Vitesse du vent dans la soufflerie (km/h) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) |
+|:-----------------------------------------------:|:-----------------------------:|:----------------------------:|
+| 10                                              | Calculée ± Incertitude        | Calculée ± Incertitude        |
+| 20                                              | Calculée ± Incertitude        | Calculée ± Incertitude        |
+| 30                                              | Calculée ± Incertitude        | Calculée ± Incertitude        |
+| 40                                              | Calculée ± Incertitude        | Calculée ± Incertitude        |
+| 50                                              | Calculée ± Incertitude        | Calculée ± Incertitude        |
+| 60                                              | Calculée ± Incertitude        | Calculée ± Incertitude        |
