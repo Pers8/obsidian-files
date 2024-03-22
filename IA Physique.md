@@ -132,7 +132,7 @@ X
 **Tableau 1 :** Données Brutes de l'Expérience sur les Forces Aérodynamiques
 
 
-### 8.1.2. Données traités
+### 8.1.2. Données traitées
 
 
 
