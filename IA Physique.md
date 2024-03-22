@@ -121,7 +121,7 @@ X
 
 ### 8.1.1. Données brutes 
 
-| Vitesse du vent dans la soufflerie (km/h) ±0.05 | Masse (kg) ±0.0005 |
+| Vitesse du vent dans la soufflerie (±0.05 km/h) | Masse (kg) ±0.0005 |
 | :---------------------------------------------- | ------------------ |
 | 10                                              | 0.038              |
 | 20                                              | 0.138              |
