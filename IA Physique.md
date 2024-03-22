@@ -121,6 +121,8 @@ X
 
 ### 8.1.1. Données brutes 
 
+Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0.05 km/h pour la vitesse et ±0.0005 kg pour la masse.
+
 | Vitesse du vent dans la soufflerie (±0.05 km/h) | Masse (kg) ±0.0005 |
 | :---------------------------------------------- | ------------------ |
 | 10                                              | 0.038              |
