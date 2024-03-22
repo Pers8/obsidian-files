@@ -121,13 +121,12 @@ X
 
 Lors de la réalisation de cette expérience en soufflerie, j'ai observé les forces de portance et de traînée s'exerçant sur un aileron à différentes vitesses. Les instruments de mesure, préalablement calibrés, ont capturé les variations de masse induites par ces forces aérodynamiques. La balance a affiché des valeurs croissantes de masse avec l'augmentation de la vitesse du vent, reflétant l'intensité accrue de la force d'appui sur l'aileron. De manière similaire, l'augmentation de la force de traînée était évidente avec l'escalade de la vitesse, comme le prouvent les données relevées. Voici les tableaux de données brutes reflétant nos observations directes lors de l'expérience : 
 
-
-| Vitesse du vent dans la soufflerie (km/h) ±0.05 | Masse (kg) ±0.0005 | Force de portance (N) ±0.0049 | Force de traînée (N) ±0.0049 |
-|-----------------------------------------------|--------------------|-------------------------------|-------------------------------|
-| 10                                            | 0.038              | Calculée                      | Calculée                      |
-| 20                                            | 0.138              | Calculée                      | Calculée                      |
-| 30                                            | 0.307              | Calculée                      | Calculée                      |
-| 40                                            | 0.543              | Calculée                      | Calculée                      |
-| 50                                            | 0.831              | Calculée                      | Calculée                      |
-| 60                                            | 1.213              | Calculée                      | Calculée                      |
-
+| Vitesse du vent dans la soufflerie (km/h) ±0.05 | Masse (kg) ±0.0005 |
+| :---------------------------------------------- | ------------------ |
+| 10                                              | 0.038              |
+| 20                                              | 0.138              |
+| 30                                              | 0.307              |
+| 40                                              | 0.543              |
+| 50                                              | 0.831              |
+| 60                                              | 1.213              |
+**Tableau 1 :** Données Brutes de l'Expérience sur les Forces Aérodynamiques
