@@ -119,6 +119,7 @@ X
 
 ## 8. Collecte et traitement des données
 
+### Données brutes 
 Il y a un total de 501 mesures pour chaque essai réalisé lors de l'expérience, capturées à différents régimes de la soufflerie. Cependant, en raison de la contrainte d'espace dans ce rapport d'IA, j'ai choisi de sélectionner seulement trois points de données clés pour chaque essai afin de les inclure dans les tableaux ci-dessous – la vitesse initiale, la vitesse intermédiaire, et la vitesse finale. La lettre $V$ représente la vitesse du vent dans la soufflerie à chaque point de mesure. Comme la surface de référence de l'aileron est constante pour toutes les mesures, une vitesse plus élevée résulte en une plus grande force de portance et de traînée générée par l'aileron. $F_L$ représente la force de portance tandis que $F_D$ représente la force de traînée, toutes deux enregistrées par les capteurs correspondants. La valeur de $F_L$ et $F_D$ avant l'expérience représente la force mesurée en l'absence de vent, correspondant à l'état statique de l'aileron.
 
 | Vitesse du vent dans la soufflerie (km/h) ±0.05 | Masse (kg) ±0.0005 |
