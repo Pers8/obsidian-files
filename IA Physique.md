@@ -147,7 +147,7 @@ Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
 $$F_L= 0.038 \times 9.81 \approx 0.373\hspace{1mm}$$$$\Delta F_L= 0.0005 \times 9.81 \approx 0.005\hspace{1mm}$$
 $$F_L = 0.373 \pm 0.005 \hspace{1mm} N$$
 
-| Vitesse du vent dans la soufflerie (±0.05 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| Vitesse du vent dans la soufflerie (±0.01 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
 | :--------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
 |                      2.8                       |             0,373             | 7,8                                                     |
 |                      5.6                       |             1,35              | 31                                                      |
