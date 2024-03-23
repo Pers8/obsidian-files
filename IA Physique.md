@@ -185,3 +185,5 @@ L'incertitude de la force de traînée aura la même incertitude que force de po
 Calcul de l'échantillon pour $m = 0,024 \hspace{1mm} kg$ :
 $$F_D= 0,024 \times 9,81 \approx 0,235\hspace{1mm}$$
 $$F_D = 0,235 \pm 0,005 \hspace{1mm} N$$
+
+**À noter :** Je vais utiliser le carré de la vitesse, car ce sera plus simple à représenter et cela permettra une meilleure visualisation de la relation quadratique entre la vitesse de l'air et les forces générées 
