@@ -144,7 +144,8 @@ $$F_L=m\times g$$
 L'incertitude de la force de portance se calculera comme suit :
 $$\Delta F_L=\Delta m \times g$$
 Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
-$$F_L= 0.038 \times 9.81 =  $$
+$$F_L= 0.038 \times 9.81 \approx 0.373\hspace{1mm}$$$$\Delta F_L= 0.0005 \times 9.81 \approx 0.005\hspace{1mm}$$
+$$F_L = 0.373 \pm 0.005 \hspace{1mm} N$$
 
 
 | Vitesse du vent dans la soufflerie (km/h) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) |
