@@ -141,6 +141,10 @@ La formule classique pour déterminer le poids est égale à :$$
 P = m \times g$$
 où $m$ est la masse en kilogrammes et $g$ est l'accélération due à la gravité approximativement 9.81 $m/s^2$. Cependant, dans notre cas, le poids mesuré n'est pas un poids réel, mais la force de portance négative causée par la soufflerie sur l'aileron. Ainsi, la formule est ajustée pour refléter cette réalité :
 $$F_L=m\times g$$
+L'incertitude de la force de portance se calculera comme suit :
+$$\Delta F_L=\Delta m \times g$$
+Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
+$$F_L= 0.038 \times 9.81 =  $$
 
 
 | Vitesse du vent dans la soufflerie (km/h) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) |
