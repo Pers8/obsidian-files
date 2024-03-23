@@ -164,7 +164,7 @@ $$\Delta F_L=\Delta m \times g$$
 |                       17                        |             11,9              | $2,9 \times 10^2$                                                  |
 **Tableau 1 :** Tableau des forces de portance à différentes vitesses de soufflerie
 
-Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
+Échantillon de calcul pour $m = 0.038 \hspace{1mm} kg$ :
 $$F_L= 0,038 \times 9,81 \approx 0,373\hspace{1mm}$$$$\Delta F_L= 0,0005 \times 9,81 \approx 0,005\hspace{1mm}$$
 $$F_L = 0,373 \pm 0,005 \hspace{1mm} N$$
 
