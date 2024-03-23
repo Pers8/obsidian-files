@@ -121,7 +121,7 @@ X
 
 ### 8.1.1. Données brutes 
 
-Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0.05 km/h pour la vitesse et ±0.0005 kg pour la masse.
+Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0.01 m/s pour la vitesse et ±0.0005 kg pour la masse. Le tableau 1 représente les différentes valeurs apparues sur la balance mesurant la force de portance à des vitesses variables et le tableau 2 représente les différentes valeurs affichées par la balance mesurant la force de traînée.
 
 | Vitesse du vent dans la soufflerie (±0.05 km/h) | Masse (kg) ±0.0005 |
 | :---------------------------------------------- | ------------------ |
@@ -131,7 +131,17 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 | 40                                              | 0.543              |
 | 50                                              | 0.831              |
 | 60                                              | 1.213              |
-**Tableau 1 :** Données Brutes de l'Expérience sur les Forces Aérodynamiques
+**Tableau 1 :** Tableau de la force de portance générée à vitesses variables en fonction du type d’ailettes 
+
+| Vitesse du vent dans la soufflerie (±0.01 m/s) | Masse (kg) ±0.0005 |
+| :--------------------------------------------- | ------------------ |
+| 2.8                                            | 0.038              |
+| 5.6                                            | 0.138              |
+| 8.3                                            | 0.307              |
+| 11                                             | 0.543              |
+| 14                                             | 0.831              |
+| 17                                             | 1.213              |
+**Tableau 1 :** Tableau D’Evolution de la Force d’Appui en fonction de la Vitesse
 
 
 ### 8.1.2. Données traitées
