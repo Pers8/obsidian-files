@@ -165,3 +165,8 @@ $$\Delta F_L=\Delta m \times g$$
 Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
 $$F_L= 0.038 \times 9.81 \approx 0.373\hspace{1mm}$$$$\Delta F_L= 0.0005 \times 9.81 \approx 0.005\hspace{1mm}$$
 $$F_L = 0.373 \pm 0.005 \hspace{1mm} N$$
+
+Nous pouvons appliquer la même logique avec la traînée car, tout comme la portance, elle résulte de l'interaction de l'aileron avec l'air en mouvement, nous permettant de la calculer via la formule suivante :
+$$F_D=m\times g$$
+L'incertitude de la force detraînnn se calculera comme suit :
+$$\Delta F_L=\Delta m \times g$$
