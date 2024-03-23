@@ -172,11 +172,11 @@ Nous pouvons appliquer la même logique avec la traînée car tout comme la port
 $$F_D=m\times g$$
 L'incertitude de la force de traînée aura la même incertitude que force de portance puisqu'il partage tous deux la même incertitude au niveau de la masse.
 
-| Vitesse du vent dans la soufflerie (±0.014 m/s) | Force de Traînée (± 0.005 N) | Carré de la vitesse du vent dans la soufflerie (± 0.028 $m^2/s^2$) |
+| Vitesse du vent dans la soufflerie (±0,014 m/s) | Force de Traînée (± 0,005 N) | Carré de la vitesse du vent dans la soufflerie (± 0,028 $m^2/s^2$) |
 | :---------------------------------------------: | :--------------------------: | ------------------------------------------------------------------ |
-|                       2.8                       |            0,235             | 7,8                                                                |
-|                       5.6                       |             1,00             | 31                                                                 |
-|                       8.3                       |             2,31             | 69                                                                 |
+|                       2,8                       |            0,235             | 7,8                                                                |
+|                       5,6                       |             1,00             | 31                                                                 |
+|                       8,3                       |             2,31             | 69                                                                 |
 |                       11                        |             3,64             | $1,2 \times 10^2$                                                  |
 |                       14                        |             5,84             | $2,0 \times 10^2$                                                  |
 |                       17                        |             9,35             | $2,9 \times 10^2$                                                  |
