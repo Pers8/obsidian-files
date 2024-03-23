@@ -121,9 +121,9 @@ X
 
 ### 8.1.1. Données brutes 
 
-Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0.014 m/s pour la vitesse et ±0.0005 kg pour la masse.
+Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0,014 m/s pour la vitesse et ±0,0005 kg pour la masse.
 
-| Vitesse du vent dans la soufflerie (±0.014 m/s) | Masse (±0.0005 kg) |
+| Vitesse du vent dans la soufflerie (±0,014 m/s) | Masse (±0,0005 kg) |
 | :---------------------------------------------- | ------------------ |
 | 2.8                                             | 0.038              |
 | 5.6                                             | 0.138              |
@@ -133,7 +133,7 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 | 17                                              | 1.213              |
 **Tableau 1 :** Les différentes valeurs apparues sur la balance mesurant la force de portance à des vitesses variables
 
-| Vitesse du vent dans la soufflerie (±0.014 m/s) | Masse (±0.0005 kg) |
+| Vitesse du vent dans la soufflerie (±0,014 m/s) | Masse (±0,0005 kg) |
 | :---------------------------------------------- | ------------------ |
 | 2.8                                             | 0,024              |
 | 5.6                                             | 0,102              |
@@ -141,7 +141,7 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 | 11                                              | 0,371              |
 | 14                                              | 0,595              |
 | 17                                              | 0,953              |
-**Tableau 1 :** Les différentes valeurs affichées par la balance mesurant la force de traînée à des vitesses variables
+**Tableau 2 :** Les différentes valeurs affichées par la balance mesurant la force de traînée à des vitesses variables
 
 
 ### 8.1.2. Données traitées
@@ -149,12 +149,12 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 Lors de l'expérimentation, la balance a été utilisée pour mesurer une force perçue comme un poids. En réalité, cette force n'est autre que la force de portance négative $F_L$ qui a été interprétée à tort par la balance comme étant un poids. La masse affichée par la balance est donc une masse fictive qui nous permet de calculer la force de portance réelle.
 La formule classique pour déterminer le poids est égale à :$$
 P = m \times g$$
-où $m$ est la masse en kilogrammes et $g$ est l'accélération due à la gravité approximativement 9.81 $m/s^2$. Cependant, dans notre cas, le poids mesuré n'est pas un poids réel, mais la force de portance négative causée par la soufflerie sur l'aileron. Ainsi, la formule est ajustée pour refléter cette réalité :
+où $m$ est la masse en kilogrammes et $g$ est l'accélération due à la gravité approximativement 9,81 $m/s^2$. Cependant, dans notre cas, le poids mesuré n'est pas un poids réel, mais la force de portance négative causée par la soufflerie sur l'aileron. Ainsi, la formule est ajustée pour refléter cette réalité :
 $$F_L=m\times g$$
 L'incertitude de la force de portance se calculera comme suit :
 $$\Delta F_L=\Delta m \times g$$
 
-| Vitesse du vent dans la soufflerie (±0.014 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| Vitesse du vent dans la soufflerie (±0,014 m/s) | Force de Portance (± 0,005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
 | :---------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
 |                       2.8                       |             0,373             | 7,8                                                     |
 |                       5.6                       |             1,35              | 31                                                      |
@@ -163,10 +163,21 @@ $$\Delta F_L=\Delta m \times g$$
 |                       14                        |             8,15              | $2,0 \times 10^2$                                       |
 |                       17                        |             11,9              | $2,9 \times 10^2$                                       |
 Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
-$$F_L= 0.038 \times 9.81 \approx 0.373\hspace{1mm}$$$$\Delta F_L= 0.0005 \times 9.81 \approx 0.005\hspace{1mm}$$
-$$F_L = 0.373 \pm 0.005 \hspace{1mm} N$$
+$$F_L= 0,038 \times 9,81 \approx 0,373\hspace{1mm}$$$$\Delta F_L= 0,0005 \times 9,81 \approx 0,005\hspace{1mm}$$
+$$F_L = 0,373 \pm 0,005 \hspace{1mm} N$$
 
-Nous pouvons appliquer la même logique avec la traînée car, tout comme la portance, elle résulte de l'interaction de l'aileron avec l'air en mouvement, nous permettant de la calculer via la formule suivante :
+Nous pouvons appliquer la même logique avec la traînée car tout comme la portance, elle résulte de l'interaction de l'aileron avec l'air en mouvement, nous permettant de la calculer via la formule suivante :
 $$F_D=m\times g$$
-L'incertitude de la force detraînnn se calculera comme suit :
-$$\Delta F_L=\Delta m \times g$$
+L'incertitude de la force de traînée aura la même incertitude que force de portance puisqu'il partage tous deux la même incertitude au niveau de la masse.
+
+| Vitesse du vent dans la soufflerie (±0.014 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| :---------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
+|                       2.8                       |             0,235             | 7,8                                                     |
+|                       5.6                       |             1,00              | 31                                                      |
+|                       8.3                       |             2,31              | 69                                                      |
+|                       11                        |             3,64              | $1,2 \times 10^2$                                       |
+|                       14                        |             5,84              | $2,0 \times 10^2$                                       |
+|                       17                        |             9,35              | $2,9 \times 10^2$                                       |
+Calcul de l'échantillon pour $m = 0,024 \hspace{1mm} kg$ :
+$$F_D= 0,024 \times 9,81 \approx 0,235\hspace{1mm}$$
+$$F_D = 0,235 \pm 0,005 \hspace{1mm} N$$
