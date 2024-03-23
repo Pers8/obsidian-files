@@ -98,16 +98,16 @@ X
 
 ### 7.2 Procédure expérimentale
 
-1. Préparation de la soufflerie aérodynamique en s'assurant que toutes les parties (entrée, chambre, sortie) sont correctement assemblées selon les spécifications techniques.
-2. Vérification de l'ensemble électrique y compris la connexion du ventilateur à la batterie de voiture et la mise en place du variateur de tension pour le contrôle de la vitesse du vent.
-3. Installation des ailettes (à la fois simples et incurvées) dans la soufflerie et réglage de leur position à l'angle d'attaque prédéterminé.
-4. Calibration de la balance aérodynamique et de l'anémomètre pour mesurer respectivement la force d'appui et la force de traînée avec l'incertitude spécifiée.
-5. Lancement des tests à différentes vitesses de vent en commençant par la vitesse la plus basse et en augmentant progressivement jusqu'à la vitesse la plus élevée prévue.
-6. Réalisation de mesures répétées pour chaque configuration d'ailette afin d'obtenir des données fiables et reproductibles.
-7. Observation et enregistrement des phénomènes de création de vortex et de séparation d'écoulement pour chaque type d'ailette.
-8. Collecte des données de force d'appui et de traînée à partir des instruments de mesure pour chaque vitesse et type d'ailette.
+1. Préparer la soufflerie aérodynamique en s'assurant que toutes les parties (entrée, chambre, sortie) sont correctement assemblées.
+2. Vérifier l'ensemble électrique y compris la connexion du ventilateur à la batterie de voiture et la mise en place du variateur de tension pour le contrôle de la vitesse du vent.
+3. Installer les ailettes (à la fois simples et incurvées) dans la soufflerie et régler leur position à un angle d'attaque de 45°.
+4. Calibrer la balance aérodynamique et de l'anémomètre pour mesurer respectivement la force de portance et la force de traînée avec une incertitude de $\pm$ 0,005 N.
+5. Lancer des tests à différentes vitesses de vent en commençant par une vitesse de 2,8 m/s et en augmentant progressivement jusqu'à une vitesse de 17 m/s.
+6. Réaliser des mesures répétées pour chaque configuration d'ailette afin d'obtenir des données fiables et reproductibles.
+7. Observer et enregistrer des phénomènes de création de vortex et de séparation d'écoulement pour chaque type d'ailette.
+8. Collecter les données de la force de portance et de traînée à partir de la balance et de l'anémomètre.
 9. Analyse préliminaire des données pour identifier des tendances ou des anomalies.
-10. Finalisation des tests, révision des données collectées et préparation pour l'analyse détaillée.
+10. Finaliser les tests, réviser les données collectées et les préparer pour l'analyse.
 
 ### 7.3. Risques liés à l'expérience
 
