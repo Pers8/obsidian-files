@@ -162,6 +162,8 @@ $$\Delta F_L=\Delta m \times g$$
 |                       11                        |             5,33              | $1,2 \times 10^2$                                       |
 |                       14                        |             8,15              | $2,0 \times 10^2$                                       |
 |                       17                        |             11,9              | $2,9 \times 10^2$                                       |
+**Tableau 1 :** Tableau des forces de portance à différentes vitesses de soufflerie
+
 Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
 $$F_L= 0,038 \times 9,81 \approx 0,373\hspace{1mm}$$$$\Delta F_L= 0,0005 \times 9,81 \approx 0,005\hspace{1mm}$$
 $$F_L = 0,373 \pm 0,005 \hspace{1mm} N$$
@@ -170,14 +172,16 @@ Nous pouvons appliquer la même logique avec la traînée car tout comme la port
 $$F_D=m\times g$$
 L'incertitude de la force de traînée aura la même incertitude que force de portance puisqu'il partage tous deux la même incertitude au niveau de la masse.
 
-| Vitesse du vent dans la soufflerie (±0.014 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
-| :---------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
-|                       2.8                       |             0,235             | 7,8                                                     |
-|                       5.6                       |             1,00              | 31                                                      |
-|                       8.3                       |             2,31              | 69                                                      |
-|                       11                        |             3,64              | $1,2 \times 10^2$                                       |
-|                       14                        |             5,84              | $2,0 \times 10^2$                                       |
-|                       17                        |             9,35              | $2,9 \times 10^2$                                       |
+| Vitesse du vent dans la soufflerie (±0.014 m/s) | Force de Traînée (± 0.005 N) | Carré de la vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| :---------------------------------------------: | :--------------------------: | ------------------------------------------------------------------- |
+|                       2.8                       |            0,235             | 7,8                                                                 |
+|                       5.6                       |             1,00             | 31                                                                  |
+|                       8.3                       |             2,31             | 69                                                                  |
+|                       11                        |             3,64             | $1,2 \times 10^2$                                                   |
+|                       14                        |             5,84             | $2,0 \times 10^2$                                                   |
+|                       17                        |             9,35             | $2,9 \times 10^2$                                                   |
+**Tableau 2 :** Tableau des Forces de Traînée à Différentes Vitesses de Soufflerie
+
 Calcul de l'échantillon pour $m = 0,024 \hspace{1mm} kg$ :
 $$F_D= 0,024 \times 9,81 \approx 0,235\hspace{1mm}$$
 $$F_D = 0,235 \pm 0,005 \hspace{1mm} N$$
