@@ -136,7 +136,11 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 
 ### 8.1.2. Données traitées
 
-La force de portance est calculée comme suit :
+Lors de l'expérimentation, la balance a été utilisée pour mesurer une force perçue comme un poids. En réalité, cette force n'est autre que la force de portance négative $F_L$ qui a été interprétée à tort par la balance comme étant un poids. La masse affichée par la balance est donc une masse fictive qui nous permet de calculer la force de portance réelle.
+La formule classique pour déterminer le poids est égale à :$$
+P = m \times g$$
+où $m$ est la masse en kilogrammes et $g$ est l'accélération due à la gravité approximativement 9.81 $m/s^2$. Cependant, dans notre cas, le poids mesuré n'est pas un poids réel, mais la force de portance négative causée par la soufflerie sur l'aileron. Ainsi, la formule est ajustée pour refléter cette réalité :
+$$F_L=m\times g$$
 
 
 | Vitesse du vent dans la soufflerie (km/h) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) |
