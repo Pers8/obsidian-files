@@ -147,22 +147,11 @@ Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
 $$F_L= 0.038 \times 9.81 \approx 0.373\hspace{1mm}$$$$\Delta F_L= 0.0005 \times 9.81 \approx 0.005\hspace{1mm}$$
 $$F_L = 0.373 \pm 0.005 \hspace{1mm} N$$
 
-
-| Vitesse du vent dans la soufflerie (km/h) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) |
-| :---------------------------------------------: | :---------------------------: | :--------------------------: |
-|                       10                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
-|                       20                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
-|                       30                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
-|                       40                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
-|                       50                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
-|                       60                        |    Calculée ± Incertitude     |    Calculée ± Incertitude    |
-
-
-| Vitesse du vent dans la soufflerie (m/s) ±0.05 | Force de Portance (N) ± 0.0049 | Force de Traînée (N) ± u(FD) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
-| :--------------------------------------------: | :----------------------------: | :--------------------------: | ------------------------------------------------------- |
-|                      2.8                       |             0.373              |                              | 7.8                                                     |
-|                      5.6                       |              1.35              |                              | 31                                                      |
-|                      8.3                       |              3.01              |                              | 69                                                      |
-|                       11                       |              5.33              |                              | $12.1 \times 10^1$                                      |
-|                       14                       |              8.15              |                              | $19.6 \times 10^1$                                      |
-|                       17                       |              11.9              |                              | $28.9 \times 10^1$                                      |
+| Vitesse du vent dans la soufflerie (±0.05 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| :--------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
+|                      2.8                       |             0,373             | 7,8                                                     |
+|                      5.6                       |             1,35              | 31                                                      |
+|                      8.3                       |             3,01              | 69                                                      |
+|                       11                       |             5,33              | $1,2 \times 10^2$                                       |
+|                       14                       |             8,15              | $2,0 \times 10^2$                                       |
+|                       17                       |             11,9              | $2,9 \times 10^2$                                       |
