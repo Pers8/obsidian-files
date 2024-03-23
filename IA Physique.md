@@ -187,3 +187,10 @@ $$F_D= 0,024 \times 9,81 \approx 0,235\hspace{1mm}$$
 $$F_D = 0,235 \pm 0,005 \hspace{1mm} N$$
 
 **À noter :** Je vais utiliser le carré de la vitesse car ce sera une droite linéaire qui me permettra de mieux interpréter les données au lieu d'une courbe.
+
+
+Coefficient de corélation si c'est élevé il y a une forte corrélation
+- Proportionalité
+- petite incertittude
+- corrélation
+- Taux d'augmentation de la force à mesure que la vitesse augmente
