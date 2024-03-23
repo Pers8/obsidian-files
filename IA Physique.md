@@ -121,9 +121,9 @@ X
 
 ### 8.1.1. Données brutes 
 
-Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0.01 m/s pour la vitesse et ±0.0005 kg pour la masse.
+Pour cette expérience, les mesures ont été prises à différents régimes de la soufflerie pour observer l'impact sur un aileron. Ces mesures ont été effectuées avec les incertitudes associées fournies par les instruments de mesure : ±0.014 m/s pour la vitesse et ±0.0005 kg pour la masse.
 
-| Vitesse du vent dans la soufflerie (±0.05 km/h) | Masse (±0.0005 kg) |
+| Vitesse du vent dans la soufflerie (±0.014 m/s) | Masse (±0.0005 kg) |
 | :---------------------------------------------- | ------------------ |
 | 2.8                                             | 0.038              |
 | 5.6                                             | 0.138              |
@@ -133,14 +133,14 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 | 17                                              | 1.213              |
 **Tableau 1 :** Les différentes valeurs apparues sur la balance mesurant la force de portance à des vitesses variables
 
-| Vitesse du vent dans la soufflerie (±0.01 m/s) | Masse (±0.0005 kg) |
-| :--------------------------------------------- | ------------------ |
-| 2.8                                            | 0,024              |
-| 5.6                                            | 0,102              |
-| 8.3                                            | 0,235              |
-| 11                                             | 0,371              |
-| 14                                             | 0,595              |
-| 17                                             | 0,953              |
+| Vitesse du vent dans la soufflerie (±0.014 m/s) | Masse (±0.0005 kg) |
+| :---------------------------------------------- | ------------------ |
+| 2.8                                             | 0,024              |
+| 5.6                                             | 0,102              |
+| 8.3                                             | 0,235              |
+| 11                                              | 0,371              |
+| 14                                              | 0,595              |
+| 17                                              | 0,953              |
 **Tableau 1 :** Les différentes valeurs affichées par la balance mesurant la force de traînée à des vitesses variables
 
 
@@ -153,15 +153,15 @@ où $m$ est la masse en kilogrammes et $g$ est l'accélération due à la gravit
 $$F_L=m\times g$$
 L'incertitude de la force de portance se calculera comme suit :
 $$\Delta F_L=\Delta m \times g$$
+
+| Vitesse du vent dans la soufflerie (±0.014 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
+| :---------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
+|                       2.8                       |             0,373             | 7,8                                                     |
+|                       5.6                       |             1,35              | 31                                                      |
+|                       8.3                       |             3,01              | 69                                                      |
+|                       11                        |             5,33              | $1,2 \times 10^2$                                       |
+|                       14                        |             8,15              | $2,0 \times 10^2$                                       |
+|                       17                        |             11,9              | $2,9 \times 10^2$                                       |
 Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
 $$F_L= 0.038 \times 9.81 \approx 0.373\hspace{1mm}$$$$\Delta F_L= 0.0005 \times 9.81 \approx 0.005\hspace{1mm}$$
 $$F_L = 0.373 \pm 0.005 \hspace{1mm} N$$
-
-| Vitesse du vent dans la soufflerie (±0.01 m/s) | Force de Portance (± 0.005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
-| :--------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
-|                      2.8                       |             0,373             | 7,8                                                     |
-|                      5.6                       |             1,35              | 31                                                      |
-|                      8.3                       |             3,01              | 69                                                      |
-|                       11                       |             5,33              | $1,2 \times 10^2$                                       |
-|                       14                       |             8,15              | $2,0 \times 10^2$                                       |
-|                       17                       |             11,9              | $2,9 \times 10^2$                                       |
