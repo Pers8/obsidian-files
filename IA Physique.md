@@ -154,14 +154,14 @@ $$F_L=m\times g$$
 L'incertitude de la force de portance se calculera comme suit :
 $$\Delta F_L=\Delta m \times g$$
 
-| Vitesse du vent dans la soufflerie (±0,014 m/s) | Force de Portance (± 0,005 N) | Vitesse du vent dans la soufflerie au carré $v^2$ (m/s) |
-| :---------------------------------------------: | :---------------------------: | ------------------------------------------------------- |
-|                       2.8                       |             0,373             | 7,8                                                     |
-|                       5.6                       |             1,35              | 31                                                      |
-|                       8.3                       |             3,01              | 69                                                      |
-|                       11                        |             5,33              | $1,2 \times 10^2$                                       |
-|                       14                        |             8,15              | $2,0 \times 10^2$                                       |
-|                       17                        |             11,9              | $2,9 \times 10^2$                                       |
+| Vitesse du vent dans la soufflerie (±0,014 m/s) | Force de Portance (± 0,005 N) | Carré de la vitesse du vent dans la soufflerie (± 0.028 $m^2/s^2$) |
+| :---------------------------------------------: | :---------------------------: | ------------------------------------------------------------------ |
+|                       2.8                       |             0,373             | 7,8                                                                |
+|                       5.6                       |             1,35              | 31                                                                 |
+|                       8.3                       |             3,01              | 69                                                                 |
+|                       11                        |             5,33              | $1,2 \times 10^2$                                                  |
+|                       14                        |             8,15              | $2,0 \times 10^2$                                                  |
+|                       17                        |             11,9              | $2,9 \times 10^2$                                                  |
 **Tableau 1 :** Tableau des forces de portance à différentes vitesses de soufflerie
 
 Calcul de l'échantillon pour $m = 0.038 \hspace{1mm} kg$ :
