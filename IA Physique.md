@@ -136,6 +136,7 @@ Pour cette expérience, les mesures ont été prises à différents régimes de 
 
 ### 8.1.2. Données traitées
 
+La force de portance est calculée comme suit :
 
 
 | Vitesse du vent dans la soufflerie (km/h) ±0.05 | Force de Portance (N) ± u(FL) | Force de Traînée (N) ± u(FD) |
