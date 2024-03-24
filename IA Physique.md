@@ -33,7 +33,7 @@ Quelle est la relation entre la vitesse et les forces de portance et de traîné
 
 ## 3. Contexte théorique et Hypothèse
 
-Le vol d'un avion est orchestré en grande partie par l'interaction entre la vitesse et les forces aérodynamiques. L'aile est soumise à diverses forces déterminant la dynamique de vol. Les deux forces fondamentales agissant sur un profil aérodynamique sont la portance, qui agit perpendiculairement à la direction du mouvement, et la traînée, qui agit parallèlement et en sens opposé au mouvement comme nous pouvons le voir ci-dessous.
+Le vol d'un avion est orchestré en grande partie par l'interaction entre la vitesse et les forces aérodynamiques. L'aile est soumise à diverses forces déterminant la dynamique de vol. Les deux forces fondamentales agissant sur un profil aérodynamique sont la portance, qui agit perpendiculairement à la direction du mouvement, et la traînée, qui agit parallèlement et en sens opposé au mouvement, comme nous pouvons le voir ci-dessous.
 ![[portance et trainée]]
 **Figure 1 :** Schéma représentant les forces de portance et de traînée agissant sur un profil aérodynamique.
 
