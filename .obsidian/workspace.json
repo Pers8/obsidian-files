@@ -123,9 +123,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 248.29960280254227,
+                  "y": 1348.9724791230465,
+                  "zoom": -0.6948290265941548
                 }
               }
             }
@@ -179,26 +179,6 @@
             }
           },
           {
-            "id": "5fba73557e30bc4a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Impots + tarif.md"
-              }
-            }
-          },
-          {
-            "id": "41c4dce25e55c848",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Subventions.md"
-              }
-            }
-          },
-          {
             "id": "6ebd7411e2acb84d",
             "type": "leaf",
             "state": {
@@ -223,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -289,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Physique.md",
+                "file": "IA Comp Sci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Physique.md",
+                "file": "IA Comp Sci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,7 +321,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Physique.md"
+                "file": "IA Comp Sci.md"
               }
             }
           },
@@ -385,14 +365,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0155f254c27d5d4a",
+  "active": "6271cd0f3d14c553",
   "lastOpenFiles": [
+    "IA Physique.md",
     "Economie mondiale Article.md",
     "Excalidraw/Subventions.md",
     "Excalidraw/Impots + tarif.md",
     "Exo Francais 19 03 24.md",
     "Français B HL Paper 2.md",
-    "IA Physique.md",
     "TOK ESSAY.md",
     "IA Comp Sci.md",
     "Exo informatique SQL.md",
