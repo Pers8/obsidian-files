@@ -53,3 +53,29 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | Vérifier le prix final                              | Vérifier que le prix final correspond à ce que vous avez choisi dans le formulaire, avec les éventuels frais supplémentaires pour la livraison rapide et le fichier PSD                                                                                                   | Vous revenez à la section précédente                                                                                             | Le code de réponse HTTP est 200 et la section précédente est affichée                                                                               |
 | Cliquer sur le bouton suivant                       | Vérifier que le bouton est visible et cliquable                                                                                                                                                                                                                           | Vous êtes redirigé vers la section confirmation                                                                                  | Le code de réponse HTTP est 200 et la section confirmation est affichée                                                                             |
 | Confirmer votre commande                            | Cliquer sur le bouton "Confirmer" si vous êtes satisfait de votre commande, ou sur le bouton "Annuler" si vous voulez la modifier ou l'annuler                                                                                                                            | Vous voyez un message de confirmation ou d'annulation de votre commande, et vous êtes redirigé vers le serveur discord du client | Le code de réponse HTTP est 200 et le message de confirmation ou d'annulation et le serveur discord sont affichés                                   |
+
+
+Processus d'authentification OAuth2 :
+
+Illustrez le flux depuis le clic sur le bouton de connexion jusqu'à l'obtention du code d'autorisation de Discord après le consentement de l'utilisateur. Cela devrait inclure la redirection vers la page d'autorisation de Discord, les actions d'authentification et d'autorisation de l'utilisateur, et la redirection vers votre application avec le code d'autorisation.
+
+Processus d'échange de jetons :
+
+Détaillez les étapes de l'échange du code d'autorisation contre un jeton d'accès. Mettez en évidence la requête POST à l'URL du jeton de Discord, y compris les paramètres nécessaires (comme client_id, client_secret, code, etc.), et le processus de traitement de la réponse pour obtenir le jeton d'accès.
+
+Récupération et affichage du profil de l'utilisateur :
+
+Décrire la séquence des actions entreprises après l'obtention du jeton d'accès, y compris la récupération du profil de l'utilisateur à partir de Discord, l'extraction des détails nécessaires (tels que l'avatar de l'utilisateur, son nom d'utilisateur, son discriminateur, etc.) et la mise à jour dynamique de l'interface utilisateur pour afficher les informations relatives au profil de l'utilisateur.
+
+Identification des utilisateurs spéciaux et amélioration de l'interface utilisateur :
+
+Décrire la logique d'identification des utilisateurs spéciaux sur la base de leur identifiant Discord et modifier l'interface utilisateur pour refléter leur statut spécial (par exemple, en ajoutant une icône spéciale à côté de leur nom). Inclure les points de décision pour vérifier si l'ID de l'utilisateur correspond à l'un des tableaux specialUserIds et le processus d'ajout de l'icône spéciale au nom d'utilisateur.
+
+Gestion des sessions et navigation :
+
+Créez un organigramme montrant comment l'application gère les sessions utilisateur, y compris le stockage des informations utilisateur dans localStorage pour les sessions de connexion persistantes, et la logique d'affichage ou de masquage des éléments en fonction de l'état de connexion de l'utilisateur. En outre, illustrez comment l'application définit dynamiquement la redirectURI en fonction de la page actuelle, afin de permettre une navigation correcte après le flux OAuth2.
+
+Processus de déconnexion :
+
+Montrez les étapes de la déconnexion de l'utilisateur, qui comprend l'effacement du localStorage, la réinitialisation de l'interface utilisateur pour refléter l'état de déconnexion, et éventuellement la redirection de l'utilisateur vers une page par défaut ou l'actualisation de la page actuelle pour mettre à jour l'interface utilisateur en conséquence.
+
