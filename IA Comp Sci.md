@@ -55,3 +55,5 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | Confirmer votre commande                            | Cliquer sur le bouton "Confirmer" si vous êtes satisfait de votre commande, ou sur le bouton "Annuler" si vous voulez la modifier ou l'annuler                                                                                                                            | Vous voyez un message de confirmation ou d'annulation de votre commande, et vous êtes redirigé vers le serveur discord du client | Le code de réponse HTTP est 200 et le message de confirmation ou d'annulation et le serveur discord sont affichés                                   |
 
 
+# Critère C
+
