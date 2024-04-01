@@ -168,4 +168,6 @@ L'intégration avec Discord a été réalisée grâce à la bibliothèque `disc
 
 ###  3.1. Abstraction et Encapsulation
 
-Pour l'abstraction, j'ai défini des classes et des méthodes qui cachent les détails complexes de l'implémentation aux utilisateurs. Par exemple, j'ai créé la classe `OrderManager` qui encapsule toute la logique liée à la gestion des commandes dans l'application. Cette classe offre des méthodes publiques comme `createOrder`, `updateOrderStatus`, et `fetchOrder`, permettant d'interagir avec la base de données sans exposer les détails de l'implémentation SQL.
+Pour l'abstraction, j'ai défini la classe `OrderManager` qui encapsule toute la logique liée à la gestion des commandes dans l'application. Cette classe offre des méthodes publiques comme `createOrder`, `updateOrderStatus`, et `fetchOrder`, permettant d'interagir avec la base de données sans exposer les détails de l'implémentation SQL dans le code de la section **Héritage**. L'encapsulation est mise en œuvre à travers l'utilisation de propriétés et de méthodes privées au sein de ces classes. En encapsulant les détails de l'implémentation, j'ai pu modifier l'implémentation interne sans affecter les parties du code qui utilisent ces classes, facilitant ainsi la maintenance et l'évolution du projet.
+
+### 3.2. Algorithmes de Conversion et Traitement des Données
