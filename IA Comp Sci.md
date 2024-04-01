@@ -62,10 +62,12 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 **Backend**
 
-| Dépendance | Fonction                                                           |
-| ---------- | ------------------------------------------------------------------ |
-| sqlite3    | Utilisé pour interagir avec la base de données SQLite.             |
-| express    | Framework de serveur web pour Node.js, gère les requêtes HTTP.     |
-| cors       | Middleware pour Express qui active les requêtes cross-origin.      |
-| dotenv     | Charge les variables d'environnement à partir d'un fichier `.env`. |
-| discord.js | Bibliothèque permettant d'interagir avec l'API de Discord.         |
+| Dépendance   | Fonction                                                           |
+| ------------ | ------------------------------------------------------------------ |
+| `sqlite3`    | Utilisé pour interagir avec la base de données SQLite.             |
+| `express`    | Framework de serveur web pour Node.js, gère les requêtes HTTP.     |
+| `cors`       | Middleware pour Express qui active les requêtes cross-origin.      |
+| `dotenv`     | Charge les variables d'environnement à partir d'un fichier `.env`. |
+| `discord.js` | Bibliothèque permettant d'interagir avec l'API de Discord.         |
+
+**Frontend**
