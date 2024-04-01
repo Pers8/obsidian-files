@@ -176,3 +176,4 @@ J'ai utilisé plusieurs techniques pour manipuler et convertir les données de m
 
 ![[code 12.png]]
 
+Pour le traitement des images téléchargées, j'ai utilisé une boucle `for` pour parcourir chaque fichier sélectionné par l'utilisateur, puis j'ai envoyé ces fichiers à un service externe (imgbb) pour le stockage des images. 
