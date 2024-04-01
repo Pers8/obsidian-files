@@ -3,5 +3,4 @@
 
 ## 1. Visualisation graphique
 
-![[Home.png]]
-
+![[Home.png |780]]
