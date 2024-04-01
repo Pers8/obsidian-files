@@ -152,4 +152,3 @@ La table des commandes (`orders`) ci-dessus enregistre les détails des commande
   ![[code 8.png]]
  J'ai utilisé une structure `try...catch` pour gérer les erreurs potentielles lors de l'envoi des données de commande au serveur. Si la requête échoue pour une raison quelconque (par exemple, le serveur ne répond pas ou renvoie une erreur), le bloc `catch` est exécuté. J'affiche alors un message d'erreur à l'utilisateur en modifiant la propriété `style.display` de l'élément `errorMessage` pour le rendre visible. Cela informe l'utilisateur qu'une erreur s'est produite lors de la création de la commande comme nous pouvons le voir ci-dessous.
  ![[Pasted image 20240401151311.png]]
- 
