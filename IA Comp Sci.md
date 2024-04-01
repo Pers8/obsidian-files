@@ -106,4 +106,4 @@ La complexité de l'interface graphique est encore démontrée par l'intégratio
 ### 2.2. Héritage et Polymorphisme
 
  J'ai utilisé le concept d'héritage à travers la création et l'utilisation d'une classe nommée `OrderManager`. Cette classe est conçue pour gérer diverses opérations liées aux commandes, telles que la création, la mise à jour et la récupération des commandes d'une base de données SQLite.
- 
+ ![[code 3.png]]
