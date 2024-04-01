@@ -53,25 +53,11 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | Vérifier le prix final                              | Vérifier que le prix final correspond à ce que vous avez choisi dans le formulaire, avec les éventuels frais supplémentaires pour la livraison rapide et le fichier PSD                                                                                                   | Vous revenez à la section précédente                                                                                             | Le code de réponse HTTP est 200 et la section précédente est affichée                                                                               |
 | Cliquer sur le bouton suivant                       | Vérifier que le bouton est visible et cliquable                                                                                                                                                                                                                           | Vous êtes redirigé vers la section confirmation                                                                                  | Le code de réponse HTTP est 200 et la section confirmation est affichée                                                                             |
 | Confirmer votre commande                            | Cliquer sur le bouton "Confirmer" si vous êtes satisfait de votre commande, ou sur le bouton "Annuler" si vous voulez la modifier ou l'annuler                                                                                                                            | Vous voyez un message de confirmation ou d'annulation de votre commande, et vous êtes redirigé vers le serveur discord du client | Le code de réponse HTTP est 200 et le message de confirmation ou d'annulation et le serveur discord sont affichés                                   |
+|                                                     |                                                                                                                                                                                                                                                                           |                                                                                                                                  |                                                                                                                                                     |
 
 
-# Critère C
-1. **Dépendances du Projet** 
-2. **Techniques de Développement Employées** 
-2.1. Interface Graphique Utilisateur (GUI) 
-2.2. Héritage et Polymorphisme 
-2.3. Structures de Données Complexes 
-2.4. Entrée/Sortie de Fichiers 
-2.5. Débogage et Tests 
-2.6. Gestion des Exceptions 
-2.7. Validation des Données 
-2.8. Intégration avec des Systèmes Externes (Discord, Base de Données)
-    
-3. **Pensée Computationnelle et Ingéniosité** 3.1. Abstraction et Encapsulation 3.2. Algorithmes de Conversion et Traitement des Données 3.3. Utilisation de l'API Discord 3.4. Sécurité et Confidentialité des Données
-    
-4. **Extensibilité et Maintenance du Code** 4.1. Modularité et Réutilisabilité du Code 4.2. Documentation et Commentaires du Code
-    
-5. **Références et Citations**
+# Critère C : Développement 
+
 
 ## 1. Dépendances du Projet
 
@@ -123,7 +109,7 @@ La complexité de l'interface graphique est encore démontrée par l'intégratio
 
 ### 2.3. Structures de Données Complexes
 
- j'ai utilisé SQLite comme système de gestion de base de données pour stocker et gérer les données de manière structurée et efficace. SQLite est une bibliothèque logicielle qui fournit un système de base de données relationnelle accessible sans nécessiter un serveur de base de données distinct. Cette approche me permet de créer une base de données légère et autonome, idéale pour les applications de petite à moyenne taille comme la mienne.
+ J'ai utilisé SQLite comme système de gestion de base de données pour stocker et gérer les données de manière structurée et efficace. SQLite est une bibliothèque logicielle qui fournit un système de base de données relationnelle accessible sans nécessiter un serveur de base de données distinct. Cette approche me permet de créer une base de données légère et autonome, idéale pour les applications de petite à moyenne taille comme la mienne.
 
 Pour initialiser la base de données et établir la connexion, j'ai utilisé le code suivant :
 ![[code 4.png]]
@@ -141,20 +127,20 @@ La table des canaux Discord (`channels`) ci-dessus conserve les détails des can
 
 La table des commandes (`orders`) ci-dessus enregistre les détails des commandes passées par les utilisateurs dans les différents canaux. Cette table utilise une clé primaire auto-incrémentée `id` pour identifier chaque commande de manière unique. Elle contient également des clés étrangères référençant les `userId` et `channelId` pour lier les commandes aux utilisateurs et aux canaux appropriés. 
 
-### 2.5. Débogage 
+### 2.4. Débogage 
 
  J'ai utilisé plusieurs techniques pour identifier et corriger les erreurs dans mon code, notamment pour gérer les messages d'erreur comme `errorMessage`.
   ![[code 8.png]]
  J'ai utilisé une structure `try...catch` pour gérer les erreurs potentielles lors de l'envoi des données de commande au serveur. Si la requête échoue pour une raison quelconque (par exemple, le serveur ne répond pas ou renvoie une erreur), le bloc `catch` est exécuté. J'affiche alors un message d'erreur à l'utilisateur en modifiant la propriété `style.display` de l'élément `errorMessage` pour le rendre visible. Cela informe l'utilisateur qu'une erreur s'est produite lors de la création de la commande comme nous pouvons le voir ci-dessous.
  ![[Pasted image 20240401151311.png]]
-### 2.7. Validation des Données 
+### 2.5. Validation des Données 
 
  J'ai limité les types de fichiers acceptés à des images, comme indiqué dans l'attribut `accept` de l'élément d'entrée de fichier.
  ![[code 9.png]]
  J'ai utilisé des validations côté client pour s'assurer que les utilisateurs remplissent correctement le formulaire avant de soumettre leur commande. Par exemple, j'ai vérifié si l'utilisateur a sélectionné au moins une option et rempli tous les champs nécessaires.
  ![[code 10.png]]
  
-### 2.8. Intégration avec des Systèmes Externes (Discord)
+### 2.6. Intégration avec des Systèmes Externes (Discord)
 
 L'intégration avec Discord a été réalisée grâce à la bibliothèque `discord.js`. Cette bibliothèque me permet de créer et de gérer un bot Discord, qui peut interagir avec les utilisateurs sur un serveur Discord. J'ai créé l'instance `Client` qui permet au bot d'écouter et de répondre à des messages dans les serveurs Discord.
 ![[code 11.png]]
@@ -174,9 +160,11 @@ J'ai utilisé plusieurs techniques pour manipuler et convertir les données de m
 Pour le traitement des images téléchargées, j'ai utilisé une boucle `for` pour parcourir chaque fichier sélectionné par l'utilisateur, puis j'ai envoyé ces fichiers à un service externe (imgbb) pour le stockage des images. 
 ![[code 13.png]]
 
-### 3.4. Sécurité et Confidentialité des Données
+### 3.3. Sécurité et Confidentialité des Données
 
 J'ai utilisé le package `dotenv` pour charger les variables d'environnement à partir d'un fichier `.env`. Cela me permet de stocker des informations sensibles, telles que le token du bot Discord (`process.env.BOT_TOKEN`), en dehors du code source. Cela réduit le risque d'exposer des données sensibles et facilite la configuration de l'application dans différents environnements.
 ![[code 14.png]]
 
 Pour la communication entre le client et le serveur, j'utilise le protocole HTTPS (non illustré dans les extraits de code fournis) pour chiffrer les données échangées, protégeant ainsi les informations sensibles des utilisateurs lors de leur transmission sur Internet.
+
+Mots : 
