@@ -164,3 +164,7 @@ La table des commandes (`orders`) ci-dessus enregistre les détails des commande
 L'intégration avec Discord a été réalisée grâce à la bibliothèque `discord.js`. Cette bibliothèque me permet de créer et de gérer un bot Discord, qui peut interagir avec les utilisateurs sur un serveur Discord. J'ai créé l'instance `Client` qui permet au bot d'écouter et de répondre à des messages dans les serveurs Discord.
 ![[code 11.png]]
 
+## 3. Pensée Computationnelle
+
+###  3.1. Abstraction et Encapsulation
+
