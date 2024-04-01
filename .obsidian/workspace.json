@@ -123,9 +123,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 248.29960280254227,
+                  "y": 1348.9724791230465,
+                  "zoom": -0.6948290265941548
                 }
               }
             }
@@ -367,6 +367,8 @@
   },
   "active": "6271cd0f3d14c553",
   "lastOpenFiles": [
+    "assets/Pasted image 20240401151311.png",
+    "assets/code 8.png",
     "assets/UML Diagram.svg",
     "assets/code 7.png",
     "assets/code 6.png",
@@ -386,9 +388,7 @@
     "IA Comp Sci.md",
     "Exo informatique SQL.md",
     "Excalidraw/portance et trainée.md",
-    "assets/Pasted image 20240316164839.png",
     "Eco TD2.md",
-    "assets/Pasted image 20240315125206.png",
     "Data Base.canvas",
     "Untitled 5.md",
     "syntax/Obsidian Basic  and Extended Syntax.md",

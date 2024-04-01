@@ -56,9 +56,16 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 
 # Critère C
-1. **Dépendances du Projet** 1.1. Technologies Utilisées 1.2. Bibliothèques et Outils Tiers
-    
-2. **Techniques de Développement Employées** 2.1. Interface Graphique Utilisateur (GUI) 2.2. Héritage et Polymorphisme 2.3. Structures de Données Complexes 2.4. Entrée/Sortie de Fichiers 2.5. Débogage et Tests 2.6. Gestion des Exceptions 2.7. Validation des Données 2.8. Intégration avec des Systèmes Externes (Discord, Base de Données)
+1. **Dépendances du Projet** 
+2. **Techniques de Développement Employées** 
+2.1. Interface Graphique Utilisateur (GUI) 
+2.2. Héritage et Polymorphisme 
+2.3. Structures de Données Complexes 
+2.4. Entrée/Sortie de Fichiers 
+2.5. Débogage et Tests 
+2.6. Gestion des Exceptions 
+2.7. Validation des Données 
+2.8. Intégration avec des Systèmes Externes (Discord, Base de Données)
     
 3. **Pensée Computationnelle et Ingéniosité** 3.1. Abstraction et Encapsulation 3.2. Algorithmes de Conversion et Traitement des Données 3.3. Utilisation de l'API Discord 3.4. Sécurité et Confidentialité des Données
     
@@ -140,3 +147,9 @@ La table des canaux Discord (`channels`) ci-dessus conserve les détails des can
 La table des commandes (`orders`) ci-dessus enregistre les détails des commandes passées par les utilisateurs dans les différents canaux. Cette table utilise une clé primaire auto-incrémentée `id` pour identifier chaque commande de manière unique. Elle contient également des clés étrangères référençant les `userId` et `channelId` pour lier les commandes aux utilisateurs et aux canaux appropriés. 
 
 ### 2.5. Débogage 
+
+ J'ai utilisé plusieurs techniques pour identifier et corriger les erreurs dans mon code, notamment pour gérer les messages d'erreur comme `errorMessage`.
+  ![[code 8.png]]
+ J'ai utilisé une structure `try...catch` pour gérer les erreurs potentielles lors de l'envoi des données de commande au serveur. Si la requête échoue pour une raison quelconque (par exemple, le serveur ne répond pas ou renvoie une erreur), le bloc `catch` est exécuté. J'affiche alors un message d'erreur à l'utilisateur en modifiant la propriété `style.display` de l'élément `errorMessage` pour le rendre visible. Cela informe l'utilisateur qu'une erreur s'est produite lors de la création de la commande comme nous pouvons le voir ci-dessous.
+ ![[Pasted image 20240401151311.png]]
+ 
