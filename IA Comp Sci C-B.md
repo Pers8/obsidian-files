@@ -70,22 +70,37 @@
 
 
 
-| Task Number | Planned Action                                      | Plan Outcome                                           | Time Estimated | Completion Date | Criterion |
-| ----------- | --------------------------------------------------- | ------------------------------------------------------ | -------------- | --------------- | --------- |
-| 1           | Initial contact with my client                      | Understand client requirements                         | 1 hour         | 08/23/2023      | A         |
-| 2           | Meeting with my supervisor                          | Gain insights and direction                            | 30 minutes     | 08/25/2023      | A         |
-| 3           | Research on Discord bots                            | Identify technical requirements                        | 2 hours        | 08/27/2023      | A         |
-| 4           | Basic GUI design for the web interface              | Create wireframes for client approval                  | 3 hours        | 08/29/2023      | B         |
-| 5           | Develop login system                                | Implement and test login functionality                 | 4 hours        | 09/02/2023      | C         |
-| 6           | Design database schema                              | Finalize database structure for user and order data    | 2 hours        | 09/05/2023      | B         |
-| 7           | Implement Discord bot commands                      | Code and test bot commands for order management        | 6 hours        | 09/10/2023      | C         |
-| 8           | Integrate payment options                           | Enable PayPal and Robux payments                       | 3 hours        | 09/15/2023      | C         |
-| 9           | Develop image upload feature                        | Allow users to upload reference images                 | 4 hours        | 09/20/2023      | C         |
-| 10          | Testing of the entire system                        | Ensure all functionalities work as expected            | 5 hours        | 09/25/2023      | C         |
-| 11          | Client review and feedback session                  | Present the project to the client for initial feedback | 1 hour         | 09/30/2023      | E         |
-| 12          | Implement client feedback                           | Make necessary adjustments based on feedback           | 4 hours        | 10/05/2023      | C         |
-| 13          | Final testing and debugging                         | Ensure the system is bug-free and fully functional     | 5 hours        | 10/10/2023      | C         |
-| 14          | Prepare user documentation                          | Create guides and help documents for end-users         | 3 hours        | 10/15/2023      | B         |
-| 15          | Final presentation to the client                    | Demonstrate the completed project                      | 1 hour         | 10/20/2023      | E         |
-| 16          | Reflect on the project process                      | Document lessons learned and potential improvements    | 2 hours        | 10/25/2023      | A         |
-| 17          | Submission of project documentation to the IB board | Compile and submit all project documents               | 3 hours        | 11/01/2023      | A         |
+| Task Number | Planned Action                             | Plan Outcome                                          | Time Estimated | Completion Date | Criterion   |
+| ----------- | ------------------------------------------ | ----------------------------------------------------- | -------------- | --------------- | ----------- |
+| 1           | Initial contact with my client             | Understand client requirements and expectations       | 1 hour         | 08/23/2023      | Criterion A |
+| 2           | Meeting with my supervisor                 | Gain insights and direction for the project           | 30 minutes     | 08/25/2023      | Criterion A |
+| 3           | Research on existing solutions             | Identify potential features and technologies          | 2 hours        | 08/27/2023      | Criterion A |
+| 4           | Draft initial project plan                 | Outline project scope and timeline                    | 1 hour         | 08/29/2023      | Criterion A |
+| 5           | Basic GUI design                           | Create basic design for client approval               | 3 hours        | 09/02/2023      | Criterion B |
+| 6           | Develop login system                       | Implement and test login functionality                | 4 hours        | 09/07/2023      | Criterion C |
+| 7           | Implement Discord OAuth integration        | Enable Discord authentication                         | 3 hours        | 09/10/2023      | Criterion C |
+| 8           | Design database schema                     | Plan database structure for user and order management | 2 hours        | 09/13/2023      | Criterion B |
+| 9           | Develop database interactions              | Implement CRUD operations for orders                  | 5 hours        | 09/18/2023      | Criterion C |
+| 10          | Implement image upload feature             | Allow users to upload reference images                | 4 hours        | 09/23/2023      | Criterion C |
+| 11          | Create order form UI                       | Design and implement order form                       | 3 hours        | 09/28/2023      | Criterion B |
+| 12          | Implement order submission logic           | Enable order creation and validation                  | 4 hours        | 10/03/2023      | Criterion C |
+| 13          | Test order submission and image upload     | Ensure functionality works as expected                | 2 hours        | 10/05/2023      | Criterion C |
+| 14          | Develop admin dashboard                    | Create dashboard for order management                 | 5 hours        | 10/10/2023      | Criterion C |
+| 15          | Implement payment options selection        | Allow users to choose between PayPal and Robux        | 3 hours        | 10/15/2023      | Criterion C |
+| 16          | Test payment option selection              | Verify payment method selection works                 | 1 hour         | 10/17/2023      | Criterion C |
+| 17          | Finalize GUI design                        | Refine and finalize user interface design             | 4 hours        | 10/22/2023      | Criterion B |
+| 18          | Implement responsive design                | Ensure website is mobile-friendly                     | 3 hours        | 10/27/2023      | Criterion C |
+| 19          | Conduct usability testing                  | Gather feedback on UI/UX                              | 2 hours        | 11/01/2023      | Criterion E |
+| 20          | Refine based on feedback                   | Implement changes based on usability testing          | 4 hours        | 11/06/2023      | Criterion C |
+| 21          | Implement loading screens                  | Improve user experience during loading times          | 2 hours        | 11/11/2023      | Criterion C |
+| 22          | Optimize website performance               | Reduce load times and improve efficiency              | 3 hours        | 11/16/2023      | Criterion C |
+| 23          | Implement error handling                   | Handle errors gracefully                              | 3 hours        | 11/21/2023      | Criterion C |
+| 24          | Final project review with supervisor       | Review project completeness and quality               | 1 hour         | 11/26/2023      | Criterion A |
+| 25          | Prepare project documentation              | Document project development and design               | 4 hours        | 12/01/2023      | Criterion B |
+| 26          | Client demonstration and feedback          | Present final product to client for feedback          | 2 hours        | 12/06/2023      | Criterion E |
+| 27          | Implement client feedback                  | Make adjustments based on client feedback             | 5 hours        | 12/11/2023      | Criterion C |
+| 28          | Final testing                              | Ensure all functionalities work as expected           | 3 hours        | 12/16/2023      | Criterion C |
+| 29          | Deployment to production environment       | Make the website live                                 | 2 hours        | 12/21/2023      | Criterion C |
+| 30          | Monitor and fix post-deployment issues     | Address any issues after going live                   | 4 hours        | 01/05/2024      | Criterion C |
+| 31          | Final project report                       | Compile a comprehensive report of the project         | 5 hours        | 02/10/2024      | Criterion B |
+| 32          | Project closure and evaluation with client | Review project success and areas for improvement      | 2 hours        | 04/01/2024      | Criterion E |
