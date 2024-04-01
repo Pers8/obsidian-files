@@ -57,3 +57,5 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 # Critère C
 
+## 1. Dépendances du Projet
+### 1.1. Technologies Utilisées
