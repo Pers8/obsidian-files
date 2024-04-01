@@ -172,4 +172,5 @@ Pour l'abstraction, j'ai défini la classe `OrderManager` qui encapsule toute 
 
 ### 3.2. Algorithmes de Conversion et Traitement des Données
 
-J'ai utilisé plusieurs techniques pour manipuler et convertir les données de manière efficace. Un exemple clair de cette approche se trouve dans le fichier `discordsystem.js`, où j'ai mis en œuvre un algorithme pour traiter les données saisies par l'utilisateur et les préparer pour une insertion dans la base de données via une API.
+J'ai utilisé plusieurs techniques pour manipuler et convertir les données de manière efficace tel qu'un algorithme pour traiter les données saisies par l'utilisateur et les préparer pour une insertion dans la base de données via une API.
+
