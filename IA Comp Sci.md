@@ -69,7 +69,7 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | `dotenv`     | Charge les variables d'environnement à partir d'un fichier `.env`                                            |
 | `discord.js` | Bibliothèque permettant d'interagir avec l'API de Discord                                                    |
 | `node.js`    | Environnement d'exécution JavaScript côté serveur qui permet de construire le backend de mon application web |
-| `imgbb API`  | API pour l'envoie d'images insérées par l'utilisateur vers Discord                                           |
+
 
 
 **Frontend**
