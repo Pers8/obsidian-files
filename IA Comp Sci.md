@@ -152,3 +152,9 @@ La table des commandes (`orders`) ci-dessus enregistre les détails des commande
   ![[code 8.png]]
  J'ai utilisé une structure `try...catch` pour gérer les erreurs potentielles lors de l'envoi des données de commande au serveur. Si la requête échoue pour une raison quelconque (par exemple, le serveur ne répond pas ou renvoie une erreur), le bloc `catch` est exécuté. J'affiche alors un message d'erreur à l'utilisateur en modifiant la propriété `style.display` de l'élément `errorMessage` pour le rendre visible. Cela informe l'utilisateur qu'une erreur s'est produite lors de la création de la commande comme nous pouvons le voir ci-dessous.
  ![[Pasted image 20240401151311.png]]
+### 2.7. Validation des Données 
+
+ J'ai limité les types de fichiers acceptés à des images, comme indiqué dans l'attribut `accept` de l'élément d'entrée de fichier.
+ ![[code 9.png]]
+ J'ai utilisé des validations côté client pour s'assurer que les utilisateurs remplissent correctement le formulaire avant de soumettre leur commande. Par exemple, j'ai vérifié si l'utilisateur a sélectionné au moins une option et rempli tous les champs nécessaires.
+ 
