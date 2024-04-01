@@ -39,3 +39,4 @@
     <p><i>Figure 9: La page "Cartoony GFX Course"</i></p>
     <img src="C:\Users\peres\OneDrive\Images\Comp sci IA img/Cartoony GFX Course.png" alt="Home" style="width:1000px;"/>
 </div>
+## 3. Organigrames
