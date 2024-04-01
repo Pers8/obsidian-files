@@ -122,4 +122,9 @@ J'ai utilisé SQLite et la pensée logique pour structurer une requête prépar�
 
 1. jQuery Foundation. January 2006. jQuery. Retrieved from [https://jquery.com/](https://jquery.com/)
 2. Fonticons, Inc. December 7, 2017. Font Awesome. Retrieved from [https://fontawesome.com/](https://fontawesome.com/)
-3. 
+3. iDangero.us. February 11, 2015. Swiper. Retrieved from [https://swiperjs.com/](https://swiperjs.com/)
+4. Lokesh Dhakar. (Year). Lightbox2. Retrieved from [https://github.com/lokesh/lightbox2/](https://github.com/lokesh/lightbox2/)
+5. Mihai Valentin. (Year). VanillaTilt.js. Retrieved from https://micku7zu.github.io/vanilla-tilt.js/
+6. SQLite Consortium. (Year). SQLite. Retrieved from https://www.sqlite.org/index.html
+7. OpenJS Foundation. (Year). Express. Retrieved from [https://expressjs.com/](https://expressjs.com/)
+8. Discord.js Team. (Year). Discord.js. Retrieved from https://discord.js.org/#/
