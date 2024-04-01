@@ -158,3 +158,9 @@ La table des commandes (`orders`) ci-dessus enregistre les détails des commande
  ![[code 9.png]]
  J'ai utilisé des validations côté client pour s'assurer que les utilisateurs remplissent correctement le formulaire avant de soumettre leur commande. Par exemple, j'ai vérifié si l'utilisateur a sélectionné au moins une option et rempli tous les champs nécessaires.
  ![[code 10.png]]
+ 
+### 2.8. Intégration avec des Systèmes Externes (Discord)
+
+L'intégration avec Discord a été réalisée grâce à la bibliothèque `discord.js`. Cette bibliothèque me permet de créer et de gérer un bot Discord, qui peut interagir avec les utilisateurs sur un serveur Discord. J'ai créé l'instance `Client` qui permet au bot d'écouter et de répondre à des messages dans les serveurs Discord.
+![[code 11.png]]
+
