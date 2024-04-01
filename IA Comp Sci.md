@@ -95,3 +95,6 @@ J'ai utilisé JavaScript pour créer une application basée sur le web pour la c
 **Figure 1 :** Formulaire de commande
 ![[code 1.png]]
 **Figure 2 :** Code pour récupérer les entrées de l'utilisateur
+
+Dans ce code, j'ai utilisé `addEventListener()` pour gérer les actions des utilisateurs telles que cliquer sur le bouton "Suivant" pour poursuivre le processus de création de commande. L'application collecte dynamiquement les données du formulaire, y compris les options sélectionnées, les détails de référence et le type de paiement, entre autres.
+
