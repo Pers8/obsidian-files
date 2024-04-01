@@ -130,3 +130,4 @@ La table des canaux Discord (`channels`) ci-dessus conserve les détails des can
 
 La table des commandes (`orders`) ci-dessus enregistre les détails des commandes passées par les utilisateurs dans les différents canaux. Cette table utilise une clé primaire auto-incrémentée `id` pour identifier chaque commande de manière unique. Elle contient également des clés étrangères référençant les `userId` et `channelId` pour lier les commandes aux utilisateurs et aux canaux appropriés. 
 
+2.5. Débogage 
