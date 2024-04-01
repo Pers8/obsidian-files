@@ -112,3 +112,11 @@ La complexité de l'interface graphique est encore démontrée par l'intégratio
 
 ### 2.3. Structures de Données Complexes
 
+ j'ai utilisé SQLite comme système de gestion de base de données pour stocker et gérer les données de manière structurée et efficace. SQLite est une bibliothèque logicielle qui fournit un système de base de données relationnelle accessible sans nécessiter un serveur de base de données distinct. Cette approche me permet de créer une base de données légère et autonome, idéale pour les applications de petite à moyenne taille comme la mienne.
+
+Pour initialiser la base de données et établir la connexion, j'ai utilisé le code suivant :
+![[code 4.png]]
+
+Ici, j'ai importé le module `sqlite3` et créé une nouvelle instance de la base de données SQLite en spécifiant le chemin du fichier de base de données. L'option `verbose()` est utilisée pour obtenir des messages de journalisation détaillés, ce qui est utile pour le débogage.
+
+Ensuite, j'ai structuré la base de données en créant trois tables principales : `users`, `channels`, et `orders`. Chaque table est conçue pour stocker des types spécifiques de données et est définie comme suit :
