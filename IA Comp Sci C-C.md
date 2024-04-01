@@ -117,14 +117,14 @@ J'ai utilisé SQLite et la pensée logique pour structurer une requête prépar�
 
 **Mots :** 1008 
 
-
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎
 ## 4. Références
 
-1. jQuery Foundation. January 2006. jQuery. Retrieved from [https://jquery.com/](https://jquery.com/)
-2. Fonticons, Inc. December 7, 2017. Font Awesome. Retrieved from [https://fontawesome.com/](https://fontawesome.com/)
-3. iDangero.us. February 11, 2015. Swiper. Retrieved from [https://swiperjs.com/](https://swiperjs.com/)
-4. Lokesh Dhakar. (Year). Lightbox2. Retrieved from [https://github.com/lokesh/lightbox2/](https://github.com/lokesh/lightbox2/)
-5. Mihai Valentin. (Year). VanillaTilt.js. Retrieved from https://micku7zu.github.io/vanilla-tilt.js/
-6. SQLite Consortium. (Year). SQLite. Retrieved from https://www.sqlite.org/index.html
-7. OpenJS Foundation. (Year). Express. Retrieved from [https://expressjs.com/](https://expressjs.com/)
-8. Discord.js Team. (Year). Discord.js. Retrieved from https://discord.js.org/#/
+1. jQuery Foundation. January 2006. jQuery. Récupéré de [https://jquery.com/](https://jquery.com/)
+2. Fonticons, Inc. December 7, 2017. Font Awesome. Récupéré de [https://fontawesome.com/](https://fontawesome.com/)
+3. iDangero.us. February 11, 2015. Swiper. Récupéré de [https://swiperjs.com/](https://swiperjs.com/)
+4. Lokesh Dhakar. Mar 22, 2006. Lightbox2. Récupéré de [https://github.com/lokesh/lightbox2/](https://github.com/lokesh/lightbox2/)
+5. Mihai Valentin. January 27, 2017 . VanillaTilt.js. Récupéré de https://micku7zu.github.io/vanilla-tilt.js/
+6. SQLite Consortium. August 17, 2000. SQLite. Récupéré de https://www.sqlite.org/index.html
+7. OpenJS Foundation. November 16, 2010. Express. Récupéré de [https://expressjs.com/](https://expressjs.com/)
+8. Discord.js Team. Nov 12, 2023. Discord.js. Récupéré de https://discord.js.org/#/
