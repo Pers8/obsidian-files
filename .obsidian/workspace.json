@@ -8,72 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93914afa9ed613db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eco TD2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45cb4c1ed54fd927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extended Essai.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6513ac27ad3b4cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français Exos Tle IB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d5f1240ed448c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Comp Sci synthèse pour le DST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc968904c29a3a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac0255afca671b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français exo Audio 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,24 +44,24 @@
             }
           },
           {
-            "id": "e92907f5cd393efe",
+            "id": "f0991a8fa4061a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "IA Comp Sci ROT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82c26b913bb70276",
+            "id": "e92907f5cd393efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Math.md",
+                "file": "IA Comp Sci C-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,81 +81,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "0155f254c27d5d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IA Physique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01a5f477cb3249a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOK ESSAY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6459856476b63462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exo informatique SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd8d355134cc720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economie mondiale Article.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebd7411e2acb84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exo Francais 19 03 24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5c6e08c13878fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Français B HL Paper 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -379,10 +247,25 @@
   },
   "active": "49221bf19b7b5a99",
   "lastOpenFiles": [
-    "assets/Home.png",
-    "IA Comp Sci C-C.md",
+    "IA Comp Sci ROT.md",
     "IA Comp Sci C-B.md",
     "IA Comp Sci C-A.md",
+    "IA Math.md",
+    "Data Base.canvas",
+    "IA Physique.md",
+    "TOK ESSAY.md",
+    "Exo informatique SQL.md",
+    "Economie mondiale Article.md",
+    "Exo Francais 19 03 24.md",
+    "Français B HL Paper 2.md",
+    "Comp Sci synthèse pour le DST.md",
+    "Eco TD2.md",
+    "Extended Essai.md",
+    "Français Exos Tle IB.md",
+    "A.md",
+    "Français exo Audio 2.md",
+    "IA Comp Sci C-C.md",
+    "assets/Home.png",
     "assets/code 15.png",
     "Untitled 5.md",
     "assets/code 14.png",
@@ -393,30 +276,15 @@
     "assets/code 9.png",
     "assets/Pasted image 20240401151311.png",
     "assets/code 8.png",
-    "assets/UML Diagram.svg",
-    "IA Physique.md",
-    "Economie mondiale Article.md",
     "Excalidraw/Subventions.md",
     "Excalidraw/Impots + tarif.md",
-    "Exo Francais 19 03 24.md",
-    "Français B HL Paper 2.md",
-    "TOK ESSAY.md",
-    "Exo informatique SQL.md",
     "Excalidraw/portance et trainée.md",
-    "Eco TD2.md",
-    "Data Base.canvas",
     "syntax/Obsidian Basic  and Extended Syntax.md",
     "English IA Bullet points.md",
     "English extract homework.md",
     "English IA Text.md",
     "Tle IB English.md",
-    "Français exo Audio 2.md",
-    "IA Math.md",
-    "TOK essayy.md",
-    "Excalidraw/Calculus.md",
     "Untitled 1.loom",
-    "Individual Oral English IA.md",
-    "Radians.md",
     "assets/Interpretation Ondes stationnaire 1.docx",
     "assets/Interpretation Ondes stationnaire.docx",
     "Interpretation Ondes stationnaire.docx",
