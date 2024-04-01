@@ -120,3 +120,6 @@ J'ai utilisé SQLite et la pensée logique pour structurer une requête prépar�
 
 ## 4. Références
 
+1. jQuery Foundation. January 2006. jQuery. Retrieved from [https://jquery.com/](https://jquery.com/)
+2. Fonticons, Inc. December 7, 2017. Font Awesome. Retrieved from [https://fontawesome.com/](https://fontawesome.com/)
+3. 
