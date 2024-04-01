@@ -71,3 +71,15 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | `discord.js` | Bibliothèque permettant d'interagir avec l'API de Discord.         |
 
 **Frontend**
+
+| Dépendance              | Fonction                                                                                                                   |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| `HTML5`                 | Langage de base pour la structure de la page web.                                                                          |
+| `CSS3`                  | Utilisé pour styliser et présenter le contenu HTML.                                                                        |
+| `JavaScript`            | Langage de script pour créer du contenu interactif.                                                                        |
+| `jQuery`                | Bibliothèque JavaScript pour simplifier le HTML traversing, event handling, et l'animation.                                |
+| `Font Awesome`          | Kit d'icônes et d'outils pour l'interface utilisateur.                                                                     |
+| `SwiperJS`              | Bibliothèque tactile pour créer des sliders (carrousels) modernes et mobiles.                                              |
+| `Lightbox`              | Plugin pour afficher des images et des vidéos en pleine taille.                                                            |
+| `VanillaTilt.js`        | Bibliothèque JavaScript pour des effets de parallaxe en 3D.                                                                |
+| `Waypoints + CounterUp` | Plugins jQuery pour déclencher une fonction lorsqu'on défile jusqu'à un élément et pour animer l'augmentation des nombres. |
