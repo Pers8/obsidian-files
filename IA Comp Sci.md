@@ -89,4 +89,9 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 ## 2. Techniques de Développement Employées
 ### 2.1. Interface Graphique Utilisateur (GUI)
 
-J'ai utilisé JavaScript pour créer une application basée sur le web pour la création et la gestion de commandes. Je capture les entrées de l'utilisateur à partir de différents éléments de formulaire et les compiler dans un format structuré et l'envoyer sur Discord. 
+J'ai utilisé JavaScript pour créer une application basée sur le web pour la création et la gestion de commandes. Je récupère les entrées de l'utilisateur à partir de différents éléments de formulaire ci-dessous et les compile dans un format structuré pour l'envoyer sur Discord. 
+
+![[site.png]]
+**Figure 1 :** Formulaire de commande
+![[code 1.png]]
+**Figure 2 :** Code pour récupérer les entrées de l'utilisateur
