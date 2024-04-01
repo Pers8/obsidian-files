@@ -157,4 +157,4 @@ La table des commandes (`orders`) ci-dessus enregistre les détails des commande
  J'ai limité les types de fichiers acceptés à des images, comme indiqué dans l'attribut `accept` de l'élément d'entrée de fichier.
  ![[code 9.png]]
  J'ai utilisé des validations côté client pour s'assurer que les utilisateurs remplissent correctement le formulaire avant de soumettre leur commande. Par exemple, j'ai vérifié si l'utilisateur a sélectionné au moins une option et rempli tous les champs nécessaires.
- 
+ ![[code 10.png]]
