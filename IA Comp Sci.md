@@ -98,3 +98,4 @@ J'ai utilisé JavaScript pour créer une application basée sur le web pour la c
 
 Dans ce code, j'ai utilisé `addEventListener()` pour gérer les actions des utilisateurs telles que cliquer sur le bouton "Suivant" pour poursuivre le processus de création de commande. L'application collecte dynamiquement les données du formulaire, y compris les options sélectionnées, les détails de référence et le type de paiement, entre autres.
 
+La complexité de l'interface graphique est encore démontrée par l'intégration de services tiers, tels qu'imgbb pour les téléchargements d'images, qui améliorent la capacité de l'utilisateur à fournir des spécifications de commande détaillées et . La nature asynchrone de JavaScript, associée à l'API fetch, permet une communication fluide avec des API externes sans perturber l'expérience utilisateur.
