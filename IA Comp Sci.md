@@ -58,17 +58,18 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 # Critère C
 
 ## 1. Dépendances du Projet
-### 1.1. Technologies Utilisées
 
 **Backend**
 
-| Dépendance   | Fonction                                                           |
-| ------------ | ------------------------------------------------------------------ |
-| `sqlite3`    | Utilisé pour interagir avec la base de données SQLite.             |
-| `express`    | Framework de serveur web pour Node.js, gère les requêtes HTTP.     |
-| `cors`       | Middleware pour Express qui active les requêtes cross-origin.      |
-| `dotenv`     | Charge les variables d'environnement à partir d'un fichier `.env`. |
-| `discord.js` | Bibliothèque permettant d'interagir avec l'API de Discord.         |
+| Dépendance   | Fonction                                                                                                        |
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
+| `sqlite3`    | Utilisé pour interagir avec la base de données SQLite.                                                          |
+| `express`    | Framework de serveur web pour Node.js, gère les requêtes HTTP.                                                  |
+| `cors`       | Middleware pour Express qui active les requêtes cross-origin.                                                   |
+| `dotenv`     | Charge les variables d'environnement à partir d'un fichier `.env`.                                              |
+| `discord.js` | Bibliothèque permettant d'interagir avec l'API de Discord.                                                      |
+| `node.js`    | Environnement d'exécution JavaScript côté serveur qui permet de construire le backend de votre application web. |
+
 
 **Frontend**
 
@@ -83,3 +84,7 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | `Lightbox`              | Plugin pour afficher des images et des vidéos en pleine taille.                                                            |
 | `VanillaTilt.js`        | Bibliothèque JavaScript pour des effets de parallaxe en 3D.                                                                |
 | `Waypoints + CounterUp` | Plugins jQuery pour déclencher une fonction lorsqu'on défile jusqu'à un élément et pour animer l'augmentation des nombres. |
+
+## 2. Techniques de Développement Employées
+### 2.1. Interface Graphique Utilisateur (GUI)
+
