@@ -87,6 +87,7 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | `Waypoints + CounterUp` | Plugins jQuery pour déclencher une fonction lorsqu'on défile jusqu'à un élément et pour animer l'augmentation des nombres. |
 
 ## 2. Techniques de Développement Employées
+
 ### 2.1. Interface Graphique Utilisateur (GUI)
 
 J'ai utilisé JavaScript pour créer une application basée sur le web pour la création et la gestion de commandes. Je récupère les entrées de l'utilisateur à partir de différents éléments de formulaire ci-dessous et les compile dans un format structuré pour l'envoyer sur Discord. 
@@ -109,4 +110,5 @@ La complexité de l'interface graphique est encore démontrée par l'intégratio
  ![[code 3.png]]
  La classe `OrderManager` n'hérite pas d'une autre classe en utilisant le mot-clé `extends`, qui est couramment utilisé dans JavaScript pour un héritage de type classique. Cependant, le concept d'héritage est implicitement présent à travers la composition de l'instance `sqlite3.Database` passée au constructeur de `OrderManager`. Cette composition permet à `OrderManager` d'utiliser la connexion à la base de données et ses méthodes, "héritant" effectivement de ses capacités sans étendre directement une classe parente.
 
-2.3. Structures de Données Complexes
+### 2.3. Structures de Données Complexes
+
