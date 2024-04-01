@@ -87,7 +87,6 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 | `node.js`    | Environnement d'exécution JavaScript côté serveur qui permet de construire le backend de mon application web |
 
 
-
 **Frontend**
 
 | Dépendance              | Fonction                                                                                                                   |
