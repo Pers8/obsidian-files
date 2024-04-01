@@ -120,3 +120,13 @@ Pour initialiser la base de données et établir la connexion, j'ai utilisé le 
 Ici, j'ai importé le module `sqlite3` et créé une nouvelle instance de la base de données SQLite en spécifiant le chemin du fichier de base de données. L'option `verbose()` est utilisée pour obtenir des messages de journalisation détaillés, ce qui est utile pour le débogage.
 
 Ensuite, j'ai structuré la base de données en créant trois tables principales : `users`, `channels`, et `orders`. Chaque table est conçue pour stocker des types spécifiques de données et est définie comme suit :
+![[code 5.png]]
+
+La table des utilisateurs (`users`) ci-dessus stocke les informations sur les utilisateurs. Chaque utilisateur est identifié par un `userId` (Leur `userId` Discord) unique.
+![[code 6.png]]
+
+La table des canaux Discord (`channels`) ci-dessus conserve les détails des canaux Discord. Chaque canal est identifié par un `channelId` unique.
+![[code 7.png]]
+
+La table des commandes (`orders`) ci-dessus enregistre les détails des commandes passées par les utilisateurs dans les différents canaux. Cette table utilise une clé primaire auto-incrémentée `id` pour identifier chaque commande de manière unique. Elle contient également des clés étrangères référençant les `userId` et `channelId` pour lier les commandes aux utilisateurs et aux canaux appropriés. 
+
