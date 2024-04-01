@@ -39,4 +39,13 @@
     <p><i>Figure 9: La page "Cartoony GFX Course"</i></p>
     <img src="C:\Users\peres\OneDrive\Images\Comp sci IA img/Cartoony GFX Course.png" alt="Home" style="width:1000px;"/>
 </div>
-## 3. Organigrames
+## 2. Diagrammes
+<div style="text-align: center; margin-top: 20px;">
+    <p><i>Figure 10: Diagramme hiérarchique</i></p>
+    <img src="C:\Users\peres\OneDrive\Images\CS code/Diagramme hiérarchique-2024-04-01-223718.svg" alt="Home" style="width:1000px;"/>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+    <p><i>Figure 11: Diagramme de flux de données</i></p>
+    <img src="C:\Users\peres\OneDrive\Images\CS code/Diagramme de flux de données-2024-04-01-224353.svg" alt="Home" style="width:1000px;"/>
+</div>
