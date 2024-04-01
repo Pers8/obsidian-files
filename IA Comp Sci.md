@@ -174,3 +174,5 @@ Pour l'abstraction, j'ai défini la classe `OrderManager` qui encapsule toute 
 
 J'ai utilisé plusieurs techniques pour manipuler et convertir les données de manière efficace tel qu'un algorithme pour traiter les données saisies par l'utilisateur et les préparer pour une insertion dans la base de données via une API.
 
+![[code 12.png]]
+
