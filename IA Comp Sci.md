@@ -56,6 +56,15 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 
 
 # Critère C
+1. **Dépendances du Projet** 1.1. Technologies Utilisées 1.2. Bibliothèques et Outils Tiers
+    
+2. **Techniques de Développement Employées** 2.1. Interface Graphique Utilisateur (GUI) 2.2. Héritage et Polymorphisme 2.3. Structures de Données Complexes 2.4. Entrée/Sortie de Fichiers 2.5. Débogage et Tests 2.6. Gestion des Exceptions 2.7. Validation des Données 2.8. Intégration avec des Systèmes Externes (Discord, Base de Données)
+    
+3. **Pensée Computationnelle et Ingéniosité** 3.1. Abstraction et Encapsulation 3.2. Algorithmes de Conversion et Traitement des Données 3.3. Utilisation de l'API Discord 3.4. Sécurité et Confidentialité des Données
+    
+4. **Extensibilité et Maintenance du Code** 4.1. Modularité et Réutilisabilité du Code 4.2. Documentation et Commentaires du Code
+    
+5. **Références et Citations**
 
 ## 1. Dépendances du Projet
 
