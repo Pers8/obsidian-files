@@ -174,3 +174,7 @@ J'ai utilisé plusieurs techniques pour manipuler et convertir les données de m
 
 Pour le traitement des images téléchargées, j'ai utilisé une boucle `for` pour parcourir chaque fichier sélectionné par l'utilisateur, puis j'ai envoyé ces fichiers à un service externe (imgbb) pour le stockage des images. 
 ![[code 13.png]]
+
+### 3.4. Sécurité et Confidentialité des Données
+
+J'ai utilisé le package `dotenv` pour charger les variables d'environnement à partir d'un fichier `.env`. Cela me permet de stocker des informations sensibles, telles que le token du bot Discord (`process.env.BOT_TOKEN`), en dehors du code source. Cela réduit le risque d'exposer des données sensibles et facilite la configuration de l'application dans différents environnements.
