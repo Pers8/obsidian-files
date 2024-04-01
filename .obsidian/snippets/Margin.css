@@ -15,6 +15,11 @@ img {
         margin: auto auto !important;
 }
 
+.markdown-preview-view img {
+    width: 50%; /* or any size */
+    height: auto; /* maintains aspect ratio */
+}
+
 .cm-header-1, .markdown-preview-view h1 {
 color: #000000;
 }
