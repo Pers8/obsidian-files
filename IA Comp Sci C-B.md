@@ -46,6 +46,7 @@ Ce diagramme illustre comment les différentes pages du site et leurs éléments
 
 ## 3. Diagramme de flux de données
 
+Ce diagramme met en évidence le flux de données qui circule lorsque l'utilisateur interagi avec les différentes pages de mon site. Je l'ai montré avec à mon client pour qu'il ait une idée du fonctionnement interne de mon site web.
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/Diagramme de flux de données-2024-04-01-224353.svg" alt="Home" style="width:500px;"/>
 </div>
