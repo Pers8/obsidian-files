@@ -33,12 +33,12 @@
 
 ### 2.1. Interface Graphique Utilisateur (GUI)
 
-J'ai utilisé JavaScript pour créer une application basée sur le web pour la création et la gestion de commandes. Je récupère les entrées de l'utilisateur à partir de différents éléments de formulaire ci-dessous et les compile dans un format structuré pour l'envoyer sur Discord. 
+J'ai utilisé JavaScript pour la création et la gestion de commandes. Je récupère les entrées de l'utilisateur à partir de différents éléments du formulaire ci-dessous et les compile dans un format structuré pour l'envoyer sur Discord. 
 
 ![[site.png]]
 ![[code 1.png]]
 
-Dans ce code, j'ai utilisé `addEventListener()` pour gérer les actions des utilisateurs telles que cliquer sur le bouton "Suivant" pour poursuivre le processus de création de commande. L'application collecte dynamiquement les données du formulaire, y compris les options sélectionnées, les détails de référence et le type de paiement, entre autres.
+Dans ce code, j'ai utilisé `addEventListener()` pour gérer les actions des utilisateurs telles que cliquer sur le bouton "Suivant" pour poursuivre le processus de création de commande. Le siite collecte dynamiquement les données du formulaire, y compris les options sélectionnées, les détails de référence et le type de paiement, entre autres.
 
 La complexité de l'interface graphique est encore démontrée par l'intégration de services tiers, tels qu'imgbb pour les téléchargements d'images, qui améliorent la capacité de l'utilisateur à fournir des spécifications de commande détaillées. J'ai utilisé la nature asynchrone de JavaScript, associée à l'API fetch, pour faciliter une communication fluide avec des services externes, sans jamais interrompre l'expérience utilisateur.
 ![[code 2.png]]
