@@ -1,12 +1,15 @@
 # Criterion A
 
-### Scenario/Solution
+## Scenario
 
-Mon client est un freelancer professionnel basé aux Philippines. Il opère à l'échelle internationale, collaborant principalement avec les meilleurs développeurs Roblox des États-Unis. L'un des défis majeurs qu'il rencontre dans son travail est le délai de réponse. Cela est principalement dû aux différences de fuseaux horaires entre lui et ses clients. Ce problème a été un obstacle à la fourniture d'un service efficace, ce qui l'a amené à m'engager pour automatiser son site web, dans le but de résoudre ce problème et d'améliorer ses opérations commerciales.
+Mon client, un freelancer professionnel basé aux Philippines, travaille dans un environnement international dynamique, collaborant étroitement avec certains des développeurs Roblox les plus talentueux des États-Unis. Dans le cadre de son activité, il est essentiel pour lui de maintenir une communication fluide et efficace avec ses clients pour comprendre leurs besoins spécifiques et livrer des projets de haute qualité dans les délais convenus. Cependant, un défi majeur se présente sous la forme de la gestion des différences de fuseaux horaires, qui entrave sa capacité à répondre rapidement aux demandes des clients et à ajuster les projets en temps réel. De plus, la nature internationale de son travail exige une organisation et une gestion efficace des commandes et des communications avec les clients. Actuellement, le processus manuel qu'il utilise pour gérer les commandes, les demandes de modifications et les communications sont fastidieux et sujet à des erreurs, ce qui peut conduire à des malentendus ou à des retards dans la livraison
+des projets.
 
-La solution dont nous avons discuté implique la création d'un site web automatisé. Ce site n'est pas seulement un outil qui lui permettra de gagner du temps, mais aussi une plateforme qui lui permettra de toucher davantage de clients grâce à son design attrayant. Le site web servira de portfolio numérique où il pourra présenter son travail. Il permettra également aux clients de passer des commandes en fonction de leurs besoins spécifiques, tels que les icônes, les vignettes, etc. De plus, le site web permettra aux clients de gérer directement leurs commandes. Cette fonction sera accessible à la fois sur le site web et via Discord, offrant flexibilité et commodité aux clients. Le site web comprendra également un système de connexion sécurisé. Ce système lui permettra de mettre à jour son portfolio, d'ajouter de nouvelles offres et même de proposer des réductions à ses clients. Cette solution globale vise à améliorer sa prestation de services et, en fin de compte, à améliorer l'expérience globale du client. En réglant le problème du fuseau horaire et en fournissant une plateforme d'interaction transparente, le site web devrait propulser son nombre de commandes vers de nouveaux sommets.
+## Solution
 
-### Rationale
+
+
+## Justification
 
 J'ai choisi d'utiliser HTML, CSS et JavaScript pour la solution car ces technologies sont indépendantes de la plate-forme, ce qui signifie qu'il n'y aurait aucune restriction quant au type d'appareil utilisé par mon client ou ses clients. De plus, en stylisant le site web, on le rendra plus esthétique et plus simple à utiliser pour mon client et ses clients. J'ai choisi d'utiliser Visual Studio Code comme éditeur de code parce qu'il prend en charge ces technologies de manière native et offre une interface moderne et conviviale.
 
