@@ -15,7 +15,7 @@ J'ai choisi d'utiliser HTML, CSS et JavaScript pour la solution car ces technolo
 
 Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pour présenter son travail et gérer les commandes, mais que pour que ces plateformes offrent la personnalisation et l'accès hors ligne, elle devait passer à un abonnement payant. Elle souhaitait donc disposer d'une alternative appropriée qui réponde à ses besoins et fonctionne hors ligne, d'où la nécessité d'un site web personnalisé. Le site web aidera la cliente à présenter son travail, à gérer les commandes et à proposer des réductions, tout en améliorant l'expérience globale de l'utilisateur.
 
-### Success Criteria
+### Critère de Réussite
 
 1. L'utilisateur peut voir les prix et tous mes travaux sur un seul site web.
 2. Le site est automatisé et lié à un serveur Discord.
