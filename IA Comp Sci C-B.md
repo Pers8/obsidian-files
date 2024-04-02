@@ -38,6 +38,7 @@
 
 ## 2. Diagramme hiérarchique
 
+Ce diagramme illustre comment les différentes pages du site et leurs éléments sont liés.
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/Diagramme hiérarchique-2024-04-01-223718.svg" alt="Home" style="width:1000px;"/>
 </div>
