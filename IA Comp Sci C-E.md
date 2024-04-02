@@ -10,3 +10,5 @@
 | Les commandes peuvent être gérées et créées directement à partir du site web | Oui      | "Les commandes sont très utiles et très faciles à utiliser.                                                                |
 | L'utilisateur peut facilement commander plusieurs articles à la fois.        | Oui      | "Le système de commande permet à mes clients de saisir très facilement plusieurs commandes à la fois (en une seule fois)." |
 
+## 2. Recommandations d'amélioration
+
