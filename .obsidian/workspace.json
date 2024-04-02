@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci C-B.md",
+                "file": "IA Comp Sci ROT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci C-B.md",
+                "file": "IA Comp Sci ROT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci C-B.md"
+                "file": "IA Comp Sci ROT.md"
               }
             }
           },
@@ -245,13 +245,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49221bf19b7b5a99",
+  "active": "f0991a8fa4061a77",
   "lastOpenFiles": [
-    "IA Comp Sci ROT.md",
     "IA Comp Sci C-B.md",
     "IA Comp Sci C-C.md",
-    "Untitled 6.md",
     "IA Comp Sci C-A.md",
+    "IA Comp Sci ROT.md",
+    "Untitled 6.md",
     "IA Math.md",
     "Data Base.canvas",
     "IA Physique.md",

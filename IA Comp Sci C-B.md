@@ -85,12 +85,13 @@ L'organigramme ci-dessous illustre comment les informations de l'utilisateur son
 
 ## 5. Diagramme UML
 
-
+Le diagramme UML ci-dessous illustre ma réflexion sur les différentes classes nécessaires lorsque que la base de donnée sera créé pour le processus de commande.
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/UML Diagram.svg" alt="Home" style="width:1000px;"/>
 </div>
 
-
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 # 6. Plan de Test 
 
 | Critères de succès                                                               | Description du test                                                                                                           | Méthode de test                                                                                                                                           | Résultat attendu                                                                                                                                                          |
@@ -99,3 +100,5 @@ L'organigramme ci-dessous illustre comment les informations de l'utilisateur son
 | 2. Le site est automatisé et lié à un serveur Discord.                           | Tester l'intégration entre le site web et le serveur Discord pour des notifications ou actions automatisées.                  | Effectuer une action sur le site web qui devrait déclencher une notification ou une action sur le serveur Discord (par exemple, soumettre un formulaire). | Le serveur Discord reçoit la notification ou effectue l'action comme prévu, indiquant une intégration réussie.                                                            |
 | 3. Les commandes peuvent être gérées et créées directement à partir du site web. | S'assurer que les utilisateurs peuvent passer des commandes via le site web et que ces commandes sont correctement traitées.  | Passer une commande sur le site web, en remplissant toutes les informations nécessaires et en la soumettant.                                              | La commande est créée avec succès et reflétée dans le système backend ou la base de données, et une confirmation est affichée ou envoyée à l'utilisateur.                 |
 | 4. L'utilisateur peut facilement commander plusieurs articles à la fois.         | Tester la fonctionnalité du site web pour gérer les commandes de plusieurs articles en une seule transaction.                 | Ajouter plusieurs articles à un panier ou à un formulaire de commande sur le site web et soumettre la commande.                                           | Le site web traite correctement la commande, incluant tous les articles. Un résumé ou une confirmation montrant tous les articles commandés est présenté à l'utilisateur. |
+
+**Mots :** 247
