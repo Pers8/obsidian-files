@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "6271cd0f3d14c553",
+            "id": "e92907f5cd393efe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci C-C.md",
+                "file": "IA Comp Sci C-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,12 +56,24 @@
             }
           },
           {
-            "id": "e92907f5cd393efe",
+            "id": "6271cd0f3d14c553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "IA Comp Sci C-C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b803d1381431e843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA Comp Sci C-E.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +259,11 @@
   },
   "active": "e92907f5cd393efe",
   "lastOpenFiles": [
-    "IA Comp Sci C-B.md",
-    "IA Comp Sci ROT.md",
-    "IA Comp Sci C-C.md",
+    "IA Comp Sci C-E.md",
     "IA Comp Sci C-A.md",
+    "IA Comp Sci C-C.md",
+    "IA Comp Sci ROT.md",
+    "IA Comp Sci C-B.md",
     "Untitled 6.md",
     "IA Math.md",
     "Data Base.canvas",
@@ -283,7 +296,6 @@
     "syntax/Obsidian Basic  and Extended Syntax.md",
     "English IA Bullet points.md",
     "English extract homework.md",
-    "English IA Text.md",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
     "assets/Interpretation Ondes stationnaire.docx",

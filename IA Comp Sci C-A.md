@@ -1,6 +1,6 @@
-# Criterion A
+# Critère A
 
-## Scenario
+## Scénario
 
 Mon client, un freelancer professionnel basé aux Philippines, travaille dans un environnement international dynamique, collaborant étroitement avec certains des développeurs Roblox les plus talentueux des États-Unis. Dans le cadre de son activité, il est essentiel pour lui de maintenir une communication fluide et efficace avec ses clients pour comprendre leurs besoins spécifiques et livrer des projets de haute qualité dans les délais convenus. Cependant, un défi majeur se présente sous la forme de la gestion des différences de fuseaux horaires, qui entrave sa capacité à répondre rapidement aux demandes des clients et à ajuster les projets en temps réel. De plus, la nature internationale de son travail exige une organisation et une gestion efficace des commandes et des communications avec les clients. Actuellement, le processus manuel qu'il utilise pour gérer les commandes, les demandes de modifications et les communications sont fastidieux et sujet à des erreurs, ce qui peut conduire à des malentendus ou à des retards dans la livraison
 des projets.
