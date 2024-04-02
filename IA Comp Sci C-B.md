@@ -1,6 +1,7 @@
-# Critère B : Design  ‎
+# Critère B : Design‎
 ## 1. Visualisation graphique
 
+Les images ci-dessus illustrent le design de l'interface que j'avais en tête avant la conception du site web.
 ### 1.1. La page "Home"
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\Comp sci IA img/Home.png" alt="Home" style="width:1000px;"/>
@@ -56,27 +57,34 @@ Ce diagramme met en évidence le flux de données qui circule lorsque l'utilisat
 
 ### 4.1. Processus de commande
 
+Cet organigramme met en évidence le processus lorsque l'utilisateur souhaite créer une commande à travers le site web. Cela décrit les différentes étapes à suivre pour la création de commande.
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/1. Processus de commande-2024-04-01-213617.svg" alt="Home" style="width:500px;"/>
 </div>
 
-### 4.2. Processus de commande
-<div style="text-align: center; margin-top: 20px;">
+### 4.2. Authentification Discord
+
+L'organigramme ci-dessous met en lumière le procédé d'authentification lorsque l'utilisateur clique le bouton "Login". Cela décrit comment l'authentification est effectuée pour récupérer les différentes informations de l'utilisateur afin d'afficher ces informations Discord (photo de profil, pseudonyme et bannière Discord) lorsque la connexion est réussie.<div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/2. Authentification Discord-2024-04-01-213644.svg" alt="Home" style="width:500px;"/>
 </div>
 
-### 4.3. Processus de commande
+### 4.3. Filtre pour le Portfolio
+
+Cet organigramme illustre le procédé lorsque l'utilisateur veut filtrer les différents travaux par type (Miniature, Icône, Passe de jeu, etc.). Cela décrit les étapes que l'utilisateur doit suivre pour filtrer les travaux afin d'afficher seulement le type désiré.
 <div style="text-align: center; margin-top: 20px;">
-    <img src="C:\Users\peres\OneDrive\Images\CS code/3. Filtre pour le Portfolio-2024-04-01-213705.svg" alt="Home" style="width:250px;"/>
+    <img src="C:\Users\peres\OneDrive\Images\CS code/3. Filtre pour le Portfolio-2024-04-01-213705.svg" alt="Home" style="width:230px;"/>
 </div>
 
-### 4.4. Processus de commande
+### 4.4. Récupération et affichage du profil de l'utilisateur
+
+L'organigramme ci-dessous illustre comment les informations de l'utilisateur sont récupérées et ainsi identifie si l'utilisateur est un administrateur ou pas, dans le but de lui ajouter une icône spéciale qui sera juste à côté du nom de l'utilisateur.
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/4. Récupération et affichage du profil de l'utilisateur-2024-04-01-213927.svg" alt="Home" style="width:450px;"/>
 </div>
 
 
 ## 5. Diagramme UML
+
 
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/UML Diagram.svg" alt="Home" style="width:1000px;"/>
