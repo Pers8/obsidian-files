@@ -24,7 +24,7 @@
 | 20  | Affinage basé sur les retours                                  | Apporter des modifications basées sur les tests d'usabilité                                    | 4 heures     | 06/11/2023  | C       |
 | 21  | Implémentation des écrans de chargement                        | Améliorer l'expérience utilisateur pendant les temps de chargement                             | 2 heures     | 11/11/2023  | C       |
 | 22  | Optimisation des performances du site web                      | Réduire les temps de chargement et améliorer l'efficacité                                      | 3 heures     | 16/11/2023  | C       |
-| 23  | Implémentation de la gestion des erreurs                       | Gérer les erreurs de manière élégante                                                          | 3 heures     | 21/11/2023  | C       |
+| 23  | Implémentation de la gestion des erreurs                       | Gérer les erreurs de manière simple et pratique                                                | 3 heures     | 21/11/2023  | C       |
 | 24  | Révision finale du projet avec le superviseur                  | Examiner la complétude et la qualité du projet                                                 | 1 heure      | 26/11/2023  | A       |
 | 25  | Préparation de la documentation du projet                      | Documenter le développement et la conception du projet                                         | 4 heures     | 01/12/2023  | B       |
 | 26  | Démonstration au client et recueil de retours                  | Présenter le produit final au client pour obtenir des retours                                  | 2 heures     | 06/12/2023  | E       |
