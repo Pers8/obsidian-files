@@ -7,18 +7,7 @@ des projets.
 
 ## Solution
 
-Pour répondre aux besoins de mon client, un système de gestion de commandes en ligne personnalisé sera développé. Ce système permettra une communication et une gestion des commandes plus efficaces et automatisées entre le freelancer et ses clients internationaux. Le système offrira les fonctionnalités suivantes :
 
-1. **Gestion des Fuseaux Horaires :** Une fonctionnalité clé sera l'intégration d'un système de gestion des fuseaux horaires, permettant au freelancer de programmer des notifications et des rappels en fonction des fuseaux horaires de ses clients. Cela garantira que les communications et les mises à jour de projet sont envoyées à des moments opportuns pour les deux parties.
-    
-2. **Tableau de Bord des Commandes :** Un tableau de bord interactif où le freelancer peut voir toutes les commandes en cours, y compris les détails du projet, les délais de livraison, et les demandes de modifications. Cela permettra une vue d'ensemble claire de tous les projets en cours et facilitera la priorisation des tâches.
-    
-3. **Système de Communication Intégré :** Un système de messagerie intégré permettra des communications fluides et centralisées avec les clients. Ce système archivera toutes les communications, rendant facile la référence à des conversations antérieures et assurant que rien n'est perdu ou mal interprété.
-    
-4. **Gestion des Modifications et des Révisions :** Une fonctionnalité permettant aux clients de soumettre des demandes de modifications ou de révisions directement via le système. Le freelancer pourra suivre ces demandes, y répondre, et mettre à jour le statut des projets en conséquence.
-    
-
-Ce système sur mesure améliorera significativement l'efficacité et la qualité de la gestion des projets et des communications du freelancer, réduisant les risques d'erreurs et de malentendus, et assurant une livraison de projet en temps et en heure.
 
 ## Justification
 
