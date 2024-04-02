@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci C-C.md",
+                "file": "IA Comp Sci C-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci C-C.md",
+                "file": "IA Comp Sci C-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci C-C.md"
+                "file": "IA Comp Sci C-A.md"
               }
             }
           },
@@ -257,7 +257,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6271cd0f3d14c553",
+  "active": "e92907f5cd393efe",
   "lastOpenFiles": [
     "IA Comp Sci C-E.md",
     "IA Comp Sci C-C.md",
