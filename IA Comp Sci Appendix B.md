@@ -32,3 +32,5 @@ Comme dans l'Annexe A, cette conversation originellement en anglais ont été tr
 **Client :** D'accord, je te ferai savoir si quelque chose me vient à l'esprit. Bonne continuation !
 
 **Moi :** Merci, à très bientôt pour les prochaines étapes !
+
+Témoignages
