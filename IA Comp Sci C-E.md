@@ -12,11 +12,17 @@
 
 ## 2. Recommandations d'amélioration
 
-My client was happy with the final product and agreed that it met his needs, as evidenced by a round-up message review of the project. However, we have nonetheless identified the below features as areas to improve upon:
-- **Low audio quality** : in the WeChat message, this was cited as the (only) main
-frustration. I used the built-in browser 'Web Speech API' for text-to-speech synthesis, and it is quite robotic. An alternative would be to use a more natural sounding, third-party API.
-- **Loading time is long** : opening articles takes ~3s/page, since every word in the article is individually fetched from the database. This makes it frustrating to read longer-form content An alternative approach, where article contents are fetched in chunks (e.g. when clicking on new pages), may mitigate this issue.
-We also discussed a couple of unimplemented possible future features.
-- **More languages could be supported** : Peter is learning Greek, and hopes to
-eventually read in the language as well. Supporting this is reasonably straightfoward (assuming the UI remains in English), since Greek Python NLP libraries exist.
-- **Reading streaks could be added to the homepage**, which Peter mentioned could improve motivation. Peter's daily reading time is already logged by the database, so this would merely involve analyzing and visualizing existing historical data.
+Bien que le client soit satisfait du produit final, il existe des domaines dans lesquels des améliorations pourraient être apportées :
+
+1. **Intégration d'un service client en direct** : Actuellement, le site ne propose pas de service client en direct. Il serait bénéfique d'intégrer une option de chat en direct (dans le coin inférieur droit de l'écran) permettant aux utilisateurs de poser des questions et de recevoir des réponses automatisées par un bot. Cela améliorerait l'engagement des utilisateurs et fournirait une assistance immédiate pour toute question ou problème.
+    
+2. **Optimisation des performances du site** : Le temps de chargement des pages peut être un facteur décisif pour l'engagement des utilisateurs. Il est recommandé d'optimiser les images, de réduire le poids des scripts et d'utiliser des techniques de chargement paresseux (lazy loading) pour les contenus lourds. Cela contribuerait à améliorer la vitesse du site et l'expérience utilisateur globale.
+    
+3. **Amélioration de l'accessibilité** : Pour rendre le site web plus accessible à un plus large éventail d'utilisateurs, y compris ceux ayant des besoins spécifiques, il serait judicieux d'implémenter des fonctionnalités d'accessibilité telles que des options de contraste élevé, la navigation au clavier et des étiquettes ARIA pour les éléments interactifs.
+    
+4. **Responsive Design** : Assurer que le site est entièrement responsive sur tous les appareils et tailles d'écran est crucial. Cela garantit une expérience utilisateur cohérente, que les visiteurs accèdent au site via un ordinateur de bureau, une tablette ou un smartphone.
+    
+5. **Sécurité** : Renforcer la sécurité du site en implémentant des mesures telles que le HTTPS, la protection contre les attaques par injection SQL et les attaques par déni de service (DDoS). Cela aidera à protéger les données des utilisateurs et à renforcer la confiance dans le site.
+    
+
+En mettant en œuvre ces recommandations, le site pourrait offrir une expérience utilisateur améliorée, augmenter l'engagement des visiteurs et renforcer la sécurité des données. Ces améliorations contribueraient à la croissance et au succès à long terme du site web.
