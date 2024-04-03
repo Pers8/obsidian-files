@@ -15,7 +15,7 @@ Comme dans l'Annexe A, cette conversation originellement en anglais ont été tr
 
 **Client :** Oui, j'en ai quelques-uns. Je vous les enverrai plus tard dans la journée. Et concernant la section Portfolio, comment comptes-tu la mettre en place ?
 
-**Moi :** Pour la section Portfolio, je pense utiliser une grille dynamique qui mettra en valeur vos projets de manière élégante. Chaque projet pourra être cliqué pour révéler plus de détails, comme une brève description, le processus de création et peut-être même une étude de cas. Cela sonne-t-il bien pour vous ?
+**Moi :** Pour la section Portfolio, je pense utiliser des flex box pour mieux organiser l'aperçu de vos travaux. Lorsque le curseur de l'utilisateur survole le nom du jeu auquel vous avez contribué, cela . Cela sonne-t-il bien pour vous ?
 
 **Client :** Oui, ça a l'air parfait. Peut-on aussi ajouter une option pour que les visiteurs puissent filtrer les projets par catégorie ?
 
