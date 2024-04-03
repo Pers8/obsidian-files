@@ -109,7 +109,7 @@ J'ai utilisé le package `dotenv` pour charger les variables d'environnement �
 
 Pour la communication entre le client et le serveur, j'utilise le protocole HTTPS (non illustré dans les extraits de code fournis) pour chiffrer les données échangées, protégeant ainsi les informations sensibles des utilisateurs lors de leur transmission sur Internet.
 
-### 3.3. Pensée logique
+### 3.4. Pensée logique
 
 J'ai utilisé SQLite et la pensée logique pour structurer une requête préparée pour insérer une nouvelle commande dans la table `orders`, en utilisant l'identifiant de l'utilisateur et les détails de la commande fournis. L'utilisation de `datetime('now')` pour le champ `orderDate` permet d'enregistrer automatiquement la date et l'heure de la création de la commande, assurant ainsi la traçabilité des commandes.
 ![[code 15.png]]
