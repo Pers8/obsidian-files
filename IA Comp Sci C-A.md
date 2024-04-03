@@ -11,9 +11,9 @@ Mon client m'a exposé ce qu'il souhaitait réaliser : un site web dynamique pou
 
 ## Justification
 
-J'ai choisi d'utiliser HTML, CSS et JavaScript pour la solution car ces technologies sont indépendantes de la plate-forme, ce qui signifie qu'il n'y aurait aucune restriction quant au type d'appareil utilisé par mon client ou ses clients. De plus, en stylisant le site web, on le rendra plus esthétique et plus simple à utiliser pour mon client et ses clients. J'ai choisi d'utiliser Visual Studio Code comme éditeur de code parce qu'il prend en charge ces technologies de manière native et offre une interface moderne et conviviale.
+J'ai décidé d'utiliser JavaScript, Node.js, et des technologies web telles que HTML et CSS pour développer une solution adaptée aux besoins de mon client. Ces technologies ont été choisies pour leur compatibilité avec diverses plateformes, permettant ainsi à l'application d'être accessible à la fois sur des ordinateurs et des appareils mobiles. J'ai utilisé Node.js car cela offre la possibilité de créer une application web performante, capable de gérer des interactions en temps réel et des opérations de base de données complexes.
 
-Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pour présenter son travail et gérer les commandes, mais que pour que ces plateformes offrent la personnalisation et l'accès hors ligne, elle devait passer à un abonnement payant. Elle souhaitait donc disposer d'une alternative appropriée qui réponde à ses besoins et fonctionne hors ligne, d'où la nécessité d'un site web personnalisé. Le site web aidera la cliente à présenter son travail, à gérer les commandes et à proposer des réductions, tout en améliorant l'expérience globale de l'utilisateur.
+Mon client avait exprimé le besoin d'une solution personnalisée qui puisse faciliter la gestion des commandes et améliorer l'interaction avec les utilisateurs finaux. En intégrant des bibliothèques modernes et en optimisant l'expérience utilisateur à travers une interface intuitive, cette application vise à répondre efficacement à ces exigences.
 
 ### Critère de Réussite
 
@@ -21,3 +21,6 @@ Mon client a mentionné qu'elle avait utilisé d'autres plateformes en ligne pou
 2. Le site est automatisé et lié à un serveur Discord.
 3. Les commandes peuvent être gérées et créées directement à partir du site web.
 4. L'utilisateur peut facilement commander plusieurs articles à la fois.
+
+
+**Mots :** 449
