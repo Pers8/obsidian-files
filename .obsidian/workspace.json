@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "cc2d80db5fbf95df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA Comp Sci Appendix B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "49221bf19b7b5a99",
             "type": "leaf",
             "state": {
@@ -107,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci Appendix A.md",
+                "file": "IA Comp Sci Appendix B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci Appendix A.md",
+                "file": "IA Comp Sci Appendix B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci Appendix A.md"
+                "file": "IA Comp Sci Appendix B.md"
               }
             }
           },
@@ -269,10 +281,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d74457d1744dcaa4",
+  "active": "cc2d80db5fbf95df",
   "lastOpenFiles": [
-    "IA Comp Sci C-A.md",
     "IA Comp Sci Appendix A.md",
+    "IA Comp Sci Appendix B.md",
+    "assets/Pasted image 20240403180146.png",
+    "IA Comp Sci C-A.md",
     "IA Comp Sci C-E.md",
     "Comp Sci synthèse pour le DST.md",
     "IA Comp Sci C-B.md",
@@ -302,12 +316,9 @@
     "assets/code 10.png",
     "assets/code 9.png",
     "assets/Pasted image 20240401151311.png",
-    "assets/code 8.png",
     "Excalidraw/Subventions.md",
     "Excalidraw/Impots + tarif.md",
     "Excalidraw/portance et trainée.md",
-    "syntax/Obsidian Basic  and Extended Syntax.md",
-    "English IA Bullet points.md",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
     "assets/Interpretation Ondes stationnaire.docx",
