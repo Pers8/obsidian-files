@@ -21,9 +21,9 @@ Comme dans l'Annexe A, cette conversation originellement en anglais ont été tr
 
 **Moi :** Bien sûr, l'ajout d'un système de filtrage améliorera l'expérience utilisateur en permettant aux visiteurs de trouver facilement ce qu'ils cherchent. Je m'assurerai que les catégories soient clairement définies et faciles à utiliser.
 
-**Client :** Super. Et pour la partie commande, je voudrais quelque chose de simple mais efficace.
+**Client :** Super. Et pour la partie commande, je voudrais quelque chose de simple, mais efficace.
 
-**Moi :** Pour la section commande, je vais créer un formulaire simple qui demandera le type d'icône, des références si possible où l'utilisateur peut ajouter des images, le type de payement et la date limite de la commande. Je peux aussi ajouter vos informations de contact direct, comme votre numéro de téléphone et adresse e-mail professionnelle, ainsi qu'un lien vers vos réseaux sociaux. Cela vous convient-il ?
+**Moi :** Pour la section commande, je vais créer un formulaire simple qui demandera le type d'icône, des références si possible où l'utilisateur peut ajouter des images, le type de payement et la date limite de la commande. Je peux aussi ajouter le lien vers vos réseaux sociaux à l'entête de chaque page. Cela vous convient-il ?
 
 **Client :** Oui, c'est parfait. Merci beaucoup pour ton travail et ton implication.
 
