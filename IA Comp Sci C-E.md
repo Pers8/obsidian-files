@@ -18,7 +18,7 @@ Bien que le client soit satisfait du produit final, il existe des domaines dans 
     
 2. **Optimisation des performances du site** : Le temps de chargement des pages prend beaucoup de temps à cause du contenu lourd, ce qui peut grandement influencer l'engagement des utilisateurs. Une des solutions que le client a proposées est d'optimiser les images, de réduire le poids des scripts et d'utiliser des techniques de chargement paresseux (lazy loading) pour les contenus lourds. Cela contribuerait à améliorer la vitesse du site et l'expérience utilisateur globale.
     
-3. **Amélioration de l'accessibilité** : Pour rendre le site web plus accessible à un plus large éventail d'utilisateurs, y compris ceux ayant des besoins spécifiques, il serait judicieux d'implémenter des fonctionnalités d'accessibilité telles que des options de contraste élevé, la navigation au clavier et des étiquettes ARIA pour les éléments interactifs.
+3. **Amélioration de l'accessibilité** : Pour rendre le site web plus accessible à un plus large groupe d'utilisateurs, y compris ceux ayant des besoins spécifiques, il serait judicieux d'implémenter des fonctionnalités d'accessibilité telles que des options de contraste élevé, la navigation au clavier et des étiquettes ARIA pour les éléments interactifs.
     
 5. **Sécurité** : Le site n'est pas totalement immunisé contre des attaques et les données ne sont pas entièrement sous protection. Renforcer la sécurité du site en implémentant des mesures telles que le HTTPS, la protection contre les attaques par injection SQL et les attaques par déni de service (DDoS). Cela aidera à protéger les données des utilisateurs et à renforcer la confiance dans le site.
 
