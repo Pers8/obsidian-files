@@ -33,4 +33,7 @@ Comme dans l'Annexe A, cette conversation originellement en anglais ont été tr
 
 **Moi :** Merci, à très bientôt pour les prochaines étapes !
 
-Témoignages
+<br>
+**Témoignages des services du client :**
+<br>
+![[Pasted image 20240403185729.png]]
