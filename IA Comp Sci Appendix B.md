@@ -37,6 +37,8 @@ Comme dans l'Annexe A, cette conversation originellement en anglais ont été tr
 **Témoignages des services du client :**
 <br>
 ![[Pasted image 20240403185729.png]]
-**Traduction :** 
+**Traduction :** "J'ai commandé une icône pour mon jeu Type and Die et je l'ai reçue le lendemain. C'est bien mieux que ce que j'avais avant. Après avoir mis à jour l'icône, j'ai remarqué une augmentation immédiate du nombre de joueurs. Je le recommande et j'utiliserai à nouveau ce service."
 <br> 
 ![[Pasted image 20240403190159.png]]
+**Traduction :** 10/10 livraison rapide, très bonne qualité et j'ai adoré la rapidité de l'ensemble du processus ! Merci mec ! 
+MarcoDev, Animal Evolution Simulator, 30M+ de Visites
