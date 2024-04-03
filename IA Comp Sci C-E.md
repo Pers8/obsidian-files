@@ -22,4 +22,4 @@ Bien que le client soit satisfait du produit final, il existe des domaines dans 
     
 5. **Sécurité** : Le site n'est pas totalement immunisé contre des attaques et les données ne sont pas entièrement sous protection. Renforcer la sécurité du site en implémentant des mesures telles que le HTTPS, la protection contre les attaques par injection SQL et les attaques par déni de service (DDoS). Cela aidera à protéger les données des utilisateurs et à renforcer la confiance dans le site.
 
-**Mots :** 
+**Mots :** 360
