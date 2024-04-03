@@ -15,15 +15,15 @@ Comme dans l'Annexe A, cette conversation originellement en anglais ont été tr
 
 **Client :** Oui, j'en ai quelques-uns. Je vous les enverrai plus tard dans la journée. Et concernant la section Portfolio, comment comptes-tu la mettre en place ?
 
-**Moi :** Pour la section Portfolio, je pense utiliser des flex box pour mieux organiser l'aperçu de vos travaux. Lorsque le curseur de l'utilisateur survole le nom du jeu auquel vous avez contribué, cela . Cela sonne-t-il bien pour vous ?
+**Moi :** Pour la section Portfolio, je pense utiliser des flex box pour mieux organiser l'aperçu de vos travaux. Lorsque le curseur de l'utilisateur survole le nom du jeu auquel vous avez contribué, le lien du jeu auquel vous avez contribué s'affiche. Cela sonne-t-il bien pour vous ?
 
-**Client :** Oui, ça a l'air parfait. Peut-on aussi ajouter une option pour que les visiteurs puissent filtrer les projets par catégorie ?
+**Client :** Oui, ça a l'air parfait. Peut-on aussi ajouter une option pour que les visiteurs puissent filtrer mes travaux par catégorie ?
 
 **Moi :** Bien sûr, l'ajout d'un système de filtrage améliorera l'expérience utilisateur en permettant aux visiteurs de trouver facilement ce qu'ils cherchent. Je m'assurerai que les catégories soient clairement définies et faciles à utiliser.
 
-**Client :** Super. Et pour la partie contact, je voudrais quelque chose de simple mais efficace.
+**Client :** Super. Et pour la partie commande, je voudrais quelque chose de simple mais efficace.
 
-**Moi :** Pour la section contact, je vais créer un formulaire simple qui demandera le nom, l'email, et permettra au visiteur de laisser un message. Je peux aussi ajouter vos informations de contact direct, comme votre numéro de téléphone et adresse e-mail professionnelle, ainsi qu'un lien vers vos réseaux sociaux. Cela vous convient-il ?
+**Moi :** Pour la section commande, je vais créer un formulaire simple qui demandera le type d'icône, des références si possible où l'utilisateur peut ajouter des images, le type de payement et la date limite de la commande. Je peux aussi ajouter vos informations de contact direct, comme votre numéro de téléphone et adresse e-mail professionnelle, ainsi qu'un lien vers vos réseaux sociaux. Cela vous convient-il ?
 
 **Client :** Oui, c'est parfait. Merci beaucoup pour ton travail et ton implication.
 
