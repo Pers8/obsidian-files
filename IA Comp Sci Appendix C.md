@@ -1,6 +1,6 @@
 # Annexe C
 
-*Cette conversation s'est déroulée quelques mois après notre rencontre et a été résumé, car parlions d'autre chose qui n'est pas lié au problème de mon client. Comme les autres annexes, cette conversation originellement en anglais a été traduit et ont été réalisés sur Discord.*
+*Cette conversation s'est déroulée quelques mois après notre rencontre et a été résumé, car parlions d'autre chose qui n'est pas lié au problème de mon client. Comme les autres annexes, cette conversation originellement en anglais a été traduit et a été réalisé sur Discord.*
 
 **Troisième rencontre avec le client quelques mois après :**
 

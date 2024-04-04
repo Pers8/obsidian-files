@@ -2,7 +2,7 @@
 
 *Cette conversation s'est déroulée après que le site a été terminé. Je lui ai demandé d'évaluer mon site et la traduction de cette évaluation se trouve dans le **Critère E**. Il a donné son opinion et comme avec les autres critères, cette conversation originellement en anglais a été traduit et a été réalisé via Discord.*
 
-**Moi :** Bonjour ! Je suis ravi de vous présenter aujourd'hui les fonctionnalités de notre site web maintenant qu'il est entièrement terminé. Avant de commencer, j'aimerais vous demander si vous seriez disposé à remplir un formulaire pour évaluer le site et partager vos recommandations après cette démonstration. Cela nous serait extrêmement utile pour apporter des améliorations futures.
+**Moi :** Bonjour ! Je suis ravi de vous présenter aujourd'hui les fonctionnalités de votre site web maintenant qu'il est entièrement terminé. Avant de commencer, j'aimerais vous demander si vous seriez disposé à remplir un formulaire pour évaluer le site et partager vos recommandations après cette démonstration. Cela nous serait extrêmement utile pour apporter des améliorations futures.
 
 **Client :** Bonjour ! Oui, bien sûr, je serais heureux de donner mon avis. Où puis-je trouver ce formulaire ?
 
@@ -10,7 +10,7 @@
 
 **Moi :** D'accord, ça me semble bien. Je le remplirai dès que je le recevrai. Y a-t-il quelque chose de spécifique que vous aimeriez que je regarde pendant la démonstration ?
 
-**Moi :** Si vous pouviez particulièrement prêter attention à l'ergonomie du site et à la fluidité du site en général.
+**Moi :** Si vous pouviez particulièrement prêter attention à l'ergonomie et à la fluidité du site en général.
 
 **Client :** Bien sûr, je ferai attention à ces aspects. Je suis impatient de voir ce que vous avez créé.
 
@@ -20,7 +20,7 @@
 
 **Moi :** J'espère que cela vous a donné un bon aperçu de ce que votre site a à offrir. Le lien vers le formulaire Google vous a été envoyé par e-mail. N'hésitez pas à prendre votre temps pour le remplir.
 
-**Client :** Merci pour cette démonstration complète, le site parais incroyable. Je vais jeter un œil au formulaire et le remplir avec mes commentaires. 
+**Client :** Merci pour cette démonstration complète, le site parait incroyable. Je vais jeter un œil au formulaire et le remplir avec mes commentaires. 
 
 **Moi :** Nous vous remercions sincèrement de prendre le temps de nous fournir vos commentaires. Votre avis est très précieux pour nous. Si vous avez d'autres questions ou si vous avez besoin de plus d'informations, n'hésitez pas à me contacter. Merci encore et bonne journée !
 

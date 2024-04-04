@@ -1,6 +1,6 @@
 # Annexe A
 
-*Le client et moi avions parlé en anglais, cette conservations qui ont été réalisées sur Discord ont toutes été traduites.* 
+*Le client et moi avions parlé en anglais, cette conservation qui a été réalisé sur Discord a été traduit.* 
 
 **Première rencontre avec le client :**
 

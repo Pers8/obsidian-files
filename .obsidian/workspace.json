@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci C-E.md",
+                "file": "IA Comp Sci Appendix E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci C-E.md",
+                "file": "IA Comp Sci Appendix E.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci C-E.md"
+                "file": "IA Comp Sci Appendix E.md"
               }
             }
           },
@@ -310,20 +310,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b803d1381431e843",
+  "active": "493b0bd9df8a700d",
   "lastOpenFiles": [
+    "IA Comp Sci Appendix C.md",
+    "IA Comp Sci Appendix B.md",
+    "IA Comp Sci Appendix A.md",
+    "IA Comp Sci C-E.md",
     "IA Comp Sci C-A.md",
     "IA Comp Sci Appendix E.md",
-    "IA Comp Sci C-E.md",
     "IA Comp Sci C-C.md",
     "IA Comp Sci ROT.md",
-    "IA Comp Sci Appendix C.md",
     "IA Comp Sci C-B.md",
-    "IA Comp Sci Appendix A.md",
     "assets/Pasted image 20240404153635.png",
     "assets/Pasted image 20240404153611.png",
     "assets/Pasted image 20240404153552.png",
-    "IA Comp Sci Appendix B.md",
     "assets/Pasted image 20240404135049.png",
     "Comp Sci synthèse pour le DST.md",
     "Untitled 7.md",
