@@ -1,6 +1,6 @@
 # Annexe B
 
-*Comme dans l'Annexe A, cette conversation originellement en anglais ont été traduites.* 
+*Comme dans l'Annexe A, cette conversation originellement en anglais a été traduit.* 
 
 **Deuxième rencontre avec le client quelques jours après :**
 
