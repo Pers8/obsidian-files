@@ -40,6 +40,7 @@ Les images ci-dessus illustrent le design de l'interface que j'avais en tête av
 ## 2. Diagramme hiérarchique
 
 Ce diagramme illustre comment les différentes pages du site et leurs éléments sont liés.
+
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/Diagramme hiérarchique-2024-04-01-223718.svg" alt="Home" style="width:1000px;"/>
 </div>
@@ -48,6 +49,7 @@ Ce diagramme illustre comment les différentes pages du site et leurs éléments
 ## 3. Diagramme de flux de données
 
 Ce diagramme met en évidence le flux de données qui circule lorsque l'utilisateur interagi avec les différentes pages de mon site. Je l'ai montré avec à mon client pour qu'il ait une idée du fonctionnement interne de mon site web.
+
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/Diagramme de flux de données-2024-04-01-224353.svg" alt="Home" style="width:500px;"/>
 </div>
@@ -58,6 +60,7 @@ Ce diagramme met en évidence le flux de données qui circule lorsque l'utilisat
 ### 4.1. Processus de commande
 
 Cet organigramme met en évidence le processus lorsque l'utilisateur souhaite créer une commande à travers le site web. Cela décrit les différentes étapes à suivre pour la création de commande.
+
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/1. Processus de commande-2024-04-02-093626.svg" alt="Home" style="width:500px;"/>
 </div>
@@ -73,6 +76,7 @@ L'organigramme ci-dessous met en lumière le procédé d'authentification lorsqu
 ### 4.3. Filtre pour le Portfolio
 
 Cet organigramme illustre le procédé lorsque l'utilisateur veut filtrer les différents travaux par type (Miniature, Icône, Passe de jeu, etc.). Cela décrit les étapes que l'utilisateur doit suivre pour filtrer les travaux afin d'afficher seulement le type désiré.
+
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/3. Filtre pour le Portfolio-2024-04-01-213705.svg" alt="Home" style="width:230px;"/>
 </div>
@@ -80,6 +84,7 @@ Cet organigramme illustre le procédé lorsque l'utilisateur veut filtrer les di
 ### 4.4. Récupération et affichage du profil de l'utilisateur
 
 L'organigramme ci-dessous illustre comment les informations de l'utilisateur sont récupérées et ainsi identifie si l'utilisateur est un administrateur ou pas, dans le but de lui ajouter une icône spéciale qui sera juste à côté du nom de l'utilisateur.
+
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/4. Récupération et affichage du profil de l'utilisateur-2024-04-01-213927.svg" alt="Home" style="width:450px;"/>
 </div>
@@ -89,43 +94,9 @@ L'organigramme ci-dessous illustre comment les informations de l'utilisateur son
 
 Le diagramme Entité-Relation ci-dessous illustre ma réflexion sur les différentes connexions entre les tables lorsque que la base de donnée sera créé pour le processus de commande. `PK` fait référence à la clé primaire et `FK` la clé étrangère. Référez au dictionnaire de données pour une description des tables.
 
-```mermaid
-erDiagram
-
-    USERS {
-
-        string userId PK "Clé Primaire"
-
-    }
-
-    CHANNELS {
-
-        string channelId PK "Clé Primaire"
-
-    }
-
-    ORDERS {
-
-        int id PK "Clé Primaire"
-
-        string userId FK "Clé Étrangère"
-
-        string channelId FK "Clé Étrangère"
-
-        string orderDetails
-
-        string status
-
-        string orderDate
-
-    }
-
-  
-
-    USERS ||--o{ ORDERS : ""
-
-    CHANNELS ||--o{ ORDERS : ""
-```
+<div style="text-align: center; margin-top: 20px;">
+    <img src="C:\Users\peres\OneDrive\Images\CS code/ERD.svg" alt="Home" style="width:500px;"/>
+</div>
 
 # 6. Dictionnaire de données
 
@@ -160,7 +131,6 @@ La table `orders` contient des détails sur les commandes passées par les uti
 | `status`       | TEXT            | DÉFAUT 'Pending'                            | Statut actuel de la commande             |
 | `orderDate`    | TEXT            |                                             | Date à laquelle la commande a été passée |
 
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 # 7. Plan de Test 
 
 | Critères de succès | Description du test                                                                                                           | Méthode de test                                                                                                                                           | Résultat attendu                                                                                                                                                          |

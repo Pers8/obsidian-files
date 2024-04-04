@@ -3,14 +3,14 @@
 | N°  | Action Prévue                                                  | Résultat Attendu                                                                               | Temps Estimé | Date de Fin | Critère |
 | --- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------ | ----------- | ------- |
 | 1   | Premier contact avec mon client                                | Comprendre les besoins et attentes du client                                                   | 1 heure      | 23/08/2023  | A       |
-| 2   | Réunion avec mon superviseur                                   | Obtenir des insights et orientations pour le projet                                            | 30 minutes   | 25/08/2023  | A       |
+| 2   | Réunion avec mon superviseur                                   | Obtenir des perspectives et orientations pour le projet                                        | 30 minutes   | 25/08/2023  | A       |
 | 3   | Recherche sur les solutions existantes                         | Identifier des fonctionnalités et technologies potentielles                                    | 2 heures     | 27/08/2023  | A       |
 | 4   | Ébauche du plan initial du projet                              | Définir le périmètre et le calendrier du projet                                                | 1 heure      | 29/08/2023  | A       |
 | 5   | Conception basique de l'interface utilisateur                  | Créer un design de base pour l'approbation du client                                           | 3 heures     | 02/09/2023  | B       |
 | 6   | Développement du système de connexion                          | Implémenter et tester la fonctionnalité de connexion                                           | 4 heures     | 07/09/2023  | C       |
 | 7   | Intégration de l'authentification Discord OAuth                | Permettre l'authentification Discord                                                           | 3 heures     | 10/09/2023  | C       |
 | 8   | Conception du schéma de base de données                        | Planifier la structure de la base de données pour la gestion des utilisateurs et des commandes | 2 heures     | 13/09/2023  | B       |
-| 9   | Développement des interactions avec la base de données         | Implémenter les opérations CRUD pour les commandes                                             | 5 heures     | 18/09/2023  | C       |
+| 9   | Développement des interactions avec la base de données         | Implémenter les opérations CLMS pour les commandes                                             | 5 heures     | 18/09/2023  | C       |
 | 10  | Implémentation de la fonctionnalité de téléversement d'images  | Permettre aux utilisateurs de téléverser des images de référence                               | 4 heures     | 23/09/2023  | C       |
 | 11  | Création de l'interface utilisateur du formulaire de commande  | Concevoir et implémenter le formulaire de commande                                             | 3 heures     | 28/09/2023  | B       |
 | 12  | Implémentation de la logique de soumission de commande         | Activer la création et la validation de commande                                               | 4 heures     | 03/10/2023  | C       |
