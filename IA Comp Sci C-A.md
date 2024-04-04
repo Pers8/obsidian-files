@@ -16,10 +16,10 @@ Mon client avait exprimé le besoin d'une solution personnalisée qui puisse fac
 
 ### Critère de Réussite
 
-1. L'utilisateur peut voir les prix et tous mes travaux sur un seul site web.
+1. L'utilisateur peut voir les prix et tous les travaux de mon client sur un seul site web.
 2. Le site est automatisé et lié à un serveur Discord.
 3. Les commandes peuvent être gérées et créées directement à partir du site web.
 4. L'utilisateur peut facilement commander plusieurs articles à la fois.
 
 
-**Mots :** 449
+**Mots :** 445

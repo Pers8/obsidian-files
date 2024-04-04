@@ -12,7 +12,7 @@ Les images ci-dessus illustrent le design de l'interface que j'avais en tête av
     <img src="C:\Users\peres\OneDrive\Images\Comp sci IA img/Portfolio.png" alt="Home" style="width:1000px;"/>
 </div>
 
-### 1.3. La page "Orders"
+### 1.3. La page "Order"
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\Comp sci IA img/Order 1.png" alt="Home" style="width:1000px;"/>
 </div>
