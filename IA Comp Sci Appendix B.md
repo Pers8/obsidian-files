@@ -1,6 +1,6 @@
 # Annexe B
 
-*Comme dans l'Annexe A, cette conversation originellement en anglais a été traduit.* 
+*Comme dans l'Annexe A, cette conversation originellement en anglais a été traduit et ont été réalisés sur Discord.* 
 
 **Deuxième rencontre avec le client quelques jours après :**
 

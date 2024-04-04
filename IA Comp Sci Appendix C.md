@@ -1,10 +1,13 @@
 # Annexe C
 
-*Cette conversation s'est déroulée quelques mois après notre rencontre et a été résumé, car parlions d'autre chose qui n'est pas lié au problème de mon client. Comme les autres annexes, cette conversation originellement en anglais a été traduit.*
+*Cette conversation s'est déroulée quelques mois après notre rencontre et a été résumé, car parlions d'autre chose qui n'est pas lié au problème de mon client. Comme les autres annexes, cette conversation originellement en anglais a été traduit et ont été réalisés sur Discord.*
 
 **Troisième rencontre avec le client quelques mois après :**
 
 **Moi :** Salut ! Je voulais te montrer un aperçu de votre site web sur lequel je travaille. Il est encore en cours de développement, mais je suis assez fier du résultat jusqu'à présent.
+
+![[Pasted image 20240404135049.png]]
+<p style="text-alignment : center;"><i><center>Capture d'écran de moi présentant les avancés du site de mon client lors de la conversation</center></i></p>
 
 **Client :** Wow, c'est impressionnant ! J'aime beaucoup le design et la fluidité. As-tu effectué des tests pour t'assurer qu'il n'y a pas de bugs ?
 
