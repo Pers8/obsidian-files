@@ -96,41 +96,41 @@ Vous trouverez ci-dessous toutes les informations sur les tables individuelles q
 
 #### Table `users`
 
-This table contains information about users. Each record represents a unique user identified by a `userId`. This is the primary key of the table.
+Cette table contient des informations sur les utilisateurs. Chaque enregistrement représente un utilisateur unique identifié par un `userId`. C'est la clé primaire de la table.
 
-|Field Name|Data Type|Constraints|Description|
-|---|---|---|---|
-|`userId`|TEXT|PRIMARY KEY|Unique identifier for users|
+| Nom du champ | Type de données | Contraintes  | Description                                |
+| ------------ | --------------- | ------------ | ------------------------------------------ |
+| `userId`     | TEXT            | CLÉ PRIMAIRE | Identifiant unique pour chaque utilisateur |
 
 #### Table `channels`
 
-This table stores information about channels. Each record is uniquely identified by a `channelId`, which serves as the primary key.
+Cette table stocke des informations sur les chaines Discord. Chaque enregistrement est identifié de manière unique par un `channelId`, qui sert de clé primaire.
 
-|Field Name|Data Type|Constraints|Description|
-|---|---|---|---|
-|`channelId`|TEXT|PRIMARY KEY|Unique identifier for channels|
+| Nom du champ | Type de données | Contraintes  | Description                         |
+| ------------ | --------------- | ------------ | ----------------------------------- |
+| `channelId`  | TEXT            | CLÉ PRIMAIRE | Identifiant unique pour les chaines |
 
 #### Table `orders`
 
-The `orders` table holds details about orders placed by users. It includes a unique `id` for each order, `userId` to link to the `users` table, `channelId` to link to the `channels` table, `orderDetails` containing specifics about the order, `status` indicating the current state of the order (with a default value of 'Pending'), and `orderDate` marking when the order was made.
+La table `orders` contient des détails sur les commandes passées par les utilisateurs. Elle inclut un `id` unique pour chaque commande, `userId` pour lier à la table `users`, `channelId` pour lier à la table `channels`, `orderDetails` contenant les spécificités de la commande, `status` indiquant l'état actuel de la commande (avec une valeur par défaut de 'Pending'), et `orderDate` marquant quand la commande a été faite.
 
-| Field Name     | Data Type | Constraints                                | Description                                |
-| -------------- | --------- | ------------------------------------------ | ------------------------------------------ |
-| `id`           | INTEGER   | PRIMARY KEY AUTOINCREMENT                  | Unique identifier for orders               |
-| `userId`       | TEXT      | FOREIGN KEY REFERENCES users(userId)       | Identifier linking to the `users` table    |
-| `channelId`    | TEXT      | FOREIGN KEY REFERENCES channels(channelId) | Identifier linking to the `channels` table |
-| `orderDetails` | TEXT      |                                            | Details of the order                       |
-| `status`       | TEXT      | DEFAULT 'Pending'                          | Current status of the order                |
-| `orderDate`    | TEXT      |                                            | Date when the order was placed             |
+| Nom du champ   | Type de données | Contraintes                                 | Description                              |
+| -------------- | --------------- | ------------------------------------------- | ---------------------------------------- |
+| `id`           | INTEGER         | CLÉ PRIMAIRE AUTOINCREMENT                  | Identifiant unique pour les commandes    |
+| `userId`       | TEXT            | CLÉ ÉTRANGÈRE RÉFÉRENCE users(userId)       | Identifiant liant à la table `users`     |
+| `channelId`    | TEXT            | CLÉ ÉTRANGÈRE RÉFÉRENCE channels(channelId) | Identifiant liant à la table `channels`  |
+| `orderDetails` | TEXT            |                                             | Détails de la commande                   |
+| `status`       | TEXT            | DÉFAUT 'Pending'                            | Statut actuel de la commande             |
+| `orderDate`    | TEXT            |                                             | Date à laquelle la commande a été passée |
 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 # 7. Plan de Test 
 
-| Critères de succès                                                               | Description du test                                                                                                           | Méthode de test                                                                                                                                           | Résultat attendu                                                                                                                                                          |
-| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. L'utilisateur peut voir les prix et tous mes travaux sur un seul site web.    | Vérifier que le site web affiche tous les services disponibles avec leurs prix et présente le portfolio des travaux réalisés. | Naviguer sur le site web jusqu'aux sections affichant les prix et les travaux passés.                                                                     | Tous les services proposés sont listés avec une tarification claire. La section portfolio affiche tous les travaux antérieurs.                                            |
-| 2. Le site est automatisé et lié à un serveur Discord.                           | Tester l'intégration entre le site web et le serveur Discord pour des notifications ou actions automatisées.                  | Effectuer une action sur le site web qui devrait déclencher une notification ou une action sur le serveur Discord (par exemple, soumettre un formulaire). | Le serveur Discord reçoit la notification ou effectue l'action comme prévu, indiquant une intégration réussie.                                                            |
-| 3. Les commandes peuvent être gérées et créées directement à partir du site web. | S'assurer que les utilisateurs peuvent passer des commandes via le site web et que ces commandes sont correctement traitées.  | Passer une commande sur le site web, en remplissant toutes les informations nécessaires et en la soumettant.                                              | La commande est créée avec succès et reflétée dans le système backend ou la base de données, et une confirmation est affichée ou envoyée à l'utilisateur.                 |
-| 4. L'utilisateur peut facilement commander plusieurs articles à la fois.         | Tester la fonctionnalité du site web pour gérer les commandes de plusieurs articles en une seule transaction.                 | Ajouter plusieurs articles à un panier ou à un formulaire de commande sur le site web et soumettre la commande.                                           | Le site web traite correctement la commande, incluant tous les articles. Un résumé ou une confirmation montrant tous les articles commandés est présenté à l'utilisateur. |
+| Critères de succès | Description du test                                                                                                           | Méthode de test                                                                                                                                           | Résultat attendu                                                                                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                  | Vérifier que le site web affiche tous les services disponibles avec leurs prix et présente le portfolio des travaux réalisés. | Naviguer sur le site web jusqu'aux sections affichant les prix et les travaux passés.                                                                     | Tous les services proposés sont listés avec une tarification claire. La section portfolio affiche tous les travaux antérieurs.                                            |
+| 2                  | Tester l'intégration entre le site web et le serveur Discord pour des notifications ou actions automatisées.                  | Effectuer une action sur le site web qui devrait déclencher une notification ou une action sur le serveur Discord (par exemple, soumettre un formulaire). | Le serveur Discord reçoit la notification ou effectue l'action comme prévu, indiquant une intégration réussie.                                                            |
+| 3                  | S'assurer que les utilisateurs peuvent passer des commandes via le site web et que ces commandes sont correctement traitées.  | Passer une commande sur le site web, en remplissant toutes les informations nécessaires et en la soumettant.                                              | La commande est créée avec succès et reflétée dans le système backend ou la base de données, et une confirmation est affichée ou envoyée à l'utilisateur.                 |
+| 4                  | Tester la fonctionnalité du site web pour gérer les commandes de plusieurs articles en une seule transaction.                 | Ajouter plusieurs articles à un panier ou à un formulaire de commande sur le site web et soumettre la commande.                                           | Le site web traite correctement la commande, incluant tous les articles. Un résumé ou une confirmation montrant tous les articles commandés est présenté à l'utilisateur. |
 
 **Mots :** 247
