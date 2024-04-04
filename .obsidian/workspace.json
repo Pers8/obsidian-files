@@ -123,9 +123,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 248.29960280254227,
-                  "y": 1348.9724791230465,
-                  "zoom": -0.6948290265941548
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci C-B.md",
+                "file": "IA Comp Sci Appendix A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci C-B.md",
+                "file": "IA Comp Sci Appendix A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci C-B.md"
+                "file": "IA Comp Sci Appendix A.md"
               }
             }
           },
@@ -278,7 +278,7 @@
             }
           },
           {
-            "id": "f6ebc1a9dd95e181",
+            "id": "ecce182a83005279",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -290,7 +290,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,7 +310,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "49221bf19b7b5a99",
+  "active": "ecce182a83005279",
   "lastOpenFiles": [
     "IA Comp Sci ROT.md",
     "IA Comp Sci C-A.md",
