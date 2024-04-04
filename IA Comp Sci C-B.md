@@ -64,7 +64,9 @@ Cet organigramme met en évidence le processus lorsque l'utilisateur souhaite cr
 
 ### 4.2. Authentification Discord
 
-L'organigramme ci-dessous met en lumière le procédé d'authentification lorsque l'utilisateur clique le bouton "Login". Cela décrit comment l'authentification est effectuée pour récupérer les différentes informations de l'utilisateur afin d'afficher ces informations Discord (photo de profil, pseudonyme et bannière Discord) lorsque la connexion est réussie.<div style="text-align: center; margin-top: 20px;">
+L'organigramme ci-dessous met en lumière le procédé d'authentification lorsque l'utilisateur clique le bouton "Login". Cela décrit comment l'authentification est effectuée pour récupérer les différentes informations de l'utilisateur afin d'afficher ces informations Discord (photo de profil, pseudonyme et bannière Discord) lorsque la connexion est réussie.
+
+<div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/2. Authentification Discord-2024-04-01-213644.svg" alt="Home" style="width:500px;"/>
 </div>
 
@@ -85,7 +87,7 @@ L'organigramme ci-dessous illustre comment les informations de l'utilisateur son
 
 ## 5. Diagramme Entité-Relation
 
-Le diagramme Entité-Relation ci-dessous illustre ma réflexion sur les différentes connexions entre les tables lorsque que la base de donnée sera créé pour le processus de commande. `PK` fait référence à la clé primaire et `FK` la clé étrangère. Référez au dictionnaire de données pour une description des tables
+Le diagramme Entité-Relation ci-dessous illustre ma réflexion sur les différentes connexions entre les tables lorsque que la base de donnée sera créé pour le processus de commande. `PK` fait référence à la clé primaire et `FK` la clé étrangère. Référez au dictionnaire de données pour une description des tables.
 
 ```mermaid
 erDiagram
@@ -168,4 +170,4 @@ La table `orders` contient des détails sur les commandes passées par les uti
 | 3                  | S'assurer que les utilisateurs peuvent passer des commandes via le site web et que ces commandes sont correctement traitées.  | Passer une commande sur le site web, en remplissant toutes les informations nécessaires et en la soumettant.                                              | La commande est créée avec succès et reflétée dans le système backend ou la base de données, et une confirmation est affichée ou envoyée à l'utilisateur.                 |
 | 4                  | Tester la fonctionnalité du site web pour gérer les commandes de plusieurs articles en une seule transaction.                 | Ajouter plusieurs articles à un panier ou à un formulaire de commande sur le site web et soumettre la commande.                                           | Le site web traite correctement la commande, incluant tous les articles. Un résumé ou une confirmation montrant tous les articles commandés est présenté à l'utilisateur. |
 
-**Mots :** 247
+**Mots :** 388
