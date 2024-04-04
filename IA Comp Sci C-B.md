@@ -83,31 +83,32 @@ L'organigramme ci-dessous illustre comment les informations de l'utilisateur son
 </div>
 
 
-## 5. Diagramme UML
+## 5. Diagramme Entité-Relation
 
-Le diagramme UML ci-dessous illustre ma réflexion sur les différentes classes nécessaires lorsque que la base de donnée sera créé pour le processus de commande.
+Le diagramme Entité-Relation ci-dessous illustre ma réflexion sur les différentes connexions entre les tables lorsque que la base de donnée sera créé pour le processus de commande. `PK` fait référence à la clé primaire et `FK` la clé étrangère. Référez au dictionnaire de données pour une description des tables
+
 ```mermaid
 erDiagram
 
     USERS {
 
-        string userId PK "Primary Key"
+        string userId PK "Clé Primaire"
 
     }
 
     CHANNELS {
 
-        string channelId PK "Primary Key"
+        string channelId PK "Clé Primaire"
 
     }
 
     ORDERS {
 
-        int id PK "Primary Key"
+        int id PK "Clé Primaire"
 
-        string userId FK "Foreign Key"
+        string userId FK "Clé Étrangère"
 
-        string channelId FK "Foreign Key"
+        string channelId FK "Clé Étrangère"
 
         string orderDetails
 
@@ -123,9 +124,6 @@ erDiagram
 
     CHANNELS ||--o{ ORDERS : ""
 ```
-<div style="text-align: center; margin-top: 20px;">
-    <img src="C:\Users\peres\OneDrive\Images\CS code/UML Diagram.svg" alt="Home" style="width:1000px;"/>
-</div>
 
 # 6. Dictionnaire de données
 
