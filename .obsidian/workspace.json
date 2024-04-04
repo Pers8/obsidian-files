@@ -129,6 +129,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "0106009c949cd181",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -268,14 +276,21 @@
               "type": "ava.write.sidebar",
               "state": {}
             }
+          },
+          {
+            "id": "f6ebc1a9dd95e181",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,14 +305,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "49221bf19b7b5a99",
   "lastOpenFiles": [
+    "IA Comp Sci ROT.md",
     "IA Comp Sci C-A.md",
-    "IA Comp Sci C-E.md",
     "IA Comp Sci C-B.md",
+    "IA Comp Sci C-E.md",
     "IA Comp Sci Appendix E.md",
     "assets/Pasted image 20240404153635.png",
     "assets/Pasted image 20240404153611.png",
@@ -307,7 +324,6 @@
     "assets/Pasted image 20240404135049.png",
     "IA Comp Sci Appendix A.md",
     "Comp Sci synthèse pour le DST.md",
-    "IA Comp Sci ROT.md",
     "IA Comp Sci C-C.md",
     "Untitled 7.md",
     "assets/Pasted image 20240403192100.png",

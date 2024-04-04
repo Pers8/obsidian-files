@@ -37,6 +37,52 @@ Les images ci-dessus illustrent le design de l'interface que j'avais en tête av
     <img src="C:\Users\peres\OneDrive\Images\Comp sci IA img/Cartoony GFX Course.png" alt="Home" style="width:1000px;"/>
 </div>
 
+
+```mermaid
+graph TD;
+
+    A([Début]) --> B[/"Cliquer le boutton 'Order Here'"/];
+
+    B --> C[/"Afficher les options de service : Icons, Thumbnails, Gamepasses"/];
+
+    C --> D{"L'utilisateur sélectionne une option de service"};
+
+    D -->|Icons| E["Demander les détails de Icon"];
+
+    D -->|Thumbnails| F["Demander les détails de Thumbnail"];
+
+    D -->|Gamepasses| G["Demander les détails de Gamepass"];
+
+    E --> H{"Tous les détails fournis pour Icons?"};
+
+    F --> I{"Tous les détails fournis pour Thumbnails?"};
+
+    G --> J{"Tous les détails fournis pour for Gamepasses?"};
+
+    H -->|Non| E;
+
+    I -->|Non| F;
+
+    J -->|Non| G;
+
+    H -->|Oui| K["Résumer la commande pour révision - Icons"];
+
+    I -->|Oui| L["Résumer la commande pour révision - Thumbnails"];
+
+    J -->|Oui| M["Résumer la commande pour révision - Gamepasses"];
+
+    K --> N{"Confirmer la commande?"};
+
+    L --> N;
+
+    M --> N;
+
+    N -->|Non| C;
+
+    N -->|Oui| O[("Soumettre la commande au serveur/base de données")];
+
+    O --> P[/"Montrer les détails de la commande sur Discord"/];
+```
 ## 2. Diagramme hiérarchique
 
 Ce diagramme illustre comment les différentes pages du site et leurs éléments sont liés.
