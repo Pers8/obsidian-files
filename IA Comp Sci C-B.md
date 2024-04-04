@@ -86,6 +86,43 @@ L'organigramme ci-dessous illustre comment les informations de l'utilisateur son
 ## 5. Diagramme UML
 
 Le diagramme UML ci-dessous illustre ma réflexion sur les différentes classes nécessaires lorsque que la base de donnée sera créé pour le processus de commande.
+```mermaid
+erDiagram
+
+    USERS {
+
+        string userId PK "Primary Key"
+
+    }
+
+    CHANNELS {
+
+        string channelId PK "Primary Key"
+
+    }
+
+    ORDERS {
+
+        int id PK "Primary Key"
+
+        string userId FK "Foreign Key"
+
+        string channelId FK "Foreign Key"
+
+        string orderDetails
+
+        string status
+
+        string orderDate
+
+    }
+
+  
+
+    USERS ||--o{ ORDERS : ""
+
+    CHANNELS ||--o{ ORDERS : ""
+```
 <div style="text-align: center; margin-top: 20px;">
     <img src="C:\Users\peres\OneDrive\Images\CS code/UML Diagram.svg" alt="Home" style="width:1000px;"/>
 </div>
