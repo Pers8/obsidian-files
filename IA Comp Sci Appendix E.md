@@ -35,3 +35,8 @@
 
 ![[Pasted image 20240404153635.png]]
 
+
+| First name | Last name |
+| ---------- | --------- |
+| Max        | Planck    |
+| Marie      | Curie     |
