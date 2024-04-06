@@ -27,11 +27,23 @@ $$
 2. [[Lois des sinus et cosinus]]
 3. [[Cercle trigonométrique]]
 4. [[Identités trigonométriques]]
+5. [[Vecteurs]]
 
 # Theme 4: Statistique et Probabilité
 
 1. [[Probabilité discrètes]]
 2. [[Distribution discrètes]]
 3. [[Distribution binomiale]]
+4. [[Distribution normale]]
+5. [[Statistiques I]]
+6. [[Fonction de densité de probabilité]]
+
+# Theme 5: Etude du fonction
+1. [[Dérivation]]
+2. [[Intégration]]
+3. [[Cinématique]]
+4. [[Equations différentielles]]
+5. [[Série Maclaurin]]
+6. [[Règle de l'Hôpital]]
 
 

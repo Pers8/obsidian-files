@@ -47,5 +47,6 @@ Pour $\cos(2a)$, les 3 formules sont:
 - $\tan(2a)=$::$\frac{2\tan a}{1-\tan^{2}a}$
 <!--SR:!2023-11-15,17,186-->
 
-## Formules d'addition(2)
+## Autres
+- $\cos(\arcsin x)=\sin(\arccos x)=$::$\sqrt{1-x^{2}}$
 

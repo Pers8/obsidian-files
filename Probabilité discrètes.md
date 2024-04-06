@@ -82,3 +82,7 @@ $P(A\cap B')$=::$P(A)-P(A\cap B)$
 
 $P(A \le X \le B)$ =::$P(X \le A) - P(X \le B-1)$
 <!--SR:!2023-11-06,4,247-->
+
+Arbre de probabilité conditionnelle avec $P(A)$ et $P(B)$:
+?
+![[Pasted image 20240406085242.png]]

@@ -10,3 +10,6 @@ tags: [math]
 
 - Aire d'un triangle avec sinus=::$$\Large{\text{aire}=\frac{1}{2}bc\sin A}$$
 <!--SR:!2023-11-24,26,190-->
+
+
+- $\cos A=$::$\frac{b^{2}+c^{2}-a^{2}}{2bc}$

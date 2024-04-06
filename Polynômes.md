@@ -57,3 +57,10 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera:$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
 - La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
 - Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$
+- La somme de toutes les pairs de racines est égale à::$$\sum r_{i}r_{j}=-\frac{a_{n-2}}{a_{n}}$$
+- La somme de toutes les triplets de racines est égale à::$$\sum r_{i}r_{j}r_{k}=-\frac{a_{n-3}}{a_{n}}$$
+
+
+## Formules
+- $x^{3}-1$=::$(x-1)(x^{2}+x+1)$
+- $x^{3}+1$=::$(x+1)(x^{2}-x+1)$
