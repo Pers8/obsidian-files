@@ -36,38 +36,3 @@
 ![[Pasted image 20240404153635.png]]
 
 
-| Year | Cameroon population |
-| ---- | ------------------- |
-| 2007 | 18,73 millions      |
-| 2008 | 19,25 millions      |
-| 2009 | 19,79 millions      |
-| 2010 | 20,34 millions      |
-| 2011 | 20,91 millions      |
-| 2012 | 21,49 millions      |
-| 2013 | 22,08 millions      |
-| 2014 | 22,68 millions      |
-| 2015 | 23,01 millions      |
-| 2016 | 23,71 millions      |
-| 2017 | 24,39 millions      |
-| 2018 | 25,08 millions      |
-| 2019 | 25,78 millions      |
-| 2020 | 26,49 millions      |
-| 2021 | 27,20 millions      |
-| 2022 | 27,91 millions      |
-
-18,73
-19,25
-19,79
-20,34
-20,91
-21,49
-22,08
-22,68
-23,01
-23,71
-24,39
-25,08 
-25,78 
-26,49 
-27,20 
-27,91 
