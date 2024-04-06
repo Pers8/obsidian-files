@@ -76,6 +76,9 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ![[Pasted image 20230712084000.png]]
 <!--SR:!2024-03-13,136,290-->
 
+Argument d'une multiplication/division de deux nombre complexes, argument d'un conjuguée, et argument d'un complexe divisé par un conjugué:  
+?
+![[Pasted image 20240406083911.png]]
 ## Forme polaire
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
@@ -99,14 +102,3 @@ $e^{i\pi}$=::$-1$
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
-
-
-
-
-Pour montrer que $( p = \omega )$ ou $( p = \omega^* )$ en utilisant le résultat de 2.c, nous allons utiliser le fait que $( |p| = 1 )$ et que $( 1 + p = -q )$.
-
-Nous savons que $( \omega )$ et $( \omega^* )$ sont les seuls nombres complexes tels que leur module est égal à 1 et que leur partie réelle est $( -\frac{1}{2} )$. Puisque $( |p| = 1 )$, $( p )$ doit être sur le cercle unité dans le plan complexe. De plus, comme $( 1 + p = -q )$ et $( |q| = 1 )$, $( q )$ doit aussi être sur le cercle unité et $( q )$ est l’opposé de $( 1 + p )$.
-
-Le seul point sur le cercle unité qui a une partie réelle de $( -\frac{1}{2} )$ est $( \omega )$, et son opposé (qui est aussi sur le cercle unité) est $( \omega^* )$. Donc, $( p )$ doit être égal à $( \omega )$ ou $( \omega^* )$, car ce sont les seuls points qui satisfont à la fois $( |p| = 1 )$ et la partie réelle $( -\frac{1}{2} )$.
-
-En conclusion, en utilisant le résultat de 2.c, nous pouvons affirmer que $( p = \omega )$ ou $( p = \omega^* )$.
