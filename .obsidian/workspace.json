@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Polynômes.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Polynômes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres complexes.md",
+                "file": "Polynômes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres complexes.md"
+                "file": "Polynômes.md"
               }
             }
           },
@@ -220,8 +220,14 @@
   },
   "active": "0106009c949cd181",
   "lastOpenFiles": [
-    "assets/Pasted image 20240406083911.png",
     "IB/Maths.md",
+    "Position relative parabole et droite.md",
+    "Formules de Viète.md",
+    "Etude graphique des fonctions quadratiques.md",
+    "Fonctions quadratiques.md",
+    "Permutations et combinations.md",
+    "Nombres complexes.md",
+    "assets/Pasted image 20240406083911.png",
     "Théorème Binomial.md",
     "Séries et Séquences.md",
     "Logarithmes.md",
@@ -245,18 +251,12 @@
     "assets/Pasted image 20240403190159.png",
     "assets/Pasted image 20240403185729.png",
     "assets/Pasted image 20240403185606.png",
-    "assets/Pasted image 20240403180146.png",
     "Untitled 6.md",
     "IA Math.md",
     "Data Base.canvas",
     "IA Physique.md",
     "TOK ESSAY.md",
     "Exo informatique SQL.md",
-    "Economie mondiale Article.md",
-    "Exo Francais 19 03 24.md",
-    "Français B HL Paper 2.md",
-    "Eco TD2.md",
-    "Extended Essai.md",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
     "assets/Interpretation Ondes stationnaire.docx",

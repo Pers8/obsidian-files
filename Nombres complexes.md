@@ -102,3 +102,7 @@ $e^{i\pi}$=::$-1$
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
+
+
+## Fresnel formule complexe
+$a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$

@@ -14,6 +14,7 @@ $$
 2. [[Séries et Séquences]]
 3. [[Théorème Binomial]]
 4. [[Nombres complexes]]
+5. [[Permutations et combinations]]
 
 # Theme 2: Fonctions
 1. [[Fonctions quadratiques]]
