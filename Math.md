@@ -12,10 +12,10 @@ $U(t)_R$, $I$ et $R$ sont lié par la relation suivante :
 $$
 U(t)_R=RI
 $$
-Dans l'équation \ref{eq:7.1}, $U_0$ correspond à l'amplitude de la tension. En termes de nombres complexes, nous pouvons exprimer la tension et le courant sous forme de phasors. Un phasor est une représentation complexe d'une grandeur sinusoïdale, où l'amplitude et la phase sont codées dans un nombre complexe. Dans ce cas pour un circuit avec résistance, les phasors associés à la tension d'équation \ref{eq:5.1} et au courant d'équation :
-$$\begin{equation}
-    \hat{I}(t) = \frac{U_0}{R}e^{j\omega t}
-\end{equation}$$
+
+En utilisant la boucle unique montrée ci-dessus, nous avons :
+$$U(t) = U(t)_R$$
+Donc sachant que $U(t)_R=$
 Ces équations démontrent que dans le domaine des complexe, la tension et le courant sont directement proportionnels l'un à l'autre et ont la même phase ($e^{j\omega t}$) ce qui est une autre manière d'exprimer qu'ils sont en phase.
 
 \begin{figure}[H]
