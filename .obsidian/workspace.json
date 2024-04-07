@@ -27,9 +27,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 248.29960280254227,
+                  "y": 1348.9724791230465,
+                  "zoom": -0.6948290265941548
                 }
               }
             }
@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f1df464531044be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IB/Physics.md"
+                "file": "Math.md"
               }
             }
           },
@@ -218,10 +230,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0106009c949cd181",
+  "active": "6f1df464531044be",
   "lastOpenFiles": [
-    "Physics/Le modèle atomique de Rutherford.md",
+    "Math.md",
     "IB/Physics.md",
+    "Physics/Le modèle atomique de Rutherford.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/📝Dashboard.md",
     "Fibres optiques.md",
@@ -255,7 +268,6 @@
     "Dérivation.md",
     "Fonction de densité de probabilité.md",
     "Statistiques I.md",
-    "Distribution normale.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
