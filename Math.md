@@ -15,7 +15,12 @@ $$
 
 En utilisant la boucle unique montrée ci-dessus, nous avons :
 $$U(t) = U(t)_R$$
-Donc sachant que $U(t)_R=$
+Donc sachant que $U(t)_R=U_0 \cos(\omega t)=\Re e(U_0e^{j\omega t})$, en combinant avec l'équation *u=ri*, on obtient :
+$$
+RI = \Re e(U_0e^{j\omega t})
+$$
+Soit 
+
 Ces équations démontrent que dans le domaine des complexe, la tension et le courant sont directement proportionnels l'un à l'autre et ont la même phase ($e^{j\omega t}$) ce qui est une autre manière d'exprimer qu'ils sont en phase.
 
 \begin{figure}[H]
