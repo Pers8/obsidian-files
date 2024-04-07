@@ -8,7 +8,7 @@
 \end{figure}
 Comme nous pouvons le voir dans la Figure \ref{fig3} qui est un circuit purement résistif, la résistance $R$ joue un rôle très important voir central dans la relation entre le courant $I(t)$ et la tension $U(t)$.  Dans le cadre de l'alternance de tension et de courant en courant alternatif où la tension et le courant varient de manière sinusoïdale, la résistance impose que la tension et le courant soient en phase, ce qui signifie qu'ils atteignent leurs valeurs maximales et zéro simultanément.
 
-Mathématiquement pour une tension d'équation \ref{eq:5.2}, le courant dans un circuit résistif est donnée par :
+Mathématiquement pour une tension d'équation \ref{eq:5.2}, :
 $$\begin{equation}
     I(t) = \frac{U(t)}{R}=\frac{U_0}{R}\cos(\omega t)
     \label{eq:7.1}
