@@ -19,9 +19,16 @@ Donc sachant que $U(t)_R=U_0 \cos(\omega t)=\Re e(U_0e^{j\omega t})$, en combina
 $$
 RI = \Re e(U_0e^{j\omega t})
 $$
-Soit 
+Soit $U_R = U_0e^{j\omega t}$ et en réécrivant l'équation (en haut) comme suit :
+$$
+RI = \Re e U_R
+$$
+Sachant que $R$ est une quantité réelle, nous pouvons réécrire ce qui précède sous cette forme :
+$$
+I= \Re e(\frac{U_R}{R})
+$$
 
-Ces équations démontrent que dans le domaine des complexe, la tension et le courant sont directement proportionnels l'un à l'autre et ont la même phase ($e^{j\omega t}$) ce qui est une autre manière d'exprimer qu'ils sont en phase.
+Ces équations démontrent que dans le domaine des complexes, la tension et le courant sont directement proportionnels l'un à l'autre et ont la même phase ($e^{j\omega t}$) ce qui est une autre manière d'exprimer qu'ils sont en phase.
 
 \begin{figure}[H]
 \centering
