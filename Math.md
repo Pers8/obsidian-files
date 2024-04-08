@@ -27,7 +27,11 @@ Sachant que $R$ est une quantité réelle, nous pouvons réécrire ce qui préc�
 $$
 I= \Re e(\frac{U_R}{R})
 $$
-
+Nous pouvons ainsi définir l'impédance de la résistance comme
+$$Z_R=R$$
+Sachant que $R$ est un nombre réel, $Z_R$ l'ai aussi et donc nous pouvons réécrire $I$ comme suit :
+$$I=\Re e\left(\frac{U_R}{Z_R}\right)$$
+$$I=\frac{U_R}{Z_R}$$
 Ces équations démontrent que dans le domaine des complexes, la tension et le courant sont directement proportionnels l'un à l'autre et ont la même phase ($e^{j\omega t}$) ce qui est une autre manière d'exprimer qu'ils sont en phase.
 
 \begin{figure}[H]
