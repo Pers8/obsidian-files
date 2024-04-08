@@ -32,6 +32,7 @@ $$Z_R=R$$
 Sachant que $R$ est un nombre réel, $Z_R$ l'ai aussi et donc nous pouvons réécrire $I$ comme suit :
 $$I=\Re e\left(\frac{U_R}{Z_R}\right)$$
 $$I=\frac{U_R}{Z_R}$$
+Ce qui précède donne une relation similaire à la loi d'Ohm dans les circuits à courant continu. La relation ci-dessus entre les grandeurs complexes $I$, $U_R$ et $R$ facilite grandement les calculs.
 Ces équations démontrent que dans le domaine des complexes, la tension et le courant sont directement proportionnels l'un à l'autre et ont la même phase ($e^{j\omega t}$) ce qui est une autre manière d'exprimer qu'ils sont en phase.
 
 \begin{figure}[H]
