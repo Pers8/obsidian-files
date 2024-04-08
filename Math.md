@@ -49,3 +49,5 @@ Ces équations démontrent que dans le domaine des complexes, la tension et le c
 \label{fig5}
 \end{figure}
 Sur le diagramme de phasor comme illustré par la Figure \ref{fig5}, les vecteurs de tension et de courant pour un circuit résistif se superposeraient, indiquant qu'il n'y a pas de déphasage entre eux. La Figure \ref{fig4} montre comment la tension et le courant atteignent leurs valeurs extrêmes en même temps et traversent zéro ensemble.
+
+
