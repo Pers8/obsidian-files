@@ -45,7 +45,13 @@ L'argument de $Z$ peut être noté comme suit :
 \end{equation}
 Nous pouvons réécrire $Z$ en utilisant la forme d'Euler évoqué antérieurement et cela donne :
 $$\begin{equation}
-    Z=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
+    \begin{split}
+        Z= |Z|e^{j\phi}
+    \end{split}
+\end{equation}$$
+Nous avons ainsi :
+$$\begin{equation}
+    Z = \sqrt{R^2+\left(\omega L-\frac{1}{\omega C}\right)^2}\hspace{2mm}e^{\hspace{0.5mm}j\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)}
 \end{equation}$$
 
 
