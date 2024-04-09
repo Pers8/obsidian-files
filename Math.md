@@ -43,4 +43,10 @@ L'argument de $Z$ peut être noté comme suit :
 \begin{equation}
     \phi=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
 \end{equation}
+Nous pouvons réécrire $Z$ en utilisant la forme d'Euler évoqué antérieurement et cela donne :
+$$\begin{equation}
+    Z=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
+\end{equation}$$
+
+
 Notez que le module et l'argument de l'impédance $Z$ dépendent tous deux de la fréquence de la tension de la source. Cette propriété est utile dans la conception de filtres et a de nombreuses autres applications dans les circuits électroniques.
