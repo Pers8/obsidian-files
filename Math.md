@@ -17,7 +17,7 @@ $$\begin{equation}
 \end{equation}$$
 Ainsi, nous pouvons exprimer le module de $Z$ du nombre complexe comme suit :
 $$\begin{equation}
-    |Z| =\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)}
+    |Z| =\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)^2}
 \end{equation}$$
 L'argument sera notée comme suit :
 $$\begin{equation}
@@ -31,8 +31,20 @@ $$\begin{equation}
     \end{split}
 \end{equation}$$
 Nous pouvons ainsi écrire l'impédance équivalente $Z$ sous la forme exponentielle :
-
-
+$$\begin{equation}
+    \begin{split}
+        \frac{1}{Z}= |Z|e^{j\phi}\\
+	\\
+        Z=\frac{1}{|Z|}e^{-j\phi}      
+    \end{split}
+\end{equation}$$
+En remplaçant les valeurs, nous avons ainsi :
+$$\begin{equation}
+    \begin{split}
+        Z=\frac{1}{\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)^2}}e^{-j\arctan\left(R\omega C-\frac{R}{\omega L}\right)}\\ 
+        Z=\frac{1}{\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)^2}}e^{j\arctan\left(-R\omega C+\frac{R}{\omega L}\right)}     
+    \end{split}
+\end{equation}$$
 
 
 
