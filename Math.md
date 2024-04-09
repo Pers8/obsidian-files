@@ -51,7 +51,7 @@ $$\begin{equation}
 Notez que le module et l'argument de l'impédance $Z$ dépendent tous deux de la fréquence de la tension de la source. Cette propriété est utile dans la conception de filtres et a de nombreuses autres applications dans les circuits électroniques.
 Nous pouvons noter la forme polaire comme suit :
 $$\begin{equation}
-    \theta=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
+    Z=|Z| $ \angle $ $ \theta
 \end{equation}$$
 
 
