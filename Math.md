@@ -1,42 +1,37 @@
-Comme nous pouvons le voir dans la Figure \ref{fig7}, l'inductance dans un circuit joue un rôle clé dans la manière dont le circuit réagit au courant alternatif. Celle-ci, souvent désignée par le symbole $L$, est la propriété qui détermine la tension induite due à un changement du flux de courant.
+\begin{figure}[H]
+\centering
+\includegraphics[width=60mm]{Series-RLC-Circuit-Analysis-Example-Problems-660x330.jpg}
+\caption{Un circuit CA RLC en série\cite{rlc}}
+\label{fig9}
+\end{figure}
+Pour analyser un circuit CA RLC en série, nous considérons la combinaison de la résistance $R$, de l'inductance $L$ et du condensateur $C$ connectées en série avec une source de tension alternative $U(t)$ illustré dans la Figure \ref{fig9}. 
 \\
-La relation qui régit le courant $I$ et la tension $U(t)_L$ aux bornes de l'inducteur d'inductance $L$ est donnée par la loi de Faraday qui stipule que la tension induite dans un inducteur est proportionnelle au taux de changement du courant qui le traverse :
-$$\begin{equation}
-    U(t)_L=L\frac{dI}{dt}
-\end{equation}$$
-En utilisant la boucle unique montrée ci-dessus, nous avons :
-$$\begin{equation}
-    U(t)=U(t)_L
-\end{equation}$$
-En se basant de l'équation \label{eq:5.2}, on peut réécrire l'équation (haut) et cela donne :
-$$\begin{equation}
-    \Re e\left(U_0e^{j\omega t}\right)=L\frac{dI}{dt}
-\end{equation}$$
-Prenons l'intégrale des deux membres :
-$$\begin{equation}
-    \intop{\Re e\left(U_0e^{j\omega t}\right)dt}=\intop{L\frac{dI}{dt}dt}
-\end{equation}$$
-$$\begin{equation}
-    \Re e\intop{U_0e^{j\omega t}dt}=\intop{L\frac{dI}{dt}dt}
-\end{equation}$$
-Calculons les intégrales des deux côtés :
-$$\begin{equation}
-    \Re e\left(\frac{1}{j\omega}U_0e^{j\omega t}\right)= LI
-\end{equation}$$
-Sachant que l'inductance $L$ est une quantité réel, nous obtenons :
-$$\begin{equation}
-    I=\Re e\left(\frac{1}{j\omega L}U_0e^{j\omega t}\right)
-\end{equation}$$
-Soit $U_L = U_0e^{j\omega t}$ et $Z_L$ pouvant être définie comme l'impédance d'un inducteur tel que :
-$$\begin{equation}
-    Z_L=j\omega L
-\end{equation}$$
-Comme $L$ est réel, l'impédance $Z_L$ est un imaginaire pur. Nous pouvons le courant $I$ comme suit :
-$$\begin{equation}
-    I=\Re e\left(\frac{V_L}{Z_L}\right)
-\end{equation}$$
-Ainsi, nous avons :
-$$\begin{equation}
-    I=\Re e\left(\frac{V_L}{Z_L}\right)
-\end{equation}$$
-Ce qui précède donne une relation similaire à la loi d'Ohm entre les quantités complexes $I$, $V_L$ et $Z_L$.
+Pour trouver le courant $I(t)$ dans le circuit, nous devons d'abord établir l'équation différentielle qui régit le système. En appliquant la loi des mailles de Kirchhoff\footnote{La loi des mailles de Kirchhoff stipule que la somme des différences de potentiel (tensions) autour d'une boucle fermée doit être nulle}, nous obtenons :
+\begin{equation}
+    iR + L\frac{di}{dt}+\frac{q}{C} = U(t)
+\end{equation}
+En exprimant la charge $q$ en termes de courant $i$ (puisque $q=\int idt$) et en considérant une source de tension sinusoïdale d'équation \ref{eq:5.2}, l'équation ci-dessus peut être réécrite en prenant la dérivée de la charge par rapport au temps pour obtenir le courant :
+\begin{equation}
+    iR + L\frac{di}{dt}+\frac{1}{C}\int{idt}=U_0\cos(\omega t)
+\end{equation}
+La solution de cette équation différentielle donne le courant en fonction du temps. Pour résoudre cette équation en utilisant des méthodes analytiques, nous pouvons utiliser des méthodes de nombres complexes en exprimant la tension et le courant sous forme de phasors. Ainsi, en prenant la notation phasorielle et en utilisant la forme d'Euler, nous pouvons transformer l'équation différentielle en une équation algébrique :
+\begin{equation}
+    \hat{U}(t)=\hat{I}(t)Z\footnotemark
+\end{equation}
+\footnotetext{$Z$ est l'impédance totale du circuit donnée par $Z= R+j\omega L - \frac{j}{\omega C}$}
+L'impédance totale $Z$ est une quantité complexe qui combine les effets de $R$, $L$, et $C$. La résistance $R$ ajoute une composante réelle à l'impédance, tandis que $L$ et $C$ contribuent aux composantes imaginaires. La partie imaginaire positive est due à l'inducteur, et la partie imaginaire négative est due au condensateur. La résolution de l'impédance complexe fournit la grandeur et la phase de l'impédance :
+\begin{equation}
+    |Z| = \sqrt{R^2+(\omega L - \frac{1}{\omega C})^2}
+\end{equation}
+\begin{equation}
+    \tan^{-1}\left(\frac{\omega L - \frac{1}{\omega C}}{R}\right) = \gamma
+    \label{eq:10.5}
+\end{equation}
+Dans l'équation \ref{eq:10.5}, $\gamma$ est l'angle de phase de l'impédance. Le courant phasor dans le circuit est obtenu en divisant le phasor de tension par l'impédance complexe :
+\begin{equation}
+    \hat{I}(t) = \frac{\hat{U}(t)}{Z}
+\end{equation}
+Ceci nous donne l'amplitude et la phase du courant dans le circuit. Pour déterminer le courant instantané, nous prenons la partie réelle du phasor de courant :
+\begin{equation}
+    I(t) = Re\left(\frac{U_0}{|Z|}e^{j(\omega t + \gamma)}\right)
+\end{equation}
