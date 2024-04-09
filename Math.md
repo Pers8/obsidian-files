@@ -30,6 +30,7 @@ $$\begin{equation}
         
     \end{split}
 \end{equation}$$
+Nous pouvons ainsi écrire l'impédance équivalente $Z$ sous la forme exponentielle :
 
 
 
