@@ -5,7 +5,7 @@
 \caption{Un circuit avec capacité\cite{capacite}}
 \label{fig6}
 \end{figure}
-Comme nous pouvons le voir dans la Figure \ref{fig6} qui est un circuit avec capacité, son comportement est déterminé par la capacité $C$ qui est la capacité du circuit à stocker l'énergie sous forme de champ électrique. Lorsqu'il est soumis à une tension alternative, un condensateur présente une réactance capacitive qui s'oppose à la variation du courant provoquant un déphasage entre la tension et le courant.
+Comme nous pouvons le voir dans la Figure \ref{fig6} qui est un circuit avec condensateur, son comportement est déterminé par le condensateur $C$ qui est le condensateur du circuit à stocker l'énergie sous forme de champ électrique. Lorsqu'il est soumis à une tension alternative, un condensateur présente une réactance capacitive qui s'oppose à la variation du courant provoquant un déphasage entre la tension et le courant.
 \\
 Pour un courant alternatif, la relation entre la tension $U(t)_C$ à travers un condensateur et le courant $I$ qui le traverse est donnée par la relation suivante :
 $$\begin{equation}
@@ -47,29 +47,3 @@ $$\begin{equation}
      I = \frac{U_C}{Z_C}
 \end{equation}$$
 Ce principe est similaire à la loi d'Ohm dans les circuits à courant continu. Cette relation facilite grandement les calculs dans le sens où nous effectuons des calculs en utilisant des impédances, des tensions et des courants complexes, puis nous prenons la partie réelle comme réponse finale comme avec la résistance et l'inductance que nous allons voir tout de suite.
-
-
-Si on applique une tension sinusoïdale d'équation \ref{eq:5.2} à un condensateur, la dérivée temporelle de cette tension sera la suivante :
-$$\begin{equation}
-    \frac{dU}{dt} = -U_0\omega\sin(\omega t)
-\end{equation}$$
-Le courant dans le circuit qui est la charge accumulée par unité de temps dans le condensateur devient :
-\begin{equation}
-    I(t) = -CU_0\omega\sin(\omega t)
-\end{equation}
-On peut réécrire le courant comme une fonction sinusoïdale décalée de $\frac{\pi}{2}$ radians par rapport à la tension, signifiant que le courant précède la tension :
-$$\begin{equation}
-    I(t) = CU_0\omega\cos(\omega t + \frac{\pi}{2})
-\end{equation}$$
-En utilisant les nombres complexes pour représenter ce courant alternatif, nous introduisons le phasor du courant $\hat{I}(t)$ :
-\begin{equation}
-    \hat{I}(t) = j\omega CU_0e^{j\omega t}
-\end{equation}
-La présence du terme $j$ indique une avance de phase de $\frac{\pi}{2}$ par rapport à la tension appliquée. La réactance capacitive $X_C$ peut être définie comme l'inverse du produit de la fréquence angulaire et la capacité :
-\begin{equation}
-    X_C = \frac{1}{\omega C}
-\end{equation}
-La loi d'Ohm pour un circuit contenant uniquement un condensateur s'écrit ainsi :
-\begin{equation}
-    \hat{U}(t) = \hat{I}(t)X_C=j\hat{I}(t)\frac{1}{\omega C}
-\end{equation}
