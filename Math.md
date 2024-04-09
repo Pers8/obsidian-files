@@ -38,7 +38,15 @@ Soit $U_C = U_0 e^{j\omega t}$ et définissons $Z_C$ comme l'impédance complexe
 $$\begin{equation}
      Z_C = \frac{1}{j\omega C}=-\frac{j}{\omega C}
 \end{equation}$$
-Sachant que $C$ est réel, l'impédance $Z_C$ du condensateur est un nombre imaginaire pur.
+Sachant que $C$ est réel, l'impédance $Z_C$ du condensateur est un nombre imaginaire pur. Ainsi, $I$ peut être écrit comme suit :
+$$\begin{equation}
+     I = \Re e\left(\frac{U_C}{Z_C}\right)
+\end{equation}$$
+Nous avons ainsi :
+$$\begin{equation}
+     I = \frac{U_C}{Z_C}
+\end{equation}$$
+Ce principe est similaire à la loi d'Ohm dans les circuits à courant continu. Cette relation facilite grandement les calculs dans le sens où nous effectuons des calculs en utilisant des impédances, des tensions et des courants complexes, puis nous prenons la partie réelle comme réponse finale comme avec la résistance et l'inductance que nous allons voir tout de suite.
 
 
 Si on applique une tension sinusoïdale d'équation \ref{eq:5.2} à un condensateur, la dérivée temporelle de cette tension sera la suivante :
