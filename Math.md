@@ -35,6 +35,7 @@ $$\begin{equation}
 
 
 
+
 En exprimant la charge $q$ en termes de courant $i$ (puisque $q=\int idt$) et en considérant une source de tension sinusoïdale d'équation \ref{eq:5.2}, l'équation ci-dessus peut être réécrite en prenant la dérivée de la charge par rapport au temps pour obtenir le courant :
 \begin{equation}
     iR + L\frac{di}{dt}+\frac{1}{C}\int{idt}=U_0\cos(\omega t)
