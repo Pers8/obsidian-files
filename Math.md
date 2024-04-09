@@ -15,7 +15,11 @@ $$\begin{equation}
 \end{equation}$$
 Le 
 
+The plane �Π has the Cartesian equation x+y+3z=5. The line �L has the vector
 
+equation �=(23−1)+�(−11�),�,�∈�r=⎝⎛​23−1​⎠⎞​+λ⎝⎛​−11p​⎠⎞​,λ,p∈R. The acute angle between the line �L and
+
+the plane �Π is 60°60°. Find the possible values of �p.
 
 
 
