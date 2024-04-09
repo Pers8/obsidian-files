@@ -29,7 +29,15 @@ $$\begin{equation}
 \end{equation}$$
 Soit $U_L = U_0e^{j\omega t}$ et $Z_L$ pouvant être définie comme l'impédance d'un inducteur tel que :
 $$\begin{equation}
-    I=\Re e\left(\frac{1}{j\omega L}U_0e^{j\omega t}\right)
+    Z_L=j\omega L
+\end{equation}$$
+Comme $L$ est réel, l'impédance $Z_L$ est un imaginaire pur. Nous pouvons le courant $I$ comme suit :
+$$\begin{equation}
+    I=\Re e\left(\frac{V_L}{Z_L}\right)
+\end{equation}$$
+Ainsi, nous avons :
+$$\begin{equation}
+    I=\Re e\left(\frac{V_L}{Z_L}\right)
 \end{equation}$$
 
 
