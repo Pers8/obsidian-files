@@ -54,29 +54,3 @@ $$\begin{equation}
     Z=|Z| \hspace{1mm} \angle \hspace{1mm} \theta
 \end{equation}$$
 
-
-En exprimant la charge $q$ en termes de courant $i$ (puisque $q=\int idt$) et en considérant une source de tension sinusoïdale d'équation \ref{eq:5.2}, l'équation ci-dessus peut être réécrite en prenant la dérivée de la charge par rapport au temps pour obtenir le courant :
-\begin{equation}
-    iR + L\frac{di}{dt}+\frac{1}{C}\int{idt}=U_0\cos(\omega t)
-\end{equation}
-La solution de cette équation différentielle donne le courant en fonction du temps. Pour résoudre cette équation en utilisant des méthodes analytiques, nous pouvons utiliser des méthodes de nombres complexes en exprimant la tension et le courant sous forme de phasors. Ainsi, en prenant la notation phasorielle et en utilisant la forme d'Euler, nous pouvons transformer l'équation différentielle en une équation algébrique :
-\begin{equation}
-    \hat{U}(t)=\hat{I}(t)Z\footnotemark
-\end{equation}
-\footnotetext{$Z$ est l'impédance totale du circuit donnée par $Z= R+j\omega L - \frac{j}{\omega C}$}
-L'impédance totale $Z$ est une quantité complexe qui combine les effets de $R$, $L$, et $C$. La résistance $R$ ajoute une composante réelle à l'impédance, tandis que $L$ et $C$ contribuent aux composantes imaginaires. La partie imaginaire positive est due à l'inducteur, et la partie imaginaire négative est due au condensateur. La résolution de l'impédance complexe fournit la grandeur et la phase de l'impédance :
-\begin{equation}
-    |Z| = \sqrt{R^2+(\omega L - \frac{1}{\omega C})^2}
-\end{equation}
-\begin{equation}
-    \tan^{-1}\left(\frac{\omega L - \frac{1}{\omega C}}{R}\right) = \gamma
-    \label{eq:10.5}
-\end{equation}
-Dans l'équation \ref{eq:10.5}, $\gamma$ est l'angle de phase de l'impédance. Le courant phasor dans le circuit est obtenu en divisant le phasor de tension par l'impédance complexe :
-\begin{equation}
-    \hat{I}(t) = \frac{\hat{U}(t)}{Z}
-\end{equation}
-Ceci nous donne l'amplitude et la phase du courant dans le circuit. Pour déterminer le courant instantané, nous prenons la partie réelle du phasor de courant :
-\begin{equation}
-    I(t) = Re\left(\frac{U_0}{|Z|}e^{j(\omega t + \gamma)}\right)
-\end{equation}
