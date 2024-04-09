@@ -8,8 +8,12 @@ Pour un circuit CA RLC en parallèle illustré dans la Figure \ref{fig11}, l'app
 \\
 Nous allons utiliser les relations des équations \ref{eq:10.1}. En appliquant la règle des impédances d'un circuit parallèle, on obtient :
 $$\begin{equation}
-    U(t) = RI_R(t)
+    \begin{split}
+        \frac{1}{Z}= \frac{1}{Z_R}+\frac{1}{Z_C}+\frac{1}{Z_L} \\
+        = \frac{1}{R}+\frac{1}{\frac{1}{j\omega C}}+\frac{1}{j\omega L}
+    \end{split}
 \end{equation}$$
+Le 
 
 
 
