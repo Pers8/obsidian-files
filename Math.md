@@ -10,7 +10,7 @@ Pour un circuit alimenté par une source de tension de fréquence f, les impéda
 $$\begin{equation}
     Z_R=R \hspace{2mm}, \hspace{2mm}  Z_C = \frac{1}{j\omega C} \hspace{2mm}, \hspace{2mm} Z_L=j\omega L
 \end{equation}$$
-
+La chose la plus importante à noter est que les réactances inductive et capacitive dépendent de la fréquence de la source de tension.
  
 
 
