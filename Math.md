@@ -39,3 +39,4 @@ Ainsi, nous avons :
 $$\begin{equation}
     I=\Re e\left(\frac{V_L}{Z_L}\right)
 \end{equation}$$
+Ce qui précède donne une relation similaire à la loi d'Ohm entre les quantités complexes $I$, $V_L$ et $Z_L$.
