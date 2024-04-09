@@ -32,8 +32,27 @@ En substituant ce qui précède à l'équation (En haut), on obtient :
 $$\begin{equation}
     U_i=Z_R I+Z_L I+Z_C I
 \end{equation}$$
-
-
+En résolvant cette expression pour $I$, on obtient :
+$$\begin{equation}
+    I=\frac{V_i}{Z_R+Z_L+Z_C}
+\end{equation}$$
+Soit $Z$ l'impédance complexe équivalente du circuit RLC en série défini comme suit :
+$$\begin{equation}
+    Z=Z_R+Z_L+Z_C=R+j\left(\omega L-\frac{1}{\omega C}\right)
+\end{equation}$$
+Le module de $Z$ sera égale à :
+$$\begin{equation}
+    |Z|=\sqrt{R^2+\left(\omega L-\frac{1}{\omega C}\right)^2}
+\end{equation}$$
+L'argument de $Z$ :
+$$\begin{equation}
+    \theta=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
+\end{equation}$$
+Notez que le module et l'argument de l'impédance $Z$ dépendent tous deux de la fréquence de la tension de la source. Cette propriété est utile dans la conception de filtres et a de nombreuses autres applications dans les circuits électroniques.
+Nous pouvons noter la forme polaire comme suit :
+$$\begin{equation}
+    \theta=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
+\end{equation}$$
 
 
 En exprimant la charge $q$ en termes de courant $i$ (puisque $q=\int idt$) et en considérant une source de tension sinusoïdale d'équation \ref{eq:5.2}, l'équation ci-dessus peut être réécrite en prenant la dérivée de la charge par rapport au temps pour obtenir le courant :
