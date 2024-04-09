@@ -6,8 +6,10 @@
 \end{figure}
 Pour un circuit CA RLC en parallèle illustré dans la Figure \ref{fig11}, l'approche est différente de celle en série car chaque composant a la même tension appliquée à ses bornes mais le courant peut varier pour chaque élément. Dans un tel circuit, nous devons trouver les courants individuels qui traversent chaque composant pour ensuite les additionner et obtenir le courant total dans le circuit.
 \\
-Nous allons utiliser les relations des équations \ref{eq:10.1} 
-
+Nous allons utiliser les relations des équations \ref{eq:10.1}. En appliquant la règle des impédances d'un circuit parallèle, on obtient :
+$$\begin{equation}
+    U(t) = RI_R(t)
+\end{equation}$$
 
 
 
