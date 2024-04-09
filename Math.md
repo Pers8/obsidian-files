@@ -1,91 +1,46 @@
 \begin{figure}[H]
 \centering
-\includegraphics[width=70mm]{Practical-parallel-RLC-circuit.png}
-\caption{Un circuit CA RLC en parallèle\cite{Ida}}
-\label{fig11}
+\includegraphics[width=60mm]{Series-RLC-Circuit-Analysis-Example-Problems-660x330.jpg}
+\caption{Un circuit CA RLC en série\cite{rlc}}
+\label{fig9}
 \end{figure}
-Pour un circuit CA RLC en parallèle illustré dans la Figure \ref{fig11}, l'approche est différente de celle en série car chaque composant a la même tension appliquée à ses bornes mais le courant peut varier pour chaque élément. Dans un tel circuit, nous devons trouver les courants individuels qui traversent chaque composant pour ensuite les additionner et obtenir le courant total dans le circuit.
+Pour analyser un circuit CA RLC en série, nous considérons la combinaison de la résistance $R$, de l'inductance $L$ et du condensateur $C$ connectées en série avec une source de tension alternative $U(t)$ illustré dans la Figure \ref{fig9}. 
 \\
-Nous allons utiliser les relations des équations \ref{eq:10.1}. En appliquant la règle des impédances d'un circuit parallèle, on obtient :
-$$\begin{equation}
+Pour un circuit alimenté par une source de tension de fréquence $f$, les impédances des différents composants RLC sont données par :
+\begin{equation}
+    Z_R=R \hspace{2mm}, \hspace{2mm}  Z_C = \frac{1}{j\omega C} \hspace{2mm}, \hspace{2mm} Z_L=j\omega L
+    \label{eq:10.1}
+\end{equation}
+La chose la plus importante à noter est que les réactances inductive et capacitive dépendent de la fréquence de la source de tension. Maintenant, nous allons utiliser entre $U_i$, $I$, $U_R$, $U_L$ et $U_C$ étudié antérieurement. En appliquant la loi des mailles de Kirchhoff\footnote{La loi des mailles de Kirchhoff stipule que la somme des différences de potentiel (tensions) autour d'une boucle fermée doit être nulle}sur la tension étendue aux impédances complexes, nous obtenons :
+\begin{equation}
+    U_i-U_R-U_L-U_C=0
+\end{equation}
+En utilisant les relations d’Ohm étendues aux impédances complexes, nous avons :
+\begin{equation}
     \begin{split}
-        \frac{1}{Z}= \frac{1}{Z_R}+\frac{1}{Z_C}+\frac{1}{Z_L} \\
-        = \frac{1}{R}+\frac{1}{\frac{1}{j\omega C}}+\frac{1}{j\omega L}\\
-        = \frac{1}{R}+\frac{j}{\frac{1}{\omega C}}-j\frac{1}{\omega L}\\
-        = \frac{1}{R}+j\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)
+        U_R=Z_R I \\
+        U_L=Z_L I \\
+        U_C=Z_C I
     \end{split}
-\end{equation}$$
-Ainsi, nous pouvons exprimer le module de $Z$ du nombre complexe comme suit :
-$$\begin{equation}
-    |Z| =\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)^2}
-\end{equation}$$
-L'argument sera notée comme suit :
-$$\begin{equation}
-    \begin{split}
-        \phi =\arctan\left(\frac{\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}}{\frac{1}{R}}\right)\\
-\\
-        =\arctan\left(\frac{\omega C-\frac{1}{\omega L}}{\frac{1}{R}}\right)\\
-        \\
-        =\arctan\left(R\omega C-\frac{R}{\omega L}\right)
-        
-    \end{split}
-\end{equation}$$
-Nous pouvons ainsi écrire l'impédance équivalente $Z$ sous la forme d'Euler :
-$$\begin{equation}
-    \begin{split}
-        \frac{1}{Z}= |Z|e^{j\phi}\\
-	\\
-        Z=\frac{1}{|Z|}e^{-j\phi}      
-    \end{split}
-\end{equation}$$
-En remplaçant les valeurs, nous avons ainsi :
-$$\begin{equation}
-    \begin{split}
-        Z=\frac{1}{\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)^2}}e^{-j\arctan\left(R\omega C-\frac{R}{\omega L}\right)}\\ 
-        Z=\frac{1}{\sqrt{\left(\frac{1}{R}\right)^2+\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)^2}}e^{j\arctan\left(-R\omega C+\frac{R}{\omega L}\right)}     
-    \end{split}
-\end{equation}$$
-
-
-
-Pour la résistance $R$, le courant $I_R(t)$ est donnée directement par la loi d'Ohm :
-\begin{equation}
-    U(t) = RI_R(t)
 \end{equation}
+En substituant ces expressions dans l’équation ci-dessus, nous trouvons :
 \begin{equation}
-    I_R(t) = \frac{U(t)}{R}
+    U_i=Z_R I+Z_L I+Z_C I
 \end{equation}
-Pour l'inducteur $L$, la tension aux bornes est proportionnelle à la dérivée du courant donc nous utilisons la relation suivante :
+En résolvant pour le courant $I$, nous obtenons :
 \begin{equation}
-    U(t) = L\frac{dI_L}{dt}
+    I=\frac{V_i}{Z_R+Z_L+Z_C}
 \end{equation}
-Pour le condensateur $C$, la tension aux bornes est le produit de la capacité et de l'intégrale du courant, d'où :
+L’impédance totale $Z$ du circuit RLC en série sera ainsi donnée par :
 \begin{equation}
-    U(t) = \frac{1}{C} \int{I_C(t)dt}
+    Z=Z_R+Z_L+Z_C=R+j\left(\omega L-\frac{1}{\omega C}\right)
 \end{equation}
-Dans un circuit en parallèle, les courants à travers chaque composant peuvent être exprimés comme 
-suit:
+Le module de $Z$ sera égale à :
 \begin{equation}
-    I_L(t)=\frac{U_0}{\omega L}\sin(\omega t)
+    |Z|=\sqrt{R^2+\left(\omega L-\frac{1}{\omega C}\right)^2}
 \end{equation}
+L'argument de $Z$ peut être noté comme suit :
 \begin{equation}
-    I_C(t)=-CU_0\omega\cos\left(\omega t + \frac{\pi}{2}\right)
+    \phi=\arctan\left(\frac{\omega L-\frac{1}{\omega C}}{R}\right)
 \end{equation}
-\begin{equation}
-    I_R(t)=\frac{U_0}{R}\cos(\omega t)
-\end{equation}
-Ces équations démontrent que le courant à travers l'inducteur est en retard de $\frac{\pi}{2}$ par rapport à la tension tandis que le courant à travers le condensateur est en avance de $\frac{\pi}{2}$. Pour trouver le courant total $I(t)$ dans le circuit,  nous additionnons vectoriellement les trois courants en utilisant la notation phasorielle, où chaque courant est représenté par un phasor :
-\begin{equation}
-    \hat{I}_R(t)=\frac{\hat{U}(t)}{R}
-\end{equation}
-\begin{equation}
-    \hat{I}_L(t)=\frac{\hat{U}(t)}{j\omega L}
-\end{equation}
-\begin{equation}
-    \hat{I}_C(t)=-j\omega C\hat{U}(t)
-\end{equation}
-La somme des phasors de courant fournit le phasor du courant total :
-\begin{equation}
-    \hat{I}(t) = \hat{I}_R(t) + \hat{I}_L(t) + \hat{I}_C(t)
-\end{equation}
-Cette somme doit prendre en compte la direction et la magnitude de chaque phasor de courant. En termes de composantes réelles et imaginaires, cela revient à additionner les composantes sur les axes horizontal et vertical dans le plan complexe.
+Notez que le module et l'argument de l'impédance $Z$ dépendent tous deux de la fréquence de la tension de la source. Cette propriété est utile dans la conception de filtres et a de nombreuses autres applications dans les circuits électroniques.
