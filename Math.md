@@ -26,7 +26,7 @@ $$\begin{equation}
 \\
         =\arctan\left(\frac{\omega C-\frac{1}{\omega L}}{\frac{1}{R}}\right)\\
         \\
-        =\arctan\left(\frac{\omega C-\frac{1}{\omega L}R\right)
+        =\arctan\left(R\omega C-\frac{R}{\omega L}\right)
         
     \end{split}
 \end{equation}$$
