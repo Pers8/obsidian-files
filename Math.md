@@ -10,7 +10,9 @@ Nous allons utiliser les relations des équations \ref{eq:10.1}. En appliquant l
 $$\begin{equation}
     \begin{split}
         \frac{1}{Z}= \frac{1}{Z_R}+\frac{1}{Z_C}+\frac{1}{Z_L} \\
-        = \frac{1}{R}+\frac{1}{\frac{1}{j\omega C}}+\frac{1}{j\omega L}
+        = \frac{1}{R}+\frac{1}{\frac{1}{j\omega C}}+\frac{1}{j\omega L}\\
+        = \frac{1}{R}+\frac{j}{\frac{1}{\omega C}}-j\frac{1}{\omega L}
+        
     \end{split}
 \end{equation}$$
 Le 
