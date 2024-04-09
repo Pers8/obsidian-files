@@ -6,6 +6,14 @@
 \end{figure}
 Pour analyser un circuit CA RLC en série, nous considérons la combinaison de la résistance $R$, de l'inductance $L$ et du condensateur $C$ connectées en série avec une source de tension alternative $U(t)$ illustré dans la Figure \ref{fig9}. 
 \\
+Pour un circuit alimenté par une source de tension de fréquence f, les impédances des différents composants RLC sont données par :
+$$\begin{equation}
+    Z_R=R \hspace{2mm}, \hspace{2mm}  Z_C = \frac{1}{j\omega C} \hspace{2mm}, \hspace{2mm} Z_L=j\omega L
+\end{equation}$$
+
+ 
+
+
 Pour trouver le courant $I(t)$ dans le circuit, nous devons d'abord établir l'équation différentielle qui régit le système. En appliquant la loi des mailles de Kirchhoff\footnote{La loi des mailles de Kirchhoff stipule que la somme des différences de potentiel (tensions) autour d'une boucle fermée doit être nulle}, nous obtenons :
 \begin{equation}
     iR + L\frac{di}{dt}+\frac{q}{C} = U(t)
