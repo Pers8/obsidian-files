@@ -30,7 +30,7 @@ $$\begin{equation}
         
     \end{split}
 \end{equation}$$
-Nous pouvons ainsi écrire l'impédance équivalente $Z$ sous la forme exponentielle :
+Nous pouvons ainsi écrire l'impédance équivalente $Z$ sous la forme d'Euler :
 $$\begin{equation}
     \begin{split}
         \frac{1}{Z}= |Z|e^{j\phi}\\
