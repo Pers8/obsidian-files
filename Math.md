@@ -39,31 +39,3 @@ Ainsi, nous avons :
 $$\begin{equation}
     I=\Re e\left(\frac{V_L}{Z_L}\right)
 \end{equation}$$
-
-
-
-
-Pour une tension appliquée sinusoïdale d'équation \ref{eq:5.2}, le courant ne peut pas changer instantanément à cause de l'inertie du champ magnétique dans l'inducteur. Cela entraîne un déphasage entre la tension et le courant, où le courant est en retard de phase de $\frac{\pi}{2}$ radians par rapport à la tension.
-\\
-En considérant une tension sinusoïdale appliquée à l'inducteur, nous pouvons calculer le courant comme suit :
-\begin{equation}
-    U_L=L\frac{dI}{dt}=U_0\cos(\omega t)
-\end{equation}
-En intégrant cette relation par rapport au temps pour trouver le courant $I(t)$, nous obtenons :
-\begin{equation}
-    I(t) = \frac{U_0}{\omega L}\sin(\omega t) + c
-    \label{eq:9.3}
-\end{equation}
-Dans l'équation \ref{eq:9.3}, $c$ représente la constante d'intégration. Dans un circuit où le courant est nul au temps $t=0$, nous avons $\sin(0) = 0$ ce qui donne $c=0$. Ainsi le courant de l'inducteur est :
-\begin{equation}
-    I(t) = \frac{U_0}{\omega L}\sin(\omega t)
-\end{equation}
-Cela nous montre que le courant à travers l'inducteur est en retard de phase de $\frac{\pi}{2}$ par rapport à la tension appliquée. En notation complexe, les phasors pour la tension et le courant dans un circuit avec inductance sont exprimés comme suit :
-\begin{equation}
-    \hat{U}(t) = U_0e^{j\omega t}
-\end{equation}
-\begin{equation}
-    \hat{I}(t) = U_0\frac{1}{j\omega L}\footnotemark e^{j\omega t}
-\end{equation}
-\footnotetext{L'expression $\frac{1}{j\omega L}$ est connue sous le nom de réactance inductive $X_L$ et elle représente l'opposition de l'inducteur au courant alternatif.}
-En raison de la présence de $j$ dans le dénominateur, cela se traduit par un déphasage de $-\frac{\pi}{2}$ qui est cohérent avec notre compréhension antérieure.
