@@ -11,13 +11,11 @@ $$\begin{equation}
     \begin{split}
         \frac{1}{Z}= \frac{1}{Z_R}+\frac{1}{Z_C}+\frac{1}{Z_L} \\
         = \frac{1}{R}+\frac{1}{\frac{1}{j\omega C}}+\frac{1}{j\omega L}\\
-        = \frac{1}{R}+\frac{j}{\frac{1}{\omega C}}-j\frac{1}{\omega L}
-        
+        = \frac{1}{R}+\frac{j}{\frac{1}{\omega C}}-j\frac{1}{\omega L}\\
+        = \frac{1}{R}+j\left(\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}\right)
     \end{split}
 \end{equation}$$
-Le 
-
-
+	Ainsi, nous pouvons 
 
 
 
