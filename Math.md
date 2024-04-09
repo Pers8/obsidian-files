@@ -17,9 +17,31 @@ $$\begin{equation}
 \end{equation}$$
 En se basant de l'équation 5.2, nous combinons tout ce qui précède pour écrire :
 $$\begin{equation}
-    \Re e(U_0 e^{})
+    \Re e(U_0 e^{j\omega t}) = \frac{1}{C} \intop{Idt}
 \end{equation}$$
-Si on applique une tension sinusoïdale d'equation \ref{eq:5.2} à un condensateur, la dérivée temporelle de cette tension sera la suivante :
+En prenant la dérivée des deux membres, nous avons :
+$$\begin{equation}
+    \frac{d}{dt}\left(\Re e(U_0 e^{j\omega t})\right) = \frac{d}{dt}\left(\frac{1}{C} \intop{Idt}\right)
+\end{equation}$$
+$$\begin{equation}
+    \Re e\frac{d}{dt}\left(U_0 e^{j\omega t}\right) = \frac{d}{dt}\left(\frac{1}{C} \intop{Idt}\right)
+\end{equation}$$
+En simplifiant, nous obtenons :
+$$\begin{equation}
+    \Re e\left(j\omega U_0 e^{j\omega t}\right) = \frac{1}{C}I
+\end{equation}$$
+Sachant que la capacité $C$ est une quantité réelle, nous pouvons réécrire l'équation (en haut) comme suit :
+$$\begin{equation}
+     I = \Re e\left(j\omega C \hspace{1mm} U_0 e^{j\omega t}\right)
+\end{equation}$$
+Soit $U_C = U_0 e^{j\omega t}$ et définissons $Z_C$ comme l'impédance complexe d'un condensateur telle que :
+$$\begin{equation}
+     Z_C = \frac{1}{j\omega C}=-\frac{j}{\omega C}
+\end{equation}$$
+Sachant que $C$ est réel, l'impédance $Z_C$ du condensateur est un nombre imaginaire pur.
+
+
+Si on applique une tension sinusoïdale d'équation \ref{eq:5.2} à un condensateur, la dérivée temporelle de cette tension sera la suivante :
 $$\begin{equation}
     \frac{dU}{dt} = -U_0\omega\sin(\omega t)
 \end{equation}$$
