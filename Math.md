@@ -10,14 +10,31 @@ Pour un circuit alimenté par une source de tension de fréquence f, les impéda
 $$\begin{equation}
     Z_R=R \hspace{2mm}, \hspace{2mm}  Z_C = \frac{1}{j\omega C} \hspace{2mm}, \hspace{2mm} Z_L=j\omega L
 \end{equation}$$
-La chose la plus importante à noter est que les réactances inductive et capacitive dépendent de la fréquence de la source de tension.
+La chose la plus importante à noter est que les réactances inductive et capacitive dépendent de la fréquence de la source de tension. Maintenant, nous allons utiliser entre $U_i$, $I$, $U_R$, $U_L$ et $U_C$ étudié antérieurement. 
  
 
 
-Pour trouver le courant $I(t)$ dans le circuit, nous devons d'abord établir l'équation différentielle qui régit le système. En appliquant la loi des mailles de Kirchhoff\footnote{La loi des mailles de Kirchhoff stipule que la somme des différences de potentiel (tensions) autour d'une boucle fermée doit être nulle}, nous obtenons :
-\begin{equation}
-    iR + L\frac{di}{dt}+\frac{q}{C} = U(t)
-\end{equation}
+En appliquant la loi des mailles de Kirchhoff\footnote{La loi des mailles de Kirchhoff stipule que la somme des différences de potentiel (tensions) autour d'une boucle fermée doit être nulle}sur la tension étendue aux impédances complexes, nous obtenons :
+$$\begin{equation}
+    U_i-U_R-U_L-U_C=0
+\end{equation}$$
+En appliquant la loi d'Ohm étendue aux impédances complexes, nous avons les relations ci-dessus :
+$$\begin{equation}
+    U_R=Z_R I
+\end{equation}$$
+$$\begin{equation}
+    U_L=Z_L I
+\end{equation}$$
+$$\begin{equation}
+    U_C=Z_C I
+\end{equation}$$
+En substituant ce qui précède à l'équation (En haut), on obtient :
+$$\begin{equation}
+    U_i=Z_R I+Z_L I+Z_C I
+\end{equation}$$
+
+
+
 En exprimant la charge $q$ en termes de courant $i$ (puisque $q=\int idt$) et en considérant une source de tension sinusoïdale d'équation \ref{eq:5.2}, l'équation ci-dessus peut être réécrite en prenant la dérivée de la charge par rapport au temps pour obtenir le courant :
 \begin{equation}
     iR + L\frac{di}{dt}+\frac{1}{C}\int{idt}=U_0\cos(\omega t)
