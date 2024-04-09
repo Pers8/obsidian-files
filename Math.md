@@ -23,8 +23,11 @@ L'argument sera notée comme suit :
 $$\begin{equation}
     \begin{split}
         \phi =\arctan\left(\frac{\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}}{\frac{1}{R}}\right)\\
-
-        =\arctan\left(\frac{\frac{1}{\frac{1}{\omega C}}-\frac{1}{\omega L}}{\frac{1}{R}}\right)
+\\
+        =\arctan\left(\frac{\omega C-\frac{1}{\omega L}}{\frac{1}{R}}\right)\\
+        \\
+        =\arctan\left(\frac{\omega C-\frac{1}{\omega L}R\right)
+        
     \end{split}
 \end{equation}$$
 
