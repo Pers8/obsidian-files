@@ -56,3 +56,51 @@ $$\begin{equation}
 
 
 Notez que le module et l'argument de l'impédance $Z$ dépendent tous deux de la fréquence de la tension de la source. Cette propriété est utile dans la conception de filtres et a de nombreuses autres applications dans les circuits électroniques.
+
+
+
+
+
+
+
+Considérons un circuit CA RLC en série alimenté par une source de tension sinusoïdale $U(t) = U_0 \cos(\omega t)$, où $U_0 = 10V$ est l'amplitude de la tension, et la fréquence de la source $f = 50Hz$. Les valeurs des composants du circuit sont les suivantes: une résistance $R = 100\Omega$, une capacité $C = 100\mu F$, et une inductance $L = 100mH$.
+
+**Question 1:** Calculer l'impédance totale $Z$ du circuit en utilisant la forme d'Euler, sachant que $\omega = 2\pi f$.
+
+**Question 2:** À partir de l'impédance trouvée, calculer le courant maximum $I_{max}$ dans le circuit. Ensuite, dessiner un graphe qui montre la différence de phase entre le courant et la tension, limitant la période à $\pi/2$.
+
+### Solution:
+
+**Question 1:**
+
+D'abord, calculons $\omega = 2\pi f = 2\pi \times 50 = 100\pi , rad/s$.
+
+Ensuite, utilisons les formules pour calculer l'impédance totale $Z$ en série:
+
+$$Z = R + j(\omega L - \frac{1}{\omega C})$$
+
+Remplaçons les valeurs données:
+
+$$Z = 100 + j(100\pi \times 0.1 - \frac{1}{100\pi \times 100 \times 10^{-6}})$$
+
+$$Z = 100 + j(31.4 - 31.8)$$
+
+$$Z = 100 - j0.4 , \Omega$$
+
+La forme d'Euler de $Z$ est obtenue en calculant le module et l'angle de $Z$:
+
+$$|Z| = \sqrt{100^2 + (-0.4)^2} \approx 100$$
+
+$$\phi = \arctan\left(\frac{-0.4}{100}\right) \approx -0.004 , rad$$
+
+Donc, $Z$ en forme d'Euler est:
+
+$$Z \approx 100e^{-j0.004}$$
+
+**Question 2:**
+
+Le courant maximum $I_{max}$ est obtenu lorsque la tension est à son maximum, donc:
+
+$$I_{max} = \frac{U_0}{|Z|} = \frac{10}{100} = 0.1A$$
+
+Pour le graphe montrant la différence de phase entre le courant et la tension, on sait que la tension et le courant sont déphasés de $\phi \approx -0.004 , rad$. Ce petit déphasage indique que le courant est presque en phase avec la tension, avec un léger retard. Sur un graphe de la tension et du courant en fonction du temps, limité à $\pi/2$, ce retard serait à peine perceptible.
