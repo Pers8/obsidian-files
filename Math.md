@@ -113,8 +113,39 @@ La fréquence angulaire $\omega$ est donnée par $\omega = 2\pi f = 2\pi \times 
 
  
 
-Pour un circuit RLC en parallèle, l'impédance totale $Z$ est donnée par:  $\frac{1}{Z} = \frac{1}{R} + \frac{1}{j\omega L} + j\omega C$ 
-$\frac{1}{Z} = \frac{1}{100} + \frac{1}{j100\pi \times 0.1} + j100\pi \times 100 \times 10^{-6}$ 
-$\frac{1}{Z} = 0.01 - j\frac{1}{10\pi} + j\frac{1}{10}$
-$\frac{1}{Z} = 0.01 + j(0.1 - \frac{1}{10\pi})$ 
-Calculons le module et l'argument de $\frac{1}{Z}$: [ |\frac{1}{Z}| = \sqrt{(0.01)^2 + (0.1 - \frac{1}{10\pi})^2} ] [ \phi = \arctan\left(\frac{0.1 - \frac{1}{10\pi}}{0.01}\right) ] Donc, [ Z = \frac{1}{|\frac{1}{Z}|}e^{-j\phi} ]
+Considérons un circuit CA RLC en parallèle alimenté par une source de tension sinusoïdale $( U(t) = 220\cos(\omega t) )$ de fréquence $( f = 50 )$ Hz. Les valeurs des composants du circuit sont les suivantes : une résistance $( R = 100 \Omega )$, une capacité $( C = 100 \mu F )$, et une inductance $( L = 100 mH )$.
+
+**1)** Calculer l'impédance totale $( Z )$ du circuit.
+
+Solution:
+
+Pour résoudre ce problème, nous devons d'abord calculer l'impédance de chaque composant et ensuite utiliser la formule de l'impédance totale pour un circuit parallèle.
+
+1. Calcul de l'impédance de chaque composant:
+    
+    - Résistance: $( Z_R = R = 100 \Omega )$
+    - Capacité: $( Z_C = \frac{1}{j\omega C} )$
+    - Inductance: $( Z_L = j\omega L )$
+    
+    Où $( \omega = 2\pi f )$, donc $( \omega = 2\pi \times 50 = 100\pi )$ rad/s.
+    
+    - $( Z_C = \frac{1}{j100\pi \times 100 \times 10^{-6}} = \frac{1}{j0.01\pi} = -j\frac{100}{\pi} \Omega )$
+    - $( Z_L = j100\pi \times 0.1 = j10\pi \Omega )$
+2. Calcul de l'impédance totale:
+    
+    - $( \frac{1}{Z} = \frac{1}{Z_R} + \frac{1}{Z_C} + \frac{1}{Z_L} )$
+    - $( \frac{1}{Z} = \frac{1}{100} - j\frac{\pi}{100} + \frac{1}{j10\pi} )$
+    - $( \frac{1}{Z} = 0.01 - j0.0314 + j0.0318 )$
+    - $( \frac{1}{Z} = 0.01 + j0.0004 )$
+    
+    Pour trouver ( Z ), nous prenons le conjugué du dénominateur et multiplions le numérateur et le dénominateur par ce conjugué:
+    
+    - $( Z = \frac{1}{0.01 + j0.0004} \cdot \frac{0.01 - j0.0004}{0.01 - j0.0004} )$
+    - $( Z = \frac{0.01 - j0.0004}{0.0001 + 0.00000016} )$
+    - $( Z = \frac{0.01 - j0.0004}{0.00010016} )$
+    
+    En simplifiant, nous obtenons:
+    
+    - $( Z \approx 99.84 - j3.99 \Omega )$
+
+L'impédance totale du circuit est donc $( Z \approx 99.84 - j3.99 \Omega )$.
