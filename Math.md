@@ -83,3 +83,38 @@ L'argument de (Z) est : $\phi = \arctan\left(\frac{\omega L - \frac{1}{\omega C}
 Si la source de tension $(U_i)$ est de $(220V)$, le courant total dans le circuit est : $I = \frac{U_i}{Z} = \frac{220}{104.8} \approx 2.1A$
 
 Cet exemple illustre comment les valeurs des composants et la fréquence de la source de tension influencent l'impédance totale du circuit et, par conséquent, le courant qui y circule. En modifiant ces paramètres, on peut observer des variations significatives dans le comportement du circuit, ce qui est essentiel pour la conception de circuits électroniques, notamment dans le domaine des filtres et de la gestion des signaux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considérons un circuit CA RLC en parallèle alimenté par une source de tension sinusoïdale $U(t) = 220\cos(\omega t)$ de fréquence $f = 50\,Hz$. Les valeurs des composants du circuit sont les suivantes : une résistance $R = 100\,\Omega$, une capacité $C = 100\,\mu F$, et une inductance $L = 100\,mH$.
+
+\textbf{1)} Calculer l'impédance totale $Z$ du circuit en utilisant la forme d'Euler.\\
+
+
+La fréquence angulaire $\omega$ est donnée par $\omega = 2\pi f = 2\pi \times 50 = 100\pi, \text{rad/s}$.
+
+ 
+
+Pour un circuit RLC en parallèle, l'impédance totale $Z$ est donnée par:  $\frac{1}{Z} = \frac{1}{R} + \frac{1}{j\omega L} + j\omega C$ 
+$\frac{1}{Z} = \frac{1}{100} + \frac{1}{j100\pi \times 0.1} + j100\pi \times 100 \times 10^{-6}$ 
+$\frac{1}{Z} = 0.01 - j\frac{1}{10\pi} + j\frac{1}{10}$
+$\frac{1}{Z} = 0.01 + j(0.1 - \frac{1}{10\pi})$ 
+Calculons le module et l'argument de $\frac{1}{Z}$: [ |\frac{1}{Z}| = \sqrt{(0.01)^2 + (0.1 - \frac{1}{10\pi})^2} ] [ \phi = \arctan\left(\frac{0.1 - \frac{1}{10\pi}}{0.01}\right) ] Donc, [ Z = \frac{1}{|\frac{1}{Z}|}e^{-j\phi} ]
