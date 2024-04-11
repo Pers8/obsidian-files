@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 308,
+    "collapsed": true
   },
   "right": {
     "id": "7ac5f2cb5bcf1b80",
@@ -230,7 +231,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6f1df464531044be",
+  "active": "2c9e7febd127bd2e",
   "lastOpenFiles": [
     "Math.md",
     "IB/Physics.md",
