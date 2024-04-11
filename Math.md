@@ -9,3 +9,4 @@ https://byjus.com/physics/lcr-circuit/
 https://testbook.com/physics/lcr-circuit
 https://www.electronics-tutorials.ws/accircuits/phasors.html
 https://www.youtube.com/watch?v=8mEYrHq6RA8&ab_channel=MuPrimeMath
+https://www.its.caltech.edu/~jpelab/phys1cp/AC%20Circuits%20and%20Complex%20Impedances.pdf
