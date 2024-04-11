@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=cUzklzVXJwo
 https://www.mathforengineers.com/AC-circuits/complex-numbers-in-AC-circuits.html
 https://www.mathforengineers.com/AC-circuits/current-voltages-computations-in-series-RLC.html
 https://www.mathforengineers.com/AC-circuits/series-and-parallel-impedances.html
+https://byjus.com/physics/lcr-circuit/
+https://testbook.com/physics/lcr-circuit
+https://www.electronics-tutorials.ws/accircuits/phasors.html
