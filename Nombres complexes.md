@@ -71,6 +71,11 @@ $|z|^{2}$=
 $$\Large{zz^{*}}$$
 <!--SR:!2023-11-05,7,230-->
 
+$|z^k|=$
+?
+$$1, \hspace{2mm} \text{pour tout k } \in \mathbb Z $$
+
+
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[Pasted image 20230712084000.png]]

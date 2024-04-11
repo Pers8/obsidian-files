@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "Nombres complexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "Nombres complexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math.md",
+                "file": "Nombres complexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math.md"
+                "file": "Nombres complexes.md"
               }
             }
           },
@@ -232,6 +232,10 @@
   },
   "active": "6f1df464531044be",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Cercle trigonométrique.md",
+    "Nombres complexes.md",
+    "IA Comp Sci ROT.md",
     "Math.md",
     "IB/Physics.md",
     "Physics/Le modèle atomique de Rutherford.md",
@@ -260,14 +264,10 @@
     "Objets et images.md",
     "Lentilles.md",
     "Règle de l'Hôpital.md",
-    "IB/Maths.md",
     "Série Maclaurin.md",
     "Equations différentielles.md",
     "Cinématique.md",
     "Intégration.md",
-    "Dérivation.md",
-    "Fonction de densité de probabilité.md",
-    "Statistiques I.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
