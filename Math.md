@@ -6,6 +6,8 @@ Le graphique illustre l'augmentation de la charge fiscale pour ces individus et 
 
 Cependant, une incohérence apparaît lorsque le gouvernement propose simultanément un allègement fiscal pour ces mêmes fortunes, ce qui semble contrevenir à l'objectif d'**équité**. Cet allègement, en réduisant les coûts pour les riches, pourrait annuler les bénéfices attendus de l'augmentation des taxes.
 
+Il existe une contradiction flagrante dans les actions du gouvernement : d'un côté, il affiche la volonté de rétablir l'équité fiscale en augmentant la contribution des grandes fortunes, mais de l'autre, il propose un allègement fiscal pour ces mêmes individus fortunés. Cette proposition d'allègement fiscal semble aller à l'encontre de l'objectif initial d'équité fiscale. En effet, en offrant des réductions d'impôts aux plus riches, le gouvernement réduit potentiellement les recettes fiscales qui pourraient être utilisées pour des programmes sociaux ou d'autres besoins publics, ce qui pourrait annuler les bénéfices attendus de l'augmentation des taxes sur les grandes fortunes. Cette approche pourrait non seulement compromettre les efforts visant à réduire les inégalités, mais également accentuer le fossé entre les riches et les pauvres, allant ainsi à l'encontre des principes d'une société équitable et cohésive.
+
 **Graphique 2 - Effet de l'allègement fiscal pour les grandes fortunes**
 
 Ce graphique montre que l'allègement fiscal diminue le prix des biens (de P* à Pc) et augmente la quantité consommée par les riches (de Q* à Qsub), ce qui pourrait leur permettre d'acquérir plus de biens pour le même prix. Cela soulève des questions sur l'efficacité de la politique fiscale en termes d'**équité** et de justice sociale.
