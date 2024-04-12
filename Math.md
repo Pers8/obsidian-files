@@ -1,3 +1,5 @@
+**Mot clé :** Bien-etre
+
 Des professionnels israéliens et internationaux de la santé publique ont publié une lettre dans la revue The Lancet dans laquelle ils expriment leur profonde inquiétude quant à la décision du gouvernement israélien d'annuler la taxe sur les boissons sucrées, qui n'a été adoptée qu'en novembre 2021.
 
 Selon ces chercheurs chevronnés, la décision d'annuler la taxe envoie le message que le gouvernement ne respecte pas la science et les preuves. Qualifiant cette décision de "coup dur pour la santé publique", ils estiment qu'elle nuira à la population israélienne et à la réputation internationale du pays.
