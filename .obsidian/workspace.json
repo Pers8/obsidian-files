@@ -27,9 +27,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 248.29960280254227,
-                  "y": 1348.9724791230465,
-                  "zoom": -0.6948290265941548
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "econ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,8 +233,10 @@
   "active": "6f1df464531044be",
   "lastOpenFiles": [
     "IB/Maths.md",
-    "Cercle trigonométrique.md",
+    "Identités trigonométriques.md",
     "Nombres complexes.md",
+    "Article Micro.md",
+    "Cercle trigonométrique.md",
     "IA Comp Sci ROT.md",
     "Math.md",
     "IB/Physics.md",
@@ -266,8 +268,6 @@
     "Règle de l'Hôpital.md",
     "Série Maclaurin.md",
     "Equations différentielles.md",
-    "Cinématique.md",
-    "Intégration.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
