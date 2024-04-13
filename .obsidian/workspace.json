@@ -69,9 +69,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d425b4bba009d1fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-13 11.51.51.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econnnbbr.md",
+                "file": "Excalidraw/Drawing 2024-04-13 11.51.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econnnbbr.md",
+                "file": "Excalidraw/Drawing 2024-04-13 11.51.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econnnbbr.md"
+                "file": "Excalidraw/Drawing 2024-04-13 11.51.51.excalidraw.md"
               }
             }
           },
@@ -242,12 +252,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "57cae50e3756bf06",
+  "active": "d425b4bba009d1fc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-13 11.51.51.excalidraw.md",
+    "Econnnbbr.md",
     "IB/Economy.md",
     "Economy/Impôts indirects.md",
     "IB/English.md",
-    "Econnnbbr.md",
     "Math.md",
     "IB/Physics.md",
     "Physics/Loi de gravitation de Newton.md",
@@ -279,7 +290,6 @@
     "Loupe.md",
     "Œil humain.md",
     "Formule de la lentille.md",
-    "Formation de l'image dans les lentilles concaves.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
