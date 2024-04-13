@@ -13,7 +13,7 @@ Dans un marché régulé par cette taxe, les courbes du bénéfice marginal priv
 
 Avec la taxe, le BMS intègre les coûts sociaux engendrés par la consommation excessive, tels que les risques accrus de MNT, les coûts de santé publique, et les impacts environnementaux liés à la production de ces boissons. Par conséquent, le BMS est ajusté pour être plus proche du CMS au point d'efficacité allocative, indiquant que le marché, avec intervention, produit et consomme une quantité de boissons sucrées plus proche de l'optimal social (quantité $Q^*$).
 
-La présence de la taxe sur les boissons sucrées maintient la courbe du CMP à un niveau plus élevé, augmentant le prix de $P_1$ à $P_{Taxes}$ et réduisant la quantité de $Q_1$ à $Q^*$, rapprochant ainsi le marché de l'efficacité allocative. Cela résulte en une réduction de la consommation de boissons sucrées, atténuant la défaillance du marché. La zone hachurée en orange sur le graphique représente la réduction de la perte sèche grâce à cette intervention.
+La présence de la taxe sur les boissons sucrées déplace la courbe de CMP à CMP + Taxes, augmentant le prix de $P_1$ à $P_{Taxes}$ et réduisant la quantité de $Q_1$ à $Q^*$, rapprochant ainsi le marché de l'efficacité allocative. Cela résulte en une réduction de la consommation de boissons sucrées, atténuant la défaillance du marché. La zone hachurée en orange sur le graphique représente la réduction de la perte sèche grâce à cette intervention.
 
 ![[EN BS 2]]
 *Figure 2 - Effets de l'Annulation de la Taxe sur les Coûts Sociaux et le Marché des Boissons Sucrées*
