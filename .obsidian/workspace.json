@@ -62,9 +62,11 @@
             "id": "57cae50e3756bf06",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/EN BS.md"
+                "file": "Econnnbbr.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/EN BS.md",
+                "file": "Econnnbbr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/EN BS.md",
+                "file": "Econnnbbr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/EN BS.md"
+                "file": "Econnnbbr.md"
               }
             }
           },
@@ -252,8 +254,8 @@
   },
   "active": "57cae50e3756bf06",
   "lastOpenFiles": [
-    "Econnnbbr.md",
     "Excalidraw/EN BS.md",
+    "Econnnbbr.md",
     "IB/Economy.md",
     "Economy/Impôts indirects.md",
     "IB/English.md",
