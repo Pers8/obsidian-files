@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "econ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "Econnnbbr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math.md",
+                "file": "Econnnbbr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math.md"
+                "file": "Econnnbbr.md"
               }
             }
           },
@@ -242,8 +242,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6f1df464531044be",
+  "active": "57cae50e3756bf06",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Economy/Impôts indirects.md",
+    "IB/English.md",
     "Econnnbbr.md",
     "Math.md",
     "IB/Physics.md",
@@ -277,9 +280,6 @@
     "Œil humain.md",
     "Formule de la lentille.md",
     "Formation de l'image dans les lentilles concaves.md",
-    "Formation de l'image dans les lentilles convexes.md",
-    "Objets et images.md",
-    "Lentilles.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
