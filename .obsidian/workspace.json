@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econnnbbr.md",
+                "file": "Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econnnbbr.md",
+                "file": "Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econnnbbr.md"
+                "file": "Math.md"
               }
             }
           },
@@ -242,10 +242,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "57cae50e3756bf06",
+  "active": "6f1df464531044be",
   "lastOpenFiles": [
-    "Math.md",
     "Econnnbbr.md",
+    "Math.md",
     "IB/Physics.md",
     "Physics/Loi de gravitation de Newton.md",
     "Physics/Champ de gravitation.md",
