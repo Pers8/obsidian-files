@@ -33,3 +33,5 @@ Il y a défaillance du marché lorsque le mécanisme de marché libre ne parvien
 
 Ce commentaire explore l'impact de l'annulation de la taxe sur les boissons sucrées sur le **bien-être** social et la défaillance du marché en Israël. Le concept clé de **bien-être** implique une analyse des effets à long terme de la consommation de boissons sucrées sur la santé publique et les coûts associés pour la société.
 
+![[EN BS]]
+
