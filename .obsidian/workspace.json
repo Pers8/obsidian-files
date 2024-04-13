@@ -71,6 +71,16 @@
             }
           },
           {
+            "id": "71b294df380a5213",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/EN BS 2.md"
+              }
+            }
+          },
+          {
             "id": "d425b4bba009d1fc",
             "type": "leaf",
             "state": {
@@ -254,8 +264,9 @@
   },
   "active": "57cae50e3756bf06",
   "lastOpenFiles": [
-    "Excalidraw/EN BS.md",
+    "Excalidraw/EN BS 2.md",
     "Econnnbbr.md",
+    "Excalidraw/EN BS.md",
     "IB/Economy.md",
     "Economy/Impôts indirects.md",
     "IB/English.md",
@@ -289,7 +300,6 @@
     "Grossissement angulaire (M).md",
     "Loupe.md",
     "Œil humain.md",
-    "Formule de la lentille.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
