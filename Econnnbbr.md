@@ -1,32 +1,3 @@
-
-L'article discuté met en lumière la décision controversée du gouvernement israélien de révoquer la taxe sur les boissons sucrées, une mesure initialement mise en place pour combattre les problèmes de santé publique liés à la consommation excessive de sucre. Cette décision soulève des questions importantes sur l'efficacité des politiques fiscales en matière de santé publique et leur impact sur le comportement des consommateurs.
-
-Graphique 1 - Impact de la révocation de la taxe sur la consommation de boissons sucrées
-
-Le graphique 1 illustre l'augmentation prévue de la consommation de boissons sucrées suite à l'annulation de la taxe. En supprimant la barrière financière imposée par la taxe, le prix des boissons sucrées devrait baisser, entraînant une augmentation de la quantité demandée, conformément à la loi de la demande. Cette augmentation de la consommation peut avoir des conséquences négatives sur la santé publique, augmentant les risques de maladies non transmissibles (MNT) telles que l'obésité, le diabète de type 2, et d'autres conditions liées à une alimentation riche en sucres ajoutés.
-
-La révocation de cette taxe semble ignorer les preuves scientifiques et les recommandations de nombreux experts en santé publique qui soutiennent l'efficacité de telles mesures fiscales pour réduire la consommation de produits nocifs. En effet, des études antérieures ont montré que des augmentations de prix de 10 % peuvent entraîner une réduction de la consommation de l'ordre de 10 %, ce qui suggère une élasticité-prix relativement élevée pour ces produits.
-
-Cependant, la décision de révoquer la taxe sur les boissons sucrées peut également être vue sous l'angle de l'équité économique. Les taxes indirectes comme celle-ci sont souvent critiquées pour leur nature régressive, affectant proportionnellement plus les ménages à faible revenu. Néanmoins, les bénéfices en termes de santé publique et de réduction des coûts de santé à long terme pourraient compenser ces inquiétudes, surtout si les recettes de la taxe étaient utilisées pour financer des initiatives de santé publique, comme le suggèrent les auteurs de la lettre publiée dans The Lancet.
-
-Graphique 2 - Coûts économiques et sanitaires évités grâce à la taxe sur les boissons sucrées
-
-Le graphique 2 pourrait illustrer les coûts économiques et sanitaires évités grâce à la taxe, en montrant une projection des dépenses de santé liées aux MNT qui auraient pu être évitées avec le maintien de la taxe. Ces économies incluent non seulement les coûts directs de traitement des maladies liées à la consommation de sucre, mais aussi les coûts indirects tels que la perte de productivité et les charges sociales supplémentaires.
-
-En conclusion, la décision du gouvernement israélien de révoquer la taxe sur les boissons sucrées soulève des préoccupations importantes concernant l'engagement envers les politiques de santé publique basées sur des preuves. Bien que la taxe puisse être perçue comme une mesure impopulaire, surtout sans une communication efficace sur ses bénéfices à long terme pour la santé publique, les preuves de son efficacité dans d'autres contextes suggèrent que son annulation pourrait être une opportunité manquée de promouvoir une alimentation plus saine et de réduire les charges de santé publique associées à la consommation de sucre. Il est essentiel que les décisions politiques, surtout celles ayant un impact significatif sur la santé publique, soient prises en tenant compte des meilleures preuves disponibles et en consultation avec des experts du domaine, pour garantir que les mesures adoptées servent véritablement l'intérêt général et contribuent à une société plus saine et plus équitable.
-
----
-
-L'article en discussion met en lumière la récente révocation par le gouvernement israélien de la taxe sur les boissons sucrées, une politique initialement conçue pour améliorer le bien-être général en combattant les problèmes de santé publique liés à la consommation excessive de sucre. Cette décision soulève des questions cruciales sur l'efficacité des politiques fiscales en matière de santé publique et leur impact sur le comportement des consommateurs.
-
-Il y a défaillance du marché lorsque le mécanisme de marché libre ne parvient pas à distribuer les ressources de manière à maximiser le bien-être social. Dans le cas des boissons sucrées, ces produits sont des exemples typiques de biens de démérite. Leur consommation excessive peut nuire au bien-être social, contribuant à des maladies non transmissibles telles que le diabète et l'obésité, comme le soulignent les études mentionnées dans l'article. Ces maladies augmentent non seulement les coûts pour les systèmes de santé mais affectent également la qualité de vie des individus.
-
-Les externalités négatives se manifestent lorsque la consommation ou la production d'un bien ou service impose des coûts à des tiers qui ne sont ni consommateurs ni producteurs. Dans le contexte des boissons sucrées, les externalités négatives incluent les coûts de santé publique engendrés par les maladies liées à leur consommation excessive. Ces coûts ne sont pas reflétés dans le prix du marché des boissons sucrées, conduisant à une surconsommation et donc à une défaillance du marché.
-
-En révoquant la taxe sur les boissons sucrées, le gouvernement israélien a non seulement ignoré ces externalités négatives mais a également envoyé un message préoccupant quant au respect des preuves scientifiques et de la nécessité de politiques soutenant le bien-être de la population. Cette décision pourrait compromettre les efforts visant à améliorer le bien-être à long terme, non seulement en Israël mais aussi en tant que précédent pour d'autres nations.
-
----
-
 Comme l'indique l'article, la décision du gouvernement israélien d'annuler la taxe sur les boissons sucrées, récemment instaurée, a suscité une vive réaction de la part des professionnels de la santé publique. Cette révocation est perçue comme un mépris pour les données scientifiques et les preuves accumulées mais aussi comme un recul majeur pour la santé publique. En effet, cette taxe avait été mise en place pour combattre les taux élevés de maladies non transmissibles associées à la consommation excessive de sucre, notamment l'obésité, le diabète de type 2, et certaines maladies cardiaques.
 
 Il y a défaillance du marché lorsque le mécanisme de marché libre ne parvient pas à distribuer les ressources de manière à maximiser le **bien-être** social. Les boissons sucrées sont des exemples de biens dont la consommation excessive peut mener à des externalités négatives de la consommation, c'est-à-dire des effets négatifs sur des tiers qui n'ont pas été pris en compte dans la décision de consommer ces boissons. Ces tiers peuvent inclure d'autres membres de la société qui subissent les conséquences sanitaires indirectes de cette surconsommation, ainsi que les systèmes de santé qui doivent gérer l'augmentation des maladies liées à cette consommation.
@@ -34,6 +5,7 @@ Il y a défaillance du marché lorsque le mécanisme de marché libre ne parvien
 Ce commentaire explore l'impact de l'annulation de la taxe sur les boissons sucrées sur le **bien-être** social et la défaillance du marché en Israël. Le concept clé de **bien-être** implique une analyse des effets à long terme de la consommation de boissons sucrées sur la santé publique et les coûts associés pour la société.
 
 ![[EN BS]]
+*Figure 1 - Défaillance de marché par l'Annulation de la Taxe sur les Boissons Sucrées en Israël*
 
 La figure 1 illustre la défaillance du marché due à la surconsommation de boissons sucrées en Israël, exacerbée par l'annulation récente de la taxe sur ces produits. Cette annulation risque d'augmenter la consommation de boissons sucrées, contribuant ainsi à une hausse des maladies non transmissibles (MNT) et des coûts associés pour la société.
 
@@ -44,6 +16,7 @@ Le BMS ne reflète pas les coûts sociaux engendrés par la consommation excessi
 L'annulation de la taxe sur les boissons sucrées entraîne un déplacement de la courbe du CPM vers le bas, réduisant le prix de marché $P_1$ et augmentant la quantité de marché $Q_1$, éloignant ainsi le marché de l'efficacité allocative. Cela résulte en une surconsommation encore plus grande de boissons sucrées, exacerbant la défaillance du marché. La zone hachurée en orange sur le graphique représente la perte sèche due à cette surconsommation, reflétant les coûts sociaux non compensés et les effets négatifs sur la santé publique.
 
 ![[EN BS 2]]
+*Figure 2 - Effets de l'Annulation de la Taxe sur les Coûts Sociaux et le Marché des Boissons Sucrées*
 
 La décision d'annuler la taxe sur les boissons sucrées illustrée dans la figure 2 entraîne un déplacement de la courbe de coût marginal social $CMS$ de $CMS_2$ à $CMS$, reflétant une diminution de l'internalisation des externalités négatives liées à la consommation de boissons sucrées. Cette régression vers $CMS$ indique que les coûts externes, tels que les problèmes de santé publique et les impacts environnementaux, ne sont plus correctement pris en compte dans le prix du marché. Le prix des boissons sucrées revient de $P_{Taxes}$ à $P_1$, le prix de marché sans taxe. Cette réduction de prix va ainsi augmenter la quantité consommée de $Q^*$ à $Q_1$, dépassant le niveau socialement optimal. 
 
