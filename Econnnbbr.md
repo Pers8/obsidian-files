@@ -27,3 +27,10 @@ Cette annulation réduit l'efficacité avec laquelle les externalités négative
 À long terme, l'absence de taxe pourrait limiter les progrès dans la lutte contre les maladies liées au régime alimentaire et augmenter les charges économiques sur le système de santé. Cela pourrait également compromettre les efforts internationaux visant à promouvoir des politiques de santé publique basées sur des données probantes, comme souligné par les professionnels de la santé dans leur lettre à The Lancet.
 
 En conclusion, l'annulation de la taxe sur les boissons sucrées en Israël représente un pas en arrière dans la gestion des externalités négatives associées à leur consommation. Cette décision est susceptible de réduire le **bien-être** général de la société en augmentant les coûts de santé et en diminuant la qualité de vie, tout en compromettant les efforts de santé publique à l'échelle mondiale.
+
+
+
+
+
+
+Welcome to my application Sterling Secure for my client John Smith. Secure Secure provides a platform which allow users to have a complete oversight of their finances being able to securely perform and manage transactions within the company database
