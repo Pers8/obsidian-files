@@ -34,3 +34,5 @@ En conclusion, l'annulation de la taxe sur les boissons sucrées en Israël repr
 
 
 Welcome to my application Sterling Secure for my client John Smith. Secure Secure provides a platform which allow users to have a complete oversight of their finances being able to securely perform and manage transactions within the company database
+
+

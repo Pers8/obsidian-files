@@ -3549,8 +3549,8 @@ Taxes ^6UGgsvz4
 		},
 		{
 			"type": "text",
-			"version": 419,
-			"versionNonce": 1383173656,
+			"version": 420,
+			"versionNonce": 1367100264,
 			"isDeleted": false,
 			"id": "NDJsifS3",
 			"fillStyle": "solid",
@@ -3559,18 +3559,18 @@ Taxes ^6UGgsvz4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -66.70675715694415,
+			"x": -66.70590784734853,
 			"y": -250.49141600909792,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#050505",
-			"width": 6.281529551808423,
-			"height": 11.032720797407764,
+			"width": 6.2798309326171875,
+			"height": 11.032720797407762,
 			"seed": 1967114856,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713018764954,
+			"updated": 1713101249285,
 			"link": null,
 			"locked": false,
 			"fontSize": 8.82617663792621,
@@ -3582,7 +3582,7 @@ Taxes ^6UGgsvz4
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 8.000000000000002
+			"baseline": 8
 		},
 		{
 			"id": "sMg2SsNLZjtUTI5r18FOt",
@@ -3645,7 +3645,7 @@ Taxes ^6UGgsvz4
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 611.826858448966,
-		"scrollY": 412.1438741287463,
+		"scrollY": -436.88431296968287,
 		"zoom": {
 			"value": 1.2861763797641774
 		},
