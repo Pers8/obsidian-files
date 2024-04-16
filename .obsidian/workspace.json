@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IB/Physics.md",
+                "file": "IA Comp Sci ROT.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econnnbbr.md",
+                "file": "IA Comp Sci ROT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econnnbbr.md",
+                "file": "IA Comp Sci ROT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econnnbbr.md"
+                "file": "IA Comp Sci ROT.md"
               }
             }
           },
@@ -262,16 +262,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "57cae50e3756bf06",
+  "active": "0106009c949cd181",
   "lastOpenFiles": [
-    "Excalidraw/EN BS 2.md",
+    "Physics/Loi des gaz parfait.md",
+    "IB/Physics.md",
+    "Théorie cinétique des gaz parfaits (contraire de réel).md",
+    "Grandeurs physiques fondamentales.md",
     "Econnnbbr.md",
+    "Excalidraw/EN BS 2.md",
     "Excalidraw/EN BS.md",
     "Math.md",
     "IB/Economy.md",
     "Economy/Impôts indirects.md",
     "IB/English.md",
-    "IB/Physics.md",
     "Physics/Loi de gravitation de Newton.md",
     "Physics/Champ de gravitation.md",
     "Nombres complexes.md",
@@ -297,9 +300,6 @@
     "Aberrations de la lentille.md",
     "assets/Pasted image 20240406092707.png",
     "assets/Pasted image 20240406092654.png",
-    "Grossissement angulaire (M).md",
-    "Loupe.md",
-    "Œil humain.md",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
