@@ -40,7 +40,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "IA Comp Sci C-E.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d2a9d99d8531b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA Comp Sci script.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "IA Comp Sci script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "IA Comp Sci script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci C-A.md"
+                "file": "IA Comp Sci script.md"
               }
             }
           },
@@ -262,8 +274,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0106009c949cd181",
+  "active": "1d2a9d99d8531b74",
   "lastOpenFiles": [
+    "Frottement statique.md",
+    "IA Comp Sci script.md",
+    "IA Comp Sci C-E.md",
+    "IA Comp Sci C-A.md",
     "IA Comp Sci ROT.md",
     "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
@@ -286,18 +302,14 @@
     "Physics/Le modèle atomique de Rutherford.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/📝Dashboard.md",
-    "Fibres optiques.md",
     "assets/Pasted image 20240406093519.png",
-    "Miroirs sphériques.md",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
     "assets/Pasted image 20240406093359.png",
     "assets/Pasted image 20240406093341.png",
-    "Télescope.md",
     "assets/Pasted image 20240406093217.png",
     "assets/Pasted image 20240406093023.png",
     "assets/Pasted image 20240406093005.png",
-    "Aberrations de la lentille.md",
     "assets/Pasted image 20240406092707.png",
     "assets/Pasted image 20240406092654.png",
     "Data Base.canvas",
