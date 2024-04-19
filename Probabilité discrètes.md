@@ -27,7 +27,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement certain:: toutes les issues
 <!--SR:!2024-02-20,114,310-->
 - Evénement impossible:: aucune issue
-<!--SR:!2024-01-07,68,290-->
+<!--SR:!2024-11-01,196,290-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
