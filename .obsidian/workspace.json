@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci ROT.md",
+                "file": "IA Comp Sci C-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci ROT.md",
+                "file": "IA Comp Sci C-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci ROT.md",
+                "file": "IA Comp Sci C-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci ROT.md"
+                "file": "IA Comp Sci C-A.md"
               }
             }
           },
@@ -264,6 +264,7 @@
   },
   "active": "0106009c949cd181",
   "lastOpenFiles": [
+    "IA Comp Sci ROT.md",
     "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
@@ -282,7 +283,6 @@
     "Identités trigonométriques.md",
     "Article Micro.md",
     "Cercle trigonométrique.md",
-    "IA Comp Sci ROT.md",
     "Physics/Le modèle atomique de Rutherford.md",
     "Physics/Energie discrète et Radioactivité.md",
     "IB/📝Dashboard.md",
