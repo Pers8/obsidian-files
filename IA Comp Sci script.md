@@ -9,8 +9,6 @@ Bienvenue à la démonstration du site web que j'ai conçu pour mon client, Exis
 **Troisième critère de succès : Gestion des commandes**
 "Les utilisateurs ont la possibilité de gérer et de créer des commandes directement à partir du site web. Un formulaire de commande détaillé guide l'utilisateur à travers le processus, de la sélection des articles jusqu'à la confirmation de la commande avec des messages de succès ou d'erreur."
 
-Les commandes peuvent être gérées et créées directement depuis le site web, ce qui simplifie le processus d’achat et assure une gestion efficace des transactions.
-
 **Quatrième critère de succès : Commandes multiples**
 "Le site permet également de commander plusieurs articles à la fois, simplifiant ainsi l'expérience d'achat pour les clients qui ont besoin de plusieurs services."
 
@@ -25,5 +23,3 @@ Les commandes peuvent être gérées et créées directement depuis le site web,
 
 **Quatrième extensibilité : Sécurité renforcée**
 "Enfin, la sécurité est essentielle. Nous allons renforcer la protection du site contre les attaques, en implémentant le HTTPS, en se prémunissant contre les injections SQL et les attaques DDoS pour assurer la sécurité des données des utilisateurs."
-
-Ce script devrait vous aider à créer une vidéo de 5 à 7 minutes, en vous inspirant de l'exemple fourni et en mettant en avant les fonctionnalités et les plans d'extension de votre site web. Parlez naturellement et assurez-vous de lier chaque point aux capacités réelles de votre site, telles que décrites dans le code fourni. Bonne chance avec votre enregistrement!
