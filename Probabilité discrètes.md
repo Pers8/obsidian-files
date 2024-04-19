@@ -5,7 +5,7 @@ tags:
 # Probabilité discrètes
 ## Experience aléatoire-événements
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
-<!--SR:!2024-01-13,74,290-->
+<!--SR:!2025-02-10,297,310-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-02-18,112,310-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
@@ -40,8 +40,8 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 <!--SR:!2024-02-19,113,310-->
 - $P(0)$=::0
 <!--SR:!2024-01-10,71,290-->
-- $P(A)+P(A')$=::1 
-<!--SR:!2024-01-09,70,290-->
+- $P(A)+P(A')$=::1
+<!--SR:!2025-01-25,281,310-->
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-11-09,11,270-->
 - $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}=\frac{n(A\cap B)}{n(B)}$
@@ -77,7 +77,7 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 <!--SR:!2023-11-06,6,233-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
-<!--SR:!2023-11-11,9,233-->
+<!--SR:!2024-04-25,6,213-->
 
 
 $P(A \le X \le B)$ =::$P(X \le A) - P(X \le B-1)$

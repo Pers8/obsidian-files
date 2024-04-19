@@ -11,11 +11,11 @@ tags: [math]
 - $\frac{\pi}{3}$ radians =:: 60 degrés
 <!--SR:!2023-11-20,55,270-->
 - $\frac{\pi}{4}$ radians =:: 45 degrés
-<!--SR:!2023-12-24,56,250-->
+<!--SR:!2024-05-15,26,230-->
 - $\frac{\pi}{6}$ radians =:: 30 degrés
 <!--SR:!2024-01-19,103,290-->
 
 - Longueur d'un arc=::$$\Large{l=\theta r}$$
 <!--SR:!2024-01-16,100,290-->
 - Air d'un secteur=::$$\Large{A=\frac{\theta r^{2}}{2}}$$
-<!--SR:!2024-01-18,77,270-->
+<!--SR:!2024-05-27,38,250-->
