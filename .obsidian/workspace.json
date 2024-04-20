@@ -52,58 +52,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA Comp Sci script.md",
+                "file": "IB/Economy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f1df464531044be",
+            "id": "71f7a8cb7ae92c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "Codium chat.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "57cae50e3756bf06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econnnbbr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71b294df380a5213",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/EN BS 2.md"
-              }
-            }
-          },
-          {
-            "id": "d425b4bba009d1fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/EN BS.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "Codium chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA Comp Sci C-A.md",
+                "file": "Codium chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA Comp Sci C-A.md"
+                "file": "Codium chat.md"
               }
             }
           },
@@ -274,23 +242,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0106009c949cd181",
+  "active": "71f7a8cb7ae92c61",
   "lastOpenFiles": [
+    "IB/Economy.md",
+    "Codium chat.md",
+    "Econnnbbr.md",
+    "Math.md",
+    "Economy/Formule de l'élasticité prix demande.md",
+    "Déflation, désinflation et leurs coûts.md",
+    "Inflation et ces causes.md",
+    "IA Comp Sci script.md",
+    "IA Comp Sci C-A.md",
     "IA Comp Sci C-B.md",
     "IA Comp Sci C-E.md",
-    "IA Comp Sci script.md",
     "Frottement statique.md",
-    "IA Comp Sci C-A.md",
     "IA Comp Sci ROT.md",
     "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Grandeurs physiques fondamentales.md",
-    "Econnnbbr.md",
     "Excalidraw/EN BS 2.md",
     "Excalidraw/EN BS.md",
-    "Math.md",
-    "IB/Economy.md",
     "Economy/Impôts indirects.md",
     "IB/English.md",
     "Physics/Loi de gravitation de Newton.md",
@@ -298,10 +270,6 @@
     "Nombres complexes.md",
     "IB/Maths.md",
     "Identités trigonométriques.md",
-    "Article Micro.md",
-    "Cercle trigonométrique.md",
-    "Physics/Le modèle atomique de Rutherford.md",
-    "Physics/Energie discrète et Radioactivité.md",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
