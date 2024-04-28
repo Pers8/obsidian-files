@@ -66,3 +66,15 @@
 - Can be huge process depending on sizes of systems
 - Necessary when transitioning to new system
 - **Possible problems** : Incompatible file formats, Data structure differences, Validations rules, Incomplete data transfers, Different data, currency, or character conventions
+
+
+
+
+
+
+
+
+
+
+
+
