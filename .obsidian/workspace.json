@@ -27,9 +27,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 248.29960280254227,
-                  "y": 1348.9724791230465,
-                  "zoom": -0.6948290265941548
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codium chat.md",
+                "file": "Set up my bot.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codium chat.md",
+                "file": "Set up my bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codium chat.md",
+                "file": "Set up my bot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codium chat.md"
+                "file": "Set up my bot.md"
               }
             }
           },
@@ -245,7 +245,7 @@
   "active": "71f7a8cb7ae92c61",
   "lastOpenFiles": [
     "IB/Economy.md",
-    "Codium chat.md",
+    "Set up my bot.md",
     "Econnnbbr.md",
     "Math.md",
     "Economy/Formule de l'élasticité prix demande.md",
