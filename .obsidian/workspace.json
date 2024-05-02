@@ -27,9 +27,9 @@
               "state": {
                 "file": "Data Base.canvas",
                 "viewState": {
-                  "x": 248.29960280254227,
-                  "y": 1348.9724791230465,
-                  "zoom": -0.6948290265941548
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -81,9 +81,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3f882861d522b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identités trigonométriques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science notes.md",
+                "file": "Identités trigonométriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science notes.md",
+                "file": "Identités trigonométriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science notes.md"
+                "file": "Identités trigonométriques.md"
               }
             }
           },
@@ -254,11 +266,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "07ae0b2402916070",
+  "active": "e3f882861d522b5b",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Cercle trigonométrique.md",
+    "Identités trigonométriques.md",
+    "Radians.md",
+    "Lois des sinus et cosinus.md",
+    "IB/English.md",
+    "IB/Economy.md",
+    "IB/EE.md",
     "Computer science notes.md",
     "Set up my bot.md",
-    "IB/Economy.md",
     "Econnnbbr.md",
     "Math.md",
     "Economy/Formule de l'élasticité prix demande.md",
@@ -275,13 +294,6 @@
     "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "Grandeurs physiques fondamentales.md",
     "Excalidraw/EN BS 2.md",
-    "Excalidraw/EN BS.md",
-    "Economy/Impôts indirects.md",
-    "IB/English.md",
-    "Physics/Loi de gravitation de Newton.md",
-    "Physics/Champ de gravitation.md",
-    "Nombres complexes.md",
-    "IB/Maths.md",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
