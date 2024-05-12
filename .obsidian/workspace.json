@@ -69,43 +69,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "07ae0b2402916070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3f882861d522b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identités trigonométriques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f404a8860b195b3b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Normalisation.md"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Normalisation.md",
+                "file": "IB/Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Normalisation.md",
+                "file": "IB/Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Normalisation.md"
+                "file": "IB/Economy.md"
               }
             }
           },
@@ -276,11 +242,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f404a8860b195b3b",
+  "active": "1d2a9d99d8531b74",
   "lastOpenFiles": [
-    "assets/Pasted Image 20240505145113_501.png",
+    "Set up my bot.md",
+    "Computer science notes.md",
     "Identités trigonométriques.md",
     "Excalidraw/Normalisation.md",
+    "assets/Pasted Image 20240505145113_501.png",
     "IB/Maths.md",
     "Cercle trigonométrique.md",
     "Radians.md",
@@ -288,8 +256,6 @@
     "IB/English.md",
     "IB/Economy.md",
     "IB/EE.md",
-    "Computer science notes.md",
-    "Set up my bot.md",
     "Econnnbbr.md",
     "Math.md",
     "Economy/Formule de l'élasticité prix demande.md",
@@ -313,7 +279,6 @@
     "assets/Pasted image 20240406093023.png",
     "assets/Pasted image 20240406093005.png",
     "assets/Pasted image 20240406092707.png",
-    "assets/Pasted image 20240406092654.png",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
