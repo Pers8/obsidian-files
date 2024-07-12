@@ -78,3 +78,16 @@ $$
 3. [[Chômage faible]]
 4. [[Inflation et ces causes]]
 1. [[Déflation, désinflation et leurs coûts]]
+
+
+
+
+
+
+$$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=(-1)^2+(2\times(-1)\times(\sqrt{-3}))+(\sqrt{-3})^2}$$
+$$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=1-2\sqrt{-3}-3}$$
+$$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2\sqrt{-3}}$$
+$$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2\sqrt{3\times(-1)}}$$
+$$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2\times\sqrt{3}\times\sqrt{-1}}$$
+$$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2i\sqrt{3}}$$
+$$\boxed{\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=\textcolor{green}{-2(1+i\sqrt{3})}}}$$
