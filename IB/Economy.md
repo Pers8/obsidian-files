@@ -91,3 +91,5 @@ $$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2\sqrt{3\times(-1)}}$$
 $$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2\times\sqrt{3}\times\sqrt{-1}}$$
 $$\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=-2-2i\sqrt{3}}$$
 $$\boxed{\Large{\textcolor{red}{(-1+\sqrt{-3})^2}=\textcolor{green}{-2(1+i\sqrt{3})}}}$$
+
+$$\Large{\sqrt{a\times b}=\sqrt{ab}=\sqrt{a}\times\sqrt{b}}$$
