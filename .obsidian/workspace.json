@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23f2352b6f3d89cc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +190,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "23f2352b6f3d89cc",
+  "active": "800cc48fe0aaf3a8",
   "lastOpenFiles": [
     "IB/Economy.md",
     "Elden TD codes.md",

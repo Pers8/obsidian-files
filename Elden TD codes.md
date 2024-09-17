@@ -248,5 +248,19 @@ end
 SpawnUnitEvent.OnServerEvent:Connect(unit.Spawn)
 
 return unit
-
 ```
+
+$$\LARGE{(f ° g)(x) = f(g(x))}$$
+$$\large{\text{We know that} \hspace{2mm}f(x) = -\frac{x}{8}-1 \hspace{2mm} \text{and} \hspace{2mm} g(x)=x^3 \hspace{2mm} \text{so using the logic above :}}$$
+$$\LARGE{(f ° g)(x) = f(g(x))=-\frac{x^3}{8}-1} \hspace{2mm}$$
+$$\large{\text{Above we basically plugged g(x) which is} \hspace{2mm} x^3 \hspace{2mm} \text{into f(x) 👍}}$$
+$$\large{\text{Now that we got (f°g)(x), we can do} \hspace{2mm} (f°g)^{-1}(x) \hspace{2mm} \text{:}}$$
+$$\LARGE{y = -\frac{x^3}{8}-1}$$
+$$\LARGE{x =  -\frac{y^3}{8}-1}$$
+$$\LARGE{x + 1 =  -\frac{y^3}{8}}$$
+$$\LARGE{-8(x + 1) =  y^3}$$
+$$\LARGE{y = \sqrt[3]{-\frac{x + 1}{8}}}$$
+$$\LARGE{(f°g)^{-1}(x)  = \sqrt[3]{-8(x + 1)}}$$
+$$\LARGE{(f°g)^{-1}(3)  = \sqrt[3]{-8((3) + 1)}}$$
+$$\LARGE{(f°g)^{-1}(3)  = \sqrt[3]{-8} \times \sqrt[3]{3 + 1} }$$
+$$\boxed{\LARGE{(f°g)^{-1}(3)  = -2\sqrt[3]{3 + 1} }}$$
