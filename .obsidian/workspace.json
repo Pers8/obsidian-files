@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elden TD codes.md",
+                "file": "Logarithmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elden TD codes.md",
+                "file": "Logarithmes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elden TD codes.md",
+                "file": "Logarithmes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elden TD codes.md"
+                "file": "Logarithmes.md"
               }
             }
           },
@@ -192,14 +192,15 @@
   },
   "active": "800cc48fe0aaf3a8",
   "lastOpenFiles": [
-    "IB/Economy.md",
+    "IB/Maths.md",
+    "IB/Comp Sci.md",
     "Elden TD codes.md",
+    "IB/Economy.md",
     "Set up my bot.md",
     "Computer science notes.md",
     "Identités trigonométriques.md",
     "Excalidraw/Normalisation.md",
     "assets/Pasted Image 20240505145113_501.png",
-    "IB/Maths.md",
     "Cercle trigonométrique.md",
     "Radians.md",
     "Lois des sinus et cosinus.md",
@@ -218,7 +219,6 @@
     "IA Comp Sci ROT.md",
     "Physics/Loi des gaz parfait.md",
     "IB/Physics.md",
-    "Théorie cinétique des gaz parfaits (contraire de réel).md",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
