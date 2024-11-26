@@ -24,3 +24,6 @@ Etapes pour utiliser la méthode d'Euler avec une équation différentielle du p
 - S'assurer que l'équation différentielle est sous la forme $\frac{dy}{dx}=f(x,y)$
 - Ecrire les équations de récurrence à l'aide des formules $y_{n+1}=y_{n}+h\times f(x_{n},y_{n})$ et $x_{n+1}=x_{n}+h$ ($h$ est la taille de l'étape qui est donnée)
 - Utiliser la fonction de récursivité du GDC pour calculer l'approximation de la méthode d'Euler sur le nombre correct d'étapes. (les valeurs de $x_{0}$ et $y_{0}$ sont données)
+
+
+$$\LARGE{\cos^2(x)=\frac{1+\cos(2x)}{2}}$$
