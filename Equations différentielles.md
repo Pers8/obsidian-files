@@ -40,3 +40,9 @@ $$\LARGE{\text{We can use the power reduction identity for } \textcolor{red}{\co
 \textcolor{green}{\frac{1+\cos(8x)}{2}}}{4} }$$
 $$\LARGE{\textcolor{blue}{\cos^4(2x)} = \frac{1 + 2\cos(4x)    
 +\frac{1}{2}+\frac{\cos(8x)}{2}}{4} }$$
+$$\LARGE{\textcolor{blue}{\cos^4(2x)} = \frac{1 +\frac{1}{2} + 2\cos(4x)    
++\frac{\cos(8x)}{2}}{4} }$$
+$$\LARGE{\textcolor{blue}{\cos^4(2x)} = \frac{\frac{3}{2} + 2\cos(4x)    
++\frac{\cos(8x)}{2}}{4} }$$
+$$\LARGE{\boxed{\textcolor{blue}{\cos^4(2x)} = \textcolor{red}{{\frac{3}{8} + \frac{\cos(4x)}{2}    
++\frac{\cos(8x)}{8}} }}}$$
