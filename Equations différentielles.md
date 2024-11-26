@@ -31,3 +31,5 @@ $$\LARGE{cos^{4}(2x) = (cos^2(2x))^2 }$$
 $$\LARGE{(cos^2(2x))^2 = \left( \frac{1 + \cos(4x)}{2} \right)^2 }$$
 $$\LARGE{\text{Now let's expand } \left( \frac{1 + \cos(4x)}{2} \right)^2 }$$
 $$\LARGE{\left( \frac{1 + \cos(4x)}{2} \right)^2 = \frac{(1 + \cos(4x))}{4}^2 }$$
+$$\LARGE{ \frac{(1 + \cos(4x))}{4}^2 = \frac{1 + 2\cos(4x) + \cos^2(4x)}{4}}$$
+$$\LARGE{\text{We can use the power reduction identity for } \cos^2(4x) }$$
