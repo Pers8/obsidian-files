@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Style.md",
+                "file": "Equations différentielles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Style.md",
+                "file": "Equations différentielles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Style.md",
+                "file": "Equations différentielles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Style.md"
+                "file": "Equations différentielles.md"
               }
             }
           },
@@ -192,6 +192,12 @@
   },
   "active": "800cc48fe0aaf3a8",
   "lastOpenFiles": [
+    "IB/Maths.md",
+    "Série Maclaurin.md",
+    "Cinématique.md",
+    "Dérivation.md",
+    "Règle de l'Hôpital.md",
+    "Style.md",
     "Séries et Séquences.md",
     "IA Comp Sci C-A.md",
     "IA Comp Sci Appendix B.md",
@@ -199,7 +205,6 @@
     "IB/📝Dashboard.md",
     "IB/TOK.md",
     "Logarithmes.md",
-    "IB/Maths.md",
     "Elden TD codes.md",
     "IB/Economy.md",
     "Set up my bot.md",
@@ -214,11 +219,6 @@
     "IB/EE.md",
     "Econnnbbr.md",
     "Math.md",
-    "Economy/Formule de l'élasticité prix demande.md",
-    "Déflation, désinflation et leurs coûts.md",
-    "Inflation et ces causes.md",
-    "IA Comp Sci script.md",
-    "IA Comp Sci C-B.md",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
