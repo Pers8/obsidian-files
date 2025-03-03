@@ -47,3 +47,4 @@ $$
 6. [[Règle de l'Hôpital]]
 
 
+https://www.chess.com/game/computer/233367603

@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Maths"
             }
-          },
-          {
-            "id": "70a780dbd12f2964",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,12 +221,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "48550da8366f57c8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -262,7 +260,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7a43564a9b3419ae",
+  "active": "48550da8366f57c8",
   "lastOpenFiles": [
     "Vecteurs.md",
     "IB/Maths.md",
