@@ -231,12 +231,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a25ecde8a164537f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -260,14 +270,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "48550da8366f57c8",
+  "active": "a25ecde8a164537f",
   "lastOpenFiles": [
-    "Vecteurs.md",
-    "IB/Maths.md",
     "Identités trigonométriques.md",
+    "IB/Maths.md",
+    "Radians.md",
+    "Vecteurs.md",
     "Cercle trigonométrique.md",
     "Lois des sinus et cosinus.md",
-    "Radians.md",
     "Série Maclaurin.md",
     "Cinématique.md",
     "Dérivation.md",
