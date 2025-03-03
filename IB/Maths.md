@@ -45,6 +45,3 @@ $$
 4. [[Equations différentielles]]
 5. [[Série Maclaurin]]
 6. [[Règle de l'Hôpital]]
-
-
-https://www.chess.com/game/computer/233367603
