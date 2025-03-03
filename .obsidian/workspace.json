@@ -25,16 +25,30 @@
             "id": "aa095cf301743eeb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "IB/Maths.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Maths"
+            }
+          },
+          {
+            "id": "70a780dbd12f2964",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equations différentielles.md",
+                "file": "IB/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Equations différentielles"
+              "title": "Backlinks for Maths"
             }
           },
           {
@@ -125,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equations différentielles.md",
+                "file": "IB/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Equations différentielles"
+              "title": "Outgoing links from Maths"
             }
           },
           {
@@ -166,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equations différentielles.md"
+                "file": "IB/Maths.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Equations différentielles"
+              "title": "Outline of Maths"
             }
           },
           {
@@ -208,12 +223,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7a43564a9b3419ae",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -237,9 +262,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a26f0d20267f449",
+  "active": "7a43564a9b3419ae",
   "lastOpenFiles": [
+    "Vecteurs.md",
     "IB/Maths.md",
+    "Identités trigonométriques.md",
+    "Cercle trigonométrique.md",
+    "Lois des sinus et cosinus.md",
+    "Radians.md",
     "Série Maclaurin.md",
     "Cinématique.md",
     "Dérivation.md",
@@ -256,16 +286,11 @@
     "IB/Economy.md",
     "Set up my bot.md",
     "Computer science notes.md",
-    "Identités trigonométriques.md",
     "Excalidraw/Normalisation.md",
     "assets/Pasted Image 20240505145113_501.png",
-    "Cercle trigonométrique.md",
-    "Radians.md",
-    "Lois des sinus et cosinus.md",
     "IB/English.md",
     "IB/EE.md",
     "Econnnbbr.md",
-    "Math.md",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
