@@ -45,3 +45,25 @@ $$
 4. [[Equations différentielles]]
 5. [[Série Maclaurin]]
 6. [[Règle de l'Hôpital]]
+
+
+At the moment the dart is fired, the monkey begins to fall so the vertical position of the dart at time t is :
+$$
+y_{dart} = v_{y_0}t-\frac{1}{2}gt^2
+$$
+Btw $v_{y_0}$ is the initial vertical component of the dart's velocity. Also the vertical position of the monkey at time t is :
+$$
+y_{monkey} = h-\frac{1}{2}gt^2
+$$
+$h$ is the initial height of the monkey here. For the dart to hit the monkey there must be a time t where both the horizontal and vertical positions of the dart and monkey coincide so you js write the equality :
+$$
+v_{y_0}t-\frac{1}{2}gt^2 = h-\frac{1}{2}gt^2
+$$
+$$
+v_{y_0}t-\cancel{\frac{1}{2}gt^2} = h-\cancel{\frac{1}{2}gt^2}
+$$
+$$
+v_{y_0}t = h
+$$
+
+This implies that the initial vertical velocity of the dart must be such that $v_{y_0} = \frac{h}{t}$ which is satisfied if the dart is aimed directly at the monkey's initial position (since $\tan⁡(\theta)=\frac{h}{horizontal \hspace{2mm} distance}$ and u need a drawing to get a clear idea of why). The horizontal distance must also be covered by the dart in the same time t which is satisfied if the horizontal velocity is $v_{x_0} = \frac{horizontal \hspace{2mm} distance}{t}$ (same here). The dart will hit the monkey if it's aimed directly at the monkey's initial position at the moment the dart is fired and it's bc the downward acceleration due to gravity affects both the dart and the monkey equally which cause them to "fall" at the same rate vertically while the dart moves horizontally and that's why he needs to aim at the center

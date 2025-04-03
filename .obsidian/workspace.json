@@ -261,12 +261,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ad91210f85c1a487",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -290,7 +300,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "33fef85018e32ddb",
+  "active": "ad91210f85c1a487",
   "lastOpenFiles": [
     "Identités trigonométriques.md",
     "IB/Maths.md",
