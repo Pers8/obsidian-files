@@ -8,7 +8,7 @@ Dakar, Senegal
 
 Dear Visa Officer,  
 
-My name is Njami Tchuisseu Eldad Peres, a Cameroonian student currently residing in Senegal. I have been accepted into the Bachelor of Engineering (BEng) in Computer Engineering program at Concordia University for the Fall 2025 intake. I am writing this letter to explain my academic background, reasons for choosing Canada and my future goals.
+My name is Eldad Peres Njami Tchuisseu, a Cameroonian student currently residing in Senegal. I have been accepted into the Bachelor of Engineering (BEng) in Computer Engineering program at Concordia University for the Fall 2025 intake. I am writing this letter to explain my academic background, reasons for choosing Canada and my future goals.
  
 Since high school, I’ve been passionate about technology whether it’s coding, building projects or solving problems. My strong background in math and hands-on experience in programming and game development have solidified my interest in this field. Therefore, Computer Engineering is the perfect blend of hardware and software and I want to deepen my knowledge to innovate in AI, embedded systems and robotics.  
  
