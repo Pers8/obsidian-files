@@ -1,11 +1,3 @@
-**Motivation Letter for Canada Study Visa**  
-
-**Your Name:** Njamí Tchuisseu Eldad Peres  
-**Address:** Sacré Coeur 3, VDN, Villa 10408, Senegal  
-**Email:** pereslcb@gmail.com  
-**Phone:** +221 78 113 07 41  
-
-
 **To,**  
 Visa Officer  
 Canada Visa Application Center  
@@ -31,4 +23,8 @@ My education will be funded through parent's savings and I will be living with m
 This program at Concordia is the next logical step in my journey and I’m determined to make the most of it. I’d be grateful for the chance to contribute my skills to Canadian academia while preparing to innovate back home. Thank you for considering my application.  
 
 Sincerely,  
-**Njami Tchuisseu Eldad Peres**  
+Njami Tchuisseu Eldad Peres 
++221 78 113 07 41
+pereslcb@gmail.com  
+Sacré Coeur 3, VDN, Villa 10408, Senegal  
+04/07/2025
