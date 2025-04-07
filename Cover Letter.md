@@ -4,21 +4,22 @@
 **Address:** Sacré Coeur 3, VDN, Villa 10408, Senegal  
 **Email:** pereslcb@gmail.com  
 **Phone:** +221 78 113 07 41  
-**Date:** [Current Date]  
+
 
 **To,**  
 Visa Officer  
 Canada Visa Application Center  
-[City, Country]  
+Dakar, Senegal 
+04/07/2025
 
-**Subject:** Motivation Letter for Study Visa – BEng Computer Engineering at Concordia University  
+**Subject:** Cover Letter for Study Visa application – BEng Computer Engineering at Concordia University  
 
 Dear Visa Officer,  
 
-My name is Njamí Tchuisseu Eldad Peres, a Cameroonian student currently residing in Senegal. I am excited to share that I have been accepted into the Bachelor of Engineering (BEng) in Computer Engineering program at Concordia University for the Fall 2024 intake. This opportunity means a lot to me, and I’d like to explain why I chose Canada, why this program aligns with my goals, and how I plan to make the most of this experience.  
+My name is Njami Tchuisseu Eldad Peres, a Cameroonian student currently residing in Senegal. I have been accepted into the Bachelor of Engineering (BEng) in Computer Engineering program at Concordia University for the Fall 2025 intake. I am writing this letter to explain my academic background, reasons for choosing Canada and my future goals.
 
 ### **Why Computer Engineering?**  
-Since high school, I’ve been passionate about technology—whether it’s coding, building projects, or solving problems. My strong background in math (I competed in the Kangourou des Mathématiques and Euclid contests) and hands-on experience in programming (Python, JavaScript, SQL) and game development (Roblox Studio, VFX for "Blair") have solidified my interest in this field. I even designed websites for freelancers and an environmental awareness project, which taught me how tech can drive real-world impact. Computer Engineering is the perfect blend of hardware and software, and I want to deepen my knowledge to innovate in AI, embedded systems, or robotics.  
+Since high school, I’ve been passionate about technology whether it’s coding, building projects or solving problems. My strong background in math (I competed in the Kangourou des Mathématiques and Euclid contests) and hands-on experience in programming (Python, JavaScript, SQL) and game development (Roblox Studio, VFX for "Blair") have solidified my interest in this field. I even designed websites for freelancers and an environmental awareness project, which taught me how tech can drive real-world impact. Computer Engineering is the perfect blend of hardware and software, and I want to deepen my knowledge to innovate in AI, embedded systems, or robotics.  
 
 ### **Why Canada & Concordia University?**  
 Canada is a global leader in tech education and innovation, with a welcoming multicultural environment. Concordia University stood out to me because of its strong engineering faculty, hands-on labs, and co-op opportunities with companies like CAE and Bombardier. The program’s focus on practical learning matches my learning style—I thrive when applying theory to real projects. Plus, Montreal’s vibrant tech scene will give me exposure to startups and industry leaders.  
