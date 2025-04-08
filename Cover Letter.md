@@ -18,7 +18,7 @@ I graduated with an International Baccalaureate diploma from Le Collège Bilingu
  
 My goal is to become a skilled Computer Engineer and eventually work in an international atmosphere post-graduation and hence I would be looking for international opportunities globally including my native country Cameroon.
 
-My education will be funded through parent's savings and I will be living with my aunt who will take care of housing and any food expenses.
+My education will be funded through parent's savings and I will be living with my aunt that will take care of housing.
  
 This program at Concordia is the next logical step in my journey and I’m determined to make the most of it. Thank you for considering my application.  
 

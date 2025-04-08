@@ -18,7 +18,7 @@ Canada is a country renowned for the quality of its education and university sys
 
 After finishing my degree, my goal is to become a skilled quantitative trader and eventually work in an international environment hence I would be looking for worldwide opportunities including my home country Cameroon. 
 
-My higher education in Canada will be entirely financed by my parent’s savings and I will be living with my aunt, who will take care of housing and food expenses.
+My higher education in Canada will be entirely financed by my parent’s savings and I will be living with my aunt, who will take care of housing.
 
 Studying this program in Canada will be a step toward my professional aspirations and I am committed to making the most of this opportunity. I sincerely hope for a favorable consideration of my study visa application and thank you for your time. 
 
