@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cover Letter.md",
+                "file": "Cover Letter (Peres).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter"
+              "title": "Cover Letter (Peres)"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -358,10 +358,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "870139e5ae090fc0",
+  "active": "71e428cd8a57b5ad",
   "lastOpenFiles": [
-    "Cover Letter.md",
     "Cover Letter (Breal).md",
+    "Cover Letter (Peres).md",
     "IB/Maths.md",
     "Identités trigonométriques.md",
     "Radians.md",
