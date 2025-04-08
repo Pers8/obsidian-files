@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,12 +319,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2823c8972249e02f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -348,10 +358,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9d5afd8353b5f98c",
+  "active": "2823c8972249e02f",
   "lastOpenFiles": [
-    "Cover Letter.md",
     "Cover Letter (Breal).md",
+    "Cover Letter.md",
     "IB/Maths.md",
     "Identités trigonométriques.md",
     "Radians.md",
