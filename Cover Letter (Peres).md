@@ -25,7 +25,7 @@ $\hspace{2mm}$
 This program at Concordia is the next logical step in my journey and I’m determined to make the most of it. Thank you for considering my application.  
 
 Sincerely,  
-Eldad Péres  Njami Tchuisseu
+Eldad Péres Njami Tchuisseu
 +221 77 888 43 32/78 113 07 41
 pereslcb@gmail.com  
 Sacré Coeur 3, VDN, Villa 10408, Senegal  
