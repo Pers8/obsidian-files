@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -378,10 +378,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "870139e5ae090fc0",
+  "active": "71e428cd8a57b5ad",
   "lastOpenFiles": [
-    "Cover Letter (Peres).md",
+    "assets/Signature_Peres.png",
     "Cover Letter (Breal).md",
+    "Cover Letter (Peres).md",
     "IB/Maths.md",
     "Identités trigonométriques.md",
     "Radians.md",
@@ -406,7 +407,6 @@
     "Computer science notes.md",
     "Excalidraw/Normalisation.md",
     "assets/Pasted Image 20240505145113_501.png",
-    "IB/English.md",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
     "assets/Pasted image 20240406093414.png",
