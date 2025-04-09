@@ -20,6 +20,8 @@ After finishing my degree, my goal is to become a skilled quantitative trader an
 
 My higher education in Canada will be entirely financed by my parent’s savings and I will be living with my aunt, who will take care of housing.
 
+$\hspace{2mm}$
+$\hspace{2mm}$
 Studying this program in Canada will be a step toward my professional aspirations and I am committed to making the most of this opportunity. I sincerely hope for a favorable consideration of my study visa application and thank you for your time. 
 
 Sincerely, 
