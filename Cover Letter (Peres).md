@@ -20,6 +20,8 @@ My goal is to become a skilled Computer Engineer and eventually work in an inter
 
 My education will be funded through parent's savings and I will be living with my aunt that will take care of housing.
 
+$\hspace{2mm}$
+$\hspace{2mm}$
 This program at Concordia is the next logical step in my journey and I’m determined to make the most of it. Thank you for considering my application.  
 
 Sincerely,  
