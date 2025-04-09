@@ -329,12 +329,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ef513ac93a661d04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "horizontal",
@@ -358,7 +368,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71e428cd8a57b5ad",
+  "active": "ef513ac93a661d04",
   "lastOpenFiles": [
     "Cover Letter (Breal).md",
     "Cover Letter (Peres).md",
