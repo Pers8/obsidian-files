@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -349,12 +349,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1e945859a224de0b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -378,11 +388,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71e428cd8a57b5ad",
+  "active": "870139e5ae090fc0",
   "lastOpenFiles": [
-    "assets/Signature_Peres.png",
-    "Cover Letter (Breal).md",
     "Cover Letter (Peres).md",
+    "Cover Letter (Breal).md",
+    "assets/Signature_Breal.png",
+    "assets/Signature_Peres.png",
     "IB/Maths.md",
     "Identités trigonométriques.md",
     "Radians.md",
@@ -414,8 +425,6 @@
     "assets/Pasted image 20240406093341.png",
     "assets/Pasted image 20240406093217.png",
     "assets/Pasted image 20240406093023.png",
-    "assets/Pasted image 20240406093005.png",
-    "assets/Pasted image 20240406092707.png",
     "Data Base.canvas",
     "Untitled 1.loom",
     "assets/Interpretation Ondes stationnaire 1.docx",
