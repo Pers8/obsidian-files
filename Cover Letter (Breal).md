@@ -10,7 +10,7 @@ Dear Visa Officer,
 
 My name is Bréal Cicéron Tchuimi Tchuisseu and I am a Cameroonian student residing in Senegal. I have been accepted into the Bachelor of Science (Bsc) in Mathematical and Computational Finance (MACF) program at Concordia University for the Fall 2025 session. I am writing this letter to highlight my academic background, my reason for choosing Canada and my forward-looking goals. 
 
-I graduated with an International Baccalaureate at Le Collège bilingue, in Dakar. During my time at this school, I was nominated as a Modal student and was involved in many extracurricular activities including sports, community service activities and clubs concerning various fields including computer science, mathematics and chess. 
+I graduated with an International Baccalaureate at Le Collège bilingue in Dakar. During my time at this school, I was nominated as a Modal student and was involved in many extracurricular activities including sports, community service activities and clubs concerning various fields including computer science, mathematics and chess. 
 
 Since high school, my interest in financial markets and problem-solving in mathematics has been growing, which led me to do an internship where I learned about the fundamentals of the stock market, as well as taking part in competitions such as Le Kangourou des Mathématiques and Euclid. The MACF program will help me to learn the computational and modelling techniques and develop an analytical and strategic vision of risk management associated with complex financial transactions. 
 
