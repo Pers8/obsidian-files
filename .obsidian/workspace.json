@@ -386,9 +386,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "5f04ccbc9aa69371",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "horizontal",
@@ -412,7 +422,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "14ac3cd19e881433",
+  "active": "5f04ccbc9aa69371",
   "lastOpenFiles": [
     "Cover Letter (Breal).md",
     "Untitled 8.md",
