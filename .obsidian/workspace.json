@@ -78,15 +78,17 @@
             }
           },
           {
-            "id": "e966f1ee1380fed8",
+            "id": "1428b7220d01fb75",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Letter of Explanation Mom.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Letter of Explanation Mom"
             }
           }
         ],
@@ -444,10 +446,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "700c55531d67b33a",
+  "active": "1428b7220d01fb75",
   "lastOpenFiles": [
-    "Cover Letter (Breal).md",
     "Untitled 8.md",
+    "Letter of Explanation Mom.md",
+    "Cover Letter (Breal).md",
     "Cover Letter (Peres).md",
     "assets/Signature_Breal.png",
     "assets/Signature_Peres.png",
@@ -473,7 +476,6 @@
     "IB/Economy.md",
     "Set up my bot.md",
     "Computer science notes.md",
-    "Excalidraw/Normalisation.md",
     "assets/Pasted Image 20240505145113_501.png",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
