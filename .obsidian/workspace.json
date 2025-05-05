@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Untitled 8"
             }
+          },
+          {
+            "id": "e966f1ee1380fed8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -393,12 +405,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "700c55531d67b33a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -422,7 +444,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5f04ccbc9aa69371",
+  "active": "700c55531d67b33a",
   "lastOpenFiles": [
     "Cover Letter (Breal).md",
     "Untitled 8.md",
