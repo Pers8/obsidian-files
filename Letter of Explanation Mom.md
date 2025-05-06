@@ -8,3 +8,5 @@ Please let me know if further clarification or documentation is required. Thank 
 
 Sincerely,  
 Annick Guyliane Choujun Njamen
+
+220,276 ; 440,552 ; 660,828
