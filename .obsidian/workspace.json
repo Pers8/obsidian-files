@@ -437,12 +437,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "50bfc7dae40d479d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "horizontal",
@@ -466,7 +476,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e4b0815ea20553bc",
+  "active": "50bfc7dae40d479d",
   "lastOpenFiles": [
     "Untitled 8.md",
     "Letter of Explanation Mom.md",
