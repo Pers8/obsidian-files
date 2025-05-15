@@ -30,4 +30,6 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 - Qu'est ce que cela veut dire pour nous aujourd'hui ?
 **Cette parabole reste pertinente aujourd'hui dans un monde souvent tourné vers la consommation et l'accumulation de richesses et cela s'est accentué due à l'avènement des réseaux sociaux. Elle nous rappelle l'importance de la générosité, de la gratitude et de la recherche de valeurs spirituelles. Elle nous invite à réfléchir sur nos priorités et à ne pas perdre de vue l'essentiel qui est une vie centrée sur Dieu et le service des autres**
 
+hhhghjgjh [...] jkgg
+
 ---
