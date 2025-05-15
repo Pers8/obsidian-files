@@ -22,10 +22,10 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 **Jésus raconte cette parabole pour illustrer les dangers de l'avidité et de la confiance excessive dans les richesses terrestres. Il souhaite montrer que la véritable sécurité ne réside pas dans l'accumulation de biens mais dans une relation riche avec Dieu**
 
 - Quel est le point central de cette parabole ?
-**Le point central de la parabole est la mise en garde contre l'illusion de sécurité que procure l'acccumulation de richesses. L'homme riche pense assurer son avenir en stockant ses récoltes mais il ignore que sa vie est fragile et dépend de Dieu. Cette confiance excessive en ses biens est une illusion**
+**Le point central de la parabole est la mise en garde contre l'illusion de sécurité que procure l'accumulation de richesses. L'homme riche pense assurer son avenir en stockant ses récoltes mais il ignore que sa vie est fragile et dépend de Dieu. Cette confiance excessive en ses biens est une illusion**
 
 - Quelle est la conclusion ?
-**La conclusion de la parabole est un avertissement comme on peut le voir dannss Luc 12, 21 : "Il en est ainsi de celui qui amasse des trésors pour lui-même, et qui n’est pas riche pour Dieu" . Cela signifie que ceux qui se concentrent uniquement sur l'accumulation de biens matériels sans se soucier de leur relation avec Dieu sont insensés**
+**La conclusion de la parabole est un avertissement comme on peut le voir dans Luc 12, 21 : "Il en est ainsi de celui qui amasse des trésors pour lui-même, et qui n’est pas riche pour Dieu" . Cela signifie que ceux qui se concentrent uniquement sur l'accumulation de biens matériels sans se soucier de leur relation avec Dieu sont insensés**
 
 - Qu'est ce que cela veut dire pour nous aujourd'hui ?
 **Cette parabole reste pertinente aujourd'hui dans un monde souvent tourné vers la consommation et l'accumulation de richesses et cela s'est accentuer due à l'avènement des réseaux sociaux. Elle nous rappelle l'importance de la générosité, de la gratitude et de la recherche de valeurs spirituelles. Elle nous invite à réfléchir sur nos priorités et à ne pas perdre de vue l'essentiel qui est une vie centrée sur Dieu et le service des autres**
