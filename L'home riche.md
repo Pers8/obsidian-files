@@ -16,7 +16,7 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 # Questions
 
 - À qui s'adresse Jésus lorsqu'il raconte cette parabole ?
-**Jésus s'adresse à un homme dans la foule qui lui demande d'intervenir dans un conflit d'héritage avec son frère. Plutôt que de répondre directement à la demande, Jésus utilise cette occasion pour enseigner à l'ensemble de la foule avec une parabole. Il met en garde contre l'avidité et l'attachement excessif aux biens matériels**
+**Jésus s'adresse à un homme dans la foule qui lui demande d'intervenir dans un conflit d'héritage avec son frère. Plutôt que de répondre directement à la demande, Jésus utilise cette occasion pour enseigner à l'ensemble de la foule avec une parabole
 
 - Pourquoi raconte-t-il cette parabole ?
 **Jésus raconte cette parabole pour illustrer les dangers de l'avidité et de la confiance excessive dans les richesses terrestres. Il souhaite montrer que la véritable sécurité ne réside pas dans l'accumulation de biens mais dans une relation riche avec Dieu**
