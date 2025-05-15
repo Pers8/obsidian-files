@@ -13,5 +13,12 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 - L'absence de gratitude et de partage
 - Être riche pour Dieu
 
----
+# Questions
 
+- À qui s'adresse Jésus lorsqu'il raconte cette parabole ?
+- Pourquoi raconte-t-il cette parabole ?
+- Quel est le point central de cette parabole ?
+- Quelle est la conclusion ?
+- Qu'est ce que cela veut dire pour nous aujourd'hui ?
+
+---
