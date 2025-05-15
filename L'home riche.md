@@ -12,3 +12,6 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 - L'illusion de la sécurité
 - L'absence de gratitude et de partage
 - Être riche pour Dieu
+
+---
+
