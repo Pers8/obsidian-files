@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Letter of Explanation Mom"
             }
+          },
+          {
+            "id": "2b1f8ab752f37013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L'home riche.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'home riche"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -447,12 +461,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6b18b2f2c78892ef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -476,10 +500,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "50bfc7dae40d479d",
+  "active": "2b1f8ab752f37013",
   "lastOpenFiles": [
-    "Untitled 8.md",
     "Letter of Explanation Mom.md",
+    "L'home riche.md",
+    "Untitled 8.md",
     "Cover Letter (Breal).md",
     "Cover Letter (Peres).md",
     "assets/Signature_Breal.png",
@@ -505,7 +530,6 @@
     "Elden TD codes.md",
     "IB/Economy.md",
     "Set up my bot.md",
-    "Computer science notes.md",
     "assets/Pasted Image 20240505145113_501.png",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
