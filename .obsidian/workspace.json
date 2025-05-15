@@ -474,9 +474,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "dc32e8b69ccad2f0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "horizontal",
@@ -500,7 +510,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2b1f8ab752f37013",
+  "active": "dc32e8b69ccad2f0",
   "lastOpenFiles": [
     "Letter of Explanation Mom.md",
     "L'home riche.md",
