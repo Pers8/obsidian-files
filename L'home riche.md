@@ -32,3 +32,4 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 
 
 ---
+Intro : amener le sujet, parle du contexte de la parabole, un petit résumé et 
