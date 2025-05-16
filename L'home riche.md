@@ -33,4 +33,6 @@ Il raconte l'histoire d'un homme riche dont les terres ont produit une récolte 
 
 ---
 Intro : amener le sujet, parle du contexte de la parabole, un petit résumé de la parabole et parler des points que nous allons aborder
-premier paragraphe : Longe analyse
+Développement : plusieurs paragraphes pour vraiment analyser la parabole avec des explications et n'oublie pas de citer de quel verset tu as pris
+conclusion : Tu conclues et parle des implications de nos jours (je fais références à la 5eme question)
+sources : En format APA 6
