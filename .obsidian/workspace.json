@@ -495,12 +495,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bfffa2d58f3bd95d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "horizontal",
@@ -524,11 +534,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1b92e0a32dfd05dc",
+  "active": "bfffa2d58f3bd95d",
   "lastOpenFiles": [
-    "L'home riche.md",
-    "L'home riche parabole.md",
     "Letter of Explanation Mom.md",
+    "L'home riche parabole.md",
+    "L'home riche.md",
     "Untitled 8.md",
     "Cover Letter (Breal).md",
     "Cover Letter (Peres).md",
