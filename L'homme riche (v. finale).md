@@ -1,0 +1,37 @@
+Au chapitre 12 de l’Évangile selon Luc, Jésus s’adresse à une foule nombreuse rassemblée autour de lui (Luc 12, 1). Dans ce contexte d’enseignement spirituel survient une interruption inattendue : « Maître, dis à mon frère de partager avec moi notre héritage » (Luc 12, 13). L’intervenant cherche une solution à un conflit familial lié à l'héritage et il réclame une répartition équitable. Jésus refuse de jouer le rôle d’arbitre judiciaire : « Qui m’a établi pour être votre juge, ou pour faire vos partages ? » (Luc 12, 14). Par cette réponse, il indique que sa mission dépasse les affaires matérielles passagères et touche au salut et au **Royaume de Dieu**. Aussitôt, Jésus profite de la situation pour enseigner la foule sur un danger spirituel plus grand qui se cache derrière cette demande : « Gardez-vous avec soin de toute **avarice**; car la vie d’un homme ne dépend pas de ses biens, fût-il dans l’abondance » (Luc 12, 15). C’est l’avertissement clé qui introduit la parabole à venir en révélant le cœur du problème qui est l’avidité et l’illusion que la richesse garantit la vie. Jésus va illustrer cette vérité par la parabole de l’homme riche, aussi appelée parabole du « riche insensé ». Cette histoire brève met en scène un homme fortuné et les décisions qu’il prend afin d’offrir un enseignement spirituel et moral. Nous analyserons le sens de cette parabole, ses personnages, son message central et sa conclusion avant d’en dégager l’enseignement principal pour aujourd’hui, notamment concernant la société de consommation, l’appel à la générosité et la confiance en Dieu.
+
+Tout d’abord, le contexte de la parabole met en lumière l’intention de Jésus. Un homme dans la foule lui demande d’intervenir pour régler un litige d’héritage. Jésus refuse fermement de devenir le juge de ce conflit familial et voit dans cette requête l’expression d’une cupidité sous-jacente. S’adressant alors à tous, il lance une mise en garde solennelle : « Gardez-vous bien de toute avidité, car la vie de quelqu’un, même dans l’abondance, ne dépend pas de ce qu’il possède » (Luc 12,15). C’est pour illustrer cette exhortation que Jésus enchaîne avec la parabole du riche insensé.
+
+La parabole met en scène un homme fortuné dont le domaine rapporte une récolte exceptionnellement abondante. Confronté au manque d’espace pour stocker tous ces biens inattendus, ce riche parle avec lui-même pour déterminer la meilleure stratégie à adopter. Remarquons d’emblée la solitude du personnage : son monologue intérieur abonde en « je » et « mon », révélant un esprit entièrement centré sur lui-même. Seul face à son abondance, il n’évoque ni Dieu ni autrui – pas même l’idée de partager une partie de ses surplus. Aveuglé par l’illusion de sécurité que lui procure sa richesse, il décide finalement d’abattre ses greniers pour en bâtir de plus grands, où il entassera l’ensemble de sa récolte. Dès lors, pense-t-il, il pourra “se reposer, manger, boire et se réjouir” à loisir de ses biens accumulés.
+
+Aux yeux du monde, un tel projet semble tout à fait raisonnable et prudent. Rien dans le récit n’indique que cet homme ait acquis sa fortune malhonnêtement, ni qu’il mène une vie immorale. En soi, on ne pourrait donc le blâmer de gérer efficacement ses affaires. Cependant, son erreur fondamentale réside dans sa vision purement matérielle de l’existence : il a tout prévu pour ses biens terrestres, excepté l’éventualité de sa propre fin. C’est alors que la parabole prend un tournant tragique, rappelant la fragilité de la condition humaine : au moment précis où le riche envisage de profiter égoïstement de son opulence, Dieu intervient pour lui dire qu’il va mourir dans la nuit qui vient. Tous ses projets s’effondrent instantanément, et les trésors qu’il a amassés ne lui servent plus à rien.
+
+La **chute** du récit renverse ainsi la perspective. Dieu traite le riche d’« insensé » et met en lumière son aveuglement fatal. Jésus conclut la parabole en énonçant une morale sans équivoque : « Il en est ainsi de celui qui amasse un trésor pour lui-même et qui n’est pas riche pour Dieu » (Luc 12,21). En d’autres termes, cet homme a commis la folie d’entasser des biens éphémères sans penser à investir dans ce qui compte aux yeux de Dieu. Chaque auditeur se retrouve dès lors placé face à un choix décisif : soit suivre l’exemple de ce riche en ne vivant que pour soi-même, soit “s’enrichir auprès de Dieu” en orientant sa vie vers Lui. Être riche pour Dieu implique de reconnaître que tout vient de Sa grâce et de ne pas accaparer les biens pour son seul usage. Jésus ne condamne pas la richesse en elle-même, mais il met en garde contre l’illusion qu’elle procure et contre la convoitise qu’elle peut engendrer. Le problème n’est pas de posséder des biens, c’est de compter sur eux pour assurer son bonheur et sa sécurité, au point d’en oublier Dieu, la vulnérabilité de la vie humaine et les besoins du prochain.
+
+La mise en garde de Jésus conserve toute sa pertinence de nos jours, face à plusieurs constats :
+
+- La tendance à idolâtrer la réussite matérielle reste forte dans nos sociétés, où l’on confond facilement richesse et bonheur durable.
+    
+- L’illusion d’une sécurité fondée sur l’abondance de biens est tout aussi trompeuse aujourd’hui qu’elle l’était pour le riche insensé.
+    
+- La foi chrétienne appelle au contraire à la gratitude et au partage : considérer ses ressources comme un don de Dieu implique un devoir de générosité envers les plus démunis.
+    
+- Enfin, il importe de recentrer nos aspirations sur « les choses d’en haut », c’est-à-dire sur les valeurs spirituelles du Royaume de Dieu, plutôt que d’accumuler des trésors éphémères sur la terre.
+    
+
+En définitive, la parabole du riche insensé délivre un avertissement d’une portée universelle contre la convoitise et l’autosuffisance trompeuse que peuvent inspirer les richesses matérielles. Racontée par Jésus pour répondre à la requête intéressée d’un auditeur, elle dépasse le cadre de l’anecdote initiale et s’adresse à chacun de nous. Elle rappelle que l’abondance de biens ne garantit ni le sens profond de la vie ni le salut de l’âme. Bien au contraire, s’appuyer exclusivement sur ses richesses est une folie aux yeux de Dieu. Le message central de ce passage invite donc à inverser nos priorités : au lieu d’amasser pour nous-mêmes ce qui passe, Jésus nous exhorte implicitement à chercher ce qui dure et à nous rendre “riches pour Dieu” dans la foi et la charité. C’est dans cette orientation généreuse et tournée vers Dieu que réside la véritable sagesse de l’Évangile, hier comme aujourd’hui.
+
+**Bibliographie
+
+- **Bible (Segond 1910)** – _Évangile selon Luc 12, 13-21._
+    
+- **Varone, Marie-Christine.** « Evangile de dimanche : Le riche insensé ». _Cath.ch – Portail catholique suisse_, blog du 29 juillet 2016.
+    
+- **Kayayan, Aaron.** _L’Évangile en paraboles_ – Commentaire de Luc 12, 13-21.
+    
+- **Nouis, Antoine.** _À l’écoute des paraboles_ – Réflexions sur la parabole du riche insensé (Luc 12) dans un contexte actuel.
+    
+- **Augustin d’Hippone.** _Sermon 36_ – « Le superflu des riches est le nécessaire des pauvres » cité par Pablo M. Edo.
+    
+- **Benoît XVI.** _Angélus du 5 août 2007_ – Enseignement sur le danger spirituel de l’attachement aux richesses.  
+    _(La bibliographie originale fournie est conservée telle quelle.)_
