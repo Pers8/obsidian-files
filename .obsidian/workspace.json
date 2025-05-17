@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'homme riche (v. finale nvm).md",
+                "file": "L'homme riche (script).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'homme riche (v. finale nvm)"
+              "title": "L'homme riche (script)"
             }
           }
         ],
@@ -560,7 +560,7 @@
   },
   "active": "1b92e0a32dfd05dc",
   "lastOpenFiles": [
-    "L'homme riche (v. finale nvm).md",
+    "L'homme riche (script).md",
     "L'home riche parabole.md",
     "L'home riche.md",
     "Letter of Explanation Mom.md",
