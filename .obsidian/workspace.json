@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -532,9 +532,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "4b683ad010d193d3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "horizontal",
@@ -558,10 +568,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1b92e0a32dfd05dc",
+  "active": "0cbd91cfc98f80d2",
   "lastOpenFiles": [
-    "L'homme riche (script).md",
     "L'home riche parabole.md",
+    "L'homme riche (script).md",
     "L'home riche.md",
     "Letter of Explanation Mom.md",
     "Untitled 8.md",
