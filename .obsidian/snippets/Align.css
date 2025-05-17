@@ -11,3 +11,8 @@ img[alt*="right"] {
     margin-bottom: 2px;
     margin-top: 2px;
 }
+
+.CodeMirror-line span{
+	display: inline-block;
+	text-align: justify;
+}

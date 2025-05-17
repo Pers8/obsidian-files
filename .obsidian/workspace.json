@@ -125,16 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'homme riche (v. finale).md",
+                "file": "L'homme riche (v. finale nvm).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'homme riche (v. finale)"
+              "title": "L'homme riche (v. finale nvm)"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -519,12 +519,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "42f1dc2b1af7e2d1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "horizontal",
@@ -548,10 +558,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0cbd91cfc98f80d2",
+  "active": "1b92e0a32dfd05dc",
   "lastOpenFiles": [
+    "L'homme riche (v. finale nvm).md",
     "L'home riche parabole.md",
-    "L'homme riche (v. finale).md",
     "L'home riche.md",
     "Letter of Explanation Mom.md",
     "Untitled 8.md",

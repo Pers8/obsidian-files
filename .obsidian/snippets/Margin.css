@@ -1,6 +1,7 @@
 .markdown-preview-view {
   margin-top : 200px;
   max-width: 1000px; 
+  text-align: justify;
   margin: 0 auto; 
   padding: 20px;
 }    
