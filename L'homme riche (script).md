@@ -25,3 +25,5 @@ Aujourd’hui, dans une culture de consommation où la réussite se mesure au ni
 L’enseignement central est double : fuir la convoitise et devenir « riche pour Dieu » — c’est-à-dire pratiquer la bienveillance, la solidarité et la foi, qui sont les seuls trésors qui demeurent au-delà de la mort ([Bible Hub](https://biblehub.com/topical/r/rich_in_heaven.htm?utm_source=chatgpt.com "Topical Bible: Rich in Heaven")).
 
 En conclusion, cette parabole continue de résonner dans nos vies : elle nous appelle à réorienter nos priorités, à mesurer la folie d’une existence centrée sur les biens périssables, et à cultiver une richesse éternelle fondée sur l’amour de Dieu et du prochain.
+
+Il faut ajouter l'importance de la parabole dans le 
