@@ -1,6 +1,6 @@
 Bonjour à tous, aujourd’hui je présente la parabole de l’homme riche dans Luc 12, 13-21, où un auditeur réclame un héritage à son frère, et Jésus en profite pour enseigner sur l’avarice.  
 Dans ce récit Jésus met en garde la foule contre la fausse sécurité que procure l’accumulation des biens en déclarant : « Gardez-vous de toute avarice ; la vie d’un homme ne dépend pas de ses biens » (Luc 12:15).  
-Il raconte alors l’histoire d’un propriétaire dont la terre a rapporté tant qu’il manque de greniers pour stocker sa récolte, puis décide d’édifier des silos plus grands pour amasser tout son blé.  
+Il raconte alors l’histoire d’un propriétaire dont la terre a rapporté tant qu’il manque de greniers pour stocker sa récolte, puis décide de bâtir des silos plus grands pour amasser tout son blé.  
 Confiant dans cette abondance il se dit : « Mon âme, repose-toi, mange, bois et réjouis-toi », manifestant ainsi un repli sur lui-même et un oubli de Dieu et du prochain.  
 À ce moment même Dieu l’appelle « insensé » et lui annonce que sa vie sera demandée cette nuit, soulignant ainsi la fragilité de l’existence humaine et l’inutilité des trésors amassés sans Dieu.  
 Jésus conclut en affirmant que celui qui accumule « des trésors pour lui-même, et qui n’est pas riche pour Dieu » est semblable à cet homme insensé.  
