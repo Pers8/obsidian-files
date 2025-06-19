@@ -539,12 +539,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1e2641f075d78b1d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -568,7 +578,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0cbd91cfc98f80d2",
+  "active": "1e2641f075d78b1d",
   "lastOpenFiles": [
     "L'home riche parabole.md",
     "L'homme riche (script).md",
