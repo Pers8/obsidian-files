@@ -568,12 +568,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5e5592aa631c3a0b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "horizontal",
@@ -597,7 +607,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d250bba2e93171e2",
+  "active": "5e5592aa631c3a0b",
   "lastOpenFiles": [
     "Cover Letter (Breal).md",
     "L'homme riche (script).md",
