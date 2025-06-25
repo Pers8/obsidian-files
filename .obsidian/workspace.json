@@ -133,8 +133,7 @@
               "title": "L'homme riche (script)"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -552,9 +551,29 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "a33886d02643344e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d250bba2e93171e2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 34
       }
     ],
     "direction": "horizontal",
@@ -578,14 +597,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1e2641f075d78b1d",
+  "active": "d250bba2e93171e2",
   "lastOpenFiles": [
-    "L'home riche parabole.md",
+    "Cover Letter (Breal).md",
     "L'homme riche (script).md",
+    "Untitled 9.md",
+    "L'home riche parabole.md",
     "L'home riche.md",
     "Letter of Explanation Mom.md",
     "Untitled 8.md",
-    "Cover Letter (Breal).md",
     "Cover Letter (Peres).md",
     "assets/Signature_Breal.png",
     "assets/Signature_Peres.png",
@@ -607,7 +627,6 @@
     "IB/📝Dashboard.md",
     "IB/TOK.md",
     "Logarithmes.md",
-    "Elden TD codes.md",
     "assets/Pasted Image 20240505145113_501.png",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
