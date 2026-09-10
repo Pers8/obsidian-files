@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "aa095cf301743eeb",
+            "id": "44f8c57811a1f931",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "IB/Maths.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.13.7"
               },
-              "icon": "lucide-file",
-              "title": "Maths"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           },
           {
@@ -133,7 +131,8 @@
               "title": "L'homme riche (script)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -278,8 +279,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -288,8 +289,8 @@
             "state": {
               "type": "ava.write.sidebar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "ava.write.sidebar"
             }
           },
           {
@@ -308,8 +309,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -318,8 +319,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -328,8 +329,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -338,8 +339,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -348,8 +349,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -358,8 +359,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -368,8 +369,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -378,8 +379,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -388,8 +389,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -398,8 +399,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -408,8 +409,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -418,8 +419,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -428,8 +429,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -438,8 +439,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -448,8 +449,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -458,8 +459,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -468,8 +469,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -478,8 +479,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -488,8 +489,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -498,8 +499,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -508,8 +509,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -518,8 +519,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -528,8 +529,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -538,8 +539,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -548,8 +549,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -558,8 +559,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -568,12 +569,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "5e5592aa631c3a0b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "fc361b3816b1c6b3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -583,7 +594,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "horizontal",
@@ -592,6 +603,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "ava:Ava": false,
       "ava:Ava - Show Links": false,
@@ -607,19 +619,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5e5592aa631c3a0b",
+  "active": "fc361b3816b1c6b3",
   "lastOpenFiles": [
-    "Cover Letter (Breal).md",
-    "L'homme riche (script).md",
-    "Untitled 9.md",
-    "L'home riche parabole.md",
-    "L'home riche.md",
+    "IB/Economy.md",
+    "IB/Comp Sci.md",
+    "IB/📝Dashboard.md",
+    "IB/Maths.md",
+    "Cover Letter (Peres).md",
     "Letter of Explanation Mom.md",
     "Untitled 8.md",
-    "Cover Letter (Peres).md",
+    "Cover Letter (Breal).md",
+    "L'home riche parabole.md",
+    "L'home riche.md",
+    "L'homme riche (script).md",
+    "Equations différentielles.md",
+    "Untitled 9.md",
     "assets/Signature_Breal.png",
     "assets/Signature_Peres.png",
-    "IB/Maths.md",
     "Identités trigonométriques.md",
     "Radians.md",
     "Vecteurs.md",
@@ -633,10 +649,6 @@
     "Séries et Séquences.md",
     "IA Comp Sci C-A.md",
     "IA Comp Sci Appendix B.md",
-    "IB/Comp Sci.md",
-    "IB/📝Dashboard.md",
-    "IB/TOK.md",
-    "Logarithmes.md",
     "assets/Pasted Image 20240505145113_501.png",
     "assets/Pasted image 20240406093519.png",
     "assets/Pasted image 20240406093427.png",
